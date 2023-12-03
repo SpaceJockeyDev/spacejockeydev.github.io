@@ -18,9 +18,16 @@
     <!-- Add more articles for other news updates -->
 
   </main>
-
-  <footer>
-    <p>&copy; 2024 News Blog. All rights reserved.</p>
-  </footer>
+  <div id="footer"></div>
+  <script>
+    $(function() {
+        $("#navbar-container").load("navigation.html");
+    });
+</script>
+<script>
+    $(function(){
+        $("#footer").load("footer.html");
+    });
+</script>
 </body>
 </html>
