@@ -1,0 +1,59 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        #band-name {
+            font-size: 2em;
+            color: #333;
+        }
+
+        #band-picture {
+            width: 600px;
+            height: auto;
+        }
+
+        #band-bio {
+            font-size: 1em;
+            color: #666;
+        }
+    </style>
+</head>
+<div class="band-info">
+<h1 id="band-name"></h1>
+<img id="band-picture">
+<p id="band-hometown"></p>
+<p id="band-socials"></p>
+<p id="band-bio"></p>
+<!-- More elements for the other band data... -->
+</div>
+<script>
+    const band = JSON.parse(localStorage.getItem('band'));
+    document.getElementById('band-name').textContent = band.name;
+    document.getElementById('band-picture').src = band.picture;
+    document.getElementById('band-hometown').textContent = band.hometown;
+    document.getElementById('band-bio').textContent = band.bio;
+    document.getElementById('band-socials').innerHTML = `
+    <a href="${band.socials.facebook}" target="_blank"><i class="fab fa-facebook-f"></i></a>
+    <a href="${band.socials.twitter}" target="_blank"><i class="fab fa-twitter"></i></a>
+    <a href="${band.socials.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>
+`;
+    // Set the other band data...
+    document.title = 'Red Scare | ' + band.name;
+</script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+fetch('navigation.html')
+    .then(response => response.text())
+    .then(nav => document.querySelector('body').insertAdjacentHTML('afterbegin', nav));
+
+// Fetch and include the footer
+fetch('footer.html')
+    .then(response => response.text())
+    .then(footer => document.querySelector('body').insertAdjacentHTML('beforeend', footer));
+</script>

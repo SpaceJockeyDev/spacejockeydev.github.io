@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Arms Aloft",
+        "hometown": "Eau Claire, WI",
+        "socials": {
+            "facebook": "https://www.facebook.com/band",
+            "twitter": "https://twitter.com/armsaloft",
+            "instagram": "https://instagram.com/armsaloft"
+        },
+        "picture": "https://lastfm.freetls.fastly.net/i/u/770x0/971b1e9285b3276b0895d9f642d4531f.jpg#971b1e9285b3276b0895d9f642d4531f",
+        "bio": "Arms Aloft is an American punk group from Eau Claire, Wisconsin, United States. Their name is a reference to a song by Joe Strummer and the Mescaleros on their 2003 album Streetcore. Since their founding in 2007, the band has released two LPs, two EPs, one live album, and four split singles."
+    },
+    {
+        "name": "Broadway Calls",
+        "hometown": "Rainier, OR",
+        "socials": {
+            "facebook": "https://www.facebook.com/broadwaycalls",
+            "twitter": "https://twitter.com/broadwaycalls",
+            "instagram": "https://instagram.com/broadwaycalls"
+        },
+        "picture": "https://badcopy.s3.amazonaws.com/20170829093342/Broadway-Calls-min.jpg",
+        "bio": "Broadway Calls is a punk rock band from Rainier, Oregon. The band consisted of Ty Vaughn, Josh Baird, and Matt Koenig. The band has released three full-length albums on SideOneDummy Records. The band released their first album, Broadway Calls, in 2007. In 2009, the band released their second album, Good Views, Bad News. In 2013, the band released their third album, Comfort/Distraction."
+    },
+    {
+        "name": "Elway",
+        "hometown": "Fort Collins, CO",
+        "socials": {
+            "facebook": "https://www.facebook.com/ElwayTheBand",
+            "twitter": "https://twitter.com/elwaytheband",
+            "instagram": "https://instagram.com/elwaytheband"
+        },
+        "picture": "https://www.brooklynvegan.com/wp-content/uploads/2021/09/22/attachment-dirty-shrines-1052x592.jpeg?t=1689199828",
+        "bio": "Elway is a punk rock band from Fort Collins, Colorado. They have released three full-length albums on Red Scare Industries. The band released their first album, Delusions, in 2011. In 2013, the band released their second album, Leavetaking. In 2015, the band released their third album, Better Whenever."
+    },
+    {
+        "name": "The Falcon",
+        "hometown": "Chicago, IL",
+        "socials": {
+            "facebook": "https://www.facebook.com/thefalconband",
+            "twitter": "https://twitter.com/thefalconband",
+            "instagram": "https://instagram.com/thefalconband"
+        },
+        "picture": "https://f4.bcbits.com/img/0008477196_25.jpg",
+        "bio": "The Falcon is a punk rock band from Chicago, Illinois. They have released three full-length albums on Red Scare Industries. The band released their first album, Unicornography, in 2006. In 2009, the band released their second album, Gather Up the Chaps. In 2016, the band released their third album, Gather Up the Chaps."
+    },
+    {
+        "name": "Good Friend",
+        "hometown": "The One True Ireland",
+        "socials": {
+            "facebook": "https://www.facebook.com/goodfriendofficial",
+            "twitter": "https://twitter.com/goodfriendband",
+            "instagram": "https://instagram.com/goodfriendband"
+        },
+        "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293537281_381469363972257_803392125333365198_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=nv7WEqTh-2IAX_y-Sjs&_nc_ht=scontent-atl3-1.xx&oh=00_AfDpzgx4WRO_w_yTVRN4va_Jeh5NZhebOh_jkcHio9FZLg&oe=65741D9A",
+        "bio": "Good Friend is a punk rock band from The One True Ireland. They have released two EPs and one full-length album."
+    }
+]
