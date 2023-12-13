@@ -1,0 +1,48 @@
+[
+    {
+        "bandName": "Band 1",
+        "tourDates": [
+            {
+                "date": "2022-01-01",
+                "city": "City 1",
+                "venue": "Venue 1",
+                "ticketLink": "http://example.com/tickets/1"
+            },
+            {
+                "date": "2022-01-02",
+                "city": "City 2",
+                "venue": "Venue 2",
+                "ticketLink": "http://example.com/tickets/2"
+            },
+            {
+                "date": "2022-01-03",
+                "city": "City 3",
+                "venue": "Venue 3",
+                "ticketLink": "http://example.com/tickets/3"
+            }
+        ]
+    },
+    {
+        "bandName": "Band 2",
+        "tourDates": [
+            {
+                "date": "2022-02-01",
+                "city": "City 4",
+                "venue": "Venue 4",
+                "ticketLink": "http://example.com/tickets/4"
+            },
+            {
+                "date": "2022-02-02",
+                "city": "City 5",
+                "venue": "Venue 5",
+                "ticketLink": "http://example.com/tickets/5"
+            },
+            {
+                "date": "2022-02-03",
+                "city": "City 6",
+                "venue": "Venue 6",
+                "ticketLink": "http://example.com/tickets/6"
+            }
+        ]
+    }
+]

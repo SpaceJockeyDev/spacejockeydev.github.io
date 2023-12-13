@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         #band-name {
             font-size: 2em;
@@ -19,6 +19,39 @@
             font-size: 1em;
             color: #666;
         }
+        .band-releases {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        }
+        .release {
+            flex-basis: calc(20% - 10px); /* 5 albums in a row */
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .release img {
+            width: 300px;
+            height: auto;
+        }
+        .release-name {
+            /* Add your styles here */
+            font-size: 16px;
+            color: #333;
+            margin-top: 10px;
+        }
+        #band-picture {
+        width: 100%;
+        height: auto;
+        }
+        @media (min-width: 768px) {
+            #band-picture {
+                width: 600px;
+                max-width: 100%;
+            }
+        }
+        #band-releases .release a:hover {
+        text-decoration: none;
+        }
     </style>
 </head>
 <div class="band-info">
@@ -27,21 +60,51 @@
 <p id="band-hometown"></p>
 <p id="band-socials"></p>
 <p id="band-bio"></p>
+<h2>Releases</h2>
+<div id="band-releases" class="band-releases"></div>
 <!-- More elements for the other band data... -->
 </div>
 <script>
-    const band = JSON.parse(localStorage.getItem('band'));
-    document.getElementById('band-name').textContent = band.name;
-    document.getElementById('band-picture').src = band.picture;
-    document.getElementById('band-hometown').textContent = band.hometown;
-    document.getElementById('band-bio').textContent = band.bio;
-    document.getElementById('band-socials').innerHTML = `
-    <a href="${band.socials.facebook}" target="_blank"><i class="fab fa-facebook-f"></i></a>
-    <a href="${band.socials.twitter}" target="_blank"><i class="fab fa-twitter"></i></a>
-    <a href="${band.socials.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>
-`;
-    // Set the other band data...
-    document.title = 'Red Scare | ' + band.name;
+const urlParams = new URLSearchParams(window.location.search);
+const bandName = urlParams.get('band');
+
+fetch('bands.json')
+    .then(response => response.json())
+    .then(bands => {
+        const band = bands.find(band => band.bandName === bandName);
+
+        fetch('releases.json')
+            .then(response => response.json())
+            .then(releases => {
+                band.releases = releases.filter(release => release.bandName === band.bandName);
+
+                document.getElementById('band-name').textContent = band.bandName;
+                document.getElementById('band-picture').src = band.picture;
+                document.getElementById('band-hometown').textContent = band.hometown;
+                document.getElementById('band-bio').textContent = band.bio;
+                document.getElementById('band-socials').innerHTML = `
+                    <a href="${band.socials.facebook}" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                    <a href="${band.socials.twitter}" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="${band.socials.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>`;
+
+                document.title = 'Red Scare | ' + band.bandName;
+
+                const releasesElement = document.getElementById('band-releases');
+                band.releases.forEach(release => {
+                    const releaseElement = document.createElement('div');
+                    releaseElement.className = 'release';
+                    releaseElement.innerHTML = `
+                        <a href="release-info.html?album=${encodeURIComponent(release.album)}">
+                            <img src="${release.coverArt}" alt="${release.album} Cover Art">
+                            <p class="release-name">${release.album}</p>
+                        </a>
+                    `;
+                    releasesElement.appendChild(releaseElement);
+                });
+            })
+            .catch(error => console.error('Error:', error));
+    })
+    .catch(error => console.error('Error:', error));
 </script>
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>

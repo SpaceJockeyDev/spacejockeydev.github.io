@@ -1,6 +1,6 @@
 [
     {
-        "name": "Arms Aloft",
+        "bandName": "Arms Aloft",
         "hometown": "Eau Claire, WI",
         "socials": {
             "facebook": "https://www.facebook.com/band",
@@ -11,7 +11,7 @@
         "bio": "Arms Aloft is an American punk group from Eau Claire, Wisconsin, United States. Their name is a reference to a song by Joe Strummer and the Mescaleros on their 2003 album Streetcore. Since their founding in 2007, the band has released two LPs, two EPs, one live album, and four split singles."
     },
     {
-        "name": "Broadway Calls",
+        "bandName": "Broadway Calls",
         "hometown": "Rainier, OR",
         "socials": {
             "facebook": "https://www.facebook.com/broadwaycalls",
@@ -22,7 +22,7 @@
         "bio": "Broadway Calls is a punk rock band from Rainier, Oregon. The band consisted of Ty Vaughn, Josh Baird, and Matt Koenig. The band has released three full-length albums on SideOneDummy Records. The band released their first album, Broadway Calls, in 2007. In 2009, the band released their second album, Good Views, Bad News. In 2013, the band released their third album, Comfort/Distraction."
     },
     {
-        "name": "Elway",
+        "bandName": "Elway",
         "hometown": "Fort Collins, CO",
         "socials": {
             "facebook": "https://www.facebook.com/ElwayTheBand",
@@ -33,7 +33,7 @@
         "bio": "Elway is a punk rock band from Fort Collins, Colorado. They have released three full-length albums on Red Scare Industries. The band released their first album, Delusions, in 2011. In 2013, the band released their second album, Leavetaking. In 2015, the band released their third album, Better Whenever."
     },
     {
-        "name": "The Falcon",
+        "bandName": "The Falcon",
         "hometown": "Chicago, IL",
         "socials": {
             "facebook": "https://www.facebook.com/thefalconband",
@@ -44,7 +44,7 @@
         "bio": "The Falcon is a punk rock band from Chicago, Illinois. They have released three full-length albums on Red Scare Industries. The band released their first album, Unicornography, in 2006. In 2009, the band released their second album, Gather Up the Chaps. In 2016, the band released their third album, Gather Up the Chaps."
     },
     {
-        "name": "Good Friend",
+        "bandName": "Good Friend",
         "hometown": "The One True Ireland",
         "socials": {
             "facebook": "https://www.facebook.com/goodfriendofficial",

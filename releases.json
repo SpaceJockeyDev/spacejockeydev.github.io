@@ -1,0 +1,28 @@
+[
+    {
+        "bandName": "The Falcon",
+        "album": "God Don’t Make No Trash -or- Up Your Ass With Broken Glass",
+        "releaseNumber": "101",
+        "releaseDate": "Dec. 14, 2004",
+        "coverArt": "https://f4.bcbits.com/img/a2831372560_10.jpg",
+        "trackList": ["01. Huffing The Proverbial Line Off The Proverbial Dong -or- The Blood And The Frog", "02. I’m So Happy I Could Just Cry Myself To Sleep -or- The Routes We Wander", "03. Look Ma! No Fans! -or- Do You Want Fries With These Songs?", "04. Feed The Monkey, Drown The Worm -or- Goin’ Home", "05. Building The Perfect Asshole Parade -or- Scratching Off The Fleas"],
+        "links": {
+            "spotify": "https://open.spotify.com/album/7wAPPxjX60anghuFRsHXT2?si=ivmCIFQ6RCK9X1SfyhoHhA",
+            "appleMusic": "https://music.apple.com/album/1",
+            "bandcamp": "https://mofukkinfalcon.bandcamp.com/album/god-dont-make-no-trash-or-up-your-ass-with-broken-glass"
+        }
+    },
+    {
+        "bandName": "Enemy You",
+        "album": "Stories Never Told",
+        "releaseNumber":"102",
+        "releaseDate": "Nov. 23, 2004",
+        "coverArt": "https://f4.bcbits.com/img/a0312496032_10.jpg",
+        "trackList": ["01. Your Way", "02. We Are The Ones", "03. These Halls"],
+        "links": {
+            "spotify": "https://open.spotify.com/album/2",
+            "appleMusic": "https://music.apple.com/album/2",
+            "bandcamp": "https://bandname2.bandcamp.com/album/2"
+        }
+    }
+]

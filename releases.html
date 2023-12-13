@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>Red Scare Releases</title>
+    <style>
+.align-sort-container {
+    display: flex;
+    justify-content: right;
+    margin-bottom: 20px;
+    padding-right: 40px;
+}
+.sort-select {
+    margin-left: 10px;
+}
+.sort-label {
+    /* Add your styles here */
+    font-size: 20px;
+    color: #333;
+}
+    </style>
+</head>
+<body>
+    <div id="navbar-container"></div>
+    <h1 style="padding-left: 30px;">Releases</h1>
+    
+    <div class="sort-container align-sort-container">
+        <label for="sort-select" class="sort-label">Sort by:</label>
+        <select id="sort-select" class="sort-select">
+            <option value="newest">Newest to Oldest</option>
+            <option value="oldest">Oldest to Newest</option>
+        </select>
+    </div>
+
+    <div class="container">
+        <div id="albums-container" class="row"></div>
+    </div>
+
+    <div id="footer"></div>
+    
+    <script>
+    let currentPage = 1;
+const releasesPerPage = 20;
+
+function createPaginationButtons(totalReleases) {
+    const totalPages = Math.ceil(totalReleases / releasesPerPage);
+    const paginationContainer = document.getElementById('pagination-container');
+    paginationContainer.innerHTML = '';
+    for (let i = 1; i <= totalPages; i++) {
+        const button = document.createElement('button');
+        button.textContent = i;
+        button.addEventListener('click', () => {
+            currentPage = i;
+            displayReleases();
+        });
+        paginationContainer.appendChild(button);
+    }
+}
+
+function displayReleases() {
+    fetch('releases.json')
+        .then(response => response.json())
+        .then(albums => {
+            const sortSelect = document.getElementById('sort-select');
+            if (sortSelect.value === 'newest') {
+                albums.sort((a, b) => b.releaseNumber - a.releaseNumber);
+            } else {
+                albums.sort((a, b) => a.releaseNumber - b.releaseNumber);
+            }
+
+            const start = (currentPage - 1) * releasesPerPage;
+            const end = start + releasesPerPage;
+            const currentAlbums = albums.slice(start, end);
+
+            const container = document.getElementById('albums-container');
+            container.innerHTML = '';
+            currentAlbums.forEach(album => {
+                const albumElement = document.createElement('div');
+                albumElement.className = 'col-md-3';
+                albumElement.innerHTML = `
+                    <img class="album-cover" src="${album.coverArt}" alt="${album.album} Cover Art">
+                    <h2>${album.bandName}</h2>
+                    <p>${album.album}</p>
+                `;
+                albumElement.addEventListener('click', () => {
+                    window.location.href = `release-info.html?album=${encodeURIComponent(album.album)}`;
+                });
+                container.appendChild(albumElement);
+            });
+
+            createPaginationButtons(albums.length);
+        })
+        .catch(error => console.error('Error:', error));
+}
+
+document.getElementById('sort-select').addEventListener('change', displayReleases);
+
+displayReleases();
+    </script> 
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        $(function() {
+            $("#navbar-container").load("navigation.html");
+        });
+    </script>
+    <script>
+        $(function(){
+            $("#footer").load("footer.html");
+        });
+    </script>
+</body>
+</html>
