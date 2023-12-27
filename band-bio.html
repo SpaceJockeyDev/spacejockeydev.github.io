@@ -22,12 +22,13 @@
         .band-releases {
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-between;
+        
         }
         .release {
             flex-basis: calc(20% - 10px); /* 5 albums in a row */
             margin-bottom: 20px;
             text-align: center;
+            margin-right: 30px;
         }
         .release img {
             width: 300px;
@@ -66,7 +67,7 @@
 </div>
 <script>
 const urlParams = new URLSearchParams(window.location.search);
-const bandName = urlParams.get('band');
+const bandName = decodeURIComponent(urlParams.get('band')).replace(/-/g, ' ');
 
 fetch('bands.json')
     .then(response => response.json())
@@ -89,18 +90,18 @@ fetch('bands.json')
 
                 document.title = 'Red Scare | ' + band.bandName;
 
-                const releasesElement = document.getElementById('band-releases');
                 band.releases.forEach(release => {
-                    const releaseElement = document.createElement('div');
-                    releaseElement.className = 'release';
-                    releaseElement.innerHTML = `
-                        <a href="release-info.html?album=${encodeURIComponent(release.album)}">
-                            <img src="${release.coverArt}" alt="${release.album} Cover Art">
-                            <p class="release-name">${release.album}</p>
-                        </a>
-                    `;
-                    releasesElement.appendChild(releaseElement);
-                });
+    const releaseElement = document.createElement('div');
+    releaseElement.className = 'release';
+    const albumLink = encodeURIComponent(release.album.replace(/ /g, '-'));
+    releaseElement.innerHTML = `
+        <a href="release-info.html?album=${albumLink}">
+            <img src="${release.coverArt}" alt="${release.album} Cover Art">
+                        <p class="release-name">${release.album}</p>
+                    </a>
+                `;
+                document.getElementById('band-releases').appendChild(releaseElement);
+            });
             })
             .catch(error => console.error('Error:', error));
     })

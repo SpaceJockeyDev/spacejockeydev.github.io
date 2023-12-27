@@ -1,14 +1,19 @@
 [
     {
         "bandName": "The Falcon",
-        "album": "God Don’t Make No Trash -or- Up Your Ass With Broken Glass",
+        "album": "God Don’t Make No Trash or Up Your Ass With Broken Glass",
         "releaseNumber": "101",
-        "releaseDate": "Dec. 14, 2004",
+        "releaseDate": "2004-12-14", 
         "coverArt": "https://f4.bcbits.com/img/a2831372560_10.jpg",
-        "trackList": ["01. Huffing The Proverbial Line Off The Proverbial Dong -or- The Blood And The Frog", "02. I’m So Happy I Could Just Cry Myself To Sleep -or- The Routes We Wander", "03. Look Ma! No Fans! -or- Do You Want Fries With These Songs?", "04. Feed The Monkey, Drown The Worm -or- Goin’ Home", "05. Building The Perfect Asshole Parade -or- Scratching Off The Fleas"],
+        "trackList": [
+            "01. Huffing The Proverbial Line Off The Proverbial Dong -or- The Blood And The Frog", 
+            "02. I’m So Happy I Could Just Cry Myself To Sleep -or- The Routes We Wander", 
+            "03. Look Ma! No Fans! -or- Do You Want Fries With These Songs?", 
+            "04. Feed The Monkey, Drown The Worm -or- Goin’ Home", 
+            "05. Building The Perfect Asshole Parade -or- Scratching Off The Fleas"],
         "links": {
             "spotify": "https://open.spotify.com/album/7wAPPxjX60anghuFRsHXT2?si=ivmCIFQ6RCK9X1SfyhoHhA",
-            "appleMusic": "https://music.apple.com/album/1",
+            "appleMusic": "https://music.apple.com/us/album/god-dont-make-no-trash/57394145",
             "bandcamp": "https://mofukkinfalcon.bandcamp.com/album/god-dont-make-no-trash-or-up-your-ass-with-broken-glass"
         }
     },
@@ -16,13 +21,469 @@
         "bandName": "Enemy You",
         "album": "Stories Never Told",
         "releaseNumber":"102",
-        "releaseDate": "Nov. 23, 2004",
+        "releaseDate": "2004-11-23",
         "coverArt": "https://f4.bcbits.com/img/a0312496032_10.jpg",
-        "trackList": ["01. Your Way", "02. We Are The Ones", "03. These Halls"],
+        "trackList": [
+            "01. Your Way", 
+            "02. We Are The Ones", 
+            "03. These Halls", 
+            "04. Money Makes The World Go Round",
+            "05. East and West",
+            "06. Something New",
+            "07. Hope (I Don’t Want Your)",
+            "08. The Only One",
+            "09. 72 Hours",
+            "10. Plastic",
+            "11. Ex Machina",
+            "12. The Promise Breakers",
+            "13. Failing",
+            "14. Status Quo"
+        ],
         "links": {
-            "spotify": "https://open.spotify.com/album/2",
-            "appleMusic": "https://music.apple.com/album/2",
-            "bandcamp": "https://bandname2.bandcamp.com/album/2"
+            "spotify": "https://open.spotify.com/album/2FPDrwfNWyeg9LJrS9Z3SU?si=gXsiEp3QQCG8vtBRYco5-g",
+            "appleMusic": "https://music.apple.com/us/album/stories-never-told/53347490",
+            "bandcamp": "https://enemyyou.bandcamp.com/album/stories-never-told"
+        }
+    },
+    {
+        "bandName": "Teenage Bottlerocket",
+        "album": "Total",
+        "releaseNumber": "103",
+        "releaseDate": "2005-03-29",
+        "coverArt": "https://f4.bcbits.com/img/a4205719845_10.jpg",
+        "trackList": [
+            "01. Radio", 
+            "02. So Cool", 
+            "03. Stupid Games",
+            "04. Fall For Me",
+            "05. Crashing",
+            "06. Lost In Space",
+            "07. Go Away",
+            "08. Rebound",
+            "09. Blood Bath At Burger King",
+            "10. Veronica",
+            "11. Repeat Offender",
+            "12. A Bomb",
+            "13. So Far Away"
+        ],
+        "links": {
+            "spotify": "https://open.spotify.com/album/2G5Ictjj38CjYvpk8KDHGP?si=OAup3CyJQC-5Cu2Dmv3Qiw",
+            "appleMusic": "https://music.apple.com/album/1",
+            "bandcamp": "https://teenagebottlerocket.bandcamp.com/album/total"
+        }
+    },
+    {
+        "bandName":"Enemy You",
+        "album": "Where No One Knows My Name",
+        "releaseNumber": "104",
+        "releaseDate": "1999-11-02",
+        "coverArt": "https://f4.bcbits.com/img/a2938689339_10.jpg",
+        "trackList":[
+            "01. Automation",
+            "02. Youth Anthems",
+            "03. City Of Lost Children",
+            "04. Moral Absolutes",
+            "05. By Design",
+            "06. Awake",
+            "07. All Good Things...",
+            "08. Break Away",
+            "09. Where No One Knows My Name",
+            "10. Lock-Out",
+            "11. (We Want) Someone To Blame",
+            "12. Lord Of The Flies",
+            "13. Younger Days",
+            "14. Hopes And Dreams"
+        ],
+        "links": {
+            "spotify": "https://open.spotify.com/album/6buzJRpHxWMIxVsgROdKlM?si=Rssk_71hT1iPMW-31MLuIg",
+            "appleMusic": "https://music.apple.com/us/album/where-no-one-knows-my-name/73629647",
+            "bandcamp": "https://enemyyou.bandcamp.com/album/where-no-one-knows-my-name"
+        }
+    },
+    {
+        "bandName": "The Lillingtons",
+        "album": "Death By Television",
+        "releaseNumber": "105",
+        "releaseDate": "1999-03-30",
+        "coverArt": "https://f4.bcbits.com/img/a1497238680_10.jpg",
+        "trackList":[
+            "01. War Of The Worlds",
+            "02. Don’t Trust The Humanoids",
+            "03. Black Hole In My Mind",
+            "04. I Saw The Apeman (On The Moon)",
+            "05. X-Ray Specs",
+            "06. Invasion Of The Saucermen",
+            "07. You’re The Only One",
+            "08. I Need Some Brain Damage",
+            "09. Codename: Peabrain",
+            "10. Phantom Maggot",
+            "11. Robots In My Dreams",
+            "12. Murder On My Mind",
+            "13. Caveman",
+            "14. I Came from the Future"
+        ],
+        "links": {
+            "spotify": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r?si=gYPNRM3mQnaF8yyoZpR26g",
+            "appleMusic": "https://music.apple.com/us/album/death-by-television/73627519",
+            "bandcamp": "https://thelillingtons.bandcamp.com/album/death-by-television"
+        }
+    },
+    {
+        "bandName":"The Lillingtons",
+        "album": "The Backchannel Broadcast",
+        "releaseNumber": "106",
+        "releaseDate": "2001-02-20",
+        "coverArt": "https://f4.bcbits.com/img/a2300029977_10.jpg",
+        "trackList":[
+            "01. Final Transmission",
+            "02. Mindcontrol",
+            "03. The Kids",
+            "04. El Pamino",
+            "05. Dynomite",
+            "06. Mr. So & So",
+            "07. One Armed Man",
+            "08. Dangerlights",
+            "09. Blue Steal",
+            "10. Wait It Out",
+            "11. Santa Fe-O",
+            "12. Thunderball",
+            "13. The Russians Are Coming",
+            "14. Wrecking Ball",
+            "15. Badman With The Devil’s Hand",
+            "16. Six Ways To Die"
+        ],
+        "links": {
+            "spotify": "https://open.spotify.com/album/1Cyic1XSXPHYoE0Gb77awh?si=Hle9bhZcSVmCyEwTvW0Heg",
+            "appleMusic": "https://music.apple.com/us/album/the-backchannel-broadcast/502924412",
+            "bandcamp": "https://thelillingtons.bandcamp.com/album/the-backchannel-broadcast"
+        }
+    },
+    {
+        "bandName": "Bullets To Broadway",
+        "album": "Drink Positive",
+        "releaseNumber": "107",
+        "releaseDate": "2005-11-08",
+        "coverArt": "https://f4.bcbits.com/img/a3613623281_10.jpg",
+        "trackList":[
+            "01. Happily Ever After",
+            "02. Stickin’ In The Middle",
+            "03. Greyhound",
+            "04. Paychecks",
+            "05. Let It Go",
+            "06. The Whole World Lost Its Head",
+            "07. Down And Out",
+            "08. Our Club, Our Home, Our Kelly"
+        ],
+        "links": {
+            "spotify": "https://open.spotify.com/album/47UztvV8ZpXgWHe4YMJJ4f?si=MOU_eQSlRH6BOD8XjiQQhg",
+            "appleMusic": "https://music.apple.com/us/album/drink-positive-ep/92676888",
+            "bandcamp": "https://bulletstobroadway.bandcamp.com/album/drink-positive"
+        }
+    },
+    {
+        "bandName": "The Methadones",
+        "album": "21st Century Power Pop Riot",
+        "releaseNumber": "108",
+        "releaseDate": "2006-06-06",
+        "coverArt": "https://f4.bcbits.com/img/a1867153582_10.jpg",
+        "trackList":[
+            "01. Leader Of The Gang (I Am!)",
+            "02. Walking Out On Love",
+            "03. Back Of My Hand",
+            "04. Welcome to the Working Week",
+            "05. I’m The Man",
+            "06. Into You",
+            "07. Full Moon Turn My Head",
+            "08. Goodbye To You",
+            "09. Out Of Luck",
+            "10. Heart Of The City",
+            "11. Starry Eyes",
+            "12. He’s A Whore"
+        ],
+        "links": {
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://themethadones.bandcamp.com/album/21st-century-power-pop-riot"
+        }
+    },
+    {
+        "bandName": "The Falcon",
+        "album": "Unicornography",
+        "releaseNumber": "109",
+        "releaseDate": "2006-09-26",
+        "coverArt": "https://f4.bcbits.com/img/a3266654651_10.jpg",
+        "trackList": [
+            "01. The Angry Cry Of The Angry Pie",
+            "02. Blackout",
+            "03. The La-Z-Boy 500",
+            "04. Little Triggers",
+            "05. The Celebutard Chronicles",
+            "06. The Routes We Wander",
+            "07. The Longshoreman’s Lament",
+            "08. Unicorn Odyssey",
+            "09. R.L. Burnouts Inc.",
+            "10. Building The Even More Perfect Asshole Parade",
+            "11. When I Give The Signal, Run!"
+        ],
+        "links": {
+            "spotify": "https://open.spotify.com/album/3quQ576wdLIkBWRRWfkNYO?si=lUzJGVcBT_WoyZuZ2I16Vg",
+            "appleMusic": "https://music.apple.com/us/album/unicornography/192726421",
+            "bandcamp": "https://mofukkinfalcon.bandcamp.com/album/unicornography"
+        }
+    },
+    {
+        "bandName": "The Lillingtons",
+        "album": "The Too Late Show",
+        "releaseNumber": "110",
+        "releaseDate": "2006-10-10",
+        "coverArt": "https://f4.bcbits.com/img/a1203848880_10.jpg",
+        "trackList":[
+            "01. Gunbullet",
+            "02. Target Earth",
+            "03. All I Hear Is Static",
+            "04. The Augur’s Tale",
+            "05. Mars vs. Hollywood",
+            "06. Do It U.S.S.R.",
+            "07. Zombies",
+            "08. Vaporize My Brain",
+            "09. Russian Attack",
+            "10. Charlie Goes To Cambodia",
+            "11. Stay Tuned"
+        ],
+        "links": {
+            "spotify": "https://open.spotify.com/album/4qkwhs3F4SkbCXRABFoi4G?si=1KF09i1HS1qV00r7oQz9Lg",
+            "appleMusic": "https://music.apple.com/us/album/the-too-late-show/200571071",
+            "bandcamp": "https://thelillingtons.bandcamp.com/album/the-too-late-show"
+        }
+    },
+    {
+        "bandName": "Sundowner",
+        "album": "Four One Five Two",
+        "releaseNumber": "112",
+        "releaseDate": "2007-03-13",
+        "coverArt": "https://f4.bcbits.com/img/a2622257295_10.jpg",
+        "trackList":[
+            "01. Steal Your Words",
+            "02. This War Is Noise",
+            "03. The Sea Of Lights",
+            "04. Traffic Haze",
+            "05. Midsummer Classic",
+            "06. My Boatless Booze Cruise",
+            "07. Your Self Portrait",
+            "08. Jackson Underground",
+            "09. Endless Miles",
+            "10. Cold White North",
+            "11. One Hundred Resolutions",
+            "12. Audio Geography"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2gLCY9UmvboZEZR43tgL6W?si=rQEY1B_YSq6ZWuYbR9dkGQ",
+            "appleMusic": "https://music.apple.com/us/album/four-one-five-two/217529240",
+            "bandcamp": "https://sundownerrock.bandcamp.com/album/four-one-five-two"
+        }
+    },
+    {
+        "bandName": "The Copyrights",
+        "album": "Make Sound",
+        "releaseNumber": "113",
+        "releaseDate": "2007-03-27",
+        "coverArt": "https://f4.bcbits.com/img/a0129351396_10.jpg",
+        "trackList":[
+            "01. Kids Of The Black Hole",
+            "02. Head Count",
+            "03. Knee Deep",
+            "04. Pentagrams",
+            "05. The Company",
+            "06. Big Mistakes",
+            "07. Planet Earth Nineteen-Ninety-Four",
+            "08. Stuck In Summertime",
+            "09. Thinking With The Lights On",
+            "10. Unsatisfied",
+            "11. Caveat Emptor",
+            "12. Flat",
+            "13. Stand Up/Stand Down",
+            "14. Leave You Where We Find You"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4q2rLhNdk13ldYBnu1OBPc?si=4kIqv4GhTM2XDtTJW_7HtA",
+            "appleMusic": "https://music.apple.com/us/album/make-sound/217529241",
+            "bandcamp": "https://thecopyrights.bandcamp.com/"
+        }
+    },
+    {
+        "bandName":"The Methadones",
+        "album": "This Won't Hurt...",
+        "releaseNumber": "114",
+        "releaseDate": "2007-07-10",
+        "coverArt": "https://f4.bcbits.com/img/a1250763033_10.jpg",
+        "trackList":[
+            "01. Six Degrees Of Separation",
+            "02. Getting Older/Losing Touch",
+            "03. Poor Little Rich Girl",
+            "04. Street In My Hometown",
+            "05. Turning Up The Noise",
+            "06. Where Did You Hide The Sun?",
+            "07. Falling Forward",
+            "08. Alcohol Makes The World Go Around",
+            "09. Break Out Of My Head",
+            "10. Starting Line",
+            "11. I Believe",
+            "12. Already Gone",
+            "13. Take me To Japan [Bonus Track]"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6X1DkmZG72NrvIlXMz22s2?si=QsSTj92PRM-AVimSTIyCQA",
+            "appleMusic": "https://music.apple.com/us/album/this-wont-hurt/259195263",
+            "bandcamp": "https://themethadones.bandcamp.com/album/this-wont-hurt"
+        }
+    },
+    {
+        "bandName": "Cobra Skulls",
+        "album": "Sitting Army",
+        "releaseNumber": "115",
+        "releaseDate": "2007-07-10",
+        "coverArt": "https://f4.bcbits.com/img/a1365013878_10.jpg",
+        "trackList":[
+            "01. Cobra Skullifornia",
+            "02. Faith Is A Cobra",
+            "03. The Cobra And The Man-Whore",
+            "04. Don’t Count Your Cobras Before They Hatch",
+            "05. Charming The Cobra",
+            "06. Use Your Cobra Skull",
+            "07. I’ll Always Be A Cobra Skull (Folk Off!)",
+            "08. Anybody Scene My Cobra",
+            "09. Cobra Skulls Lockdown",
+            "10. Hasta Los Cobra Skulls Siempre!",
+            "11. Cobra Skulls Graveyard",
+            "12. Cobra Skulls Jukebox",
+            "13. Cobracoustic"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/06XizyvLh1GN1Cr237MtQl?si=aV_0LLFkTyWHp4eslYt5Iw",
+            "appleMusic": "https://music.apple.com/us/album/sitting-army/258993294",
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/sitting-army"
+        }
+    },
+    {
+        "bandName": "La Plebe",
+        "album": "¡Hasta La Muerte!",
+        "releaseNumber": "116",
+        "releaseDate": "2007-12-08",
+        "coverArt": "https://f4.bcbits.com/img/a4113150859_10.jpg",
+        "trackList":[
+            "01. Reject/Refuse",
+            "02. La Esquina",
+            "03. Mi Tierra",
+            "04. Runnin’",
+            "05. Pinches Fronteras",
+            "06. Run Joe",
+            "07. Plebe Por Vida",
+            "08. Cerdos Al Marchar",
+            "09. En El Enfierno",
+            "10. La Juventud",
+            "11. S.O.B."
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/65TWYwBAvmMyq6uEKWpHbU?si=P-Qat_PWSaOdlFaOAXM_NQ",
+            "appleMusic": "https://music.apple.com/us/album/hasta-la-muerte/258993346",
+            "bandcamp": "https://laplebe.bandcamp.com/album/hasta-la-muerte"
+        }
+    },
+    {
+        "bandName":"Teenage Bottlerocket",
+        "album": "Warning Device",
+        "releaseNumber": "118",
+        "releaseDate": "2008-01-08",
+        "coverArt": "https://f4.bcbits.com/img/a1919210190_10.jpg",
+        "trackList":[
+            "01. Bottlerocket",
+            "02. In The Basement",
+            "03. Gave You My Heart",
+            "04. She’s Not The One",
+            "05. Pacemaker",
+            "06. Social Life",
+            "07. Welcome To The Nuthouse",
+            "08. Anna’s Song",
+            "09. On My Own",
+            "10. Totally Stupid",
+            "11. Crawling Back To You",
+            "12. Warning Device",
+            "13. Wasting Time"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1O73GiuVOlkKkuNQNhS4QR?si=JiP36ZQnQVSX9APj-wNOEw",
+            "appleMusic": "https://music.apple.com/us/album/warning-device/269947957",
+            "bandcamp": "https://teenagebottlerocket.bandcamp.com/album/warning-device"
+        }
+    },
+    {
+        "bandName": "The Copyrights",
+        "album": "Learn The Hard Way",
+        "releaseNumber": "119",
+        "releaseDate": "2008-02-26",
+        "coverArt": "https://f4.bcbits.com/img/a3624003035_10.jpg",
+        "trackList":[
+            "1. Second Hearse Same As The First",
+            "2. 57 North",
+            "3. Charlie Birger Time",
+            "4. Two Left Feet",
+            "5. Headaches",
+            "6. All Your People",
+            "7. Switchblades",
+            "8. She Turns It Up",
+            "9. Solid Connex",
+            "10. Out Of Ideas",
+            "11. Sleepwalker",
+            "12. Shit’s Fucked",
+            "13. Pulse Check",
+            "14. On The Way Out"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2IMLfJOnqjvhYBz7DdTJtf?si=4CR7gje0R1GFGvU0h3L_IA",
+            "appleMusic": "https://music.apple.com/us/album/learn-the-hard-way/274272871",
+            "bandcamp": "https://thecopyrights.bandcamp.com/album/learn-the-hard-way-4"            
+        }
+    },
+    {
+        "bandName": "The Sidekicks",
+        "album": "So Long, Soggy Dog",
+        "releaseNumber": "120",
+        "releaseDate": "2007-09-25",
+        "coverArt": "https://f4.bcbits.com/img/a3129698034_10.jpg",
+        "trackList":[
+            "01. Panic! San Francisco",
+            "02. Wife Swap > Sled Riding",
+            "03. Team Volcano",
+            "04. Eye To Eye, Oh My!",
+            "05. “Chips Bring A Party Down”",
+            "06. Necktie",
+            "07. Slight Sting",
+            "08. Don’t Open The Door, You Might Let In The Gusto",
+            "09. Go! Go! Go! Green! Green! Green!",
+            "10. Tomboioi",
+            "11. Steve Smith, Coal Miner Jr."
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0wygyTvIKID7UC7UkHYx8w?si=96F3G_b7S9OSqlbGg4-EiQ",
+            "appleMusic": "https://music.apple.com/us/album/so-long-soggy-dog/271674289",
+            "bandcamp": "https://sidekicksohio.bandcamp.com/album/so-long-soggy-dog"
+        }
+    },
+    {
+        "bandName":"Cobra Skulls",
+        "album": "Never Be A Machine",
+        "releaseNumber": "121",
+        "releaseDate": "2009-07-29",
+        "coverArt": "https://f4.bcbits.com/img/a1797132388_10.jpg",
+        "trackList":[
+            "01. Never Be A Machine",
+            "02. Lost In Campaigns",
+            "03. The Streets Of Cairo (Cobralectric)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6XizyvLh1GN1Cr237MtQlM?si=QsSTj92PRM-AVimSTIyCQA",
+            "appleMusic": "https://music.apple.com/us/album/never-be-a-machine-ep/325636020",
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/never-be-a-machine"
         }
     }
 ]

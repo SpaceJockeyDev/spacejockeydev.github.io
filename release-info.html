@@ -6,6 +6,23 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        .album-cover-info {
+            max-width: 100%;
+            height: auto;
+        }
+        #album-info-container {
+        margin-bottom: 20px; /* Adjust this value as needed */
+        }
+        h2 a:hover {
+            text-decoration: none;
+        }
+        @media (max-width: 768px) {
+        .icon {
+        font-size: 2.5em; /* Adjust this value as needed */
+        }
+        }
+    </style>
 </head>
 <body>
     <div id="navbar-container"></div>
@@ -15,10 +32,10 @@
     <div id="footer"></div>
     
     <script>
-        window.onload = function() {
+    window.onload = function() {
     // Get the album name from the URL
     const urlParams = new URLSearchParams(window.location.search);
-    const albumName = decodeURIComponent(urlParams.get('album'));
+    const albumName = decodeURIComponent(urlParams.get('album')).replace(/-/g, ' ');
 
     // Fetch the album data from releases.json
     fetch('releases.json')
@@ -28,7 +45,7 @@
             const album = albums.find(album => album.album === albumName);
 
             // Set the title of the page
-            document.title = `${album.band} - ${album.album}`;
+            document.title = `${album.bandName} - ${album.album}`;
 
             // Get the container where the album information will be displayed
             const container = document.getElementById('album-info-container');
@@ -41,17 +58,17 @@
                         <img class="album-cover-info" src="${album.coverArt}" alt="${album.album} Cover Art">
                     </div>
                     <div style="margin-left: 30px;">
-                        <h2>${album.bandName}</h2>
+                        <h2><a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, '-'))}">${album.bandName}</a></h2>
                         <p>${album.album}</p>
-                        <p>CCCP${album.releaseNumber} ${album.releaseDate}</p>
+                        <p>CCCP ${album.releaseNumber} - ${album.releaseDate}</p>
                         <p>Track List:</p>
                         <ul style="list-style-type: none; padding-left: 0;">
                         ${album.trackList.map(track => `<li>${track}</li>`).join('')}
                         </ul>
                         <p>Listen on:</p>
-                            <a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify"></i></a>
-                            <a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple"></i></a>
-                            <a href="${album.links.bandcamp}" target="_blank"><i class="fab fa-bandcamp"></i></a>
+                        ${album.links.spotify ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>` : ''}
+                        ${album.links.appleMusic ? `<a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple icon"></i></a>` : ''}
+                        ${album.links.bandcamp ? `<a href="${album.links.bandcamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>` : ''}
                     </div>
                 </div>
             `;

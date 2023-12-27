@@ -8,20 +8,72 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <title>Red Scare Releases</title>
     <style>
-.align-sort-container {
-    display: flex;
-    justify-content: right;
-    margin-bottom: 20px;
-    padding-right: 40px;
-}
-.sort-select {
-    margin-left: 10px;
-}
-.sort-label {
+    .align-sort-container {
+        display: flex;
+        justify-content: right;
+        margin-bottom: 20px;
+        padding-right: 40px;
+    }
+    .sort-select {
+        margin-left: 10px;
+    }
+    .sort-label {
+        /* Add your styles here */
+        font-size: 20px;
+        color: #333;
+    }
+    .album {
+        flex: 0 0 calc(20% - 2%); /* Subtract the horizontal margin */
+        max-width: calc(20% - 2%); /* Subtract the horizontal margin */
+        margin: 1%; /* Adjust as needed */
+        height: 100%;
+        width: auto;
+    }
+
+    .album img {
+    width: 100%; /* Take up full width of the .album container */
+    height: 320px; /* Maintain aspect ratio */
+    object-fit: cover; /* Crop the image to cover the entire content box */
+    }
+
+    @media (max-width: 768px) {
+        .album {
+            flex: 0 0 calc(50% - 2%); /* Subtract the horizontal margin */
+            max-width: calc(50% - 2%); /* Subtract the horizontal margin */
+        }
+        .album img {
+        height: 47vw; /* Increase height on smaller screens */
+        width: 100%;
+    }
+
+    }
+    #albums-container {
+        width: 95%; /* Adjust this value as needed */
+        margin: 0 auto; /* This centers the container */
+    }
+    .album a {
+        text-decoration: none;
+    }
+
+    .album a:hover {
+        text-decoration: none;
+    }
+    .band-name {
     /* Add your styles here */
-    font-size: 20px;
-    color: #333;
-}
+    color: #050505; /* For example, change the text color */
+    font-size: 15px; /* Change the font size */
+    }
+    .album-title {
+    /* Add your styles here */
+    color: #050505; /* For example, change the text color */
+    font-size: 18px; /* Change the font size */
+    font-weight: bold; /* Make the text bold */
+    }
+    #pagination-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    }
     </style>
 </head>
 <body>
@@ -36,15 +88,15 @@
         </select>
     </div>
 
-    <div class="container">
+    
         <div id="albums-container" class="row"></div>
-    </div>
+        <div id="pagination-container"></div>
 
     <div id="footer"></div>
     
     <script>
     let currentPage = 1;
-const releasesPerPage = 20;
+const releasesPerPage = 15;
 
 function createPaginationButtons(totalReleases) {
     const totalPages = Math.ceil(totalReleases / releasesPerPage);
@@ -80,18 +132,20 @@ function displayReleases() {
             container.innerHTML = '';
             currentAlbums.forEach(album => {
                 const albumElement = document.createElement('div');
-                albumElement.className = 'col-md-3';
-                albumElement.innerHTML = `
-                    <img class="album-cover" src="${album.coverArt}" alt="${album.album} Cover Art">
-                    <h2>${album.bandName}</h2>
-                    <p>${album.album}</p>
-                `;
-                albumElement.addEventListener('click', () => {
-                    window.location.href = `release-info.html?album=${encodeURIComponent(album.album)}`;
-                });
+                albumElement.className = 'album';
+
+                const albumLink = encodeURIComponent(album.album.replace(/ /g, '-'));
+                const clickableElement = document.createElement('a');
+                clickableElement.href = `release-info.html?album=${albumLink}`;
+                clickableElement.innerHTML = `
+                <img class="album-cover" src="${album.coverArt}" alt="${album.album} Cover Art">
+                <h2 class="band-name">${album.bandName}</h2>
+                <p class="album-title">${album.album}</p>
+            `;
+
+                albumElement.appendChild(clickableElement);
                 container.appendChild(albumElement);
             });
-
             createPaginationButtons(albums.length);
         })
         .catch(error => console.error('Error:', error));

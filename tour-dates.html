@@ -7,16 +7,32 @@
     <link rel="stylesheet" type="text/css" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <title>Red Scare Tour Dates</title>
+    <style>
+    #bands {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    @media (max-width: 600px) {
+        #bands h1 {
+            font-size: 1.5em;
+        }
+    }
+    #bands img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
 </head>
 <body>
     <div id="navbar-container"></div>
     <h1 style="padding-left: 30px;">Tour Dates</h1>
     
-    
+    <div id="bands"></div>
 
     <div id="footer"></div>
     
-    </script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -28,6 +44,45 @@
     <script>
         $(function(){
             $("#footer").load("footer.html");
+        });
+    </script>
+    <script>
+        Promise.all([
+            fetch('bands.json').then(response => response.json()),
+            fetch('tour-dates.json').then(response => response.json())
+        ]).then(([bandsData, tourDatesData]) => {
+            const pageSize = 5;
+            const bandsDiv = document.getElementById('bands');
+            bandsData.forEach((band, bandIndex) => {
+                const bandTourDatesData = tourDatesData.find(tourDateData => tourDateData.bandName === band.bandName);
+                const bandTourDates = bandTourDatesData ? bandTourDatesData.tourDates : [];
+                if (bandTourDates.length > 0) {
+                    const bandImage = document.createElement('img');
+                    bandImage.src = band.picture;
+                    bandsDiv.appendChild(bandImage);
+
+                    const bandName = document.createElement('h2');
+                    bandName.textContent = band.bandName;
+                    bandsDiv.appendChild(bandName);
+
+                    const tourDatesList = document.createElement('ul');
+                    tourDatesList.style.listStyleType = 'none';
+                    bandTourDates.forEach(tourDate => {
+                        const li = document.createElement('li');
+                        const date = new Date(tourDate.date);
+                        const formattedDate = date.toLocaleString('en-US', { month: 'short', day: '2-digit', year: 'numeric' });
+                        li.textContent = `${formattedDate} - ${tourDate.city} - ${tourDate.venue}`;
+                        if (tourDate.ticketLink) {
+                            const a = document.createElement('a');
+                            a.href = tourDate.ticketLink;
+                            a.textContent = ' Buy Tickets';
+                            li.appendChild(a);
+                        }
+                        tourDatesList.appendChild(li);
+                    });
+                    bandsDiv.appendChild(tourDatesList);
+                }
+            });
         });
     </script>
 </body>

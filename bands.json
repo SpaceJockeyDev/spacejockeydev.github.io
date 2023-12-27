@@ -22,6 +22,17 @@
         "bio": "Broadway Calls is a punk rock band from Rainier, Oregon. The band consisted of Ty Vaughn, Josh Baird, and Matt Koenig. The band has released three full-length albums on SideOneDummy Records. The band released their first album, Broadway Calls, in 2007. In 2009, the band released their second album, Good Views, Bad News. In 2013, the band released their third album, Comfort/Distraction."
     },
     {
+        "bandName": "The Brokedowns",
+        "hometown": "Elgin, IL",
+        "socials": {
+            "facebook": "https://www.facebook.com/thebrokedowns",
+            "twitter": "https://twitter.com/thebrokedowns",
+            "instagram": "https://instagram.com/thebrokedowns"
+        },
+        "picture": "https://f4.bcbits.com/img/0004728671_25.jpg",
+        "bio": "The Brokedowns are a punk rock band from Elgin, Illinois. They have released four full-length albums on Red Scare Industries. The band released their first album, New Brains for Everyone, in 2008. In 2010, the band released their second album, Species Bender. In 2013, the band released their third album, Species Bender. In 2016, the band released their fourth album, Species Bender."
+    },
+    {
         "bandName": "Elway",
         "hometown": "Fort Collins, CO",
         "socials": {
@@ -51,7 +62,7 @@
             "twitter": "https://twitter.com/goodfriendband",
             "instagram": "https://instagram.com/goodfriendband"
         },
-        "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293537281_381469363972257_803392125333365198_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=nv7WEqTh-2IAX_y-Sjs&_nc_ht=scontent-atl3-1.xx&oh=00_AfDpzgx4WRO_w_yTVRN4va_Jeh5NZhebOh_jkcHio9FZLg&oe=65741D9A",
+        "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293586234_381469367305590_405056769066396861_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=8oZLbX0ZMmsAX8Pbthz&_nc_ht=scontent-atl3-1.xx&oh=00_AfC1mX7G0jM3kJRZaVTlov67dGASQO05H-Un6lYOwje3jw&oe=6586EB6A",
         "bio": "Good Friend is a punk rock band from The One True Ireland. They have released two EPs and one full-length album."
     }
 ]
