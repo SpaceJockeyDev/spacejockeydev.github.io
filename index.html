@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <link rel="stylesheet" type="text/css" href="../styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" href="/assets/fist.ico">
     <title>Red Scare Industries</title>
     <style>
+        
     .social-feeds {
         display: flex;
         justify-content: space-evenly;
@@ -18,17 +20,43 @@
         width: 100%;
         margin-bottom: 20px;
     }
-
-    @media (min-width: 600px) {
+        .logo-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+        .logo img {
+        width: 800px; /* Adjust as needed */
+        height: auto; /* Keeps the aspect ratio of the image */
+    }
+    body {
+    background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
+    background-position: right, left;
+    background-size: 10%, 10%;
+    background-repeat: repeat-y, repeat-y;
+    }
+    @media (max-width: 600px) {
     .social-feeds .feed {
-        width: 45%; /* Adjust as needed */
+        width: 45%; 
+    }
+    .logo img {
+    width: 400px; /* Adjust as needed */
+    height: auto; /* Keeps the aspect ratio of the image */
+}
+    body {
+        background-size: 10%, 10%; 
+        background-repeat: repeat-y, repeat-y;
     }
     }
     </style>
 </head>
 <body>
     <div id="navbar-container"></div>
-    <h1>Red Scare Industries</h1>
+    <div class="logo-container">
+        <div class="logo">
+            <img src="/assets/logo/RedScareIndustriesLogo.png" alt="Alternative text for image">
+        </div>
+    </div>
 
     <div class="social-feeds">
         <div class="feed-container">

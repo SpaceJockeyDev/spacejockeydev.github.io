@@ -6,20 +6,23 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" href="/assets/fist.ico">
     <title>Red Scare Releases</title>
     <style>
     .align-sort-container {
-        display: flex;
-        justify-content: right;
-        margin-bottom: 20px;
-        padding-right: 40px;
-    }
+    display: flex;
+    justify-content: right;
+    align-items: center; /* Add this line */
+    margin-bottom: 20px;
+    padding-right: 40px;
+}
     .sort-select {
         margin-left: 10px;
     }
     .sort-label {
         /* Add your styles here */
-        font-size: 20px;
+        font-size: 25px;
+        font-family: 'Viva';
         color: #333;
     }
     .album {
@@ -32,53 +35,100 @@
 
     .album img {
     width: 100%; /* Take up full width of the .album container */
-    height: 320px; /* Maintain aspect ratio */
+    height: 300px; /* Maintain aspect ratio */
     object-fit: cover; /* Crop the image to cover the entire content box */
+    margin-bottom: 10px;
+    
     }
-
+    
     @media (max-width: 768px) {
         .album {
             flex: 0 0 calc(50% - 2%); /* Subtract the horizontal margin */
             max-width: calc(50% - 2%); /* Subtract the horizontal margin */
         }
         .album img {
-        height: 47vw; /* Increase height on smaller screens */
+        height: 40vw; /* Increase height on smaller screens */
         width: 100%;
+    }
+    body {
+        background-size: 50%, 50%; /* Adjust as needed */
+        background-repeat: repeat;
     }
 
     }
+    .album-cover {
+    transition: transform 0.3s ease-in-out;
+    }
+    .album:hover .album-cover {
+    transform: scale(1.1); /* Adjust as needed */
+    }
+    .album-cover {
+        transition: transform 0.3s ease-in-out;
+    }
+    .album-cover:hover {
+        transform: scale(1.1); /* Adjust as needed */
+    }
     #albums-container {
-        width: 95%; /* Adjust this value as needed */
+        width: 85%; /* Adjust this value as needed */
         margin: 0 auto; /* This centers the container */
     }
     .album a {
         text-decoration: none;
     }
-
-    .album a:hover {
-        text-decoration: none;
+    .album a:hover .band-name,
+    .album a:hover .album-title {
+        color: red; /* Change to your desired color */
     }
     .band-name {
     /* Add your styles here */
     color: #050505; /* For example, change the text color */
-    font-size: 15px; /* Change the font size */
+    font-size: 20px; /* Change the font size */
+    font-family: 'Viva';
+    margin-top: 10px;
+    margin-left: 10px;
     }
     .album-title {
     /* Add your styles here */
     color: #050505; /* For example, change the text color */
-    font-size: 18px; /* Change the font size */
-    font-weight: bold; /* Make the text bold */
+    font-size: 20px; /* Change the font size */
+    font-family: 'Helv';
+    margin-top: -5px;
+    margin-left: 10px;
     }
     #pagination-container {
     display: flex;
     justify-content: center;
     padding-bottom: 20px;
     }
+    .pagination-button {
+    background-color: #770c0c00; /* Change to your desired color */
+    font-size: 16px; /* Change to your desired font size */
+    font-family: 'Lemon';
+    border: none;
+}
+.pagination-button.active {
+    border-bottom: 2px solid #000; /* Change to your desired color and thickness */
+}
+body {
+    background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
+    background-repeat: repeat-y, repeat-y;
+    background-position: right center, left center;
+    background-size: 10%, 10%;
+}
+
+
+@media (max-width: 600px) {
+    body {
+        background-image: url('/assets/bgrightmobile.png'), url('/assets/bgleftmobile.png');
+        background-size: 10%, 10%; /* Adjust as needed */
+        background-repeat: repeat-y, repeat-y;
+    }
+}
+
     </style>
 </head>
 <body>
     <div id="navbar-container"></div>
-    <h1 style="padding-left: 30px;">Releases</h1>
     
     <div class="sort-container align-sort-container">
         <label for="sort-select" class="sort-label">Sort by:</label>
@@ -87,7 +137,6 @@
             <option value="oldest">Oldest to Newest</option>
         </select>
     </div>
-
     
         <div id="albums-container" class="row"></div>
         <div id="pagination-container"></div>
@@ -105,6 +154,10 @@ function createPaginationButtons(totalReleases) {
     for (let i = 1; i <= totalPages; i++) {
         const button = document.createElement('button');
         button.textContent = i;
+        button.className = 'pagination-button'; 
+        if (i === currentPage) {
+            button.classList.add('active'); // Add 'active' class to the current page button
+        }
         button.addEventListener('click', () => {
             currentPage = i;
             displayReleases();
@@ -139,8 +192,10 @@ function displayReleases() {
                 clickableElement.href = `release-info.html?album=${albumLink}`;
                 clickableElement.innerHTML = `
                 <img class="album-cover" src="${album.coverArt}" alt="${album.album} Cover Art">
-                <h2 class="band-name">${album.bandName}</h2>
-                <p class="album-title">${album.album}</p>
+                <div class="band-album-info">
+                    <h2 class="band-name">${album.bandName}</h2>
+                    <p class="album-title">${album.album}</p>
+                </div>
             `;
 
                 albumElement.appendChild(clickableElement);

@@ -6,22 +6,59 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" href="/assets/fist.ico">
     <style>
         .album-cover-info {
             max-width: 100%;
             height: auto;
         }
+        
         #album-info-container {
         margin-bottom: 20px; /* Adjust this value as needed */
+        margin-top: 20px;
+        }
+        .band-name {
+            margin-top: 10px;
+            font-size: 40px; /* Change to your desired font size */
+            font-family: 'Viva';
+        }
+        .band-name a {
+            color: #050505; /* Change to your desired color */
         }
         h2 a:hover {
             text-decoration: none;
+            color: #f80d0d;
+        }
+        body {
+            background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
+            background-repeat: repeat-y, repeat-y;
+            background-position: right, left;
+            background-size: 10%, 10%;
         }
         @media (max-width: 768px) {
         .icon {
-        font-size: 2.5em; /* Adjust this value as needed */
+            font-size: 2.5em; /* Adjust this value as needed */
+            }
+            body {
+                background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
+                background-repeat: repeat-y, repeat-y;
+                background-position: right, left;
+                background-size: 10%, 10%;
+                }
         }
+        .album-title {
+            font-size: 24px; /* Change to your desired font size */
+            color: #666; /* Change to your desired color */
+            font-family: 'Helv';
         }
+        .release-info {
+            font-size: 16px; /* Change to your desired font size */
+            color: #000000; /* Change to your desired color */
+            font-family: 'Alte';
+            font-weight: bold;
+        }
+        
+
     </style>
 </head>
 <body>
@@ -58,11 +95,11 @@
                         <img class="album-cover-info" src="${album.coverArt}" alt="${album.album} Cover Art">
                     </div>
                     <div style="margin-left: 30px;">
-                        <h2><a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, '-'))}">${album.bandName}</a></h2>
-                        <p>${album.album}</p>
-                        <p>CCCP ${album.releaseNumber} - ${album.releaseDate}</p>
-                        <p>Track List:</p>
-                        <ul style="list-style-type: none; padding-left: 0;">
+                        <h2 class="band-name"><a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, '-'))}">${album.bandName}</a></h2>
+                        <p class="album-title">${album.album}</p>
+                        <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate}</p>
+                        <p style="font-family: 'Alte';">Track List:</p>
+                        <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
                         ${album.trackList.map(track => `<li>${track}</li>`).join('')}
                         </ul>
                         <p>Listen on:</p>

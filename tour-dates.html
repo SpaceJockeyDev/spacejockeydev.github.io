@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" href="/assets/fist.ico">
     <title>Red Scare Tour Dates</title>
     <style>
     #bands {
@@ -14,20 +15,39 @@
         align-items: center;
         justify-content: center;
     }
-    @media (max-width: 600px) {
-        #bands h1 {
-            font-size: 1.5em;
-        }
+    body {
+        background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
+        background-repeat: repeat-y, repeat-y;
+        background-position: right, left;
+        background-size: 25%, 25%;
     }
     #bands img {
         max-width: 100%;
         height: auto;
     }
+    .band-name {
+        font-size: 35px; 
+        color: #000; 
+        font-family: 'Viva';
+    }
+    @media (max-width: 600px) {
+        #bands h1 {
+            font-size: 1.5em;
+        }
+        #bands img {
+            max-width: 80%;
+            height: auto;
+    }
+        body {
+            background-size: 10%, 10%; /* Adjust as needed */
+            background-repeat: repeat-y, repeat-y;
+            background-image: url('/assets/bgrightmobile.png'), url('/assets/bgleftmobile.png');
+    }
+    }
 </style>
 </head>
 <body>
     <div id="navbar-container"></div>
-    <h1 style="padding-left: 30px;">Tour Dates</h1>
     
     <div id="bands"></div>
 
@@ -50,21 +70,22 @@
         Promise.all([
             fetch('bands.json').then(response => response.json()),
             fetch('tour-dates.json').then(response => response.json())
-        ]).then(([bandsData, tourDatesData]) => {
+        ]).then(([data, tourDatesData]) => {
             const pageSize = 5;
             const bandsDiv = document.getElementById('bands');
-            bandsData.forEach((band, bandIndex) => {
+            data.bands.forEach((band, bandIndex) => {
                 const bandTourDatesData = tourDatesData.find(tourDateData => tourDateData.bandName === band.bandName);
                 const bandTourDates = bandTourDatesData ? bandTourDatesData.tourDates : [];
                 if (bandTourDates.length > 0) {
                     const bandImage = document.createElement('img');
                     bandImage.src = band.picture;
                     bandsDiv.appendChild(bandImage);
-
+    
                     const bandName = document.createElement('h2');
                     bandName.textContent = band.bandName;
+                    bandName.className = 'band-name'; 
                     bandsDiv.appendChild(bandName);
-
+    
                     const tourDatesList = document.createElement('ul');
                     tourDatesList.style.listStyleType = 'none';
                     bandTourDates.forEach(tourDate => {

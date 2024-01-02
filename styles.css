@@ -1,18 +1,28 @@
 /* FILEPATH: /c:/Repos/SpaceJockey/Red Scare Website/red-scare-website/styles.css */
 
 /* Navbar */
-
-@font-face {
-    font-family: 'Viva';
-    src: url('/assets/fonts/ViveLaRivoluzione.ttf');
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 .navbar-logo {
     height: 100px;
     max-height: 100%;
     max-width: 100%;
 }
-
+@font-face {
+    font-family: 'Viva';
+    src: url('/assets/fonts/ViveLaRivoluzione.ttf');
+}
+@font-face {
+    font-family: 'Helv';
+    src: url('/assets/fonts/HelvChildren.otf');
+}
+@font-face {
+    font-family: 'Lemon';
+    src: url('/assets/fonts/LEMONMILK-Regular.otf');
+}
+@font-face {
+    font-family: 'Alte';
+    src: url('/assets/fonts/AlteHaasGroteskRegular.ttf');
+}
 .social-media-links a {
     color: #000; /* Set icon color */
 }

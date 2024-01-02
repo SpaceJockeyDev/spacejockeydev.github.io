@@ -1,68 +1,104 @@
-[
-    {
-        "bandName": "Arms Aloft",
-        "hometown": "Eau Claire, WI",
-        "socials": {
-            "facebook": "https://www.facebook.com/band",
-            "twitter": "https://twitter.com/armsaloft",
-            "instagram": "https://instagram.com/armsaloft"
+{
+    "bands": [
+        {
+            "bandName": "Arms Aloft",
+            "hometown": "Eau Claire, WI",
+            "socials": {
+                "facebook": "https://www.facebook.com/band",
+                "twitter": "https://twitter.com/armsaloft",
+                "instagram": "https://instagram.com/armsaloft"
+            },
+            "picture": "https://lastfm.freetls.fastly.net/i/u/770x0/971b1e9285b3276b0895d9f642d4531f.jpg#971b1e9285b3276b0895d9f642d4531f",
+            "bio": "Arms Aloft is an American punk group from Eau Claire, Wisconsin, United States. Their name is a reference to a song by Joe Strummer and the Mescaleros on their 2003 album Streetcore. Since their founding in 2007, the band has released two LPs, two EPs, one live album, and four split singles."
         },
-        "picture": "https://lastfm.freetls.fastly.net/i/u/770x0/971b1e9285b3276b0895d9f642d4531f.jpg#971b1e9285b3276b0895d9f642d4531f",
-        "bio": "Arms Aloft is an American punk group from Eau Claire, Wisconsin, United States. Their name is a reference to a song by Joe Strummer and the Mescaleros on their 2003 album Streetcore. Since their founding in 2007, the band has released two LPs, two EPs, one live album, and four split singles."
-    },
-    {
-        "bandName": "Broadway Calls",
-        "hometown": "Rainier, OR",
-        "socials": {
-            "facebook": "https://www.facebook.com/broadwaycalls",
-            "twitter": "https://twitter.com/broadwaycalls",
-            "instagram": "https://instagram.com/broadwaycalls"
+        {
+            "bandName": "Broadway Calls",
+            "hometown": "Rainier, OR",
+            "socials": {
+                "facebook": "https://www.facebook.com/broadwaycalls",
+                "twitter": "https://twitter.com/broadwaycalls",
+                "instagram": "https://instagram.com/broadwaycalls"
+            },
+            "picture": "https://badcopy.s3.amazonaws.com/20170829093342/Broadway-Calls-min.jpg",
+            "bio": "Broadway Calls is a punk rock band from Rainier, Oregon. The band consisted of Ty Vaughn, Josh Baird, and Matt Koenig. The band has released three full-length albums on SideOneDummy Records. The band released their first album, Broadway Calls, in 2007. In 2009, the band released their second album, Good Views, Bad News. In 2013, the band released their third album, Comfort/Distraction."
         },
-        "picture": "https://badcopy.s3.amazonaws.com/20170829093342/Broadway-Calls-min.jpg",
-        "bio": "Broadway Calls is a punk rock band from Rainier, Oregon. The band consisted of Ty Vaughn, Josh Baird, and Matt Koenig. The band has released three full-length albums on SideOneDummy Records. The band released their first album, Broadway Calls, in 2007. In 2009, the band released their second album, Good Views, Bad News. In 2013, the band released their third album, Comfort/Distraction."
-    },
-    {
-        "bandName": "The Brokedowns",
-        "hometown": "Elgin, IL",
-        "socials": {
-            "facebook": "https://www.facebook.com/thebrokedowns",
-            "twitter": "https://twitter.com/thebrokedowns",
-            "instagram": "https://instagram.com/thebrokedowns"
+        {
+            "bandName": "The Brokedowns",
+            "hometown": "Elgin, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/thebrokedowns",
+                "twitter": "https://twitter.com/thebrokedowns",
+                "instagram": "https://instagram.com/thebrokedowns"
+            },
+            "picture": "https://f4.bcbits.com/img/0004728671_25.jpg",
+            "bio": "The Brokedowns are a punk rock band from Elgin, Illinois. They have released four full-length albums on Red Scare Industries. The band released their first album, New Brains for Everyone, in 2008. In 2010, the band released their second album, Species Bender. In 2013, the band released their third album, Species Bender. In 2016, the band released their fourth album, Species Bender."
         },
-        "picture": "https://f4.bcbits.com/img/0004728671_25.jpg",
-        "bio": "The Brokedowns are a punk rock band from Elgin, Illinois. They have released four full-length albums on Red Scare Industries. The band released their first album, New Brains for Everyone, in 2008. In 2010, the band released their second album, Species Bender. In 2013, the band released their third album, Species Bender. In 2016, the band released their fourth album, Species Bender."
-    },
-    {
-        "bandName": "Elway",
-        "hometown": "Fort Collins, CO",
-        "socials": {
-            "facebook": "https://www.facebook.com/ElwayTheBand",
-            "twitter": "https://twitter.com/elwaytheband",
-            "instagram": "https://instagram.com/elwaytheband"
+        {
+            "bandName": "Cobra Skulls",
+            "hometown": "Reno, NV",
+            "socials": {
+                "facebook": "https://www.facebook.com/cobraskulls",
+                "twitter": "https://twitter.com/cobraskulls",
+                "instagram": "https://instagram.com/cobraskulls"
+            },
+            "picture": "https://gunnerrecords.com/wp-content/uploads/2018/09/CobraSkulls_38-1024x685.jpg",
+            "bio": "Cobra Skulls is a punk rock band from Reno, Nevada. They have released three full-length albums on Red Scare Industries. The band released their first album, American Rubicon, in 2009. In 2011, the band released their second album, Agitations. In 2013, the band released their third album, Agitations."
         },
-        "picture": "https://www.brooklynvegan.com/wp-content/uploads/2021/09/22/attachment-dirty-shrines-1052x592.jpeg?t=1689199828",
-        "bio": "Elway is a punk rock band from Fort Collins, Colorado. They have released three full-length albums on Red Scare Industries. The band released their first album, Delusions, in 2011. In 2013, the band released their second album, Leavetaking. In 2015, the band released their third album, Better Whenever."
-    },
-    {
-        "bandName": "The Falcon",
-        "hometown": "Chicago, IL",
-        "socials": {
-            "facebook": "https://www.facebook.com/thefalconband",
-            "twitter": "https://twitter.com/thefalconband",
-            "instagram": "https://instagram.com/thefalconband"
+        {
+            "bandName": "Elway",
+            "hometown": "Fort Collins, CO",
+            "socials": {
+                "facebook": "https://www.facebook.com/ElwayTheBand",
+                "twitter": "https://twitter.com/elwaytheband",
+                "instagram": "https://instagram.com/elwaytheband"
+            },
+            "picture": "https://www.brooklynvegan.com/wp-content/uploads/2021/09/22/attachment-dirty-shrines-1052x592.jpeg?t=1689199828",
+            "bio": "Elway is a punk rock band from Fort Collins, Colorado. They have released three full-length albums on Red Scare Industries. The band released their first album, Delusions, in 2011. In 2013, the band released their second album, Leavetaking. In 2015, the band released their third album, Better Whenever."
         },
-        "picture": "https://f4.bcbits.com/img/0008477196_25.jpg",
-        "bio": "The Falcon is a punk rock band from Chicago, Illinois. They have released three full-length albums on Red Scare Industries. The band released their first album, Unicornography, in 2006. In 2009, the band released their second album, Gather Up the Chaps. In 2016, the band released their third album, Gather Up the Chaps."
-    },
-    {
-        "bandName": "Good Friend",
-        "hometown": "The One True Ireland",
-        "socials": {
-            "facebook": "https://www.facebook.com/goodfriendofficial",
-            "twitter": "https://twitter.com/goodfriendband",
-            "instagram": "https://instagram.com/goodfriendband"
+        {
+            "bandName": "The Falcon",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/thefalconband",
+                "twitter": "https://twitter.com/thefalconband",
+                "instagram": "https://instagram.com/thefalconband"
+            },
+            "picture": "https://f4.bcbits.com/img/0008477196_25.jpg",
+            "bio": "The Falcon is a punk rock band from Chicago, Illinois. They have released three full-length albums on Red Scare Industries. The band released their first album, Unicornography, in 2006. In 2009, the band released their second album, Gather Up the Chaps. In 2016, the band released their third album, Gather Up the Chaps."
         },
-        "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293586234_381469367305590_405056769066396861_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=8oZLbX0ZMmsAX8Pbthz&_nc_ht=scontent-atl3-1.xx&oh=00_AfC1mX7G0jM3kJRZaVTlov67dGASQO05H-Un6lYOwje3jw&oe=6586EB6A",
-        "bio": "Good Friend is a punk rock band from The One True Ireland. They have released two EPs and one full-length album."
-    }
-]
+        {
+            "bandName": "Good Friend",
+            "hometown": "The One True Ireland",
+            "socials": {
+                "facebook": "https://www.facebook.com/goodfriendofficial",
+                "twitter": "https://twitter.com/goodfriendband",
+                "instagram": "https://instagram.com/goodfriendband"
+            },
+            "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293586234_381469367305590_405056769066396861_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=8oZLbX0ZMmsAX8Pbthz&_nc_ht=scontent-atl3-1.xx&oh=00_AfC1mX7G0jM3kJRZaVTlov67dGASQO05H-Un6lYOwje3jw&oe=6586EB6A",
+            "bio": "Good Friend is a punk rock band from The One True Ireland. They have released two EPs and one full-length album."
+        },
+        {
+            "bandName": "Teenage Bottlerocket",
+            "hometown": "Laramie, WY",
+            "socials": {
+                "facebook": "https://www.facebook.com/teenagebottlerocketofficial",
+                "twitter": "https://twitter.com/teenbottlerock",
+                "instagram": "https://instagram.com/teenagebottlerocket"
+            },
+            "picture": "https://media2.orlandoweekly.com/orlando/imager/u/original/29551057/music_teenage_bottlerocket_photo_credit_jonathan_weiner.jpg",
+            "bio": "Teenage Bottlerocket is a punk rock band from Laramie, Wyoming. They have released six full-length albums on Red Scare Industries. The band released their first album, They Came from the Shadows, in 2009. In 2011, the band released their second album, Freak Out!. In 2012, the band released their third album, Freak Out!. In 2015, the band released their fourth album, Tales from Wyoming. In 2017, the band released their fifth album, Stealing the Covers. In 2019, the band released their sixth album, Stay Rad!."
+        }
+    ],
+    "activeBands": [
+        "Arms Aloft",
+        "Broadway Calls",
+        "The Brokedowns",
+        "Elway",
+        "The Falcon",
+        "Good Friend"
+    ],
+    "alumniBands": [
+        "Teenage Bottlerocket",
+        "Cobra Skulls"
+    ]
+}   

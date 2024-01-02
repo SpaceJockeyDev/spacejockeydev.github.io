@@ -4,25 +4,25 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" href="/assets/fist.ico">
     <style>
         #band-name {
-            font-size: 2em;
+            font-size: 3em;
             color: #333;
+            font-family: 'Viva';
         }
-
         #band-picture {
             width: 600px;
             height: auto;
         }
-
         #band-bio {
-            font-size: 1em;
-            color: #666;
+            font-size: 1.2em;
+            color: #0f0101;
+            font-family: 'Alte';
         }
         .band-releases {
         display: flex;
         flex-wrap: wrap;
-        
         }
         .release {
             flex-basis: calc(20% - 10px); /* 5 albums in a row */
@@ -31,7 +31,7 @@
             margin-right: 30px;
         }
         .release img {
-            width: 300px;
+            width: 250px;
             height: auto;
         }
         .release-name {
@@ -39,30 +39,52 @@
             font-size: 16px;
             color: #333;
             margin-top: 10px;
+            font-family: 'Helv';
         }
-        #band-picture {
-        width: 100%;
-        height: auto;
+        body {
+            background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
+            background-repeat: repeat-y, repeat-y;
+            background-position: right, left;
+            background-size: 10%, 10%;
         }
-        @media (min-width: 768px) {
+        @media (max-width: 768px) {
             #band-picture {
                 width: 600px;
                 max-width: 100%;
             }
+            body {
+                background-size: 10%, 10%; /* Adjust as needed */
+                background-repeat: repeat-y, repeat-y;
+            }
+            .release img {
+            width: 200px;
+            height: auto;
+        }
+        .band-releases {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
         }
         #band-releases .release a:hover {
-        text-decoration: none;
+            text-decoration: none;
+        }
+        #band-hometown {
+            font-family: 'Helv'; /* Replace with your desired font */
         }
     </style>
 </head>
+<div id="navbar-container"></div>
 <div class="band-info">
 <h1 id="band-name"></h1>
 <img id="band-picture">
 <p id="band-hometown"></p>
 <p id="band-socials"></p>
 <p id="band-bio"></p>
-<h2>Releases</h2>
+<h2 style="font-family: 'Viva';">Releases</h2>
 <div id="band-releases" class="band-releases"></div>
+<div id="footer"></div>
 <!-- More elements for the other band data... -->
 </div>
 <script>
@@ -71,8 +93,8 @@ const bandName = decodeURIComponent(urlParams.get('band')).replace(/-/g, ' ');
 
 fetch('bands.json')
     .then(response => response.json())
-    .then(bands => {
-        const band = bands.find(band => band.bandName === bandName);
+    .then(data => {
+        const band = data.bands.find(band => band.bandName === bandName);
 
         fetch('releases.json')
             .then(response => response.json())
@@ -91,17 +113,17 @@ fetch('bands.json')
                 document.title = 'Red Scare | ' + band.bandName;
 
                 band.releases.forEach(release => {
-    const releaseElement = document.createElement('div');
-    releaseElement.className = 'release';
-    const albumLink = encodeURIComponent(release.album.replace(/ /g, '-'));
-    releaseElement.innerHTML = `
-        <a href="release-info.html?album=${albumLink}">
-            <img src="${release.coverArt}" alt="${release.album} Cover Art">
-                        <p class="release-name">${release.album}</p>
-                    </a>
-                `;
-                document.getElementById('band-releases').appendChild(releaseElement);
-            });
+                    const releaseElement = document.createElement('div');
+                    releaseElement.className = 'release';
+                    const albumLink = encodeURIComponent(release.album.replace(/ /g, '-'));
+                    releaseElement.innerHTML = `
+                        <a href="release-info.html?album=${albumLink}">
+                            <img src="${release.coverArt}" alt="${release.album} Cover Art">
+                            <p class="release-name">${release.album}</p>
+                        </a>
+                    `;
+                    document.getElementById('band-releases').appendChild(releaseElement);
+                });
             })
             .catch(error => console.error('Error:', error));
     })
@@ -112,12 +134,12 @@ fetch('bands.json')
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script>
-fetch('navigation.html')
-    .then(response => response.text())
-    .then(nav => document.querySelector('body').insertAdjacentHTML('afterbegin', nav));
-
-// Fetch and include the footer
-fetch('footer.html')
-    .then(response => response.text())
-    .then(footer => document.querySelector('body').insertAdjacentHTML('beforeend', footer));
+    $(function() {
+        $("#navbar-container").load("../navigation.html");
+    });
+</script>
+<script>
+    $(function(){
+        $("#footer").load("../footer.html");
+    });
 </script>

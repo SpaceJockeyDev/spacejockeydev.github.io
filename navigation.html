@@ -2,20 +2,69 @@
     <style>
         .nav-link {
             font-family: 'Viva';
-            font-size: 3em;
+            font-size: 2em;
         }
-    
-        @media (max-width: 768px) {
-            .nav-link {
-                font-size: 2em; /* Adjust this value as needed */
+        .navbar-logo {
+            width: 13em; /* Change to your desired width */
+            height: 100%; /* Change to your desired height */
+        }
+        .nav-link.active {
+            background: 
+                linear-gradient(to right, rgba(255, 255, 255, 0.644), rgba(253, 2, 2, 0.397)), 
+                url('/assets/Tabbg.jpg');
+            background-size: cover;
+            border-radius: 15px;
+        }
+        
+        .menu-label {
+            display: none; /* Hide the label by default */
+            font-family: 'Viva';
+            font-size: 30px;
+            margin-right: 10px; /* Add a right margin */
+            color: #333;
+        }
+        @media (max-width: 768px) { /* Show the label on small screens */
+            .menu-label {
+                display: inline-block;
             }
+            @media (max-width: 768px) { /* Adjust to match your mobile breakpoint */
+            .nav-link.active {
+                background-image: none; /* Remove the background image */
+                border-radius: 0; 
+                }
+            }
+            .nav-link {
+                border-bottom: 4px solid #000; /* Add a bottom border to each tab */
+            }    
         }
+        .custom-toggler span {
+            display: block;
+            width: 30px;
+            height: 4px; /* Adjust this to make the lines thicker or thinner */
+            margin: 6px 0;
+            background: black; /* Adjust this to change the color of the lines */
+        }
+
+        .navbar-toggler {
+            border: none;
+            display: flex;
+            align-items: center;
+        }
+        .nav-item {
+    margin-right: 15px; /* Adjust this value as needed */
+}
+    
     </style>
     <a class="navbar-brand" href="index.html">
         <img class="navbar-logo" src="/assets/logo/RedScareIndustriesLogo.png" alt="Red Scare Industries">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <span class="menu-label">Menu</span>
+        <div class="custom-toggler">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
@@ -37,3 +86,33 @@
         </ul>
     </div>
 </nav>
+
+<script>
+    // Get current page name
+var pageName = window.location.pathname.split("/").pop();
+
+// Select all nav links
+var navLinks = document.querySelectorAll('.nav-link');
+
+// Loop through each link
+navLinks.forEach(function(link) {
+    // Get href of the link
+    var linkHref = link.getAttribute('href');
+
+    // Check if the current page is band-bio.html or the href of the link
+    if (linkHref == pageName || (pageName == 'band-bio.html' && linkHref == 'bands.html') || (pageName == 'release-info.html' && linkHref == 'releases.html')) {
+        // Add active class to the link
+        link.classList.add('active');
+    }
+});
+    document.addEventListener('DOMContentLoaded', function() {
+    var navItems = document.querySelectorAll('.nav-item a');
+    var currentPage = window.location.href;
+
+    navItems.forEach(function(item) {
+        if (item.href === currentPage || (currentPage.includes('band') && item.href.includes('bands.html'))) {
+            item.parentElement.classList.add('active');
+        }
+    });
+});
+</script>
