@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link rel="icon" href="/assets/fist.ico" />
+    <title>F.A.Q - Red Scare Industries</title>
+    <style>
+      
+      body {
+        background-image: url("/assets/bgright.png"), url("/assets/bgleft.png");
+        background-repeat: repeat-y, repeat-y;
+        background-position: right, left;
+        background-size: 10%, 10%;
+      }
+      .faq-question {
+        font-size: 1.5em;
+        color: #333;
+        font-family: "Viva";
+      }
+      .faq-answer {
+        font-size: 1.2em;
+        color: #0f0101;
+        font-family: "Alte";
+      }
+      .faq-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 80%;
+        margin: 0 auto;
+      }
+      @media (max-width: 768px) {
+        .icon {
+          font-size: 2.3em; /* Adjust this value as needed */
+        }
+        body {
+          background-image: url("/assets/bgright.png"),
+            url("/assets/bgleft.png");
+          background-repeat: repeat-y, repeat-y;
+          background-position: right, left;
+          background-size: 10%, 10%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="navbar-container"></div>
+
+    <div class="faq-section">
+        <div class="faq-item">
+            <h3 class="faq-question">How can I contact Red Scare?</h3>
+            <p class="faq-answer">This is a great question. I love being contacted. Here are some ways to contact me:</p>
+            <p class="faq-answer">You can email toby@redscare.net. This email is managed by a very real human. Not a dog named Toby.</p>
+            <p class="faq-answer">Email isn't good enough?! You can also send me a message on <a href="https://www.facebook.com/RedScareIndustries" style= "color: red;" target="_blank">Facebook</a>.</p>
+        </div>
+        <div class="faq-item">
+            <h3 class="faq-question">I would like to send Red Scare a gift, do you have a physical address?</h3>
+            <p class="faq-answer">We sure do! 
+              <br>Red Scare
+              <br>P.O. Box 57534
+              <br>3024 N. Ashland Ave.
+              <br>Chicago, IL 60657</p>
+        </div>
+        <div class="faq-item">
+            <h3 class="faq-question">I have a record store/I want to carry Red Scare records, whomst do I contact?</h3>
+            <p class="faq-answer">Wow, all these questions are great. Thanks for asking all these beautiful questions. You can contact the good people over at our distributor, <a href="https://trafficent.com/contact/" style= "color: red;" target="_blank">Traffic Entertainment Group</a>.</p>
+        </div>
+    </div>
+
+    <div id="footer"></div>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+      $(function () {
+        $("#navbar-container").load("navigation.html");
+      });
+    </script>
+    <script>
+      $(function () {
+        $("#footer").load("footer.html");
+      });
+    </script>
+  </body>
+</html>

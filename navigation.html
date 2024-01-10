@@ -1,4 +1,3 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
     <style>
         .nav-link {
             font-family: 'Viva';
@@ -27,15 +26,14 @@
             .menu-label {
                 display: inline-block;
             }
-            @media (max-width: 768px) { /* Adjust to match your mobile breakpoint */
             .nav-link.active {
                 background-image: none; /* Remove the background image */
                 border-radius: 0; 
-                }
             }
             .nav-link {
                 border-bottom: 4px solid #000; /* Add a bottom border to each tab */
-            }    
+            }  
+              
         }
         .custom-toggler span {
             display: block;
@@ -55,11 +53,11 @@
 }
     
     </style>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="index.html">
-        <img class="navbar-logo" src="/assets/logo/RedScareIndustriesLogo.png" alt="Red Scare Industries">
+        <img class="navbar-logo" src="/assets/logo/RedScareIndustriesLogo2.png" alt="Red Scare Industries">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="menu-label">Menu</span>
         <div class="custom-toggler">
             <span></span>
             <span></span>
@@ -77,6 +75,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="releases.html">Releases</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="faq.html">F.A.Q</a>
+          </li>
             <li class="nav-item">
                 <a class="nav-link" href="tour-dates.html">Tour Dates</a>
             </li>
@@ -105,6 +106,9 @@ navLinks.forEach(function(link) {
         link.classList.add('active');
     }
 });
+
+</script>
+<script>
     document.addEventListener('DOMContentLoaded', function() {
     var navItems = document.querySelectorAll('.nav-item a');
     var currentPage = window.location.href;

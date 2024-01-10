@@ -3,6 +3,12 @@
         "bandName": "Broadway Calls",
         "tourDates": [
             {
+                "date": "2024-01-01",
+                "city": "Austin, TX",
+                "venue": "Come and Take It Live",
+                "ticketLink": "https://www.etix.com/ticket/p/33929643/teenage-bottlerocket-austin-come-and-take-it-live"
+            },
+            {
                 "date": "2024-02-08",
                 "city": "Austin, TX",
                 "venue": "Come and Take It Live",

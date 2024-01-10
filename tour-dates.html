@@ -15,6 +15,9 @@
         align-items: center;
         justify-content: center;
     }
+    .band-section {
+        margin-bottom: 100px; /* Adjust as needed */
+    }
     body {
         background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
         background-repeat: repeat-y, repeat-y;
@@ -71,40 +74,51 @@
             fetch('bands.json').then(response => response.json()),
             fetch('tour-dates.json').then(response => response.json())
         ]).then(([data, tourDatesData]) => {
-            const pageSize = 5;
             const bandsDiv = document.getElementById('bands');
-            data.bands.forEach((band, bandIndex) => {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0); // Set the time to 00:00:00 for accurate comparison
+        
+            data.forEach((band) => {
                 const bandTourDatesData = tourDatesData.find(tourDateData => tourDateData.bandName === band.bandName);
-                const bandTourDates = bandTourDatesData ? bandTourDatesData.tourDates : [];
-                if (bandTourDates.length > 0) {
-                    const bandImage = document.createElement('img');
-                    bandImage.src = band.picture;
-                    bandsDiv.appendChild(bandImage);
-    
-                    const bandName = document.createElement('h2');
-                    bandName.textContent = band.bandName;
-                    bandName.className = 'band-name'; 
-                    bandsDiv.appendChild(bandName);
-    
-                    const tourDatesList = document.createElement('ul');
-                    tourDatesList.style.listStyleType = 'none';
-                    bandTourDates.forEach(tourDate => {
-                        const li = document.createElement('li');
-                        const date = new Date(tourDate.date);
-                        const formattedDate = date.toLocaleString('en-US', { month: 'short', day: '2-digit', year: 'numeric' });
-                        li.textContent = `${formattedDate} - ${tourDate.city} - ${tourDate.venue}`;
-                        if (tourDate.ticketLink) {
-                            const a = document.createElement('a');
-                            a.href = tourDate.ticketLink;
-                            a.textContent = ' Buy Tickets';
-                            li.appendChild(a);
-                        }
-                        tourDatesList.appendChild(li);
+                if (bandTourDatesData) {
+                    // Filter out tour dates that are less than today
+                    const bandTourDates = bandTourDatesData.tourDates.filter(tourDate => {
+                        const [year, month, day] = tourDate.date.split('-').map(Number);
+                        return new Date(year, month - 1, day) >= today;
                     });
-                    bandsDiv.appendChild(tourDatesList);
+                    if (bandTourDates.length > 0) {
+                        const bandImage = document.createElement('img');
+                        bandImage.src = band.picture;
+                        bandsDiv.appendChild(bandImage);
+        
+                        const bandName = document.createElement('h2');
+                        bandName.textContent = band.bandName;
+                        bandName.className = 'band-name'; 
+                        bandsDiv.appendChild(bandName);
+        
+                        const tourDatesList = document.createElement('ul');
+                        tourDatesList.style.listStyleType = 'none';
+                        tourDatesList.style.marginBottom = '50px';
+                        bandTourDates.forEach(tourDate => {
+                            const [year, month, day] = tourDate.date.split('-').map(Number);
+                            const date = new Date(year, month - 1, day);
+                            const formattedDate = date.toLocaleString('en-US', { month: 'short', day: '2-digit', year: 'numeric' });
+                            const li = document.createElement('li');
+
+                            li.textContent = `${formattedDate} - ${tourDate.city} - ${tourDate.venue}`;
+                            if (tourDate.ticketLink) {
+                                const a = document.createElement('a');
+                                a.href = tourDate.ticketLink;
+                                a.textContent = ' Buy Tickets';
+                                li.appendChild(a);
+                            }
+                            tourDatesList.appendChild(li);
+                        });
+                        bandsDiv.appendChild(tourDatesList);
+                    }
                 }
             });
         });
-    </script>
+        </script>
 </body>
 </html>

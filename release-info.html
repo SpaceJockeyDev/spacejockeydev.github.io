@@ -1,134 +1,198 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <link rel="icon" href="/assets/fist.ico">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link rel="icon" href="/assets/fist.ico" />
     <style>
-        .album-cover-info {
-            max-width: 100%;
-            height: auto;
-        }
-        
-        #album-info-container {
+      .album-container {
+        display: flex;
+        flex-direction: row;
+      }
+
+      .album-cover {
+        flex: 1; /* Adjust this value as needed */
+        margin-right: 20px; /* Adjust this value as needed */
+      }
+
+      .album-info {
+        flex: 3; /* Adjust this value as needed */
+      }
+
+      #album-info-container {
         margin-bottom: 20px; /* Adjust this value as needed */
         margin-top: 20px;
-        }
-        .band-name {
-            margin-top: 10px;
-            font-size: 40px; /* Change to your desired font size */
-            font-family: 'Viva';
-        }
-        .band-name a {
-            color: #050505; /* Change to your desired color */
-        }
-        h2 a:hover {
-            text-decoration: none;
-            color: #f80d0d;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        margin: 0 auto;
+      }
+      .band-name {
+        margin-top: 10px;
+        font-size: 40px; /* Change to your desired font size */
+        font-family: "Viva";
+      }
+      .band-name a {
+        color: #050505; /* Change to your desired color */
+      }
+      h2 a:hover {
+        text-decoration: none;
+        color: #f80d0d;
+      }
+      body {
+        background-image: url("/assets/bgright.png"), url("/assets/bgleft.png");
+        background-repeat: repeat-y, repeat-y;
+        background-position: right, left;
+        background-size: 10%, 10%;
+      }
+      @media (max-width: 600px) {
+        .icon {
+          font-size: 2.3em; /* Adjust this value as needed */
         }
         body {
-            background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
-            background-repeat: repeat-y, repeat-y;
-            background-position: right, left;
-            background-size: 10%, 10%;
+          background-image: url("/assets/bgright.png"),
+            url("/assets/bgleft.png");
+          background-repeat: repeat-y, repeat-y;
+          background-position: right, left;
+          background-size: 10%, 10%;
         }
-        @media (max-width: 768px) {
-        .icon {
-            font-size: 2.5em; /* Adjust this value as needed */
-            }
-            body {
-                background-image: url('/assets/bgright.png'), url('/assets/bgleft.png');
-                background-repeat: repeat-y, repeat-y;
-                background-position: right, left;
-                background-size: 10%, 10%;
-                }
+        .album-container {
+          flex-direction: column;
         }
-        .album-title {
-            font-size: 24px; /* Change to your desired font size */
-            color: #666; /* Change to your desired color */
-            font-family: 'Helv';
-        }
-        .release-info {
-            font-size: 16px; /* Change to your desired font size */
-            color: #000000; /* Change to your desired color */
-            font-family: 'Alte';
-            font-weight: bold;
-        }
-        
+      }
+      .buy-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #fd0404; /* Blue */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: 'Lemon';
+    margin-bottom: 10px;
+}
 
+.buy-button:hover {
+    background-color: #ff070767; /* Darker blue */
+    color: rgb(255, 6, 6);
+}
+      .album-title {
+        font-size: 24px; /* Change to your desired font size */
+        color: #666; /* Change to your desired color */
+        font-family: "Helv";
+      }
+      .release-info {
+        font-size: 16px; /* Change to your desired font size */
+        color: #000000; /* Change to your desired color */
+        font-family: "Alte";
+        font-weight: bold;
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div id="navbar-container"></div>
-    
+
     <div id="album-info-container" class="container"></div>
 
     <div id="footer"></div>
-    
-    <script>
-    window.onload = function() {
-    // Get the album name from the URL
-    const urlParams = new URLSearchParams(window.location.search);
-    const albumName = decodeURIComponent(urlParams.get('album')).replace(/-/g, ' ');
 
-    // Fetch the album data from releases.json
-    fetch('releases.json')
-        .then(response => response.json())
-        .then(albums => {
+    <script>
+      window.onload = function () {
+        // Get the album name from the URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const albumName = decodeURIComponent(urlParams.get("album")).replace(
+          /-/g,
+          " "
+        );
+
+        // Fetch the album data from releases.json
+        fetch("releases.json")
+          .then((response) => response.json())
+          .then((albums) => {
             // Find the album with the correct name
-            const album = albums.find(album => album.album === albumName);
+            const album = albums.find((album) => album.album === albumName);
 
             // Set the title of the page
             document.title = `${album.bandName} - ${album.album}`;
 
             // Get the container where the album information will be displayed
-            const container = document.getElementById('album-info-container');
+            const container = document.getElementById("album-info-container");
 
             // Create HTML elements for the album information
-            const albumElement = document.createElement('div');
+            const albumElement = document.createElement("div");
             albumElement.innerHTML = `
-                <div style="display: flex;">
-                    <div>
-                        <img class="album-cover-info" src="${album.coverArt}" alt="${album.album} Cover Art">
-                    </div>
-                    <div style="margin-left: 30px;">
-                        <h2 class="band-name"><a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, '-'))}">${album.bandName}</a></h2>
+                      <div class="album-container">
+                          <div class="album-cover">
+                              <img class="album-cover-info" src="${
+                                album.coverArt
+                              }" alt="${album.album} Cover Art">
+                          </div>
+                    <div class="album-info">
+                        <h2 class="band-name"><a href="band-bio.html?band=${encodeURIComponent(
+                          album.bandName.replace(/\s/g, "-")
+                        )}">${album.bandName}</a></h2>
                         <p class="album-title">${album.album}</p>
-                        <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate}</p>
-                        <p style="font-family: 'Alte';">Track List:</p>
-                        <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
-                        ${album.trackList.map(track => `<li>${track}</li>`).join('')}
-                        </ul>
-                        <p>Listen on:</p>
-                        ${album.links.spotify ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>` : ''}
-                        ${album.links.appleMusic ? `<a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple icon"></i></a>` : ''}
-                        ${album.links.bandcamp ? `<a href="${album.links.bandcamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>` : ''}
-                    </div>
-                </div>
-            `;
+                        <p class="release-info">CCCP ${album.releaseNumber} - ${
+              album.releaseDate
+            }</p>
+            <a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>
+            <p style="font-family: 'Alte';">Track List:</p>
+            <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
+            ${album.trackList.map((track) => `<li>${track}</li>`).join("")}
+            </ul>
+            <p>Stream on:</p>
+            ${
+              album.links.spotify
+                ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>`
+                : ""
+            }
+            ${
+              album.links.appleMusic
+                ? `<a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple icon"></i></a>`
+                : ""
+            }
+            ${
+              album.links.appleMusic
+                ? `<a href="${album.links.bandCamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>`
+                : ""
+            }
+        </div>
+    </div>`;
 
             // Add the album information to the container
             container.appendChild(albumElement);
-        })
-        .catch(error => console.error('Error:', error));
-}
+          })
+          .catch((error) => console.error("Error:", error));
+      };
     </script>
-    
+
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
-        $(function() {
-            $("#navbar-container").load("navigation.html");
-        });
+      $(function () {
+        $("#navbar-container").load("navigation.html");
+      });
     </script>
     <script>
-        $(function(){
-            $("#footer").load("footer.html");
-        });
+      $(function () {
+        $("#footer").load("footer.html");
+      });
     </script>
-</body>
+  </body>
 </html>

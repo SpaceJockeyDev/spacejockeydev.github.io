@@ -35,9 +35,15 @@
         transition: transform 0.3s ease-in-out;
         margin-bottom: 10px;
     }
+    .title{
+        margin-bottom: 30px;
+    }
     .band-content a:hover .band-name {
     color: red;
     }
+   #navbar-container {
+    text-align: left;
+}
     #bands-container {
     width: 85%; /* Adjust as needed */
     margin: 0 auto; /* Centers the container */
@@ -45,6 +51,7 @@
     #alumni-container {
     width: 85%; /* Adjust as needed */
     margin: 0 auto; /* Centers the container */
+    margin-top: 50px;
     }
     .band-content a:hover .band-image {
         box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
@@ -68,87 +75,76 @@
     }
     </style>
 </head>
+<div id="navbar-container"></div>
+
 <body>
-    <div id="navbar-container"></div>
     <div id="bands-container" class="container-fluid">
-        <h1 class="title" style="font-family: 'Viva';"> Active Bands</h1>
+        <h1 class="title" style="font-family: 'Viva';"> Active Bands <b>+</b> Alumni</h1>
         <div class="row" id="bands-row"></div>
     </div>
-    <div id="alumni-container" class="container-fluid">
-    <h1 class="title" style="font-family: 'Viva';">Alumni Bands</h1>
-    <div class="row" id="alumni-row"></div>
+    
 </div>
-    <div id="footer"></div>
+</body>
+<div id="footer"></div>
+
+
     <script>
-        window.onload = function() {
-            fetch('bands.json')
+         window.onload = function() {
+        fetch('bands.json')
             .then(response => response.json())
-            .then(data => {
-                console.log(data);
-                const activeBands = data.bands.filter(band => data.activeBands.includes(band.bandName));
-                const alumniBands = data.bands.filter(band => data.alumniBands.includes(band.bandName));
+            .then(bands => {
+                const bandRowElement = document.getElementById('bands-row');
+                bands.forEach(band => {
+                    // Create a container for each band
+                    const bandContainer = document.createElement('div');
+                    bandContainer.className = 'col-lg-3 col-md-6 band-container';
+
+                    // Create a content div for each band
+                    const bandContent = document.createElement('div');
+                    bandContent.className = 'band-content';
+
+                    // Create the band link
+                    const bandLinkElement = document.createElement('a');
+                    const bandLink = encodeURIComponent(band.bandName.replace(/ /g, '-'));
+                    bandLinkElement.href = `band-bio.html?band=${bandLink}`;
+
+                    // Create the band name element
+                    const bandNameElement = document.createElement('h2');
+                    bandNameElement.className = 'band-name';
+                    bandNameElement.textContent = band.bandName;
+                    bandLinkElement.appendChild(bandNameElement);
+
+                    // Create the band image element
+                    const bandImageElement = document.createElement('img');
+                    bandImageElement.src = band.picture;
+                    bandImageElement.className = 'img-fluid band-image';
+                    bandLinkElement.appendChild(bandImageElement);
     
-                // Populate the bands row with the active bands
-                populateBandsRow(activeBands, 'bands-row');
+                    // Append the band link to the band content
+                    bandContent.appendChild(bandLinkElement);
     
-                // Populate the alumni row with the alumni bands
-                populateBandsRow(alumniBands, 'alumni-row');
+                    // Append the band content to the band container
+                    bandContainer.appendChild(bandContent);
+    
+                    // Append the band container to the band row
+                    bandRowElement.appendChild(bandContainer);
+                });
             })
             .catch(error => console.error('Error:', error));
-        };
-    
-        function populateBandsRow(bands, rowId) {
-            const row = document.getElementById(rowId);
-    
-            bands.forEach(band => {
-                // Create a container for each band
-                const bandContainer = document.createElement('div');
-                bandContainer.className = 'col-lg-3 col-md-6 band-container';
-    
-                // Create a content div for each band
-                const bandContent = document.createElement('div');
-                bandContent.className = 'band-content';
-    
-                // Create the band link
-                const bandLinkElement = document.createElement('a');
-                const bandLink = encodeURIComponent(band.bandName.replace(/ /g, '-'));
-                bandLinkElement.href = `band-bio.html?band=${bandLink}`;
-    
-                // Create the band name element
-                const bandNameElement = document.createElement('h2');
-                bandNameElement.className = 'band-name';
-                bandNameElement.textContent = band.bandName;
-                bandLinkElement.appendChild(bandNameElement);
-    
-                // Create the band image element
-                const bandImageElement = document.createElement('img');
-                bandImageElement.src = band.picture;
-                bandImageElement.className = 'img-fluid band-image';
-                bandLinkElement.appendChild(bandImageElement);
-    
-                // Append the band link to the band content
-                bandContent.appendChild(bandLinkElement);
-    
-                // Append the band content to the band container
-                bandContainer.appendChild(bandContent);
-    
-                // Append the band container to the row
-                row.appendChild(bandContainer);
-            });
         }
     </script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
-        $(function() {
-            $("#navbar-container").load("../navigation.html");
+        $(function () {
+          $("#navbar-container").load("navigation.html");
         });
-    </script>
+      </script>
     <script>
         $(function(){
             $("#footer").load("../footer.html");
         });
     </script>
-</body>
+
 </html>

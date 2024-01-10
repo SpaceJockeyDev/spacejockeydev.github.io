@@ -1,5 +1,4 @@
-{
-    "bands": [
+[
         {
             "bandName": "Arms Aloft",
             "hometown": "Eau Claire, WI",
@@ -61,7 +60,8 @@
             "socials": {
                 "facebook": "https://www.facebook.com/thefalconband",
                 "twitter": "https://twitter.com/thefalconband",
-                "instagram": "https://instagram.com/thefalconband"
+                "instagram": "https://instagram.com/thefalconband",
+                "bandcamp": "https://mofukkinfalcon.bandcamp.com/"
             },
             "picture": "https://f4.bcbits.com/img/0008477196_25.jpg",
             "bio": "The Falcon is a punk rock band from Chicago, Illinois. They have released three full-length albums on Red Scare Industries. The band released their first album, Unicornography, in 2006. In 2009, the band released their second album, Gather Up the Chaps. In 2016, the band released their third album, Gather Up the Chaps."
@@ -74,7 +74,7 @@
                 "twitter": "https://twitter.com/goodfriendband",
                 "instagram": "https://instagram.com/goodfriendband"
             },
-            "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293586234_381469367305590_405056769066396861_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=8oZLbX0ZMmsAX8Pbthz&_nc_ht=scontent-atl3-1.xx&oh=00_AfC1mX7G0jM3kJRZaVTlov67dGASQO05H-Un6lYOwje3jw&oe=6586EB6A",
+            "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293537281_381469363972257_803392125333365198_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=kSsT7yrSKkIAX9QKsJQ&_nc_ht=scontent-atl3-1.xx&oh=00_AfCfXVl_5wngx7C9wRpV__8fDchwOWWPSUjtAlovCHHYkQ&oe=6599B05A",
             "bio": "Good Friend is a punk rock band from The One True Ireland. They have released two EPs and one full-length album."
         },
         {
@@ -88,17 +88,4 @@
             "picture": "https://media2.orlandoweekly.com/orlando/imager/u/original/29551057/music_teenage_bottlerocket_photo_credit_jonathan_weiner.jpg",
             "bio": "Teenage Bottlerocket is a punk rock band from Laramie, Wyoming. They have released six full-length albums on Red Scare Industries. The band released their first album, They Came from the Shadows, in 2009. In 2011, the band released their second album, Freak Out!. In 2012, the band released their third album, Freak Out!. In 2015, the band released their fourth album, Tales from Wyoming. In 2017, the band released their fifth album, Stealing the Covers. In 2019, the band released their sixth album, Stay Rad!."
         }
-    ],
-    "activeBands": [
-        "Arms Aloft",
-        "Broadway Calls",
-        "The Brokedowns",
-        "Elway",
-        "The Falcon",
-        "Good Friend"
-    ],
-    "alumniBands": [
-        "Teenage Bottlerocket",
-        "Cobra Skulls"
-    ]
-}   
+]
