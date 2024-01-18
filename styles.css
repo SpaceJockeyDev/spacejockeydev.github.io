@@ -5,19 +5,19 @@
 
 @font-face {
     font-family: 'Viva';
-    src: url('/assets/fonts/ViveLaRivoluzione.ttf');
+    src: url('assets/fonts/VivelaRivoluzione.ttf');
 }
 @font-face {
     font-family: 'Helv';
-    src: url('/assets/fonts/HelvChildren.otf');
+    src: url('assets/fonts/HelvChildren.otf');
 }
 @font-face {
     font-family: 'Lemon';
-    src: url('/assets/fonts/LEMONMILK-Regular.otf');
+    src: url('assets/fonts/LEMONMILK-Regular.otf');
 }
 @font-face {
     font-family: 'Alte';
-    src: url('/assets/fonts/AlteHaasGroteskRegular.ttf');
+    src: url('assets/fonts/AlteHaasGroteskRegular.ttf');
 }
 .social-media-links a {
     color: #000; /* Set icon color */

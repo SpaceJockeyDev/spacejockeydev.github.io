@@ -346,7 +346,8 @@
         "links":{
             "spotify": "https://open.spotify.com/album/6X1DkmZG72NrvIlXMz22s2?si=QsSTj92PRM-AVimSTIyCQA",
             "appleMusic": "https://music.apple.com/us/album/this-wont-hurt/259195263",
-            "bandcamp": "https://themethadones.bandcamp.com/album/this-wont-hurt"
+            "bandcamp": "https://themethadones.bandcamp.com/album/this-wont-hurt",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10311-the-methadones-this-won-t-hurt-cd-cccp-114-2"
         }
     },
     {
@@ -373,7 +374,8 @@
         "links":{
             "spotify": "https://open.spotify.com/album/06XizyvLh1GN1Cr237MtQl?si=aV_0LLFkTyWHp4eslYt5Iw",
             "appleMusic": "https://music.apple.com/us/album/sitting-army/258993294",
-            "bandcamp": "https://cobraskulls.bandcamp.com/album/sitting-army"
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/sitting-army",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10312-cobra-skulls-sitting-army-cd-cccp-115-2"
         }
     },
     {
@@ -398,7 +400,8 @@
         "links":{
             "spotify": "https://open.spotify.com/album/65TWYwBAvmMyq6uEKWpHbU?si=P-Qat_PWSaOdlFaOAXM_NQ",
             "appleMusic": "https://music.apple.com/us/album/hasta-la-muerte/258993346",
-            "bandcamp": "https://laplebe.bandcamp.com/album/hasta-la-muerte"
+            "bandcamp": "https://laplebe.bandcamp.com/album/hasta-la-muerte",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10385-la-plebe-hasta-la-muerte-cd-cccp-116-2"
         }
     },
     {
@@ -425,7 +428,8 @@
         "links":{
             "spotify": "https://open.spotify.com/album/1O73GiuVOlkKkuNQNhS4QR?si=JiP36ZQnQVSX9APj-wNOEw",
             "appleMusic": "https://music.apple.com/us/album/warning-device/269947957",
-            "bandcamp": "https://teenagebottlerocket.bandcamp.com/album/warning-device"
+            "bandcamp": "https://teenagebottlerocket.bandcamp.com/album/warning-device",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/23730807-teenage-bottlerocket-warning-device-lp-cccp-118-1"
         }
     },
     {
@@ -453,7 +457,8 @@
         "links":{
             "spotify": "https://open.spotify.com/album/2IMLfJOnqjvhYBz7DdTJtf?si=4CR7gje0R1GFGvU0h3L_IA",
             "appleMusic": "https://music.apple.com/us/album/learn-the-hard-way/274272871",
-            "bandcamp": "https://thecopyrights.bandcamp.com/album/learn-the-hard-way-4"            
+            "bandcamp": "https://thecopyrights.bandcamp.com/album/learn-the-hard-way-4",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/1009280-the-copyrights-learn-the-hard-way-lp-cccp-119-1"            
         }
     },
     {
@@ -478,7 +483,8 @@
         "links":{
             "spotify": "https://open.spotify.com/album/0wygyTvIKID7UC7UkHYx8w?si=96F3G_b7S9OSqlbGg4-EiQ",
             "appleMusic": "https://music.apple.com/us/album/so-long-soggy-dog/271674289",
-            "bandcamp": "https://sidekicksohio.bandcamp.com/album/so-long-soggy-dog"
+            "bandcamp": "https://sidekicksohio.bandcamp.com/album/so-long-soggy-dog",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10391-the-sidekicks-so-long-soggy-dog-cd-cccp-120-2"
         }
     },
     {
@@ -495,7 +501,518 @@
         "links":{
             "spotify": "https://open.spotify.com/album/6XizyvLh1GN1Cr237MtQlM?si=QsSTj92PRM-AVimSTIyCQA",
             "appleMusic": "https://music.apple.com/us/album/never-be-a-machine-ep/325636020",
-            "bandcamp": "https://cobraskulls.bandcamp.com/album/never-be-a-machine"
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/never-be-a-machine",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Druglords of the Avenues",
+        "album": "Sing Songs",
+        "releaseNumber": "122",
+        "releaseDate": "2009-02-15",
+        "coverArt": "https://f4.bcbits.com/img/a0136193953_10.jpg",
+        "trackList":[
+            "01. Me Decided Play",
+            "02. He Loves",
+            "03. Druglords Of The Avenues",
+            "04. Staling Breed",
+            "05. What Is Good?",
+            "06. Where Are You Going?",
+            "07. Search Again",
+            "08. So Mixed Up",
+            "09. Meatballs And Corn Stew",
+            "10. There’s Nothing Really Going On",
+            "11. My Marina Of Remote Lakes",
+            "12. So Called Druglords",
+            "13. Favorite Thing"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4zUhVyLzDLybODz5pgbwA9?si=2XpFyTsTTyi2AfGPUEyEtA",
+            "appleMusic": "https://music.apple.com/us/album/sing-songs/303064550",
+            "bandcamp": "https://druglordsoftheavenues.bandcamp.com/album/sing-songs",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10392-druglords-of-the-avenues-sing-songs-cd-cccp-122-2"
+        }
+    },
+    {
+        "bandName": "Cobra Skulls",
+        "album": "Draw Muhammad",
+        "releaseNumber": "123",
+        "releaseDate": "2007-07-04",
+        "coverArt": "https://f4.bcbits.com/img/a2872503868_10.jpg",
+        "trackList":[
+            "01. Ode To Jefferson",
+            "02. Cobra Skulls At The Top Of Your Lungs",
+            "03. The Decider",
+            "04. Shame On The Cobra",
+            "05. I Want Bigger Cobra Skulls",
+            "06. Hasta Los Cobra Skulls Siempre",
+            "07. Cobra Skulls In D Minor"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/26MISYdbncBLzcDELtaB7z?si=Y8UvyugKSh-OswT7AYb62Q",
+            "appleMusic": "https://music.apple.com/us/album/draw-muhammad/303064274",
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/draw-muhammad",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10394-cobra-skulls-draw-muhammad-cdep-cccp-123-2"
+        }
+    },
+    {
+        "bandName": "The Menzingers",
+        "album": "Hold On, Dodge",
+        "releaseNumber": "124",
+        "releaseDate": "2009-05-05",
+        "coverArt": "https://f4.bcbits.com/img/a2450696231_10.jpg",
+        "trackList": [
+            "01. Sunday Morning",
+            "02. Lilith Avi",
+            "03. They Speak Of My Drinking, But Never Of My Thirst",
+            "04. Red, White, And Blues",
+            "05. Kentucky Gentlemen"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6XizyvLh1GN1Cr237MtQlM?si=QsSTj92PRM-AVimSTIyCQA",
+            "appleMusic": "https://music.apple.com/us/album/hold-on-dodge-ep/325636020",
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/never-be-a-machine",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Teenage Bottlerocket",
+        "album": "Live In ‘06",
+        "releaseNumber": "125",
+        "releaseDate": "2009-03-24",
+        "coverArt": "https://f4.bcbits.com/img/a1240261878_10.jpg",
+        "trackList": [
+            "01. Radio",
+            "02. So Cool",
+            "03. Stupid Games",
+            "04. Warning Device",
+            "05. Crashing",
+            "06. Lost In Space",
+            "07. Go Away",
+            "08. Repeat Offender",
+            "09. On My Own",
+            "10. Blood Bath At Burger King",
+            "11. Veronica",
+            "12. Gave You My Heart",
+            "13. A Bomb",
+            "14. So Far Away",
+            "15. Another Way"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/61sBRQfc53tH1ORYZJ4ZiX?si=of477lZkS2yJqo3WENycqA",
+            "appleMusic": "https://music.apple.com/us/album/live-in-06/308171971",
+            "bandcamp": "https://teenagebottlerocket.bandcamp.com/album/live-in-06",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Cobra Skulls",
+        "album": "American Rubicon",
+        "releaseNumber": "127",
+        "releaseDate": "2009-09-29",
+        "coverArt": "https://f4.bcbits.com/img/a2815865669_10.jpg",
+        "trackList":[
+            "01. Time And Pressure",
+            "02. There’s A Skeleton In My Military Industrial Closet",
+            "03. Rebel Fate",
+            "04. Muniphobia",
+            "05. Thicker Than Water",
+            "06. H.D.U.I. (Honorary Discharge Under The Influence)",
+            "07. Overpopulated",
+            "08. Problem With Preconceptions",
+            "09. Willful State Of Denial",
+            "10. I Used To Like Them When They Put “Cobra” In The Titles",
+            "11. Bad Apples",
+            "12. Timing",
+            "13. Back To The Youth",
+            "14. Dead Inside",
+            "15. Agree To Disagree",
+            "16. One Day I’ll Never",
+            "17. Exponential Times"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1OLg3WMwHfRa9va84rA2Vq?si=IOuB6r56TsCsmbodjJRmjw",
+            "appleMusic": "https://music.apple.com/us/album/american-rubicon/320438072",
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/american-rubicon",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10395-cobra-skulls-american-rubicon-cd-cccp-127-2"
+        }
+    },
+    {
+        "bandName": "The Sidekicks",
+        "album": "Weight Of Air",
+        "releaseNumber": "128",
+        "releaseDate": "2009-09-15",
+        "coverArt": "https://f4.bcbits.com/img/a1777401190_10.jpg",
+        "trackList":[
+            "01. Let It Breathe",
+            "02. Looking",
+            "03. A Healthy Time",
+            "04. Almost The Same",
+            "05. Day-Staring",
+            "06. Small",
+            "07. Static Mouth",
+            "08. Plans",
+            "09. Like The Tides",
+            "10. Shading",
+            "11. Learn To Live Without",
+            "12. Weight Of Air"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0xUYr0kyWNJoz3rrcjXw4Z?si=SEYn41WWQbuMv0gdFcXQMA",
+            "appleMusic": "https://music.apple.com/us/album/weight-of-air/326023590",
+            "bandcamp": "https://sidekicksohio.bandcamp.com/album/weight-of-air",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10399-the-sidekicks-weight-of-air-cd-cccp-128-2"
+        }
+    },
+    {
+        "bandName": "Sicko",
+        "album": "You Can Feel The Love In This Room",
+        "releaseNumber": "129",
+        "releaseDate": "1994-04-08",
+        "coverArt": "https://f4.bcbits.com/img/a3721358115_10.jpg",
+        "trackList":[
+            "01. Where I Live",
+            "02. Beam Me Up Denny",
+            "03. Your Wake",
+            "04. Wisdom Tooth Weekend",
+            "05. My Son",
+            "06. The Sprinkler",
+            "07. Kenny",
+            "08. Ouch",
+            "09. Me And Carl",
+            "10. On The Clock",
+            "11. Sprawling",
+            "12. Country",
+            "13. Spider",
+            "14. Attention Span",
+            "15. You Gotta",
+            "16. Ya Ya",
+            "17. Closer To Fine"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1olddWZvullmiTF2MJyXJr?si=AcfoyeNsSNy0rO9Nr_t3kg",
+            "appleMusic": "https://music.apple.com/us/album/you-can-feel-the-love-in-this-room/325273675",
+            "bandcamp": "https://sicko.bandcamp.com/album/you-can-feel-the-love-in-this-room",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Sicko",
+        "album": "Laugh While You Can Monkey Boy",
+        "releaseNumber": "130",
+        "releaseDate": "1995-05-19",
+        "coverArt": "https://f4.bcbits.com/img/a0515270557_10.jpg",
+        "trackList":[
+            "01. Wave Motion Gun",
+            "02. Farm Song",
+            "03. When To Quit",
+            "04. Johnny Be Not So Good",
+            "05. Bad Year",
+            "06. Rehashed",
+            "07. Snow Cone",
+            "08. Little Star",
+            "09. The Juice Is Loose",
+            "10. Who Owes",
+            "11. Mom",
+            "12. What’s On",
+            "13. Untitled"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2BNsr6lnbhcPy84a0LL0TA?si=HyuexD1eTmuvmtThnfNphw",
+            "appleMusic": "https://music.apple.com/us/album/laugh-while-you-can-monkey-boy/325323416",
+            "bandcamp": "https://sicko.bandcamp.com/album/laugh-while-you-can-monkey-boy",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Sicko",
+        "album": "Chef Boy R U Dum",
+        "releaseNumber": "131",
+        "releaseDate": "1995-10-27",
+        "coverArt": "https://f4.bcbits.com/img/a3934679161_10.jpg",
+        "trackList":[
+            "01. Half The Battle",
+            "02. I Hate Big Deal People",
+            "03. Don’t Ask Don’t Tell",
+            "04. 60 Pound Mall Rat",
+            "05. The Dateless Losers",
+            "06. Cover Up",
+            "07. Obsessive Compulsive Complainers",
+            "08. You Are A Space Alien",
+            "09. Little",
+            "10. Believe",
+            "11. Escalator",
+            "12. The Inland Empire Strikes Back",
+            "13. Computer Geek",
+            "14. Fields",
+            "15. On The Dole",
+            "16. Bad Situation",
+            "17. Breakfast Song (Live)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1P3MOq91dKgKdgoecLzoDL?si=8XVPiqG0RRyHherJ9SmWog",
+            "appleMusic": "https://music.apple.com/us/album/chef-boy-r-u-dumb/325323740",
+            "bandcamp": "https://sicko.bandcamp.com/album/chef-boy-r-u-dum",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Sicko",
+        "album": "You Are Not The Boss Of Me!",
+        "releaseNumber": "132",
+        "releaseDate": "1997-10-28",
+        "coverArt": "https://f4.bcbits.com/img/a1401073927_10.jpg",
+        "trackList":[
+            "01. Window Of Opprtunity",
+            "02. A Song About A Rabbit",
+            "03. Mike TV",
+            "04. An Indie Rock Daydream",
+            "05. The One That Got Away",
+            "06. Hipster Boyfriend",
+            "07. Attention Please",
+            "08. My Tribute To The Misfits (aka: Your Sister Is A Werewolf)",
+            "09. Washington My Home",
+            "10. What Happened",
+            "11. High Hopes",
+            "12. In So Many Words",
+            "13. If I’m Vacant",
+            "14. Summer Never Came",
+            "15. Yakuri Abe",
+            "16. The Best Thing In The World",
+            "17. Wrathchild"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4qqsvbENA0QuvCB7McMXL4?si=7jrrF_N-QCSHXB65R0Deyw",
+            "appleMusic": "https://music.apple.com/us/album/you-are-not-the-boss-of-me/325323415",
+            "bandcamp": "https://sicko.bandcamp.com/album/you-are-not-the-boss-of-me",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Sicko",
+        "album": "Count Me Out",
+        "releaseNumber": "133",
+        "releaseDate": "1993-03-30",
+        "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music/9d/76/11/mzi.lvpvxcjq.jpg/316x316bb.webp",
+        "trackList":[
+            "01. Count Me Out",
+            "02. Broken String",
+            "03. Kathy’s Dance",
+            "04. fB Song"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0xL5i2L1Qeiy3Zz37gkCvJ?si=OGqqtt4YSyKxEx1Rlau8Sg",
+            "appleMusic": "https://music.apple.com/us/album/count-me-out-ep/349384601",
+            "bandcamp": null,
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Reganomics",
+        "album": "Get Lost, Stay Lost",
+        "releaseNumber": "134",
+        "releaseDate": "2009-10-20",
+        "coverArt": "https://f4.bcbits.com/img/a3151379224_10.jpg",
+        "trackList":[
+            "01. I Can’t Count",
+            "02. Semi-Productive",
+            "03. Get Lost",
+            "04. Midian",
+            "05. Please Stop",
+            "06. College Students",
+            "07. Walking Talking Dick",
+            "08. My Bike",
+            "09. Smug Punx",
+            "10. My Best Friend Is A Bear",
+            "11. Cheetah Girl",
+            "12. It’s A G",
+            "13. Credit Card",
+            "14. Lower MGMT",
+            "15. Waste Of Time",
+            "16. Dogman",
+            "17. Bands Such As Buckcherry"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6ScOkArbrDkfl1BfStVtXo?si=w6SM0hXHRF--GKFuLZhRng",
+            "appleMusic": "https://music.apple.com/us/album/get-lost-stay-lost/333992108",
+            "bandcamp": "https://thereaganomics.bandcamp.com/album/get-lost-stay-lost",
+            "store": null
+        }   
+    },
+    {
+        "bandName": "Various Artists",
+        "album": "Untitled 21: A Juvenile Tribute To Swingin’ Utters",
+        "releaseNumber": "135",
+        "releaseDate": "2010-02-16",
+        "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/88/dc/7088dc24-a8e1-6ed4-7714-776ee4db4f08/mzi.gvaeexgs.jpg/316x316bb.webp",
+        "trackList":[
+            "01. Useless ID “Unpopular Again”",
+            "02. Smalltown “Politician”",
+            "03. Roll The Tanks “Windspitting Punk”",
+            "04. Dropkick Murphys “Strongman”",
+            "05. Cobra Skulls “If You Want Me To”",
+            "06. Moonshine “Back To You”",
+            "07. Broke ‘Til Thursday “As You Start Leaving”",
+            "08. Flatfoot 56 “Looking For Something To Follow”",
+            "09. La Plebe “All That I Can Give”",
+            "10. Fucked Up “Lazer Attack”",
+            "11. The Hollowpoints “From The Observatory”",
+            "12. Fucking Buckaroos “Fruitless Fortunes”",
+            "13. Teenage Bottlerocket “London Drunk”",
+            "14. Everybody Out! “No Time To Play”",
+            "15. Vultures United “To Return Now”",
+            "16. Off With Their Heads “Next In Line”",
+            "17. Massacre Time “Nine To Five”",
+            "18. Frantic “Heaven At Seventeen”",
+            "19. Street Dogs “Dirty Sea”",
+            "20. Johnny Two Bags “Pills & Smoke”",
+            "21. Sore Thumbs “15th And T”",
+            "22. The Oozzies “Storybook Disease”",
+            "23. Outlaw Dance Society “Smokestack Dreams”",
+            "24. Blag & The Druglords “Jackie Jab”",
+            "25. Joe Coffee “Smoke Like A Girl”",
+            "26. Left Alone “23”",
+            "27. Zero Bullshit “Something Sticky”",
+            "28. Russ Rankin “Beached Sailor”",
+            "29. Teen Idols “Five Lessons Learned”",
+            "30. The Departed “I Need Feedback”",
+            "31. The Forgotten “Catastrophe”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0nLYd6zmhvM79cH0yTlGJ1?si=qsQ8vL9rROODLE7w129Sdw",
+            "appleMusic": "https://music.apple.com/us/album/untitled-21-a-juvenile-tribute-to-swingin-utters/352496229",
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10402-v-a-untitled-21-a-juvenile-tribute-to-swingin-utters-cd"
+        }
+    },
+    {
+        "bandName": "Brendan Kelly & Joe McMahon",
+        "album": "Wasted Potential",
+        "releaseNumber": "136",
+        "releaseDate": "2010-03-16",
+        "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f1/45/89/f1458980-3394-30c3-4b7d-ea9fe7b61c0e/dj.zbwcsvmu.tif/316x316bb.webp",
+        "trackList":[
+            "01. Brendan Kelly – Like A Record Player",
+            "02. Brendan Kelly – Necrotism",
+            "03. Brendan Kelly – Quincentuple Your Money",
+            "04. Brendan Kelly – Blood Meridian",
+            "05. Brendan Kelly – Requiem Once Again Revisited",
+            "06. Brendan Kelly – There’s No Place Like A Stranger’s Floor",
+            "07. Brendan Kelly – Kiss The Bottle",
+            "08. Joe McMahon – Beauty Fades",
+            "09. Joe McMahon – Filter",
+            "10. Joe McMahon – What Separates Us All",
+            "11. Joe McMahon – Little Bohemia",
+            "12. Joe McMahon – Delawhere",
+            "13. Joe McMahon – Irish Handcuffs",
+            "14. Joe McMahon – Let The Train Blow The Whistle"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1v99b2otiIwpAJxQoP817V?si=1zxx7Yk5R1SIKeImBUe4IA",
+            "appleMusic": "https://music.apple.com/us/album/wasted-potential/353810859",
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10718-brendan-kelly-joe-mcmahon-wasted-potential-cd-cccp-136-2"
+        }
+    },
+    {
+        "bandName": "Vultures United",
+        "album": "Savages",
+        "releaseNumber": "137",
+        "releaseDate": "2010-04-13",
+        "coverArt": "https://f4.bcbits.com/img/a3683166480_10.jpg",
+        "trackList":[
+            "01. The Natives",
+            "02. The Joy Divisions",
+            "03. Marty, Hang On",
+            "04. I Am My Father’s Son",
+            "05. Haunted Houses In The City Of Fountains",
+            "06. The Last Surviving Member Of The Nostromo",
+            "07. Red Crossed",
+            "08. I Don’t Need Drugs, I Need Money",
+            "09. Shit Talk From Skull Mountain",
+            "10. 3AM",
+            "11. Salon Girls",
+            "12. Fine Night For An Exorcism",
+            "13. The Disappearance Of The Green Valley Pig"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1kRf2ay1805u7KfoK5upyO?si=brutLg_nRQGaRBXEI5bccg",
+            "appleMusic": "https://music.apple.com/us/album/savages/356793943",
+            "bandcamp": "https://vulturesunited.bandcamp.com/album/savages",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/12812-vultures-united-savages-cd-cccp-137-2"
+        }
+    },
+    {
+        "bandName": "The Menzingers",
+        "album": "I Was Born",
+        "releaseNumber": "138",
+        "releaseDate": "2010-03-16",
+        "coverArt": "https://f4.bcbits.com/img/a1855734396_10.jpg",
+        "trackList":[
+            "01. I Was Born",
+            "02. Mea Culpa Cabana",
+            "03. My Friend Chris"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6OXe2UH5yuocTiQh5QRiQJ?si=L9qOIpG3TgWpVHpv98fTRg",
+            "appleMusic": "https://music.apple.com/us/album/i-was-born-ep/358778828",
+            "bandcamp": "https://themenzingers.bandcamp.com/album/i-was-born-ep",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/29171923-the-menzingers-i-was-born-7-cccp-138-7" 
+        }
+    },
+    {
+        "bandName":"The Menzingers",
+        "album": "Chamberlain Waits",
+        "releaseNumber": "139",
+        "releaseDate": "2010-04-13",
+        "coverArt": "https://f4.bcbits.com/img/a2511799068_10.jpg",
+        "trackList":[
+            "01. Who’s Your Partner",
+            "02. I Was Born",
+            "03. Home Outgrown",
+            "04. Deep Sleep",
+            "05. Time Tables",
+            "06. Male Call",
+            "07. Tasker-Morris Station",
+            "08. So It Goes",
+            "09. No We Didn’t",
+            "10. Rivalries",
+            "11. Come Here Often?",
+            "12. Chamberlain Waits"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/28Aru7ISGlwtqmnbLRnIq4?si=IlLz_iXJRF-QV0TQGaSuVA",
+            "appleMusic": "https://music.apple.com/us/album/chamberlain-waits/362425989",
+            "bandcamp": "https://themenzingers.bandcamp.com/album/chamberlain-waits",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/11005689-the-menzingers-chamberlain-waits-lp-cccp-139-1"
+        }
+    },
+    {
+        "bandName": "The Brokedowns",
+        "album": "Species Bender",
+        "releaseNumber": "140",
+        "releaseDate": "2010-09-07",
+        "coverArt": "https://f4.bcbits.com/img/a3876584281_10.jpg",
+        "trackList":[
+            "01. Wizard Symptoms",
+            "02. I’m A Ritual",
+            "03. Noble Rot",
+            "04. A Romantic Weekend At The Night Train Vineyards",
+            "05. Done With Funk",
+            "06. Celebrity Death Panel",
+            "07. Loyal Looper (Theme From Renegade)",
+            "08. This Cult Is A Bummer",
+            "09. Skvll Skewl",
+            "10. You Got Miller’d",
+            "11. Steppin’ Lessons",
+            "12. Apocalypse Seaside Heights",
+            "13. Debt Sounds"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3QyjM9xuk4VaLxn4MHGWRg?si=2zoIF-xnSkSbXLL4psBoEQ",
+            "appleMusic": "https://music.apple.com/us/album/species-bender/386835681",   
+            "bandcamp": "https://thebrokedowns.bandcamp.com/album/species-bender",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/27741-the-brokedowns-species-bender-cd-cccp-140-2"
         }
     }
 ]

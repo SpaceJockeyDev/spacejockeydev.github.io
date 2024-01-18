@@ -7,12 +7,12 @@
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     />
-    <link rel="stylesheet" type="text/css" href="/styles.css" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
-    <link rel="icon" href="/assets/fist.ico" />
+    <link rel="icon" href="assets/fist.ico" />
     <style>
       .album-container {
         display: flex;
@@ -51,7 +51,7 @@
         color: #f80d0d;
       }
       body {
-        background-image: url("/assets/bgright.png"), url("/assets/bgleft.png");
+        background-image: url("assets/bgright.png"), url("assets/bgleft.png");
         background-repeat: repeat-y, repeat-y;
         background-position: right, left;
         background-size: 10%, 10%;
@@ -61,8 +61,8 @@
           font-size: 2.3em; /* Adjust this value as needed */
         }
         body {
-          background-image: url("/assets/bgright.png"),
-            url("/assets/bgleft.png");
+          background-image: url("assets/bgright.png"),
+            url("assets/bgleft.png");
           background-repeat: repeat-y, repeat-y;
           background-position: right, left;
           background-size: 10%, 10%;
@@ -70,6 +70,12 @@
         .album-container {
           flex-direction: column;
         }
+        .stream-on {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
       }
       .buy-button {
     display: inline-block;
@@ -155,7 +161,9 @@
             <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
             ${album.trackList.map((track) => `<li>${track}</li>`).join("")}
             </ul>
+            <div class="stream-on">
             <p>Stream on:</p>
+            <div class="icon-container">
             ${
               album.links.spotify
                 ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>`
@@ -171,6 +179,8 @@
                 ? `<a href="${album.links.bandCamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>`
                 : ""
             }
+              </div>
+            </div>
         </div>
     </div>`;
 
