@@ -1014,5 +1014,522 @@
             "bandcamp": "https://thebrokedowns.bandcamp.com/album/species-bender",
             "store": "https://redscare.storenvy.com/collections/9915-all-products/products/27741-the-brokedowns-species-bender-cd-cccp-140-2"
         }
+    },
+    {
+        "bandName": "The Bombpops",
+        "album": "Like I Care",
+        "releaseNumber": "141",
+        "releaseDate": "2010-11-01",
+        "coverArt": "https://f4.bcbits.com/img/a0277981959_10.jpg",
+        "trackList":[
+            "01. Outta Hand",
+            "02. Like I Care",
+            "03. Open Ended",
+            "04. Buried",
+            "05. Stuck On Repeat",
+            "06. To The Bone"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2te6eYwclGiCWOMg9hjpI8?si=7C25TEX1Qnyed7OD8i_eVg",
+            "appleMusic": "https://music.apple.com/us/album/like-i-care/405293258",
+            "bandcamp": "https://thebombpops.bandcamp.com/album/like-i-care",
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Reganomics",
+        "album": "Lower The Bar",
+        "releaseNumber": "142",
+        "releaseDate": "2011-02-15",
+        "coverArt": "https://f4.bcbits.com/img/a1165030836_10.jpg",
+        "trackList":[
+            "01. Don’t Worry, We’ll Play First",
+            "02. Ed Hardy",
+            "03. Directive 5 (RoboCop’s Always Down)",
+            "04. Chor An Idiot",
+            "05. Going Rogue",
+            "06. You’re Done",
+            "07. Stop Sending Me Evites To Your Shows",
+            "08. Chireland",
+            "09. The WB",
+            "10. Ren Fair",
+            "11. No Clue",
+            "12. Nice Life (Khaki Shorts And Miller Lite)",
+            "13. Wolfin’ Out",
+            "14. F.G.A. (Future Grandfathers Of America)",
+            "15. Up To Me",
+            "16. R.I.Peter",
+            "17. Rich Bastard"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7EQWr4g7RnZBUJ0kJlA2Pw?si=mLUjeJvARi2rGdD14R7sTg",
+            "appleMusic": "https://music.apple.com/us/album/lower-the-bar/414550810",
+            "bandcamp": "https://thereaganomics.bandcamp.com/album/lower-the-bar-2",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/53669-the-reaganomics-lower-the-bar-cd-cccp-142-2"
+        }
+    },
+    {
+        "bandName": "The Heat Tape",
+        "album": "Raccoon Valley Recordings",
+        "releaseNumber": "143",
+        "releaseDate": "2011-02-15",
+        "coverArt": "https://f4.bcbits.com/img/a2971587514_10.jpg",
+        "trackList":[
+            "01. Spend It",
+            "02. 21st Century Turd",
+            "03. Oh Camilla",
+            "04. Rich Man",
+            "05. Quotes From An Unopened Letter",
+            "06. Skin",
+            "07. Grandma’s Guns",
+            "08. Ah Ha Ah",
+            "09. Feel No Good",
+            "10. Four-Track Mind",
+            "11. Crackin’ Up",
+            "12. Idle Man"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4QkwVhmZRZHrM959ZbQF0g?si=NAaOjuRsS9K3hG_UwsfT2A",
+            "appleMusic": "https://music.apple.com/us/album/raccoon-valley-recordings/414695785",
+            "bandcamp": "https://theheattape.bandcamp.com/album/raccoon-valley-recordings",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/53696-the-heat-tape-raccoon-valley-recordings-cd-cccp-143-2"
+        }
+    },
+    {
+        "bandName": "Teenage Bottlerocket",
+        "album": "Another Way (Deluxe Edition)",
+        "releaseNumber": "144",
+        "releaseDate": "2003-10-31",
+        "coverArt": "https://f4.bcbits.com/img/a3855143235_10.jpg",
+        "trackList":[
+            "01. Be Stag",
+            "02. Patrick",
+            "03. Go-Go",
+            "04. She Can’t Think",
+            "05. Senior Prom",
+            "06. Mini Skirt",
+            "07. Pull The Plug",
+            "08. Rebound",
+            "09. Opportunity",
+            "10. Rathead",
+            "11. Another Way",
+            "12. A-Bomb",
+            "13. Teenwolf",
+            "14. Going Slow",
+            "15. Job on Me",
+            "16. Go Away",
+            "17. Why I Let You Go"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6d03usbIkrzdnRbByHsy8k?si=CADs6FVTTPmXhDIdHuNNPQ",
+            "appleMusic": "https://music.apple.com/us/album/another-way-deluxe-edition/422764603",
+            "bandcamp": "https://teenagebottlerocket.bandcamp.com/album/another-way",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/64061-teenage-bottlerocket-another-way-cd-cccp-144-2"
+        }
+    },
+    {
+        "bandName": "Elway",
+        "album": "Passing Days",
+        "releaseNumber": "145",
+        "releaseDate": "2011-04-05",
+        "coverArt": "https://f4.bcbits.com/img/a0018965923_10.jpg",
+        "trackList":[
+            "01. Passing Days",
+            "02. Patrick’s Scarf Is So Douche",
+            "03. Wolf Shirt"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0bctDUZOoouhwowRhXOsgp?si=3JlF9PgnQlmkwwUThpccKA",
+            "appleMusic": "https://music.apple.com/us/album/passing-days-single/425911195",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/passing-days-single",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Elway",
+        "album": "Delusions",
+        "releaseNumber": "146",
+        "releaseDate": "2011-05-10",
+        "coverArt": "https://f4.bcbits.com/img/a1666596792_10.jpg",
+        "trackList":[
+            "01. 3/4 Eleanor",
+            "02. Passing Days",
+            "03. Spent So Long",
+            "04. Whispers in a Shot Glass",
+            "05. San Mateo",
+            "06. Song for Eric Solomon to Sing",
+            "07. Kristina’s Last Song",
+            "08. The Tired Old Whore’s Bedside Book",
+            "09. Aphorisms",
+            "10. It’s Alive!",
+            "11. Tapout Endorsement: The Musical"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/523OQJzMo0ObrO4IPMveMW?si=N4C-1CjtQ5uzYUrHtPzb0A",
+            "appleMusic": "https://music.apple.com/us/album/delusions/431198329",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/delusions-mega-deluxe-version",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/657910-elway-delusions-lp-cccp-146-1"
+        }
+    },
+    {
+        "bandName": "Nothington",
+        "album": "More Than Obvious",
+        "releaseNumber": "147",
+        "releaseDate": "2011-07-05",
+        "coverArt": "https://f4.bcbits.com/img/a1589396783_10.jpg",
+        "trackList":[
+            "01. Not Looking Down (Acoustic)",
+            "02. Tired Hearts",
+            "03. More Than Obvious (Acoustic)",
+            "04. In Flames (Acoustic)",
+            "05. End Of The Day (Acoustic)",
+            "06. Down The Road (Acoustic)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4QGWF019BugfXKkChLVg9U?si=TtxiUA2kSVmzVelgeCSI4w",
+            "appleMusic": "https://music.apple.com/us/album/more-than-obvious/445740913",
+            "bandcamp": "https://nothington.bandcamp.com/album/more-than-obvious",
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Holy Mess",
+        "album": "The Holy Mess",
+        "releaseNumber": "148",
+        "releaseDate": "2011-06-14",
+        "coverArt": "https://f4.bcbits.com/img/a2474722469_10.jpg",
+        "trackList":[
+            "01. I Think Corduroy Is Making A Comeback",
+            "02. Captain, We’re Drinking!",
+            "03. Goodbye 3713 (Must’ve Been A Good One)",
+            "04.You Say PARTY! We Say WHERE!?!",
+            "05. Cigarette Reflections",
+            "06. It All Happened In A Ford Winstar",
+            "07. World Renowned Bonafide Shitshow!",
+            "08. Crazy Horny",
+            "09. Sunset On The Coastline",
+            "10. A Soulful Punk Tune About A Working Class Dreamer",
+            "11. Easy On The Pepsi Fuller! (The Hideaway Bed)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4bWz4yv5UWHMYZhk9rQHU8?si=17pu9lQZQseo2iuoNgoixQ",
+            "appleMusic": "https://music.apple.com/us/album/the-holy-mess/438057461",
+            "bandcamp": "https://fucktheholymess.bandcamp.com/album/s-t-2011",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/104700-the-holy-mess-s-t-cd-cccp-148-2"   
+        }
+    },
+    {
+        "bandName": "The Copyrights",
+        "album": "Crutches",
+        "releaseNumber": "149",
+        "releaseDate": "2011-06-28",
+        "coverArt": "https://f4.bcbits.com/img/a2904552453_10.jpg",
+        "trackList":[
+            "01. Crutches",
+            "02. Current Event (Demo)",
+            "03. Sober Shell South (Demo)",
+            "04. Worn Out Passport (Demo)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1mOfpBav17yzWGcK87PZZN?si=H1rMaNHFSLuOfNx9_9jjaQ",
+            "appleMusic": "https://music.apple.com/us/album/crutches-single/442001027",
+            "bandcamp": "https://thecopyrights.bandcamp.com/album/crutches-single",
+            "store": null  
+        }
+    },
+    {
+        "bandName": "The Copyrights",
+        "album": "North Sentinel Island",
+        "releaseNumber": "150",
+        "releaseDate": "2011-08-02",
+        "coverArt": "https://f4.bcbits.com/img/a3224233476_10.jpg",
+        "trackList":[
+            "01. Trustees Of Modern Chemistry",
+            "02. Crutches",
+            "03. Hard-Wired",
+            "04. 20 Feet Tall",
+            "05. Expatriate Blues",
+            "06. Bow Down",
+            "07. Worn Out Passport",
+            "08. Restless Head",
+            "09. Sleep Better",
+            "10. Scars",
+            "11. The New Ground Floor",
+            "12. Never Move You Back Row",
+            "13. Well-Fed And Warm",
+            "14. Hell Will Be Party Time"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/53scFyOqbnnZkI039vkyIb?si=fnf2jYe6TpuUsI3wcgObmg",
+            "appleMusic": "https://music.apple.com/us/album/north-sentinel-island/451282177",
+            "bandcamp": "https://thecopyrights.bandcamp.com/album/north-sentinel-island-2",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/128114-the-copyrights-north-sentinel-island-cd-cccp-150-2"
+        }
+    },
+    {
+        "bandName": "Nothington",
+        "album": "Borrowed Time",
+        "releaseNumber": "151",
+        "releaseDate": "2011-09-13",
+        "coverArt": "https://f4.bcbits.com/img/a3210604594_10.jpg",
+        "trackList":[
+            "01. Captive Audience",
+            "02. Where I Can’t Be Found",
+            "03. Far To Go",
+            "04. End Of The Day",
+            "05. To Hold On",
+            "06. The Escapist",
+            "07. St. Andrews Hall",
+            "08. Hopeless",
+            "09. Don’t Have To Wait",
+            "10. Ordinary Lives",
+            "11. I Should Say"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3sAjsBpcWPDJPSZHGwOgrD?si=cnaI4__JRIy96YiGWw1rGA",
+            "appleMusic": "https://music.apple.com/us/album/borrowed-time/458459452",
+            "bandcamp": "https://nothington.bandcamp.com/album/borrowed-time",
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Bombpops",
+        "album": "Stole The TV",
+        "releaseNumber": "152",
+        "releaseDate": "2011-10-04",
+        "coverArt": "https://f4.bcbits.com/img/a1919745963_10.jpg",
+        "trackList":[
+            "01. (Back To) The Medicine Cabinet",
+            "02. Paranoid",
+            "03. Grocery Store",
+            "04. Crazy"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0sCaRUyBGzqNY8HqruFFTE?si=5oi6mbu2Sa6kbFq8BUOJfg",
+            "appleMusic": "https://music.apple.com/us/album/stole-the-tv-ep/467039118",
+            "bandcamp": "https://thebombpops.bandcamp.com/album/stole-the-tv",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Brendan Kelly and the Wandering Birds",
+        "album": "A Man With The Passion Of Tennessee Williams",
+        "releaseNumber": "153",
+        "releaseDate": "2011-12-27",
+        "coverArt": "https://f4.bcbits.com/img/a4247564104_10.jpg",
+        "trackList":[
+            "01. A Man With The Passion Of Tennessee Williams",
+            "02. I’d Rather Die Than Live Forever",
+            "03. Suffer The Children Come Unto Me (Version Acoustique)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/04o975cXWNd48XbDsmT5WR?si=AghyweOHRrWwdJ5XBjScEA",
+            "appleMusic": "https://music.apple.com/us/album/a-man-with-the-passion-of-tennessee-williams-single/487556133",
+            "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/album/a-man-with-the-passion-of-tennessee-williams",
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Menzingers",
+        "album": "The Obituaries/ Burn After Writing",
+        "releaseNumber": "154",
+        "releaseDate": "2012-01-31",
+        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2018/06/MENZsevenCOVER.jpg",
+        "trackList":[
+            "01. The Obituaries",
+            "02. Burn After Writing"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/227518-the-menzingers-the-obituaries-7-cccp-154-7"
+        }
+    },
+    {
+        "bandName": "The Sidekicks",
+        "album": "Grace",
+        "releaseNumber": "155",
+        "releaseDate": "2012-01-17",
+        "coverArt": "https://f4.bcbits.com/img/a1117122614_16.jpg",
+        "trackList":[
+            "01. Grace",
+            "02. The Wallflowers",
+            "03. The 9th Piece",
+            "04. Stay"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5T4lXlKELtP2QBXDiun4y0?si=DnMweF1_Ro2eDzV-e5vKjw",
+            "appleMusic": "https://music.apple.com/us/album/grace-single/492742736",
+            "bandcamp": "https://thesidekicks.bandcamp.com/album/grace-single",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/227583-the-sidekicks-grace-7-cccp-155-7"
+        }
+    },
+    {
+        "bandName": "The Sidekicks",
+        "album": "Awkward Breeds",
+        "releaseNumber": "156",
+        "releaseDate": "2012-02-21",
+        "coverArt": "https://f4.bcbits.com/img/a3566516164_10.jpg",
+        "trackList":[
+            "1. DMT",
+            "2. Grace",
+            "3. Peacock",
+            "4. Incandescent Days",
+            "5. 1940’s Fighter Jet",
+            "6. Diamond Eyes",
+            "7. The Whale and Jonah",
+            "8. The 9th Piece",
+            "9. Looker",
+            "10. Baby, Baby",
+            "11. Daisy"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1hfCDmOqeKrOXDUNuvdXrU?si=-I0Hg2g-TESpF7bPQ3GCfA",
+            "appleMusic": "https://music.apple.com/us/album/awkward-breeds/492536396",
+            "bandcamp": "https://thesidekicks.bandcamp.com/album/awkward-breeds",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/245283-the-sidekicks-awkward-breeds-cd-cccp-156-2"
+        }
+    },
+    {
+        "bandName":"Brendan Kelly and the Wandering Birds",
+        "album": "I’d Rather Die Than Live Forever",
+        "releaseNumber": "157",
+        "releaseDate": "2012-03-27",
+        "coverArt": "https://f4.bcbits.com/img/a0129804113_10.jpg",
+        "trackList":[
+            "01. Suffer The Children, Come Unto Me",
+            "02. Doin’ Crimes",
+            "03. A Man With The Passion of Tennessee Williams",
+            "04. What’s A Boy To Do?",
+            "05. Ramblin’ Revisited",
+            "06. Dance of the Doomed",
+            "07. American Vagina",
+            "08. East St. Louis",
+            "09. Latenightsupersonicelasticbags",
+            "10. Your Mother",
+            "11. Covered In Flies",
+            "12. The Thud And The Echo"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/48vZAgvnxko9RC9xcU2xBn?si=kAW-qK9bRUmAAad2CzYHWA",
+            "appleMusic": "https://music.apple.com/us/album/id-rather-die-than-live-forever/502988151",
+            "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/album/id-rather-die-than-live-forever",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/763828-brendan-kelly-and-the-wandering-birds-i-d-rather-die-than-live-forever-lp"
+        }
+    },
+    {
+        "bandName": "Elway",
+        "album": "Hence My Optimism",
+        "releaseNumber": "158",
+        "releaseDate": "2012-06-12",
+        "coverArt": "https://f4.bcbits.com/img/a3128707857_10.jpg",
+        "trackList":[
+            "1. Dear Colorado",
+            "2. 25 Years",
+            "3. Note to Self",
+            "4. Take Me, Stabler"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/49fo7XNpGVkfVpaPfbmw17?si=DlCUhNwGTf6ugUyV7oa9FQ",
+            "appleMusic": "https://music.apple.com/us/album/hence-my-optimism-ep/528936304",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/hence-my-optimism",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/366830-elway-hence-my-optimism-7-cccp-158-7"
+        }
+    },
+    {
+        "bandName": "Dan Andriano in the Emergency Room & Brendan Kelly and the Wandering Birds",
+        "album": "European Vacation",
+        "releaseNumber": "159",
+        "releaseDate": "2012-06-19",
+        "coverArt": "https://prod-cdn-08.storenvy.com/product_photos/811415/CCCP159-7-Cover-RGB_original.jpg",
+        "trackList":[
+            "01. Dan Andriano in the Emergency Room – “The Radiator”",
+            "02. Brendan Kelly and the Wandering Birds – “Malthusian Clown”"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/366900-dan-andriano-in-the-emergency-room-b-w-brendan-kelly-and-the-wandering-birds"
+        }
+    },
+    {
+        "bandName": "Masked Intruder",
+        "album": "Masked Intruder",
+        "releaseNumber": "162",
+        "releaseDate": "2012-08-14",
+        "coverArt": "https://f4.bcbits.com/img/a0339585625_10.jpg",
+        "trackList":[
+            "01. Masked Intruder",
+            "02. 25 To Life",
+            "03. How Do I Get To You",
+            "04. I Don’t Wanna Be Alone Tonight",
+            "05. Unrequited Love",
+            "06. Breakin’",
+            "07. Heart Shaped Guitar",
+            "08. Am I Only Dreaming?",
+            "09. Stick ‘Em Up",
+            "10. Why Don’t You Love Me In Real Life?",
+            "11. Hello Beautiful",
+            "12. Wish You Were Mine",
+            "13. Crazy"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2rcd8wxONSQDKmYdut3iRa?si=JdnEQ2HYTpeLdQBNyC9ylQ",
+            "appleMusic": "https://music.apple.com/us/album/masked-intruder/545159181",
+            "bandcamp": "https://maskedintruder.bandcamp.com/album/masked-intruder",
+            "store": "hhttps://redscare.storenvy.com/collections/9915-all-products/products/471678-masked-intruder-s-t-cd-cccp-162-2"
+        }
+    },
+    {
+        "bandName": "The Holy Mess",
+        "album": "Cande Ru Las Degas",
+        "releaseNumber": "163",
+        "releaseDate": "2012-08-14",
+        "coverArt": "https://f4.bcbits.com/img/a1886269790_10.jpg",
+        "trackList":[
+            "01. My Boring 90’s",
+            "02. Within The Range Of A Raven",
+            "03. The Saddest Girl To Ever Hold A Martini",
+            "04. Cold Goodbyes",
+            "05. A Song For Tim Browne To Sing",
+            "06. Hospitals",
+            "07. Asleep In A Room Full of Dog Shit",
+            "08. Half That and Dublin",
+            "09. Weren’t No Fun",
+            "10. All Those Words"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4vMW2VMIvvJuqdVli8smVX?si=zsUuQ8r1TN-tLM5VBZY7-Q",
+            "appleMusic": "https://music.apple.com/us/album/cande-ru-las-degas/545889930",
+            "bandcamp": "https://fucktheholymess.bandcamp.com/album/cande-ru-las-degas-2012",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/471637-the-holy-mess-cande-ru-las-degas-cd-cccp-163-2"
+        }
+    },
+    {
+        "bandName": "Sam Russo",
+        "album": "Storm",
+        "releaseNumber": "164",
+        "releaseDate": "2012-10-30",
+        "coverArt": "https://f4.bcbits.com/img/a3516529470_10.jpg",
+        "trackList":[
+            "01. Factory Rain",
+            "02. Holding On",
+            "03. Letting Go",
+            "04. Dead End Roads",
+            "05. Cold Feet",
+            "06. Bars Like These",
+            "07. Get On Home",
+            "08. Tinned Peaches and Diamond Rings",
+            "09. Dry Shampoo",
+            "10. Storm"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/13eEFLHiy1HX5W95StHJbD?si=jEIF9RZRSqOSnzaNcfMYKQ",
+            "appleMusic": "https://music.apple.com/us/album/storm/571173560",
+            "bandcamp": "https://samrusso.bandcamp.com/album/storm",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/679744-sam-russo-storm-cd-cccp-164-2"   
+        }
     }
 ]
