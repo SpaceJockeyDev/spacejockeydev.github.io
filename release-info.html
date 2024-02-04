@@ -61,8 +61,7 @@
           font-size: 2.3em; /* Adjust this value as needed */
         }
         body {
-          background-image: url("assets/bgright.png"),
-            url("assets/bgleft.png");
+          background-image: url("assets/bgright.png"), url("assets/bgleft.png");
           background-repeat: repeat-y, repeat-y;
           background-position: right, left;
           background-size: 10%, 10%;
@@ -71,32 +70,32 @@
           flex-direction: column;
         }
         .stream-on {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+        }
       }
       .buy-button {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 25px;
-    text-align: center;
-    text-decoration: none;
-    background-color: #fd0404; /* Blue */
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    font-family: 'Lemon';
-    margin-bottom: 10px;
-}
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 25px;
+        text-align: center;
+        text-decoration: none;
+        background-color: #fd0404; /* Blue */
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        font-family: "Lemon";
+        margin-bottom: 10px;
+      }
 
-.buy-button:hover {
-    background-color: #ff070767; /* Darker blue */
-    color: rgb(255, 6, 6);
-}
+      .buy-button:hover {
+        background-color: #ff070767; /* Darker blue */
+        color: rgb(255, 6, 6);
+      }
       .album-title {
         font-size: 24px; /* Change to your desired font size */
         color: #666; /* Change to your desired color */
@@ -156,7 +155,11 @@
                         <p class="release-info">CCCP ${album.releaseNumber} - ${
               album.releaseDate
             }</p>
-            <a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>
+            ${
+              album.links.store !== null
+                ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
+                : ""
+            }
             <p style="font-family: 'Alte';">Track List:</p>
             <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
             ${album.trackList.map((track) => `<li>${track}</li>`).join("")}
@@ -164,23 +167,23 @@
             <div class="stream-on">
             <p>Stream on:</p>
             <div class="icon-container">
-            ${
-              album.links.spotify
-                ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>`
-                : ""
-            }
-            ${
-              album.links.appleMusic
-                ? `<a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple icon"></i></a>`
-                : ""
-            }
-            ${
-              album.links.appleMusic
-                ? `<a href="${album.links.bandcamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>`
-                : ""
-            }
-              </div>
-            </div>
+        ${
+          album.links.spotify != null
+            ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>`
+            : ""
+        }
+        ${
+          album.links.appleMusic != null
+            ? `<a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple icon"></i></a>`
+            : ""
+        }
+        ${
+          album.links.bandcamp != null
+            ? `<a href="${album.links.bandcamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>`
+            : ""
+        }
+    </div>
+</div>
         </div>
     </div>`;
 

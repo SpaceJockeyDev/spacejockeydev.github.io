@@ -1289,7 +1289,7 @@
             "spotify": "https://open.spotify.com/album/3sAjsBpcWPDJPSZHGwOgrD?si=cnaI4__JRIy96YiGWw1rGA",
             "appleMusic": "https://music.apple.com/us/album/borrowed-time/458459452",
             "bandcamp": "https://nothington.bandcamp.com/album/borrowed-time",
-            "store": null
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/657922-nothington-borrowed-time-lp-cccp-151-1"
         }
     },
     {
@@ -1531,5 +1531,360 @@
             "bandcamp": "https://samrusso.bandcamp.com/album/storm",
             "store": "https://redscare.storenvy.com/collections/9915-all-products/products/679744-sam-russo-storm-cd-cccp-164-2"   
         }
+    },
+    {
+        "bandName": "Druglords of the Avenues",
+        "album": "New Drugs",
+        "releaseNumber": "165",
+        "releaseDate": "2013-05-21",
+        "coverArt": "https://f4.bcbits.com/img/a4173219882_10.jpg",
+        "trackList":[
+            "01. There’s Something Seriously Wrong With Me",
+            "02. Brandy Breath",
+            "03. Take Your Meds",
+            "04. MacGowan’s Seeth",
+            "05. This Is A Pig",
+            "06. Such A Bore",
+            "07. Forward To Fun",
+            "08. For My Life",
+            "09. Don’t Mind Me",
+            "10. Highway",
+            "11. Fucked 17",
+            "12. Might We Dance",
+            "13. Hooray For The Holidays   "
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7AqGvoo0Pdcm1rPtuT9dOn?si=-Ao49Bt7TnSftPtqFLE9OA",
+            "appleMusic": "https://music.apple.com/us/album/new-drugs/642105007",
+            "bandcamp": "https://druglordsoftheavenues.bandcamp.com/album/new-drugs",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/1454850-druglords-of-the-avenues-new-drugs-cd-cccp-165-2"
+        }
+    },
+    {
+        "bandName": "Various Artists",
+        "album": "Red Scare Across America",
+        "releaseNumber": "168",
+        "releaseDate": "2013-06-06",
+        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2018/06/TOUR7DIGICOVER-300x300.jpg",
+        "trackList":[
+            "01. Masked Intruder “No Excuses”",
+            "02. Elway “More Tree Metaphors”",
+            "03. Sam Russo “Storm”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4rEc4VWZ6oxQYPpWuXgQog?si=obwBTMZ9T3COfIVOh-QY2Q",
+            "appleMusic": "https://music.apple.com/us/album/red-scare-across-america-2013-single/668873980",
+            "bandcamp": null,
+            "store": null
+        }
+    },
+    {
+        "bandName": "Elway",
+        "album": "Leavetaking",
+        "releaseNumber": "169",
+        "releaseDate": "2013-06-25",
+        "coverArt": "https://f4.bcbits.com/img/a4260306580_10.jpg",
+        "trackList":[
+            "01: The Great Divorce",
+            "02: Salton Sea",
+            "03: Prophetstown",
+            "04: One Flew East",
+            "05: One Flew West",
+            "06: Someday, Sea Wolf",
+            "07: Christopher",
+            "08: Banned From Gun World",
+            "09: Montreal",
+            "10: Ariel",
+            "11: There Is A Line",
+            "12: Patria Mia (Room 20)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2lVJs8Pn0Dl38tgfzenYwn?si=8M37sxk3Qly-jsH0B_UjEA",
+            "appleMusic": "https://music.apple.com/us/album/leavetaking/653315683",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/leavetaking",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/11005926-elway-leavetaking-lp-cccp-169-1"
+        }
+    },
+    {
+        "bandName": "Direct Hit!",
+        "album": "Brainless God",
+        "releaseNumber": "171",
+        "releaseDate": "2013-09-03",
+        "coverArt": "https://f4.bcbits.com/img/a2168466807_10.jpg",
+        "trackList":[
+            "01. On & On",
+            "02. The World Is Ending (No One Cares)",
+            "03. Buried Alive",
+            "04. Getting What He Asked For",
+            "05. White Robes",
+            "06. Heaven Is A Black Hole",
+            "07. We’re Fucked",
+            "08. Bank Of Elevators",
+            "09. Back To The Tower",
+            "10. I Told You A Lie",
+            "11. Home To You",
+            "12. A Message To The Angels Pt. II (Brainless God)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4ursylr3KGaPYxX95iQWDl?si=Tlh23318SJqf4qdYMRBq3A",
+            "appleMusic": "https://music.apple.com/us/album/brainless-god/686517818",
+            "bandcamp": "https://directhit.bandcamp.com/album/brainless-god",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/8466138-direct-hit-brainless-god-lp-cccp-171-1"
+        }
+    },
+    {
+        "bandName": "The Lillingtons",
+        "album": "Shit Out Of Luck",
+        "releaseNumber": "172",
+        "releaseDate": "1996-01-01",
+        "coverArt": "https://f4.bcbits.com/img/a2447468533_10.jpg",
+        "trackList":[
+            "01. Lillington High",
+            "02. I Don’t Think She Cares",
+            "03. Pom Pom Girl",
+            "04. Kevin Is A Lunatick",
+            "05. I Got Screwed Again",
+            "06. Oh Boy",
+            "07. Danny’s Problems",
+            "08. I Got Abducted By A UFO",
+            "09. Smart Ass",
+            "10. My Genitals Itch",
+            "11. Tonight",
+            "12. Day Off",
+            "13. Ramble On",
+            "14. Reform School",
+            "15. Hooked On You"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3Nx4bgMeKpuBRLx2yixeSC?si=hEiq1GrPT9yQ-iYP_1QIlQ",
+            "appleMusic": "https://music.apple.com/us/album/shit-out-of-luck/687669739",
+            "bandcamp": "https://thelillingtons.bandcamp.com/album/shit-out-of-luck",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Nothington",
+        "album": "Lost Along The Way",
+        "releaseNumber": "174",
+        "releaseDate": "2013-10-08",
+        "coverArt": "https://f4.bcbits.com/img/a1825802528_10.jpg",
+        "trackList":[
+            "01. Solid Ground",
+            "02. Save This",
+            "03. Idiot",
+            "04. All The Way",
+            "05. Not Looking Down (acoustic)",
+            "06. Tired Hearts",
+            "07. More Than Obvious (acoustic)",
+            "08. In Flames (acoustic)",
+            "09. End Of The Day (acoustic)",
+            "10. Down The Road (acoustic)",
+            "11. Rob The Band",
+            "12. Long Way Back",
+            "13. Far To Go (live in Germany)",
+            "14. A Mistake (live in Germany)",
+            "15. The Escapist (live in Germany)",
+            "16. The Last Time (live in Germany)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5AQe5mB07lyRwyO9qZr1ua?si=Srt53aMgS4mvpfDlTpzICQ",
+            "appleMusic": "https://music.apple.com/us/album/lost-along-the-way/713005062",
+            "bandcamp": "https://nothington.bandcamp.com/album/lost-along-the-way",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/8466027-nothington-lost-along-the-way-lp-cccp-174-1"
+        }
+    },
+    {
+        "bandName": "The Slow Death & The Brokedowns",
+        "album": "Split EP",
+        "releaseNumber": "175",
+        "releaseDate": "2013-11-12",
+        "coverArt": "https://prod-cdn-06.storenvy.com/product_photos/9543770/SlowDownsWEB_original.jpg",
+        "trackList":[
+            "The Brokedowns (Side A)",
+            "1. No Mastura",
+            "2. Hand Me Down Bones",
+            "3. The Slow Witness",
+            "The Slow Death (Side B)",
+            "1. By The Horns",
+            "2. Pillbox",
+            "3. Breakdown"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/4190324-the-slow-death-the-brokedowns-split-7-cccp-175-7"
+        }
+    },
+    {
+        "bandName": "Masked Intruder",
+        "album": "Under The Mistletoe",
+        "releaseNumber": "176",
+        "releaseDate": "2013-12-10",
+        "coverArt": "https://f4.bcbits.com/img/a0250692691_10.jpg",
+        "trackList":[
+            "01. Under The Mistletoe",
+            "02. Silent Night"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG?si=WMLITZSOTUS20-QHffWobg",
+            "appleMusic": "https://music.apple.com/us/album/under-the-mistletoe-single/741471281",
+            "bandcamp": "https://maskedintruder.bandcamp.com/album/under-the-mistletoe",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Brendan Kelly & Sam Russo",
+        "album": "Split The Tip",
+        "releaseNumber": "177",
+        "releaseDate": "2014-05-13",
+        "coverArt": "https://prod-cdn-07.storenvy.com/product_photos/19602447/BK_20SR_20split_20300x300_original.jpg",
+        "trackList":[
+            "Sam Russo (Side A)",
+            "1. Small Town Shoes",
+            "2. Crayfish Tales",
+            "Brendan Kelly (Side B)",
+            "1. Frangelico Houston",
+            "2. Pigs"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7o3eQlyHUAEd24l5x1MgWF?si=7Eg0UjtiRSaS1haDNaeftw",
+            "appleMusic": "https://music.apple.com/us/album/split-the-tip-ep/878428771",
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/8466264-brendan-kelly-sam-russo-split-the-tip-7-cccp-177-7"
+        }
+    },
+    {
+        "bandName": "Cobra Skulls",
+        "album": "Live At The BBC",
+        "releaseNumber": "178",
+        "releaseDate": "2014-04-18",
+        "coverArt": "https://f4.bcbits.com/img/a1104069470_10.jpg",
+        "trackList":[
+            "1. H.D.U.I.",
+            "2. Rebel Fate",
+            "3. Solastalgia",
+            "4. New Age"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3AIr5vkBJRAg6TdMJSjW6A?si=Eb_7sHBaSKCBxpzGx_zMLQ",
+            "appleMusic": "https://music.apple.com/us/album/live-at-the-bbc-ep/978532380",
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/live-at-the-bbc",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Direct Hit! & Priceduifkes",
+        "album": "Split",
+        "releaseNumber": "179",
+        "releaseDate": "2014-05-13",
+        "coverArt": "https://prod-cdn-04.storenvy.com/product_photos/19603134/dhpdsplit_original.jpg",
+        "trackList":[
+            "Direct Hit! (Side A)",
+            "1. Wasting Away",
+            "2. I Ain’t Dreaming Of A White Christmas",
+            "The Priceduifkes (Side B)",
+            "1. Boredom Addict",
+            "2. Getwood City"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/8466450-direct-hit-the-priceduifkes-split-7-cccp-179-7"
+        }
+    },
+    {
+        "bandName": "The Copyrights",
+        "album": "Report",
+        "releaseNumber": "180",
+        "releaseDate": "2014-08-19",
+        "coverArt": "https://f4.bcbits.com/img/a2907252137_10.jpg",
+        "trackList": [
+            "01. Slider",
+            "02. Heart Of Glue",
+            "03. Telescope",
+            "04. Stuck In The Fall",
+            "05. This World Is Such A Drag",
+            "06. Keep The Change",
+            "07. Worlds On Fire",
+            "08. No Knocks",
+            "09. Fireworks",
+            "10. Wishbone",
+            "11. The New Frontier",
+            "12. Try So Hard",
+            "13. Basement",
+            "14. Away We Go"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/77Li4A2uUeoDFeTtYCf6U7?si=WJINbppOSuSrjoCYmTdDKQ",
+            "appleMusic": "https://music.apple.com/us/album/report/904103740",
+            "bandcamp": "https://thecopyrights.bandcamp.com/album/report",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10919190-the-copyrights-report-lp-cccp-180-1"
+        }
+    },
+    {
+        "bandName": "The Brokedowns",
+        "album": "Life Is A Breeze",
+        "releaseNumber": "181",
+        "releaseDate": "2014-12-02",
+        "coverArt": "https://f4.bcbits.com/img/a3371687072_10.jpg",
+        "trackList":[
+            "01. Joliet, The Maui Of The Midwest",
+            "02. The Gospel Of Mustafa",
+            "03. Life Is A Breeze",
+            "04. Murder Junkie/CPA",
+            "05. Everything Is Immoral",
+            "06. Born On The Bayou Too",
+            "07. What A Drag",
+            "08. The End Is Not Near",
+            "09. Bless This Mess",
+            "10. Cash For Gold",
+            "11. DIY Space Program",
+            "12. Vapor Chase",
+            "13. I Respect Your Right To Always Be Wrong About Everything",
+            "14. God Hates Math",
+            "15. Keep Branson Weird",
+            "16. A Child’s Guide To Black Metal"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2RkRnmenGMq0dxRRHHmJ9q?si=K5pMqFAPQZKth22YIw87SA",
+            "appleMusic": "https://music.apple.com/us/album/life-is-a-breeze/939915505",
+            "bandcamp": "https://thebrokedowns.bandcamp.com/album/life-is-a-breeze",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10919328-the-brokedowns-life-is-a-breeze-cd-cccp-181-2"
+        }
+    },
+    {
+        "bandName": "Various Artists",
+        "album": "Red Scare Industries: 10 Years Of Your Dumb Bullshit",
+        "releaseNumber": "182",
+        "releaseDate": "2014-10-14",
+        "coverArt": "https://prod-cdn-04.storenvy.com/product_photos/21351607/CCCP182_original.jpg",
+        "trackList":[
+            "01. The Lillingtons “Pyramids”",
+            "02. The Falcon “We Are The Bald”",
+            "03. Enemy You: “Adios (To You)”",
+            "04. Masked Intruder “I Don’t Mind”",
+            "05. Nothington “So It Is”",
+            "06. The Copyrights “Oedipus Dill”",
+            "07. Cobra Skulls “No Puede Mas”",
+            "08. Direct Hit! “Bad Trip On Holy Ghost”",
+            "09. Teenage Bottlerocket “TV Set”",
+            "10. The Brokedowns “Ouija Jive”",
+            "11. Elway “Chillswitch Engage”",
+            "12. Reaganomics “Bite Your Tongue”",
+            "13. The Sidekicks “The Wallflowers”",
+            "14. Druglords of the Avenues “Drunkest Teen”",
+            "15. Brendan Kelly and the Wandering Birds “Gluesday Evening Blues”",
+            "16. The Methadones “Trip Wire”",
+            "17. Sam Russo “Forever West”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7loaWUeblNWxZq7D9grQZ3?si=6U9L8-KYQqaqapLuew9amA",
+            "appleMusic": "https://music.apple.com/us/album/red-scare-industries-10-years-of-your-dumb-b-t/910381005",
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/9189874-various-artists-red-scare-industries-10-years-of-your-dumb-bullshit-cd-cc"
+        }
     }
+
 ]
