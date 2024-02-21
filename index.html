@@ -42,11 +42,16 @@
         padding: 20px;
         background-color: #f7f3f3;
       }
-      #blog-posts img, #blog-posts video, #blog-posts iframe {
+      #blog-posts a {
+        color: red; /* Change the color of hyperlinks to red */
+      }
+      #blog-posts img,
+      #blog-posts video,
+      #blog-posts iframe {
         max-width: 100%;
         margin: 0 auto;
         display: block;
-    }
+      }
       #blog-posts div {
         /* Styles for each post div */
         margin-bottom: 20px;
@@ -67,7 +72,7 @@
         /* Styles for each post body */
         font-size: 16px;
         color: #666;
-        font-family: 'Alte';
+        font-family: "Alte";
       }
       body {
         background-image: url("assets/bgright.png"), url("assets/bgleft.png");
@@ -98,6 +103,26 @@
         font-family: "Helv";
         font-size: 16px;
       }
+      #pagination {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-bottom: 20px;
+      }
+
+      #pagination button {
+        padding: 10px 20px;
+        border: none;
+        background-color: #ff0303;
+        color: rgb(255, 255, 255);
+        cursor: pointer;
+        font-family: "Lemon";
+      }
+
+      #pagination button:hover {
+        background-color: #ff003328;
+        color: rgb(252, 3, 3);
+      }
 
       @media (max-width: 600px) {
         .releases {
@@ -126,8 +151,8 @@
           background-repeat: repeat-y, repeat-y;
         }
         #blog-posts {
-        /* Styles for the blog-posts div */
-        width: 80%;
+          /* Styles for the blog-posts div */
+          width: 80%;
         }
         #blog-posts img,
         #blog-posts video,
@@ -166,6 +191,10 @@
     </div>
 
     <div id="blog-posts"></div>
+    <div id="pagination">
+      <button id="prev-page">New News</button>
+      <button id="next-page">Old News</button>
+    </div>
 
     <div class="social-feeds">
       <div class="feed-container">
@@ -495,41 +524,71 @@
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script>
-    fetch("https://www.redscare.net/site/wp-json/wp/v2/posts")
-      .then((response) => response.json())
-      .then((posts) => {
-        const blogPostsDiv = document.getElementById("blog-posts");
-        posts.forEach((post) => {
-          const postDiv = document.createElement("div");
-          const postTitle = document.createElement("h2");
-          const postDate = document.createElement("p");
-          const postBody = document.createElement("p");
+    let currentPage = 1;
+    const postsPerPage = 5; // Change this to the number of posts you want per page
 
-          // Create a new DOMParser
-          const parser = new DOMParser();
+    function fetchPosts(page) {
+      fetch(
+        `https://www.redscare.net/site/wp-json/wp/v2/posts?per_page=${postsPerPage}&page=${page}`
+      )
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("No more posts");
+          }
+          return response.json();
+        })
+        .then((posts) => {
+          const blogPostsDiv = document.getElementById("blog-posts");
+          // Clear out the current posts
+          blogPostsDiv.innerHTML = "";
+          posts.forEach((post) => {
+            const postDiv = document.createElement("div");
+            const postTitle = document.createElement("h2");
+            const postDate = document.createElement("p");
+            const postBody = document.createElement("p");
 
-          // Parse the title as HTML
-          const titleDoc = parser.parseFromString(
-            post.title.rendered,
-            "text/html"
-          );
+            // Create a new DOMParser
+            const parser = new DOMParser();
 
-          // Get the text content of the parsed HTML
-          postTitle.textContent = titleDoc.body.textContent || "";
+            // Parse the title as HTML
+            const titleDoc = parser.parseFromString(
+              post.title.rendered,
+              "text/html"
+            );
 
-          // Format the date
-          const date = new Date(post.date);
-          postDate.textContent = date.toLocaleDateString();
+            // Get the text content of the parsed HTML
+            postTitle.textContent = titleDoc.body.textContent || "";
 
-          // Keep the body as it is
-          postBody.innerHTML = post.content.rendered;
+            // Format the date
+            const date = new Date(post.date);
+            postDate.textContent = date.toLocaleDateString();
 
-          postDiv.appendChild(postTitle);
-          postDiv.appendChild(postDate);
-          postDiv.appendChild(postBody);
-          blogPostsDiv.appendChild(postDiv);
-        });
-      });
+            // Keep the body as it is
+            postBody.innerHTML = post.content.rendered;
+
+            postDiv.appendChild(postTitle);
+            postDiv.appendChild(postDate);
+            postDiv.appendChild(postBody);
+            blogPostsDiv.appendChild(postDiv);
+          });
+        })
+        .catch((error) => console.error("Error:", error));
+    }
+
+    // Fetch the first page of posts when the page loads
+    fetchPosts(currentPage);
+
+    document.getElementById("next-page").addEventListener("click", () => {
+      currentPage++;
+      fetchPosts(currentPage);
+    });
+
+    document.getElementById("prev-page").addEventListener("click", () => {
+      if (currentPage > 1) {
+        currentPage--;
+        fetchPosts(currentPage);
+      }
+    });
   </script>
   <script>
     fetch("releases.json")

@@ -16,10 +16,14 @@
       font-size: 3em;
       color: #333;
       font-family: "Viva";
+      text-align: center; 
     }
     #band-picture {
       width: 600px;
-      height: auto;
+    height: auto;
+    display: block; /* Center the band picture */
+    margin-left: auto;
+    margin-right: auto;
     }
     #band-bio {
       font-size: 1.2em;
@@ -31,10 +35,10 @@
       flex-wrap: wrap;
     }
     .release {
-      flex-basis: calc(20% - 10px); /* 5 albums in a row */
+      flex-basis: calc(20% - 15px); /* 5 albums in a row */
       margin-bottom: 20px;
       text-align: center;
-      margin-right: 30px;
+      margin-right: 15px;
     }
     .release img {
       width: 250px;
@@ -83,7 +87,11 @@
     }
     #band-hometown {
       font-family: "Helv"; /* Replace with your desired font */
+      text-align: center;
     }
+    #band-socials {
+    text-align: center; /* Center the band socials */
+  }
   </style>
 </head>
 <div id="navbar-container"></div>
@@ -114,15 +122,18 @@
             (release) => release.bandName === band.bandName
           );
 
+          // Sort the releases by release number
+          band.releases.sort((a, b) => b.releaseNumber - a.releaseNumber);
+
           document.getElementById("band-name").textContent = band.bandName;
           document.getElementById("band-picture").src = band.picture;
           document.getElementById("band-hometown").textContent = 'Hometown: ' + band.hometown;
           document.getElementById("band-bio").textContent = band.bio;
           document.getElementById("band-socials").innerHTML = `
-                        <a href="${band.socials.facebook}" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                        <a href="${band.socials.twitter}" target="_blank"><i class="fab fa-twitter"></i></a>
-                        <a href="${band.socials.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>
-                        <a href="${band.socials.bandcamp}" target="_blank"><i class="fab fa-bandcamp"></i></a>`;
+            ${band.socials.facebook ? `<a href="${band.socials.facebook}" target="_blank"><i class="fab fa-facebook-f"></i></a>` : ''}
+            ${band.socials.twitter ? `<a href="${band.socials.twitter}" target="_blank"><i class="fab fa-twitter"></i></a>` : ''}
+            ${band.socials.instagram ? `<a href="${band.socials.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>` : ''}
+            ${band.socials.bandcamp ? `<a href="${band.socials.bandcamp}" target="_blank"><i class="fab fa-bandcamp"></i></a>` : ''}`;
 
           document.title = "Red Scare | " + band.bandName;
 
@@ -161,3 +172,4 @@
     $("#footer").load("footer.html");
   });
 </script>
+

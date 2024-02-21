@@ -1,14 +1,51 @@
 [
         {
+            "bandName":"The All Brights",
+            "hometown": "Santa Barbara, CA",
+            "socials": {
+                "facebook": "https://www.facebook.com/theallbrights/",
+                "twitter": "https://twitter.com/theallbrights",
+                "instagram": "https://instagram.com/theallbrights",
+                "bandcamp": "https://theallbrights.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0008466304_10.jpg",
+            "bio": "The All Brights are a punk rock band from Santa Barbara, California. They have released one full-length album on Red Scare Industries. The band released their first album, The White Album, in 2016."
+        },
+        {
             "bandName": "Arms Aloft",
             "hometown": "Eau Claire, WI",
             "socials": {
                 "facebook": "https://www.facebook.com/band",
                 "twitter": "https://twitter.com/armsaloft",
-                "instagram": "https://instagram.com/armsaloft"
+                "instagram": "https://instagram.com/armsaloft",
+                "bandcamp": "https://armsaloft.bandcamp.com/"
             },
-            "picture": "https://lastfm.freetls.fastly.net/i/u/770x0/971b1e9285b3276b0895d9f642d4531f.jpg#971b1e9285b3276b0895d9f642d4531f",
+            "picture": "https://f4.bcbits.com/img/0022453360_10.jpg",
             "bio": "Arms Aloft is an American punk group from Eau Claire, Wisconsin, United States. Their name is a reference to a song by Joe Strummer and the Mescaleros on their 2003 album Streetcore. Since their founding in 2007, the band has released two LPs, two EPs, one live album, and four split singles."
+        },
+        {
+            "bandName": "Billy Liar",
+            "hometown": "Edinburgh, Scotland",
+            "socials": {
+                "facebook": "https://www.facebook.com/official.billy.liar/",
+                "twitter": "https://twitter.com/thebillyliar",
+                "instagram": "https://www.instagram.com/officialbillyliar/",
+                "bandcamp": "https://officialbillyliar.bandcamp.com/"
+            },
+            "picture": "https://xthoughtswordsactionx.files.wordpress.com/2023/10/2d1dff90-c667-1ced-95f9-0700447f7cd6.jpg",
+            "bio": "Billy Liar is a punk rock band from Edinburgh, Scotland. They have released two full-length albums on Red Scare Industries. The band released their first album, All I've Got, in 2015. In 2018, the band released their second album, Some Legacy."
+        },
+        {
+            "bandName": "The Bollweevils",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/thebollweevils",
+                "twitter": "https://twitter.com/thebollweevils",
+                "instagram": "https://instagram.com/thebollweevils",
+                "bandcamp": "https://thebollweevils.bandcamp.com/"
+            },
+            "picture": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2023/05/The-Bollweevils-by-Paul-Catani.jpg?w=1200&quality=89&ssl=1",
+            "bio": "The Bollweevils are a punk rock band from Chicago, Illinois. They have released three full-length albums on Dr. Strange Records. The band released their first album, Stick Your Neck Out, in 1995. In 1997, the band released their second album, Heavyweight. In 2003, the band released their third album, History of the Bollweevils Part 1."
         },
         {
             "bandName": "Broadway Calls",
@@ -16,7 +53,8 @@
             "socials": {
                 "facebook": "https://www.facebook.com/broadwaycalls",
                 "twitter": "https://twitter.com/broadwaycalls",
-                "instagram": "https://instagram.com/broadwaycalls"
+                "instagram": "https://instagram.com/broadwaycalls",
+                "bandcamp": "https://broadwaycalls.bandcamp.com/"
             },
             "picture": "https://badcopy.s3.amazonaws.com/20170829093342/Broadway-Calls-min.jpg",
             "bio": "Broadway Calls is a punk rock band from Rainier, Oregon. The band consisted of Ty Vaughn, Josh Baird, and Matt Koenig. The band has released three full-length albums on SideOneDummy Records. The band released their first album, Broadway Calls, in 2007. In 2009, the band released their second album, Good Views, Bad News. In 2013, the band released their third album, Comfort/Distraction."
@@ -27,10 +65,35 @@
             "socials": {
                 "facebook": "https://www.facebook.com/thebrokedowns",
                 "twitter": "https://twitter.com/thebrokedowns",
-                "instagram": "https://instagram.com/thebrokedowns"
+                "instagram": "https://instagram.com/thebrokedowns",
+                "bandcamp": "https://thebrokedowns.bandcamp.com/"
             },
             "picture": "https://f4.bcbits.com/img/0004728671_25.jpg",
             "bio": "The Brokedowns are a punk rock band from Elgin, Illinois. They have released four full-length albums on Red Scare Industries. The band released their first album, New Brains for Everyone, in 2008. In 2010, the band released their second album, Species Bender. In 2013, the band released their third album, Species Bender. In 2016, the band released their fourth album, Species Bender."
+        },
+        {
+            "bandName": "Brendan Kelly and the Wandering Birds",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": null,
+                "twitter": "https://twitter.com/badsandwich",
+                "instagram": "https://instagram.com/dr_beexo",
+                "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0008465590_10.jpg",
+            "bio": "Brendan Kelly and the Wandering Birds is a punk rock band from Chicago, Illinois. They have released two full-length albums on Red Scare Industries. The band released their first album, I'd Rather Die Than Live Forever, in 2012. In 2018, the band released their second album, Keep Walkin' Pal."
+        },
+        {
+            "bandName": "Bullets To Broadway",
+            "hometown": "Gainesville, FL",
+            "socials": {
+                "facebook": null,
+                "twitter": null,
+                "instagram": null,
+                "bandcamp": "https://bulletstobroadway.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0012923482_10.jpg",
+            "bio": "Bullets to Broadway is a punk rock band from Gainesville, Florida. They have released one full-length album on Red Scare Industries. The band released their first album, The Black, The White, and the Grey, in 2016."
         },
         {
             "bandName": "Cobra Skulls",
@@ -38,10 +101,71 @@
             "socials": {
                 "facebook": "https://www.facebook.com/cobraskulls",
                 "twitter": "https://twitter.com/cobraskulls",
-                "instagram": "https://instagram.com/cobraskulls"
+                "instagram": "https://instagram.com/cobraskulls",
+                "bandcamp": "https://cobraskulls.bandcamp.com/"
             },
             "picture": "https://gunnerrecords.com/wp-content/uploads/2018/09/CobraSkulls_38-1024x685.jpg",
             "bio": "Cobra Skulls is a punk rock band from Reno, Nevada. They have released three full-length albums on Red Scare Industries. The band released their first album, American Rubicon, in 2009. In 2011, the band released their second album, Agitations. In 2013, the band released their third album, Agitations."
+        },
+        {
+            "bandName": "The Copyrights",
+            "hometown": "Carbondale, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/thecopyrights",
+                "twitter": "https://twitter.com/thecopyrights",
+                "instagram": "https://instagram.com/thecopyrights",
+                "bandcamp": "https://thecopyrights.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0003965677_10.jpg",
+            "bio": "The Copyrights are a punk rock band from Carbondale, Illinois. They have released six full-length albums on Red Scare Industries. The band released their first album, Mutiny Pop, in 2006. In 2007, the band released their second album, Make Sound. In 2010, the band released their third album, Learn the Hard Way. In 2014, the band released their fourth album, Report. In 2018, the band released their fifth album, Report. In 2021, the band released their sixth album, Report."
+        },
+        {
+            "bandName": "Derek Grant",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/derekgrant",
+                "twitter": null,
+                "instagram": "https://instagram.com/derekdontgram",
+                "bandcamp": "https://derekgrant.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0009466635_10.jpg",
+            "bio": "Derek Grant is a punk rock band from Chicago, Illinois. They have released two full-length albums on Red Scare Industries. The band released their first album, Breakdown, in 2015. In 2017, the band released their second album, Breakdown."
+        },
+        {
+            "bandName": "Direct Hit!",
+            "hometown": "Milwaukee, WI",
+            "socials": {
+                "facebook": "https://www.facebook.com/directhitband",
+                "twitter": "https://twitter.com/directhit_sucks",
+                "instagram": "https://instagram.com/directhitband",
+                "bandcamp": "https://directhit.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0014254304_10.jpg",
+            "bio": "Direct Hit! is a punk rock band from Milwaukee, Wisconsin. They have released five full-length albums on Red Scare Industries. The band released their first album, Domesplitter, in 2011. In 2013, the band released their second album, Brainless God. In 2015, the band released their third album, Wasted Mind. In 2018, the band released their fourth album, Crown of Nothing. In 2020, the band released their fifth album, Crown of Nothing."
+        },
+        {
+            "bandName": "Drakulas",
+            "hometown": "Austin, TX",
+            "socials": {
+                "facebook": "https://www.facebook.com/drakulastx",
+                "twitter": "https://twitter.com/drakulastx",
+                "instagram": "https://instagram.com/drakulastx",
+                "bandcamp": "https://drakulas.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0009459660_10.jpg",
+            "bio": "Drakulas is a punk rock band from Austin, Texas. They have released two full-length albums on Red Scare Industries. The band released their first album, Raw Wave, in 2015. In 2019, the band released their second album, Terminal Amusements."
+        },
+        {
+            "bandName": "Druglords of the Avenues",
+            "hometown": "Oakland, CA",
+            "socials": {
+                "facebook": "https://www.facebook.com/druglordsoftheavenues",
+                "twitter": "https://twitter.com/druglordsband",
+                "instagram": "https://instagram.com/druglordsoftheavenues",
+                "bandcamp": "https://druglordsoftheavenues.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0008466485_10.jpg",
+            "bio": "Druglords of the Avenues is a punk rock band from Oakland, California. They have released two full-length albums on Red Scare Industries. The band released their first album, Sing Songs, in 2009. In 2011, the band released their second album, New Drugs."
         },
         {
             "bandName": "Elway",
@@ -49,22 +173,59 @@
             "socials": {
                 "facebook": "https://www.facebook.com/ElwayTheBand",
                 "twitter": "https://twitter.com/elwaytheband",
-                "instagram": "https://instagram.com/elwaytheband"
+                "instagram": "https://instagram.com/elwaytheband",
+                "bandcamp": "https://elwaytheband.bandcamp.com/"
             },
             "picture": "https://www.brooklynvegan.com/wp-content/uploads/2021/09/22/attachment-dirty-shrines-1052x592.jpeg?t=1689199828",
             "bio": "Elway is a punk rock band from Fort Collins, Colorado. They have released three full-length albums on Red Scare Industries. The band released their first album, Delusions, in 2011. In 2013, the band released their second album, Leavetaking. In 2015, the band released their third album, Better Whenever."
         },
         {
+            "bandName": "Enemy You",
+            "hometown": "San Francisco, CA",
+            "socials": {
+                "facebook": "https://www.facebook.com/p/Enemy-You-100066488358195/",
+                "twitter": null,
+                "instagram": null,
+                "bandcamp": "https://enemyyou.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0008480324_10.jpg",
+            "bio": "Enemy You is a punk rock band from San Francisco, California. They have released two full-length albums on Red Scare Industries. The band released their first album, Where No One Knows My Name, in 2000. In 2004, the band released their second album, Stories Never Told."
+        },
+        {
             "bandName": "The Falcon",
             "hometown": "Chicago, IL",
             "socials": {
-                "facebook": "https://www.facebook.com/thefalconband",
-                "twitter": "https://twitter.com/thefalconband",
-                "instagram": "https://instagram.com/thefalconband",
+                "facebook": "https://www.facebook.com/MoFukkinFalcon/",
+                "twitter": "https://twitter.com/mofukkinfalcon",
+                "instagram": null,
                 "bandcamp": "https://mofukkinfalcon.bandcamp.com/"
             },
             "picture": "https://f4.bcbits.com/img/0008477196_25.jpg",
             "bio": "The Falcon is a punk rock band from Chicago, Illinois. They have released three full-length albums on Red Scare Industries. The band released their first album, Unicornography, in 2006. In 2009, the band released their second album, Gather Up the Chaps. In 2016, the band released their third album, Gather Up the Chaps."
+        },
+        {
+            "bandName": "Fleau",
+            "hometown": "Lyon, France",
+            "socials": {
+                "facebook": "https://www.facebook.com/FleauXdestruction/",
+                "twitter": null,
+                "instagram": "https://www.instagram.com/fleau.destruction",
+                "bandcamp": "https://fleau.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0023734045_10.jpg",
+            "bio": "Fleau is a punk rock band from Lyon, France. They have released one full-length album on Red Scare Industries. The band released their first album, It Wakes Up, in 2016."
+        },
+        {
+            "bandName": "Garrett Dale",
+            "hometown": "Oklahoma City, OK",
+            "socials": {
+                "facebook": null,
+                "twitter": null,
+                "instagram": "https://instagram.com/garrettdale",
+                "bandcamp": "https://garrettdale.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0010416735_10.jpg",
+            "bio": "Garrett Dale is a punk rock band from Oklahoma City, Oklahoma. They have released one full-length album on Red Scare Industries. The band released their first album, Two T's, in 2017."
         },
         {
             "bandName": "Good Friend",
@@ -72,10 +233,299 @@
             "socials": {
                 "facebook": "https://www.facebook.com/goodfriendofficial",
                 "twitter": "https://twitter.com/goodfriendband",
-                "instagram": "https://instagram.com/goodfriendband"
+                "instagram": "https://instagram.com/goodfriendband",
+                "bandcamp": "https://goodfriend.bandcamp.com/"
             },
-            "picture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/293537281_381469363972257_803392125333365198_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=kSsT7yrSKkIAX9QKsJQ&_nc_ht=scontent-atl3-1.xx&oh=00_AfCfXVl_5wngx7C9wRpV__8fDchwOWWPSUjtAlovCHHYkQ&oe=6599B05A",
+            "picture": "https://f4.bcbits.com/img/0023518320_10.jpg",
             "bio": "Good Friend is a punk rock band from The One True Ireland. They have released two EPs and one full-length album."
+        },
+        {
+            "bandName": "Guerilla Poubelle",
+            "hometown": "Paris, France",
+            "socials": {
+                "facebook": "https://www.facebook.com/gxpgxp",
+                "twitter": "https://twitter.com/gxpgxp",
+                "instagram": null,
+                "bandcamp": "https://guerillapoubelle.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0002196285_10.jpg",
+            "bio": "Guerilla Poubelle is a punk rock band from Paris, France. They have released six full-length albums on Red Scare Industries. The band released their first album, Il Faut Repeindre le Monde... En Noir, in 2005. In 2007, the band released their second album, Amor Fati. In 2010, the band released their third album, L'Ennui. In 2013, the band released their fourth album, La Nausée. In 2015, the band released their fifth album, La Nausée. In 2018, the band released their sixth album, La Nausée."
+        },
+        {
+            "bandName": "Heart & Lung",
+            "hometown": "Cleveland, OH",
+            "socials": {
+                "facebook": "https://www.facebook.com/heartandlungband",
+                "twitter": "https://twitter.com/heartandlungband",
+                "instagram": "https://instagram.com/heartandlung",
+                "bandcamp": "https://heartandlung.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0022108034_10.jpg",
+            "bio": "Heart & Lung is a punk rock band from Cleveland, Ohio. They have released one full-length album on Red Scare Industries. The band released their first album, You Wanna Know the Truth?, in 2019."
+        },
+        {
+            "bandName": "The Heat Tape",
+            "hometown": "Makanda, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/theheattape",
+                "twitter": "https://twitter.com/theheattape",
+                "instagram": "https://instagram.com/theheattape",
+                "bandcamp": "https://theheattape.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0009414163_10.jpg",
+            "bio": "The Heat Tape is a punk rock band from Makanda, Illinois. They have released one full-length album on Red Scare Industries. The band released their first album, Raccoon Valley Recordings, in 2016."
+        },
+        {
+            "bandName": "The Holy Mess",
+            "hometown": "Stroudsburg, PA",
+            "socials": {
+                "facebook": "https://www.facebook.com/theholymesspa",
+                "twitter": "https://twitter.com/fucktheholymess",
+                "instagram": "https://instagram.com/theholymess",
+                "bandcamp": "https://fucktheholymess.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0007025137_10.jpg",
+            "bio": "The Holy Mess is a punk rock band from Stroudsburg, Pennsylvania. They have released three full-length albums on Red Scare Industries. The band released their first album, The Holy Mess, in 2009. In 2010, the band released their second album, Benefit Sesh. In 2012, the band released their third album, Cande Ru Las Degas."
+        },
+        {
+            "bandName": "La Plebe",
+            "hometown": "San Francisco, CA",
+            "socials":{
+                "facebook": null,
+                "twitter": null,
+                "instagram": null,
+                "bandcamp": "https://laplebe.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0003466310_10.jpg",
+            "bio": "La Plebe is a band."
+        },
+        {
+            "bandName": "Laura Jane Grace",
+            "hometown": "Chicago, IL",
+            "socials":{
+                "facebook": "https://www.facebook.com/LauraJaneGraceofficial/",
+                "twitter": "https://twitter.com/laurajanegrace",
+                "instagram": "https://instagram.com/laurajanegrace",
+                "bandcamp": "https://laurajanegrace.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0034440014_10.jpg",
+            "bio": "Laura Jane Grace is a punk rock band from Chicago, Illinois. They have released two full-length albums on Red Scare Industries. The band released their first album, Bought to Rot, in 2018. In 2020, the band released their second album, Stay Alive."
+        },
+        {
+            "bandName": "The Lillingtons",
+            "hometown": "Newcastle, WY",
+            "socials": {
+                "facebook": "https://www.facebook.com/thelillingtons",
+                "twitter": null,
+                "instagram": "https://instagram.com/thelillingtons",
+                "bandcamp": "https://thelillingtons.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0009395532_10.jpg",
+            "bio": "The Lillingtons are a punk rock band from Newcastle, Wyoming. They have released five full-length albums on Red Scare Industries. The band released their."
+        },
+        {
+            "bandName": "The Lippies",
+            "hometown": "Grand Rapids, MI",
+            "socials": {
+                "facebook": "https://www.facebook.com/TheLippiesGR/",
+                "twitter": "https://twitter.com/the_lippies",
+                "instagram": "https://instagram.com/the_lippies",
+                "bandcamp": "https://thelippies.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0016147120_10.jpg",
+            "bio": "The Lippies are a punk rock band from Grand Rapids, Michigan. They have released one full-length album on Red Scare Industries. The band released their first album, The Lippies, in 2015."
+        },
+        {
+            "bandName": "MakeWar",
+            "hometown": "Brooklyn, NY",
+            "socials": {
+                "facebook": "https://www.facebook.com/MakeWarMusic/",
+                "twitter": "https://twitter.com/makewarmusic",
+                "instagram": "https://instagram.com/makewarmusic",
+                "bandcamp": "https://makewar.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0009396646_10.jpg",
+            "bio": "MakeWar is a punk rock band from Brooklyn, New York. They have released three full-length albums on Red Scare Industries. The band released their first album, Developing a Theory of Integrity, in 2015. In 2016, the band released their second album, Developing a Theory of Integrity. In 2019, the band released their third album, Developing a Theory of Integrity."
+        },
+        {
+            "bandName": "Masked Intruder",
+            "hometown": "Madison, WI",
+            "socials": {
+                "facebook": "https://www.facebook.com/maskedintruder",
+                "twitter": "https://twitter.com/maskedintruder1",
+                "instagram": "https://instagram.com/maskedintruder",
+                "bandcamp": "https://maskedintruder.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0000091543_10.jpg",
+            "bio": "Masked Intruder is a punk rock band from Madison, Wisconsin. They have released three full-length albums on Red Scare Industries. The band released their first album, Masked Intruder, in 2012. In 2014, the band released their second album, M.I. In 2019, the band released their third album, M.I."
+        },
+        {
+            "bandName": "The Menzingers",
+            "hometown": "Scranton, PA",
+            "socials": {
+                "facebook": "https://www.facebook.com/themenzingers",
+                "twitter": "https://twitter.com/themenzingers",
+                "instagram": "https://instagram.com/themenzingers",
+                "bandcamp": "https://themenzingers.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0032975383_10.jpg",
+            "bio": "The Menzingers are a punk rock band from Scranton, Pennsylvania. They have released six full-length albums on Red Scare Industries. The band released their first album, A Lesson in the Abuse of Information Technology, in 2007. In 2010, the band released their second album, Chamberlain Waits. In 2012, the band released their third album, On the Impossible Past. In 2014, the band released their fourth album, Rented World. In 2017, the band released their fifth album, After the Party. In 2020, the band released their sixth album, Hello Exile."
+        },
+        {
+            "bandName": "The Methadones",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/themethadones",
+                "twitter": "https://twitter.com/themethadones",
+                "instagram": "https://instagram.com/themethadones",
+                "bandcamp": "https://themethadones.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0009414735_10.jpg",
+            "bio": "The Methadones are a punk rock band from Chicago, Illinois. They have released five full-length albums on Red Scare Industries. The band released their first album, Ill at Ease, in 2001. In 2003, the band released their second album, Career Objective. In 2004, the band released their third album, Not Economically Viable. In 2006, the band released their fourth album, 21st Century Power Pop Riot. In 2007, the band released their fifth album, This Won't Hurt."
+        },
+        {
+            "bandName": "No Trigger",
+            "hometown": "Worcester, MA",
+            "socials": {
+                "facebook": "https://www.facebook.com/notrigger",
+                "twitter": "https://twitter.com/notrigger",
+                "instagram": "https://instagram.com/notrigger",
+                "bandcamp": "https://notrigger.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0033565919_10.jpg",
+            "bio": "No Trigger is a punk rock band from Worcester, Massachusetts. They have released three full-length albums on Red Scare Industries. The band released their first album, Canyoneer, in 2006. In 2012, the band released their second album, Tycoon. In 2017, the band released their third album, Adult Braces."
+        },
+        {
+            "bandName": "Nothington",
+            "hometown": "San Francisco, CA",
+            "socials": {
+                "facebook": "https://www.facebook.com/nothington",
+                "twitter": "https://twitter.com/nothington",
+                "instagram": "https://instagram.com/nothington_band",
+                "bandcamp": "https://nothington.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0008817464_10.jpg",
+            "bio": "Nothington is a punk rock band from San Francisco, California. They have released four full-length albums on Red Scare Industries. The band released their first album, All In, in 2007. In 2009, the band released their second album, Roads, Bridges, and Ruins. In 2011, the band released their third album, Borrowed Time. In 2017, the band released their fourth album, In the End."
+        },
+        {
+            "bandName": "Ramona",
+            "hometown": "Philadelphia, PA",
+            "socials": {
+                "facebook": "https://www.facebook.com/ramona206",
+                "twitter": "https://twitter.com/hey_yo_ramona",
+                "instagram": "https://instagram.com/ramonamusic",
+                "bandcamp": "https://ramonamusic.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0008424538_10.jpg",
+            "bio": "Ramona is a punk rock band from Philadelphia, Pennsylvania. They have released two full-length albums on Red Scare Industries. The band released their first album, Deals, Deals, Deals!, in 2017. In 2020, the band released their second album, Deals, Deals, Deals!."
+        },
+        {
+            "bandName": "The Reaganomics",
+            "hometown": "Joliet, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/thereaganomics",
+                "twitter": "https://twitter.com/thereaganomics",
+                "instagram": "https://instagram.com/the_reaganomics",
+                "bandcamp": "https://thereaganomics.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0009459683_10.jpg",
+            "bio": "The Reaganomics are a punk rock band from Joliet, Illinois. They have released one full-length album on Red Scare Industries. The band released their first album, Lower the Bar, in 2016."
+        },
+        {
+            "bandName": "Red City Radio",
+            "hometown": "Oklahoma City, OK",
+            "socials": {
+                "facebook": "https://www.facebook.com/redcityradio",
+                "twitter": "https://twitter.com/redcityradio",
+                "instagram": "https://instagram.com/redcityradio",
+                "bandcamp": "https://redcityradio.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0012554470_10.jpg",
+            "bio": "Red City Radio is a punk rock band from Oklahoma City, Oklahoma. They have released four full-length albums on Red Scare Industries. The band released their first album, The Dangers of Standing Still, in 2011. In 2013, the band released their second album, Titles. In 2015, the band released their third album, Red City Radio. In 2018, the band released their fourth album, SkyTigers."
+        },
+        {
+            "bandName": "Sam Russo",
+            "hometown": "Haverhill, UK",
+            "socials":{
+                "facebook": "https://www.facebook.com/samrusso113",
+                "twitter": "https://twitter.com/samrussomusic",
+                "instagram": "https://instagram.com/samrussomusic",
+                "bandcamp": "https://samrusso.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0018617015_10.jpg",
+            "bio": "Sam Russo is a punk rock band from Haverhill, United Kingdom. They have released two full-length albums on Red Scare Industries. The band released their first album, Storm, in 2015. In 2019, the band released their second album, Back to the Party."
+        },
+        {
+            "bandName": "Sicko",
+            "hometown": "Seattle, WA",
+            "socials": {
+                "facebook": "https://www.facebook.com/sickotheband",
+                "twitter": "https://twitter.com/sickotheband",
+                "instagram": "https://instagram.com/sickotheband",
+                "bandcamp": "https://sickotheband.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0010266936_36.jpg",
+            "bio": "Sicko is a punk rock band from Seattle, Washington. They have released three full-length albums on Red Scare Industries. The band released their first album, You Can Feel the Love in This Room, in 1994. In 1995, the band released their second album, Laugh While You Can."
+        },
+        {
+            "bandName": "The Sidekicks",
+            "hometown": "Columbus, OH",
+            "socials": {
+                "facebook": "https://www.facebook.com/sidekicksohio",
+                "twitter": "https://twitter.com/sidekicksohio",
+                "instagram": "https://instagram.com/sidekicksohio",
+                "bandcamp": "https://sidekicksohio.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0013000501_10.jpg",
+            "bio": "The Sidekicks are a punk rock band from Columbus, Ohio. They have released four full-length albums on Red Scare Industries. The band released their first album, So Long, Soggy Dog, in 2007. In 2009, the band released their second album, Weight of Air. In 2012, the band released their third album, Awkward Breeds. In 2015, the band released their fourth album, Runners in the Nerved World."
+        },
+        {
+            "bandName": "Sincere Engineer",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/sincereengineer",
+                "twitter": "https://twitter.com/sincereengineer",
+                "instagram": "https://instagram.com/sincereengineer",
+                "bandcamp": "https://sincereengineer.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0032145555_10.jpg",
+            "bio": "Sincere Engineer is a punk rock band from Chicago, Illinois. They have released two full-length albums on Red Scare Industries. The band released their first album, Rhombithian, in 2017. In 2020, the band released their second album, Rhombithian."
+        },
+        {
+            "bandName": "Sludgeworth",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": "https://www.facebook.com/sludgeworth",
+                "twitter": "https://twitter.com/sludgeworth",
+                "instagram": "https://instagram.com/sludgeworth",
+                "bandcamp": "https://sludgeworth.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0030474158_10.jpg",
+            "bio": "Sludgeworth is a punk rock band from Chicago, Illinois. They have released one full-length album on Red Scare Industries. The band released their first album, Loser, in 1995."
+        },
+        {
+            "bandName": "Success",
+            "hometown": "Seattle, WA",
+            "socials": {
+                "facebook": "https://www.facebook.com/successpunk",
+                "twitter": "https://twitter.com/successpunk",
+                "instagram": "https://instagram.com/successpunk",
+                "bandcamp": "https://successpunk.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0003337739_10.jpg",
+            "bio": "Success is a punk rock band from Seattle, Washington. They have released two full-length albums on Red Scare Industries. The band released their first album, Radio Recovery, in 2015. In 2018, the band released their second album, Radio Recovery."
+        },
+        {
+            "bandName": "Sundowner",
+            "hometown": "Portland, OR",
+            "socials": {
+                "facebook": "https://www.facebook.com/sundownermusic",
+                "twitter": null,
+                "instagram": "https://instagram.com/sundowner",
+                "bandcamp": "https://sundownerrock.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0003960138_10.jpg",
+            "bio": "Sundowner is a punk rock band from Portland, Oregon. They have released three full-length albums on Red Scare Industries. The band released their first album, Four One Five Two, in 2007. In 2010, the band released their second album, We Chase the Waves. In 2013, the band released their third album, Neon Fiction."
         },
         {
             "bandName": "Teenage Bottlerocket",
@@ -83,20 +533,34 @@
             "socials": {
                 "facebook": "https://www.facebook.com/teenagebottlerocketofficial",
                 "twitter": "https://twitter.com/teenbottlerock",
-                "instagram": "https://instagram.com/teenagebottlerocket"
+                "instagram": "https://instagram.com/teenagebottlerocket",
+                "bandcamp": "https://teenagebottlerocket.bandcamp.com/"
             },
-            "picture": "https://media2.orlandoweekly.com/orlando/imager/u/original/29551057/music_teenage_bottlerocket_photo_credit_jonathan_weiner.jpg",
+            "picture": "https://f4.bcbits.com/img/0015327439_10.jpg",
             "bio": "Teenage Bottlerocket is a punk rock band from Laramie, Wyoming. They have released six full-length albums on Red Scare Industries. The band released their first album, They Came from the Shadows, in 2009. In 2011, the band released their second album, Freak Out!. In 2012, the band released their third album, Freak Out!. In 2015, the band released their fourth album, Tales from Wyoming. In 2017, the band released their fifth album, Stealing the Covers. In 2019, the band released their sixth album, Stay Rad!."
         },
         {
             "bandName": "Tightwire",
             "hometown": "Minneapolis, MN",
             "socials": {
-                "facebook": "https://www.facebook.com/teenagebottlerocketofficial",
-                "twitter": "https://twitter.com/teenbottlerock",
-                "instagram": "https://instagram.com/teenagebottlerocket"
+                "facebook": "https://www.facebook.com/tightwireMPLS/",
+                "twitter": "https://twitter.com/tanegraves",
+                "instagram": "https://instagram.com/tightewirempls",
+                "bandcamp": "https://tightwirempls.bandcamp.com/"
             },
-            "picture": "https://i.scdn.co/image/ab6761610000e5eb0164cf3bfa51dc0121f1bd10",
+            "picture": "https://f4.bcbits.com/img/0027509249_10.jpg",
             "bio": "Tightwire is a punk rock band from Minneapolis, Minnesota. They have released two full-length albums on Red Scare Industries. The band released their first album, Tightwire, in 2011. In 2013, the band released their second album, Tightwire."
+        },
+        {
+            "bandName": "Vultures United",
+            "hometown": "Fountain Valley, CA",
+            "socials": {
+                "facebook": "https://www.facebook.com/vulturesunited",
+                "twitter": null,
+                "instagram": "https://instagram.com/vulturesunited",
+                "bandcamp": "https://vulturesunited.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0010344641_10.jpg",
+            "bio": "Vultures United is a punk rock band from Fountain Valley, California. They have released two full-length albums on Red Scare Industries. The band released their first album, I'd Rather Die Than Live Forever, in 2012. In 2018, the band released their second album, Keep Walkin' Pal."
         }
 ]

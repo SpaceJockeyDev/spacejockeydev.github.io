@@ -347,7 +347,7 @@
             "spotify": "https://open.spotify.com/album/6X1DkmZG72NrvIlXMz22s2?si=QsSTj92PRM-AVimSTIyCQA",
             "appleMusic": "https://music.apple.com/us/album/this-wont-hurt/259195263",
             "bandcamp": "https://themethadones.bandcamp.com/album/this-wont-hurt",
-            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10311-the-methadones-this-won-t-hurt-cd-cccp-114-2"
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/35779504-the-methadones-this-won-t-hurt-lp-cccp-114-1"
         }
     },
     {
@@ -572,7 +572,7 @@
             "spotify": "https://open.spotify.com/album/6XizyvLh1GN1Cr237MtQlM?si=QsSTj92PRM-AVimSTIyCQA",
             "appleMusic": "https://music.apple.com/us/album/hold-on-dodge-ep/325636020",
             "bandcamp": "https://cobraskulls.bandcamp.com/album/never-be-a-machine",
-            "store": null
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/10906479-the-menzingers-hold-on-dodge-7-ep-cccp-124-7"
         }
     },
     {
@@ -1575,7 +1575,7 @@
             "spotify": "https://open.spotify.com/album/4rEc4VWZ6oxQYPpWuXgQog?si=obwBTMZ9T3COfIVOh-QY2Q",
             "appleMusic": "https://music.apple.com/us/album/red-scare-across-america-2013-single/668873980",
             "bandcamp": null,
-            "store": null
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/15346854-red-scare-across-america-7"
         }
     },
     {
@@ -1770,7 +1770,7 @@
             "spotify": "https://open.spotify.com/album/3AIr5vkBJRAg6TdMJSjW6A?si=Eb_7sHBaSKCBxpzGx_zMLQ",
             "appleMusic": "https://music.apple.com/us/album/live-at-the-bbc-ep/978532380",
             "bandcamp": "https://cobraskulls.bandcamp.com/album/live-at-the-bbc",
-            "store": null
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/12907762-cobra-skulls-live-at-the-bbc-7-cccp-178-7"
         }
     },
     {
@@ -1885,6 +1885,1474 @@
             "bandcamp": null,
             "store": "https://redscare.storenvy.com/collections/9915-all-products/products/9189874-various-artists-red-scare-industries-10-years-of-your-dumb-bullshit-cd-cc"
         }
+    },
+    {
+        "bandName": "Derek Grant",
+        "album": "Love Is A Bad Dream",
+        "releaseNumber": "183",
+        "releaseDate": "2014-09-13",
+        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2018/06/Derek-Grant-Love-is-a-Bad-Dream-Single-Cover-300x300.jpg",
+        "trackList":[
+            "01. Love Is A Bad Dream",
+            "02. Don’t Marry Me"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6xA9c7Ys9xOjYxzs6kuIyh?si=ZK5dCw5iReOZXcZbzQtDmg",
+            "appleMusic": "https://music.apple.com/us/album/love-is-a-bad-dream-single/917873381",
+            "bandcamp": null,
+            "store": null
+        }
+    },
+    {
+        "bandName": "Derek Grant",
+        "album": "Breakdown",
+        "releaseNumber": "184",
+        "releaseDate": "2015-01-20",
+        "coverArt": "https://f4.bcbits.com/img/a4064730451_10.jpg",
+        "trackList":[
+            "01. Holiday Breakdown",
+            "02. Waiting For The End Of The World",
+            "03. Got A Feeling",
+            "04. Turn And Walk Away",
+            "05. Lucy",
+            "06. Love Is A Bad Dream",
+            "07. Good Long Look",
+            "08. You Don’t Know"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0LaEtLGXao5Ov1wSFQzUE0?si=DafpCubDTbO49OXsHxiNiQ",
+            "appleMusic": "https://music.apple.com/us/album/breakdown/947632171",
+            "bandcamp": "https://derekgrant.bandcamp.com/album/breakdown-3",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/11936496-derek-grant-breakdown-lp-cccp-184-1"
+        }
+    },
+    {
+        "bandName": "Masked Intruder",
+        "album": "Incriminating Evidence: 2011 Demos",
+        "releaseNumber": "186",
+        "releaseDate": "2015-04-15",
+        "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/17/53/1a/17531a2d-f0cc-c037-4422-867e4a593f22/187223018668.jpg/316x316bb.webp",
+        "trackList":[
+            "01. How Do I Get To You?",
+            "02. I Fought The Law (But The Law Beat The Shit Out Of Me)",
+            "03. I Plead The 5th",
+            "04. I’m In (Unrequited) Love"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7yOERBMNnJRE5x2IuCxlMl?si=CDi_ytLDRMW4sg7Nnpo6xQ",
+            "appleMusic": "https://music.apple.com/us/album/incriminating-evidence-2011-demos-ep/977231434",
+            "bandcamp": "https://maskedintruder.bandcamp.com/album/demo",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/12734533-masked-intruder-incriminating-evidence-2011-demos-7-cccp-186-7"
+        }
+    },
+    {
+        "bandName": "Success",
+        "album": "Radio Recovery",
+        "releaseNumber": "187",
+        "releaseDate": "2015-03-30",
+        "coverArt": "https://f4.bcbits.com/img/a1162202048_10.jpg",
+        "trackList":[
+            "01. Believe In",
+            "02. 22nd St.",
+            "03. Revolution Schmevolution",
+            "04. Mr. Know It All",
+            "05. Nowhere Kids",
+            "06. Lives That We Deserve",
+            "07. Head For The Hills",
+            "08. Flowers",
+            "09. The Impossible Truth",
+            "10. Resignation"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1aF4J0maw5UxylxVAz2OUi?si=VmHe5-I9TWOCD_U2cXtY1Q",
+            "appleMusic": "https://music.apple.com/us/album/radio-recovery/971515716",
+            "bandcamp": "https://successpunk.bandcamp.com/album/radio-recovery-2",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/12734443-success-radio-recovery-lp-cccp-187-1"
+        }
+    },
+    {
+        "bandName": "Direct Hit!",
+        "album": "More Of The Same",
+        "releaseNumber": "188",
+        "releaseDate": "2015-08-15",
+        "coverArt": "https://f4.bcbits.com/img/a2087151825_10.jpg",
+        "trackList":[
+            "01. Bored & Out Of Line",
+            "02. Brain Surgery",
+            "03. Captain Asshole",
+            "04. Werewolf Shame",
+            "05. Fallout Shelter Television",
+            "06. Secret Recipe",
+            "07. More Of The Same",
+            "08. Through The Windshield, Holding Hands",
+            "09. Say Whatever",
+            "10. Wasting Away",
+            "11. A Message For The Angels Pt. I"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7fcUYlNn1nhXhf6OSl2A6F?si=3_vICBiQSTC6T9kn43qmyQ",
+            "appleMusic": "https://music.apple.com/us/album/more-of-the-same-satanic-singles-2010-2014/1015740110",
+            "bandcamp": "https://directhit.bandcamp.com/album/more-of-the-same-satanic-singles-2010-2014",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/14785392-direct-hit-more-of-the-same-lp-cccp-188-1"
+        }
+    },
+    {
+        "bandName": "Drakulas",
+        "album": "OWOWOWOWOWOWOW",
+        "releaseNumber": "189",
+        "releaseDate": "2015-06-18",
+        "coverArt": "https://f4.bcbits.com/img/a3575410085_10.jpg",
+        "trackList":[
+            "01. OWOWOWOWOWOWOW",
+            "02. Gain Ground",
+            "03. Crimson Carpets",
+            "04. Spinal Chords"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6LJQn9BIitzETOp7NJc5M1?si=ZPDGTmGTQF-TP4LwI_K1cw",
+            "appleMusic": "https://music.apple.com/us/album/owowowowowowow-ep/987304346",
+            "bandcamp": "https://drakulas.bandcamp.com/album/owowowowowowow",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/12945259-drakulas-owowowowowowow-7-cccp-189-7"
+        }
+    },
+    {
+        "bandName": "Elway",
+        "album": "Better Whenever",
+        "releaseNumber": "190",
+        "releaseDate": "2015-11-20",
+        "coverArt": "https://f4.bcbits.com/img/a0243556388_10.jpg",
+        "trackList":[
+            "01. Our Lady of the Thompson River",
+            "02. Albuquerque Low",
+            "03. Better Whenever",
+            "04. Lunatic Thirteens",
+            "05. Shown to the Moon",
+            "06. Ten Letter Word",
+            "07. Frequent Wind",
+            "08. Third Coast Temple",
+            "09. Orphan Histories",
+            "10. Delano"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7ctDqE1ooC1pNdFQoT2Oag?si=JJ9rf0cqTS2fvdzsracaLw",
+            "appleMusic": "https://music.apple.com/us/album/better-whenever/1005322373",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/better-whenever",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/13872000-elway-better-whenever-cd-cccp-190-2"
+        }
+    },
+    {
+        "bandName": "Sam Russo",
+        "album": "Greyhound Dreams",
+        "releaseNumber": "191",
+        "releaseDate": "2015-10-09",
+        "coverArt": "https://f4.bcbits.com/img/a0947959051_10.jpg",
+        "trackList":[
+            "01. Sometimes",
+            "02. Small Town Shoes",
+            "03. Dream All You Want",
+            "04. Eye Candy",
+            "05. Crayfish Tales",
+            "06. Runaways",
+            "07. Forever West",
+            "08. Nobody’s Fool",
+            "09. Moving North",
+            "10. Western Union"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5h2drQzqLsuizJEc3GOyZd?si=_PA6ULlQTRaRXtPlQEqYYQ",
+            "appleMusic": "https://music.apple.com/us/album/greyhound-dreams/1038793631",
+            "bandcamp": "https://samrusso.bandcamp.com/album/greyhound-dreams",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/14786583-sam-russo-greyhound-dreams-lp-cccp-191-1"
+        }
+    },
+    {
+        "bandName": "The All Brights",
+        "album": "Are Wild For The Night",
+        "releaseNumber": "192",
+        "releaseDate": "2015-11-06",
+        "coverArt": "https://f4.bcbits.com/img/a3782825760_10.jpg",
+        "trackList":[
+            "01. Hell On A Surfboard",
+            "02. Storm The Beach",
+            "03. West Coast Fuck You",
+            "04. Sunscreen Blues",
+            "05. Happy Hours",
+            "06. Wild For The Night"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0REZX3KaYoGcL7aQTbxC24?si=m-CUjaCnSQezuzb-6oXmsQ",
+            "appleMusic": "https://music.apple.com/us/album/are-wild-for-the-night-ep/1046729868",
+            "bandcamp": "https://theallbrights.bandcamp.com/album/are-wild-for-the-night",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/14786601-the-all-brights-are-wild-for-the-night-cd-cccp-192-2"
+        }
+    },
+    {
+        "bandName": "The Lippies",
+        "album": "The Lippies EP",
+        "releaseNumber": "193",
+        "releaseDate": "2014-12-20",
+        "coverArt": "https://f4.bcbits.com/img/a1189085417_10.jpg",
+        "trackList":[
+            "01. Drop Off",
+            "02. 302",
+            "03. Beat It Into Me",
+            "04. Thelma and Louise",
+            "05. Sidewalk Talk",
+            "06. Take A Ride In My Hot Air Balloon"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3PtSbxEcr0Tu2mjja7ZEZ2?si=6TIZvfcHRxeeTwkEbIErVQ",
+            "appleMusic": "https://music.apple.com/us/album/the-lippies-ep/1073286815",
+            "bandcamp": "https://thelippies.bandcamp.com/album/the-lippies-ep",
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Lippies",
+        "album": "The Lippies",
+        "releaseNumber": "194",
+        "releaseDate": "2016-03-04",
+        "coverArt": "https://f4.bcbits.com/img/a0852829300_10.jpg",
+        "trackList":[
+            "01. As We Fall",
+            "02. 302",
+            "03. Walking On Fences",
+            "04. Hot Air Balloon",
+            "05. Basic Boy",
+            "06. Fuck The Customer",
+            "07. Friend Zone",
+            "08. Beat It Into Me",
+            "09. We Can’t Go",
+            "10. Garbage Man",
+            "11. It Boils",
+            "12. Sleeping"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/12W3l4sOfqtrbjwe0uxOQ4?si=Q6S_FNJJRN6GiHtU8IRrzw",
+            "appleMusic": "https://music.apple.com/us/album/the-lippies/1081164528",
+            "bandcamp": "https://thelippies.bandcamp.com/album/the-lippies",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/15848841-the-lippies-s-t-cd-cccp-194-2"
+        }
+    },
+    {
+        "bandName":"The Falcon",
+        "album": "Gather Up The Chaps",
+        "releaseNumber": "195",
+        "releaseDate": "2016-03-18",
+        "coverArt": "https://f4.bcbits.com/img/a0045433718_10.jpg",
+        "trackList":[
+            "01. The Trash",
+            "02. War Of Colossus",
+            "03. Sergio’s Here",
+            "04. The Skeleton Dance",
+            "05. Hasselhoff Cheeseburger",
+            "06. Dead Rose",
+            "07. The Fighter, The Rube, The Asshole",
+            "08. If Dave Did It",
+            "09. Sailor’s Grave",
+            "10. Glue Factory",
+            "11. You Dumb Dildos",
+            "12. Black Teeth"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3oPCvITI0easUtGTbLwarn?si=rU5vlN7IQ5Wtxp-5jCd6rA",
+            "appleMusic": "https://music.apple.com/us/album/gather-up-the-chaps/1075693044",
+            "bandcamp": "https://mofukkinfalcon.bandcamp.com/album/gather-up-the-chaps",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/19118320-the-falcon-gather-up-the-chaps-lp-cccp-195-1"
+        }
+    },
+    {
+        "bandName": "The Brokedowns & Direct Hit!",
+        "album": "Making A Midwesterner",
+        "releaseNumber": "196",
+        "releaseDate": "2016-04-16",
+        "coverArt": "https://prod-cdn-08.storenvy.com/product_photos/41386893/RSD7_original.jpg",
+        "trackList":[
+            "Side A:",
+            "01. The Brokedowns “Kings of the Dust”",
+            "02. The Brokedowns “Crowns and Gowns”",
+            "03. The Brokedowns “Runnin’ the Front (TTK)”",
+            "Side B:",
+            "01. Direct Hit! “Chemical Ability”",
+            "02. Direct Hit! “Avert Your Eyes”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4vVXuNhC9zDSH9HPKBQcJa?si=MUz2POjNRNCm-n-hAA4UTg",
+            "appleMusic": "https://music.apple.com/us/album/making-a-midwesterner-ep/1097646458",
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/16860141-the-brokedowns-direct-hit-making-a-midwesterner-7-ep-cccp-196-7"
+        }
+    },
+    {
+        "bandName": "Arms Aloft",
+        "album": "What A Time To Be Barely Alive",
+        "releaseNumber": "197",
+        "releaseDate": "2016-09-02",
+        "coverArt": "https://f4.bcbits.com/img/a3400554416_10.jpg",
+        "trackList":[
+            "01. We Have Nothing To Lose But Our Chains…",
+            "02. Three Altars For Rats",
+            "03. The Truth Is Out There",
+            "04. The Voyage Of The Dawndreaders",
+            "05. What A Time To Be Barely Alive",
+            "06. Hollowlujah!",
+            "07. Untitled",
+            "08. I Want To Be Leaves",
+            "09. Sloslylove Is Playing At My House",
+            "10. A Psalm For Our Jobs And Apartments",
+            "11. West Grand Ave. Maria",
+            "12. …And A World To Win"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/track/08ztbSMNpvn9iB2yA5X377?si=015be3c573814e61",
+            "appleMusic": "https://music.apple.com/us/album/what-a-time-to-be-barely-alive/1142034169",
+            "bandcamp": "https://armsaloft.bandcamp.com/album/what-a-time-to-be-barely-alive-2",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/17459312-arms-aloft-what-a-time-to-be-barely-alive-cd-cccp-197-2"
+        }
+    },
+    {
+        "bandName": "Good Friend",
+        "album": "Ride The Storm",
+        "releaseNumber": "198",
+        "releaseDate": "2016-11-25",
+        "coverArt": "https://f4.bcbits.com/img/a2941964999_10.jpg",
+        "trackList":[
+            "01. Rock Bottom Revival",
+            "02. D.L.B.",
+            "03. Overloading the Limiter",
+            "04. The Curious Case of Hy-Brasil",
+            "05. The Return of Fionn and the Fianna",
+            "06. Curse the Name",
+            "07. Young Blood",
+            "08. Daniel O’ D and the Moonshiners",
+            "09. Bar Flies",
+            "10. Irish Goodbyes"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0prGzpHD5iGoQLFg99QPb9?si=us4P9nFFSUaWwPd1YQfH9g",
+            "appleMusic": "https://music.apple.com/us/album/ride-the-storm/1170745782",
+            "bandcamp": "hhttps://goodfriend.bandcamp.com/album/ride-the-storm",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/18145643-good-friend-ride-the-storm-cd-cccp-198-2"
+        }
+    },
+    {
+        "bandName": "MakeWar",
+        "album": "Developing A Theory Of Integrity",
+        "releaseNumber": "199",
+        "releaseDate": "2016-12-09",
+        "coverArt": "https://f4.bcbits.com/img/a3498833918_10.jpg",
+        "trackList":[
+            "01. Matador Pool Party",
+            "02. Ode",
+            "03. DTFH",
+            "04. Don’t Panic",
+            "05. Tiger Lili",
+            "06. On Feelings",
+            "07. Insurance",
+            "08. Sallie",
+            "09. Distractions",
+            "10. Dust"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/74aiVdW1ZtRYfvTnhqidC6?si=8DfSAY1AT4GGLJ_YkWF-eQ",
+            "appleMusic": "https://music.apple.com/us/album/developing-a-theory-of-integrity/1153138987",
+            "bandcamp": "https://makewarmusic.bandcamp.com/album/developing-a-theory-of-integrity-2",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/22242506-makewar-developing-a-theory-of-integrity-lp-cccp-199-1"
+        }
+    },
+    {
+        "bandName": "Nothington",
+        "album": "Cobblestones",
+        "releaseNumber": "200",
+        "releaseDate": "2017-11-25",
+        "coverArt": "https://f4.bcbits.com/img/a3739019017_10.jpg",
+        "trackList":[
+            "01. Cobblestones",
+            "02. The Last Time (Acoustic)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/6QYI2L1k3JxU37vS9OnAmf?si=SFq2aQmgRzep7X326g4JOQ",
+            "appleMusic": "https://music.apple.com/us/album/cobblestones-single/1166782277",
+            "bandcamp": "https://nothington.bandcamp.com/track/cobblestones",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/19891244-nothington-cobblestones-7-cccp-200-7"
+        }
+    },
+    {
+        "bandName": "Nothington",
+        "album": "In The End",
+        "releaseNumber": "201",
+        "releaseDate": "2017-02-17",
+        "coverArt": "https://f4.bcbits.com/img/a0268319179_10.jpg",
+        "trackList":[
+            "01. Already There",
+            "02. Cobblestones",
+            "03. The Lies I Need",
+            "04. Burn After Reading",
+            "05. End Transmission",
+            "06. Things We Used To Say",
+            "07. Nothing But Beaches",
+            "08. The Hard Way",
+            "09. It Comes And Goes",
+            "10. Capture",
+            "11. In The End"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7zDqwQyBJI55fnbzzs9dK8?si=9oIlcqS5QxGuIRbYDqYDwg",
+            "appleMusic": "https://music.apple.com/us/album/in-the-end/1194854312",
+            "bandcamp": "https://nothington.bandcamp.com/album/in-the-end",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/19070242-nothington-in-the-end-lp-cccp-201-1"
+        }
+    },
+    {
+        "bandName": "Garrett Dale",
+        "album": "Two T’s EP",
+        "releaseNumber": "202",
+        "releaseDate": "2017-03-31",
+        "coverArt": "https://f4.bcbits.com/img/a0606928714_10.jpg",
+        "trackList":[
+            "01. 2016 Was…",
+            "02. House Full Of Dogs",
+            "03. Down The Rabbit Hole"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2fO7WpOEIYz3F0PeI2rygb?si=W50TzumUR2a27ahaTeSndA",
+            "appleMusic": "https://music.apple.com/us/album/two-ts-ep/1233503101",
+            "bandcamp": "https://garrettdale.bandcamp.com/album/two-ts-ep",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/20119250-garrett-dale-two-ts-ep-7-cccp-202-7"
+        }
+    },
+    {
+        "bandName":"The Lillingtons",
+        "album": "Project 313",
+        "releaseNumber": "203",
+        "releaseDate": "2017-06-09",
+        "coverArt": "https://f4.bcbits.com/img/a2999257917_10.jpg",
+        "trackList":[
+            "01. Until The Sun Shines",
+            "02. Rubber Room",
+            "03. Project 313",
+            "04. It’s On"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/50ev0ciZgPcelciVIEM5hl?si=_5V8fkiQTE2yiTfJVrbwuQ",
+            "appleMusic": "https://music.apple.com/us/album/project-313-ep/1230215522",
+            "bandcamp": "https://thelillingtons.bandcamp.com/album/project-313",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/19716672-the-lillingtons-project-313-7-ep-cccp-203-7"
+        }    
+    },
+    {
+        "bandName": "Sincere Engineer",
+        "album": "Rhombithian",
+        "releaseNumber": "204",
+        "releaseDate": "2017-10-20",
+        "coverArt": "https://f4.bcbits.com/img/a1639390722_10.jpg",
+        "trackList":[
+            "01. Corn Dog Sonnet No. 7",
+            "02. Ceramic Tile",
+            "03. Overbite",
+            "04. Screw Up",
+            "05. Shattering",
+            "06. Here’s Your Two Dollars",
+            "07. 1K Rats",
+            "08. Candle Wax",
+            "09. Let You Down",
+            "10. Keep You Company",
+            "11. Ghosts In The Graveyard"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5JhPRGCG7j2gbNhp3VBcqp?si=_HN3CZO-QYu5YqK4enYlXA",
+            "appleMusic": "https://music.apple.com/us/album/rhombithian/1281715271",
+            "bandcamp": "https://sincereengineer.bandcamp.com/album/rhombithian",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/22126055-sincere-engineer-rhombithian-lp-cccp-204-1"
+        }
+    },
+    {
+        "bandName": "Guerilla Poubelle",
+        "album": "La Nausée",
+        "releaseNumber": "205",
+        "releaseDate": "2017-11-17",
+        "coverArt": "https://f4.bcbits.com/img/a3922069280_10.jpg",
+        "trackList":[
+            "01. Je ne possède que mon corps",
+            "02. Ceux qui ne sont rien",
+            "03. Identité rigide",
+            "04. L’amour est un chien de l’enfer",
+            "05. L’aventure de l’ordinaire",
+            "06. Une bouteille à la mer",
+            "07. En marche!",
+            "08. Golgotha",
+            "09. Les fils et les filles des sorcières que vous n’avez pas brûlées",
+            "10. Peine de vie",
+            "11. Plus je connais les hommes et plus j’aime les chiens",
+            "12. Le pour et le contre",
+            "13. Nous sommes mort trop jeunes"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3Nj9Km0rKC4V3n7rt1TXBJ?si=JlgsqHpCTmqZe2VJIDX16A",
+            "appleMusic": "https://music.apple.com/us/album/la-naus%C3%A9e/1297804453",
+            "bandcamp": "https://guerillapoubelle.bandcamp.com/album/la-naus-e",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/22242743-guerilla-poubelle-la-nausee-lp-cccp-205-1"
+        }
+    },
+    {
+        "bandName": "Sicko",
+        "album": "In The Alternate Timeline",
+        "releaseNumber": "206",
+        "releaseDate": "2019-09-13",
+        "coverArt": "https://f4.bcbits.com/img/a2376409210_10.jpg",
+        "trackList":[
+            "01. Where I Live",
+            "02. fB Song",
+            "03. 80 Dollars",
+            "04. Bad Year",
+            "05. A Song About A Rabbit",
+            "06. Little",
+            "07. Believe",
+            "08. The Sprinkler",
+            "09. Wave Motion Gun",
+            "10. Farm Song",
+            "11. On The Clock",
+            "12. Me and Carl",
+            "13. Kathy’s Dance",
+            "14. Rehashed",
+            "15. Wisdom Tooth Weekend",
+            "16. High Hopes",
+            "17. An Indie Rock Daydream",
+            "18. Cover Up",
+            "19. Washington My Home"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/39RhxB1dekAPTmp1eZVlOr?si=vlI33Vi6Q_CXH1uOHzb6tQ",
+            "appleMusic": "https://music.apple.com/us/album/in-the-alternate-timeline/1474726796",
+            "bandcamp": "https://sicko.bandcamp.com/album/in-the-alternate-timeline",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/28280156-sicko-in-the-alternate-timeline-lp-cccp-206-1"
+        }
+    },
+    {
+        "bandName": "The Copyrights",
+        "album": "We Didn’t Come Here To Die",
+        "releaseNumber": "207",
+        "releaseDate": "2003-07-23",
+        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2020/06/Copyrights_Die_Cover-300x300.jpg",
+        "trackList":[
+            "01. They Say",
+            "02. Talkbomb",
+            "03. Face For Radio",
+            "04. I’ll Be Fine",
+            "05. Crybabies",
+            "06. Graveyards Down The Street",
+            "07. Four Eyes",
+            "08. Not For Shaving",
+            "09. Forever Or Today",
+            "10. You And I",
+            "11. Go Now",
+            "12. Let’s Waste Time Together",
+            "13. Full Circle"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5pwwsNf2eBsmYRjIUqThAC?si=c1v6x0e5TQqEc0SK2j4ezw",
+            "appleMusic": "https://music.apple.com/us/album/we-didnt-come-here-to-die/1293166818",
+            "bandcamp": null,
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Copyrights",
+        "album": "Mutiny Pop",
+        "releaseNumber": "208",
+        "releaseDate": "2006-05-02",
+        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2020/06/Copyrights_MutinyPop_Cover-300x300.jpg",
+        "trackList":[
+            "01. Cashiers",
+            "02. Weapons of Math Destruction",
+            "03. Stuck In Springtime",
+            "04. This Ain’t Broadway",
+            "05. Over It",
+            "06. Kingsfield",
+            "07. Help Me Stay Awake",
+            "08. Tonight",
+            "09. My Heroes Are All Assholes",
+            "10. Life Vest",
+            "11. The Ceiling’s The Limit",
+            "12. Camouflage",
+            "13. Button Smasher",
+            "14. Playing Dumb",
+            "15. Playing Dead",
+            "16. Kill The Captains"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2Vog3MKRSoi4z12O561DJG?si=8Jy-poEKTpmhvxcPOFYjpA",
+            "appleMusic": "https://music.apple.com/us/album/mutiny-pop/1292961004",
+            "bandcamp": null,
+            "store": null
+        }
+    },
+    {
+        "bandName": "Elway",
+        "album": "For The Sake Of The Bit",
+        "releaseNumber": "209",
+        "releaseDate": "2018-04-27",
+        "coverArt": "https://f4.bcbits.com/img/a2931115377_10.jpg",
+        "trackList":[
+            "01. Inches",
+            "02. Hold On",
+            "03. Crowded Conscience",
+            "04. Selfish Masochistic Psychic Trauma",
+            "05. Eating Crow",
+            "06. Perfect Silence",
+            "07. Paper Guitars",
+            "08. Nobody Goes Into Meteorology For The Sunny Days "
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7s0fUWoIAI2KYPA12xr62V?si=BF_4T_mNQ0WBXj8jcIpAPQ",
+            "appleMusic": "https://music.apple.com/us/album/for-the-sake-of-the-bit/1361410813",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/for-the-sake-of-the-bit",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/23493639-elway-for-the-sake-of-the-bit-lp-cccp-209-1"
+        }
+    },
+    {
+        "bandName": "Red City Radio",
+        "album": "SkyTigers",
+        "releaseNumber": "210",
+        "releaseDate": "2018-03-09",
+        "coverArt": "https://f4.bcbits.com/img/a0640338063_10.jpg",
+        "trackList":[
+            "01. If You Want Blood (Be My Guest)",
+            "02. I’ll Still Be Around",
+            "03. In The Shadows",
+            "04. Rebels",
+            "05. SkyTigers"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3lD65FtI9iAUzrleVELxor?si=krX7Le7FRemc4kg0hrF3Cw",
+            "appleMusic": "https://music.apple.com/us/album/skytigers-ep/1348408518",
+            "bandcamp": "https://redcityradio.bandcamp.com/album/skytigers",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/23174514-red-city-radio-skytigers-12-ep-cccp-210-1"
+        }
+    },
+    {
+        "bandName": "The Brokedowns",
+        "album": "Sick Of Space",
+        "releaseNumber": "211",
+        "releaseDate": "2018-05-18",
+        "coverArt": "https://f4.bcbits.com/img/a1463676019_10.jpg",
+        "trackList":[
+            "01. The One True Freak",
+            "02. The Fort",
+            "03. Cave Trash / Dumpster Embassy",
+            "04. Pardon The Light",
+            "05. Trauma Czars",
+            "06. Sick Of Space",
+            "07. Shitty Little League",
+            "08. Kings Of The Dust",
+            "09. Guy Shit",
+            "10. America’s Riff",
+            "11. Led Zeppelin III",
+            "12. Mommy, Can I Go Out And Chill Tonight?",
+            "13. Ancient Memes"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4mJa4g5fZ81QwPmDjqoS33?si=OxArxXOQR-iVbF6o2v6B6A",
+            "appleMusic": "https://music.apple.com/us/album/sick-of-space/1376307195",
+            "bandcamp": "https://thebrokedowns.bandcamp.com/album/sick-of-space-2",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/23700840-the-brokedowns-sick-of-space-lp-cccp-211-1"
+        }
+    },
+    {
+        "bandName": "The All Brights",
+        "album": "The White Album EP",
+        "releaseNumber": "212",
+        "releaseDate": "2018-06-22",
+        "coverArt": "https://f4.bcbits.com/img/a3317564194_10.jpg",
+        "trackList":[
+            "01. Maximum Hangtime",
+            "02. Last Blue Text",
+            "03. Midwest Fuck Me",
+            "04. The Ballad of Me and My Funds",
+            "05. Stand Up Pat L. Board",
+            "06. I’m Buying A Boat"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3VOvvubu3lN2FC8Ya9OGel?si=9K_t6WcJQsWByuwDP1ybHw",
+            "appleMusic": "https://music.apple.com/us/album/the-white-album-ep/1400846053",
+            "bandcamp": "https://theallbrights.bandcamp.com/album/the-white-album-ep",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Arms Aloft",
+        "album": "Sawdust City",
+        "releaseNumber": "213",
+        "releaseDate": "2012-10-23",
+        "coverArt": "https://f4.bcbits.com/img/a0899304792_10.jpg",
+        "trackList":[
+            "01. Blues for Hiroshi Matsumoto",
+            "02. Irish Coffee",
+            "03. The Decline of Midwestern Civilization",
+            "04. DOUBLEDRANOPERCOCETNOICE",
+            "05. Skinny Love",
+            "06. It’s Not the Heat, It’s the Headwinds",
+            "07. This Bag is Not a Toy",
+            "08. Where Seagulls Dare",
+            "09. Sawdust City Soundclash",
+            "10. 10/22/1884",
+            "11. Blues for Mamimi Samejima",
+            "12. A Fistful of Zlotys"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/12FWSVoDHYoMuzVplwB3TF?si=NP8J5iyDQ8iMZzm1wuxOeg",
+            "appleMusic": "https://music.apple.com/us/album/sawdust-city/1411585295",
+            "bandcamp": "https://armsaloft.bandcamp.com/album/sawdust-city",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Tightwire",
+        "album": "Six Feet Deep",
+        "releaseNumber": "214",
+        "releaseDate": "2018-08-24",
+        "coverArt": "https://f4.bcbits.com/img/a2033821240_10.jpg",
+        "trackList":[
+            "01. Draggin’ Me",
+            "02. Six Feet Deep",
+            "03. Spell On Me",
+            "04. Guts",
+            "05. Pentagram Tattoo",
+            "06. Don’t Like To Lose",
+            "07. Told Ya",
+            "08. Hidden Planet",
+            "09. Simple Question",
+            "10. Body Language",
+            "11. Don’t Wanna Wait",
+            "12. Out of It",
+            "13. Closing Time"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/11fm5uylxEgrqbmDRUJAwX?si=HKUw_1xgTGeP2oAnfxZF2g",
+            "appleMusic": "https://music.apple.com/us/album/six-feet-deep/1436915875",
+            "bandcamp": "https://tightwirempls.bandcamp.com/album/six-feet-deep",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/24629709-tightwire-six-feet-deep-lp-cccp-214-1"
+        }
+    },
+    {
+        "bandName": "Brendan Kelly and the Wandering Birds",
+        "album": "Keep Walkin’ Pal",
+        "releaseNumber": "215",
+        "releaseDate": "2018-10-26",
+        "coverArt": "https://f4.bcbits.com/img/a2332948034_10.jpg",
+        "trackList":[
+            "01. Keep Walkin’ Pal",
+            "02. Shitty Margarita",
+            "03. Huggz",
+            "04. The Lies",
+            "05. Black Cat Boy",
+            "06. Up In Them Guts",
+            "07. Boardin’ USA!",
+            "08. The Ballad of Buffalo Bill",
+            "09. Bottle and Tray",
+            "10. I’m The Man"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2gojpto5bWRGU0h0Acoalb?si=SuOgx0MaTCm-b9s8hCkaYA",
+            "appleMusic": "https://music.apple.com/us/album/keep-walkin-pal/1437671245",
+            "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/album/keep-walkin-pal",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/24800070-brendan-kelly-and-the-wandering-birds-keep-walkin-pal-lp-cccp-215-1"
+        }
+    },
+    {
+        "bandName": "Swingin’ Utters & Nothington",
+        "album": "Bird Party",
+        "releaseNumber": "216",
+        "releaseDate": "2018-11-09",
+        "coverArt": "https://prod-cdn-07.storenvy.com/product_photos/66132375/file_21439013fc_original.jpg",
+        "trackList":[
+            "Side A: Swingin’ Utters “Shout It At Dem Culture”",
+            "Side B: Nothington “Covering My Tracks”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0zmLQPQlYg6Ju2SDOIUyaT?si=Dz3Jet0HR7-A_cPhkbIRVA",
+            "appleMusic": "https://music.apple.com/us/album/bird-party-single/1439274327",
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/24805533-swingin-utters-nothington-bird-party-7-cccp-216-7"
+        }
+    },
+    {
+        "bandName": "Billy Liar",
+        "album": "Some Legacy",
+        "releaseNumber": "218",
+        "releaseDate": "2019-06-21",
+        "coverArt": "https://f4.bcbits.com/img/a3029596294_10.jpg",
+        "trackList":[
+            "01. The View From Here",
+            "02. The Righteous & The Rats",
+            "03. I Still Struggle",
+            "04. Pills",
+            "05. Independent People",
+            "06. Noose",
+            "07. Change",
+            "08. Neither Are You",
+            "09. Cold Turkey",
+            "10. 27 Montague",
+            "11. Less Vegas"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5Osg4W3lrdeKw0OLpyRGoI?si=drFfODfsRbS_4rOHqct-og",
+            "appleMusic": "https://music.apple.com/us/album/some-legacy/1465325254",
+            "bandcamp": "https://officialbillyliar.bandcamp.com/album/some-legacy",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/26276724-billy-liar-some-legacy-lp-cccp-218-1"
+        }
+    },
+    {
+        "bandName": "Ramona",
+        "album": "Deals, Deals, Deals!",
+        "releaseNumber": "219",
+        "releaseDate": "2019-06-07",
+        "coverArt": "https://f4.bcbits.com/img/a1171641401_10.jpg",
+        "trackList":[
+            "01. Jet Fuel Can’t Melt Steel Hearts",
+            "02. Not Your Token",
+            "03. Hater’s Ball Parade",
+            "04. Shit, We Broke Up",
+            "05. Hard Sulks",
+            "06. Is This Emo?",
+            "07. Are We Having Fun Yet?",
+            "08. Panama by Van Halen",
+            "09. Getting There",
+            "10. Mambo 69"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1t9QAPLRhRsK6WExysPp7x?si=hTribqDwQja9ibR-r4ouJQ",
+            "appleMusic": "https://music.apple.com/us/album/deals-deals-deals/1463101632",
+            "bandcamp": "https://ramonamusic.bandcamp.com/album/deals-deals-deals",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/26278164-ramona-deals-deals-deals-cd-cccp-219-2"
+        }
+    },
+    {
+        "bandName": "Broadway Calls",
+        "album": "Broadway Calls",
+        "releaseNumber": "220",
+        "releaseDate": "2007-07-10",
+        "coverArt": "https://f4.bcbits.com/img/a4168441849_10.jpg",
+        "trackList":[
+            "01. Call It Off",
+            "02. Bad Intentions",
+            "03. Back To Oregon",
+            "04. Suffer The Kids",
+            "05. Van Rides And High Tides",
+            "06. Escape From Capitol Hill",
+            "07. Three Weeks",
+            "08. Daniel, My Brother",
+            "09. Save Our Ship",
+            "10. A Rush And A Push And The Land Is Ours",
+            "11. Life Is In The Air",
+            "12. Classless Reunion",
+            "13. Meet Me At Washington Park",
+            "14. So Long My Friend"
+        ],
+        "links":{
+           "spotify": "https://open.spotify.com/album/36fdQ5l5urZBcdUR3DUvCF",
+           "appleMusic": "https://music.apple.com/us/album/broadway-calls/1457444275",
+           "bandcamp": "https://broadwaycalls.bandcamp.com/album/broadway-calls",
+           "store": null
+        }
+    },
+    {
+        "bandName": "The Copyrights & Kepi Ghoulie",
+        "album": "Observation Wagon",
+        "releaseNumber": "221",
+        "releaseDate": "2019-07-12",
+        "coverArt": "https://prod-cdn-06.storenvy.com/product_photos/74082267/file_1537d94e72_original.jpg",
+        "trackList":[
+            "Side 1:",
+            "01. The Copyrights – “Welcome Wagon”",
+            "02. The Copyrights – “Are You Passionate?”",
+            "Side 2:",
+            "01. Kepi Ghoulie – “Observation Day”",
+            "02. Kepi Ghoulie – “Four Eyes”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/020W8oio50R3b0JarVS8Rs?si=FhRmSevJR0ms257gkwDQjw",
+            "appleMusic": "https://music.apple.com/us/album/welcome-wagon-single/1462986021",
+            "bandcamp": "https://thecopyrights.bandcamp.com/album/welcome-wagon-single",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/26853654-the-copyrights-kepi-ghoulie-observation-wagon-7-cccp-221-7"
+        }
+    },
+    {
+        "bandName": "Various Artists",
+        "album": "Red Scare Industries: 15 Years of Tears and Beers",
+        "releaseNumber": "222",
+        "releaseDate": "2019-09-27",
+        "coverArt": "https://f4.bcbits.com/img/a4196222847_10.jpg",
+        "trackList":[
+            "01. The Copyrights “Maine or Oregon”",
+            "02. Sincere Engineer “Dragged Across the Finish Line”",
+            "03. Broadway Calls “Sunday Morning”",
+            "04. Sam Russo “The Window”",
+            "05. Elway “High Drama, Low Comedy”",
+            "06. The Bombpops “East and West”",
+            "07. Garrett Dale “Dead Body”",
+            "08. Tightwire “AYL”",
+            "09. Brendan Kelly and the Wandering Birds “All I Hear Is Static”",
+            "10. Ramona “Yeah Again”",
+            "11. MakeWar “TJ”",
+            "12. The Brokedowns “Thinking With The Lights On”",
+            "13. Sundowner “Bleed Together”",
+            "14. The Lippies “Acid Head”",
+            "15. Billy Liar “The Escapist”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2NYkCZKeDJTMni0jZMYqc5?si=SWrdKHH-T7iG8devZ3Tosw",
+            "appleMusic": "https://music.apple.com/us/album/red-scare-industries-15-years-of-tears-and-beers/1477570838",
+            "bandcamp": "https://redscareindustries.bandcamp.com/album/red-scare-industries-15-years-of-tears-and-beers",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/28391960-various-artists-red-scare-industries-15-years-of-tears-and-beers-lp-cccp"
+        }
+    },
+    {
+        "bandName": "The Reganomics",
+        "album": "The Aging Punk",
+        "releaseNumber": "223",
+        "releaseDate": "2019-12-13",
+        "coverArt": "https://f4.bcbits.com/img/a0045282249_10.jpg",
+        "trackList": [
+            "01. The Four Cliches",
+            "02. Dear Jaymez",
+            "03. Dunzo",
+            "04. Happy Birthday Jeff",
+            "05. Mountains",
+            "06. Worth a Damn",
+            "07. STFU",
+            "08. Meth Gator",
+            "09. Grown Ass Man",
+            "10. Don’t be an Asshole",
+            "11. Kingmaker",
+            "12. Summer Maiden",
+            "13. Confessions of a Snowflake Lib-Tard"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2kPsPFyp8IHOfanU5IlG6y?si=bvwLc2hmQvG7dR9daIZBIw",
+            "appleMusic": "https://music.apple.com/us/album/the-aging-punk/1487891153",
+            "bandcamp": "https://thereaganomics.bandcamp.com/album/the-aging-punk",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Guerilla Poubelle",
+        "album": "L’ennui",
+        "releaseNumber": "224",
+        "releaseDate": "2020-01-31",
+        "coverArt": "https://f4.bcbits.com/img/a3227848069_10.jpg",
+        "trackList":[
+            "01. Les frontières du présent",
+            "02. La chute",
+            "03. Qui perd perd",
+            "04. Apocalypse 6:12",
+            "05. La bataille de Paris",
+            "06. Entre Booba et Balkany",
+            "07. Le casse du siècle",
+            "08. L’aigle et la foudre",
+            "09. Passer l’arme à droite",
+            "10. Vampire",
+            "11. La guerre des pauvres",
+            "12. L’argile",
+            "13. Mare Nostrum"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N?si=OatY3AaHTymXC2_LyNj_Eg",
+            "appleMusic": "https://music.apple.com/us/album/lennui/1493455620",
+            "bandcamp": "https://guerillapoubelle.bandcamp.com/album/lennui",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/29173027-guerilla-poubelle-l-ennui-lp-cccp-224-1"
+        }
+    },
+    {
+        "bandName": "Sam Russo",
+        "album": "Back To The Party",
+        "releaseNumber": "225",
+        "releaseDate": "2020-03-27",
+        "coverArt": "https://f4.bcbits.com/img/a2031946603_10.jpg",
+        "trackList":[
+            "01. Purple Snow",
+            "02. The Window",
+            "03. Always Lost",
+            "04. Good and Gone",
+            "05. Darkness",
+            "06. Young Heroes",
+            "07. Anne",
+            "08. Tears",
+            "09. Corporeal Gloom",
+            "10. The Basement"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2qmm2zKw58TvGzi0tCOpdM?si=ag5vk91oTkS-8nvnCQD9cA",
+            "appleMusic": "https://music.apple.com/us/album/back-to-the-party/1504357776",
+            "bandcamp": "https://samrusso.bandcamp.com/album/back-to-the-party",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/29712769-sam-russo-back-to-the-party-lp-cccp-225-1"
+        }
+    },
+    {
+        "bandName": "Broadway Calls",
+        "album": "Meet Me On The Moon",
+        "releaseNumber": "226",
+        "releaseDate": "2020-04-03",
+        "coverArt": "https://f4.bcbits.com/img/a0946274942_10.jpg",
+        "trackList":[
+            "01. Meet Me On The Moon",
+            "02. Call It Off (Acoustic)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/77wx7uxRYE4xRxsssu4ycN?si=RISr9RJmRCOirc1j8-axYQ",
+            "appleMusic": "https://music.apple.com/us/album/meet-me-on-the-moon/1500982345?i=1500982351",
+            "bandcamp": "https://broadwaycalls.bandcamp.com/album/meet-me-on-the-moon-single",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/30040204-broadway-calls-meet-me-on-the-moon-7-cccp-226-7"
+        }
+    },
+    {
+        "bandName": "Cobra Skulls",
+        "album": "Eat Your Babies",
+        "releaseNumber": "227",
+        "releaseDate": "2020-06-12",
+        "coverArt": "https://f4.bcbits.com/img/a2632350048_10.jpg",
+        "trackList":[
+            "01. Cobra Skulls Broadcasting Co.",
+            "02. Cobra Cougar",
+            "03. Cobra Skulls Revolution",
+            "04. Donnie Rumsfelt My Cobra Skulls Ass",
+            "05. That There’s Cobra Country!",
+            "06. Cobra Skulls Lockdown",
+            "07. Stick It To The Cobra Skulls",
+            "08. The Beginning of the Cobra",
+            "09. The Decider",
+            "10. Cobra Christmas"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7koLce6aJyebx1xP8ayzKW?si=OHpUwZ0wQXiFDubSh582BA",
+            "appleMusic": "https://music.apple.com/us/album/eat-your-babies-2005-recordings/1514337460",
+            "bandcamp": "https://cobraskulls.bandcamp.com/album/eat-your-babies-2005-recordings-2",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Broadway Calls",
+        "album": "Sad In The City",
+        "releaseNumber": "228",
+        "releaseDate": "2020-05-15",
+        "coverArt": "https://f4.bcbits.com/img/a1861324552_10.jpg",
+        "trackList":[
+            "01. Never Take Us Alive",
+            "02. You Gotta Know",
+            "03. Sad In The City",
+            "04. Always On The Run",
+            "05. There’s a Glow",
+            "06. Take Me Down",
+            "07. Radiophobia",
+            "08. Slick New Truth",
+            "09. Meet Me On The Moon",
+            "10. Big Mouth",
+            "11. Went Dyin’"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1sPau7ss9eWqQ90wzs4EMD?si=jOE95pqGRuGMhIoDD-7xuA",
+            "appleMusic": "https://music.apple.com/us/album/sad-in-the-city/1516082317",
+            "bandcamp": "https://broadwaycalls.bandcamp.com/album/sad-in-the-city",
+            "store": null
+        }
+    },
+    {
+        "bandName": "The Lippies",
+        "album": "Pop 'n' Lockdown EP",
+        "releaseNumber": "229",
+        "releaseDate": "2016-06-17",
+        "coverArt": "https://f4.bcbits.com/img/a3502883414_10.jpg",
+        "trackList":[
+            "01. On Your Mind",
+            "02. Get Out Of Bed",
+            "03. I’m A Reactor"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5MhQryGph31nhtAXkam1Mw?si=2YZ9iVy7TpmgKxyseqmpLA",
+            "appleMusic": "https://music.apple.com/us/album/pop-n-lockdown-ep/1506065335",
+            "bandcamp": "https://thelippies.bandcamp.com/album/pop-n-lockdown-ep",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Raging Nathans & Reganomics",
+        "album": "Midwest Duress",
+        "releaseNumber": "230",
+        "releaseDate": "2020-07-10",
+        "coverArt": "https://prod-cdn-07.storenvy.com/product_photos/86605249/file_140878cbbe_original.jpg",
+        "trackList":[
+            "01. The Raging Nathans - Can't Relate",
+            "02. The Raging Nathans - Worry About Yourself",
+            "03. The Raging Nathans - Fuck You",
+            "04. The Reaganomics - OK Day",
+            "05. The Reaganomics - Song in A",
+            "06. The Reaganomics - Tear Off Your Face"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/1sWQtATp7IDS749BXL6VQ8?si=lLpAsvt6RmCQS71824RBqw",
+            "appleMusic": "https://music.apple.com/us/album/midwest-duress-ep/1541015559",
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/31389790-raging-nathans-reaganomics-midwest-duress-7-ep-cccp-230-7"
+        }
+    },
+    {
+        "bandName": "Good Friend",
+        "album": "The Erin Rose EP",
+        "releaseNumber": "231",
+        "releaseDate": "2020-12-11",
+        "coverArt": "https://f4.bcbits.com/img/a2846441980_10.jpg",
+        "trackList":[
+            "01. Erin Rose Drinks on Shift",
+            "02. We'll Burn That Bridge When We Get to It",
+            "03. Rusted Friends"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7DG31coJNL9uPXKDMR3nSA?si=SIFrTWWkT427CMzVYZH5Gw",
+            "appleMusic": "https://music.apple.com/us/album/the-erin-rose-ep/1540194586",
+            "bandcamp": "https://goodfriend.bandcamp.com/album/the-erin-rose-ep",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/31389814-good-friend-the-erin-rose-ep-7-ep-cccp-231-7"  
+        }
+    },
+    {
+        "bandName": "Fleau",
+        "album": "Fleau",
+        "releaseNumber": "233",
+        "releaseDate": "2021-03-19",
+        "coverArt": "https://f4.bcbits.com/img/a0905350560_10.jpg",
+        "trackList":[
+            "01. Gloire éternelle",
+            "02. Affliction",
+            "03. Expédition punitive",
+            "04. Souffrance"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z?si=3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z",
+            "appleMusic": "https://music.apple.com/us/album/fl%C3%A9au/1553660733",
+            "bandcamp": "https://fleau.bandcamp.com/album/fl-au",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/31389814-good-friend-the-erin-rose-ep-7-ep-cccp-231-7"  
+        }
+    },
+    {
+        "bandName": "The Lillingtons",
+        "album": "Can Anybody Hear Me?",
+        "releaseNumber": "234",
+        "releaseDate": "2021-04-23",
+        "coverArt": "https://f4.bcbits.com/img/a0675491212_10.jpg",
+        "trackList":[
+            "01. Automaton",
+            "02. 72 Hours",
+            "03. Awake",
+            "04. The Only One",
+            "05. Hopes and Dreams",
+            "06. Untitled Yeebrah"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4LKDJPehjhrvTfijOeVttw?si=t2Hrq7V5THWdrRovUZPbrg",
+            "appleMusic": "https://music.apple.com/us/album/can-anybody-hear-me-a-tribute-to-enemy-you-ep/1560433576",
+            "bandcamp": "https://thelillingtons.bandcamp.com/album/can-anybody-hear-me-a-tribute-to-enemy-you",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/31902067-the-lillingtons-can-anybody-hear-me-12-cccp-234-1"  
+        }
+    },
+    {
+        "bandName": "Heart & Lung",
+        "album": "Twistin' The Knife Away",
+        "releaseNumber": "237",
+        "releaseDate": "2021-10-15",
+        "coverArt": "https://f4.bcbits.com/img/a0269107795_10.jpg",
+        "trackList":[
+            "01. Watch You Suffer",
+            "02. I’m Fine",
+            "03. Punk Posters",
+            "04. Die Alone",
+            "05. Headache",
+            "06. Shit Together",
+            "07. Never Come Home",
+            "08. Caveman",
+            "09. Drunk and Right",
+            "10. Control",
+            "11. Earth, Wind, and Water"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5CaFUglBwJ4ymg9bcbm5ET?si=-Z2dq8g_R5meCojK3NhmMQ",
+            "appleMusic": "https://music.apple.com/us/album/twistin-the-knife-away/1586009021",
+            "bandcamp": "https://heartandlung.bandcamp.com/album/twistin-the-knife-away",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/33592099-heart-lung-twistin-the-knife-away-lp-cccp-237-1"
+        }
+    },
+    {
+        "bandName": "Elway",
+        "album": "The Best Of All Possible Worlds",
+        "releaseNumber": "240",
+        "releaseDate": "2022-04-01",
+        "coverArt": "https://f4.bcbits.com/img/a2955267021_10.jpg",
+        "trackList":[
+            "01. Pangloss",
+            "02. The Infirm Dreamers Dream",
+            "03. The English Wishbone",
+            "04. Unclaimed Graves",
+            "05. The Rest Is Posthumous",
+            "06. Maximum Entropy",
+            "07. Folly After Death",
+            "08. Deep Fake",
+            "09. Plastic Bottle Service",
+            "10. My Blue Hour",
+            "11. The Jetty"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/5puJKdv17EeObPXl56qjeO?si=7XdE34reSyyGTbBfm7saEw",
+            "appleMusic": "https://music.apple.com/us/album/the-best-of-all-possible-worlds/1606831437",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/the-best-of-all-possible-worlds",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/35147239-elway-the-best-of-all-possible-worlds-lp-cccp-240-1"
+        }
+    },
+    {
+        "bandName": "No Trigger",
+        "album": "Acid Lord EP",
+        "releaseNumber": "241",
+        "releaseDate": "2022-05-20",
+        "coverArt": "https://f4.bcbits.com/img/a2947902380_10.jpg",
+        "trackList":[
+            "1. Acid Lord™",
+            "2. Antifantasy",
+            "3. Brainwashed",
+            "4. Guillotine",
+            "5. Acceptance Speech"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0mmDVtKbdEka1dFNZpvmAf?si=JFOna72bS4ul_C8Hzs5BcQ",
+            "appleMusic": "https://music.apple.com/us/album/acid-lord-ep/1613940735",
+            "bandcamp": "https://notrigger.bandcamp.com/album/acid-lord-ep",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/35147239-elway-the-best-of-all-possible-worlds-lp-cccp-240-1"
+        }
+    },
+    {
+        "bandName": "SACK",
+        "album": "Ripper!",
+        "releaseNumber": "242",
+        "releaseDate": "2022-06-10",
+        "coverArt": "https://f4.bcbits.com/img/a1593645708_10.jpg",
+        "trackList":[
+            "01. I Hate The Beach Boys",
+            "02. Wet Banana",
+            "03. The Return of Mr. Bong",
+            "04. I Tried Suicide",
+            "05. I Used To Give A Shit",
+            "06. Night Shift",
+            "07. Live, Laugh, LARP",
+            "08. Hot Shit",
+            "09. The Thesis",
+            "10. Dark Alley",
+            "11. Turf War",
+            "12. Staple of the Stoner House"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7uRpQe098krguAsR8703aA?si=9ZvUi3raRui3oA8UkoUd_g",
+            "appleMusic": "https://music.apple.com/us/album/ripper/1624774852",
+            "bandcamp": "https://sackstreetrock.bandcamp.com/album/ripper",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/35745124-sack-ripper-lp-cccp-242-1"
+        }
+    },
+    {
+        "bandName": "No Trigger",
+        "album": "Dr. Album",
+        "releaseNumber": "243",
+        "coverArt": "https://f4.bcbits.com/img/a2048129653_10.jpg",
+        "trackList":[
+            "01. Antifantasy",
+            "02. Take Your Time",
+            "03. Acid Lord™",
+            "04. Coffee From A Microwave",
+            "05. Too High To Die",
+            "06. No Tattoos",
+            "07. Brainwashed",
+            "08. Water By The Beer Can",
+            "09. Foggy Mountain Bus Stop",
+            "10. Northern Corner",
+            "11. Euro Coke",
+            "12. Best Friend Stuff",
+            "13. Totally Digital"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0kAFMQR8EUPi1RWxmM8yCs?si=OpaB0Y2iR4KKO8OC_BcL1Q",
+            "appleMusic": "https://music.apple.com/us/album/dr-album/1633100843",
+            "bandcamp": "https://notrigger.bandcamp.com/album/dr-album",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/35972902-no-trigger-dr-album-lp-cccp-243-1"
+        }
+    },
+    {
+        "bandName": "The Brokedowns",
+        "album": "Maximum Khaki",
+        "releaseNumber": "245",
+        "releaseDate": "2023-01-20",
+        "coverArt": "https://f4.bcbits.com/img/a1106134006_10.jpg",
+        "trackList":[
+            "01. Obey The Fumes",
+            "02. Ernest Becker At A Costco",
+            "03. Chakra Updates",
+            "04. UK82 Pt. 2: The Olds Are Not Alright",
+            "05. Man Graves (Masculine Caskets)",
+            "06. Samurai Sword Decontrol",
+            "07. Stay Calm Stay Cruel",
+            "08. I’m Sore",
+            "09. Honk If You’re Horny",
+            "10. Cinnamon King",
+            "11. Satan In Quarantine",
+            "12. Kony 2022",
+            "13. Osama Van Halen",
+            "14. Khaki Majesty"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/75YDvOJlCdseGwGQADGTFs?si=nxE5DOoHRFiEAuhJtgDTsA",
+            "appleMusic": "https://music.apple.com/us/album/maximum-khaki/1659957231",
+            "bandcamp": "https://thebrokedowns.bandcamp.com/album/maximum-khaki",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/36352120-the-brokedowns-maximum-khaki-lp-cccp-245-1"
+        }
+    },
+    {
+        "bandName": "Laura Jane Grace",
+        "album": "Bought To Rot",
+        "releaseNumber": "246",
+        "releaseDate": "2018-11-09",
+        "coverArt": "https://f4.bcbits.com/img/a0183381647_10.jpg",
+        "trackList": [
+            "01. China Beach",
+            "02. Born In Black",
+            "03. The Airplane Song",
+            "04. Apocalypse Now (& Later)",
+            "05. Reality Bites",
+            "06. Amsterdam Hotel Room",
+            "07. The Friendship Song",
+            "08. I Hate Chicago",
+            "09. Screamy Dreamy",
+            "10. Manic Depression",
+            "11. The Acid Test Song",
+            "12. The Hotel Song",
+            "13. Valeria Golina",
+            "14. The Apology Song"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3Eq2r5SkxRkUw6vQsTsgM5?si=tNeqEWKHT_e6GF0-afc5Nw",
+            "appleMusic": "https://music.apple.com/us/album/bought-to-rot/1620025829",
+            "bandcamp": "https://laurajanegrace.bandcamp.com/album/bought-to-rot",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/36198421-laura-jane-grace-bought-to-rot-lp-cccp-246-1"
+        }
+    },
+    {
+        "bandName": "Sludgeworth",
+        "album": "Losers of the Year",
+        "releaseNumber": "247",
+        "releaseDate": "2022-12-09",
+        "coverArt": "https://f4.bcbits.com/img/a2694921567_10.jpg",
+        "trackList":[
+            "01. Waste It Away",
+            "02. Someday",
+            "03. Anytime",
+            "04. Only One",
+            "05. Another Day",
+            "06. I Analyze",
+            "07. Never Say Never",
+            "08. Follow",
+            "09. Over And Over",
+            "10. She's Not Disposable",
+            "11. Cry Baby",
+            "12. Nearest One To Stand Behind",
+            "13. Angry Man",
+            "14. Two Feet On The Ground",
+            "15. You And I"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/7Bq47YJxLORkVn6MXGwnDs?si=Fm8CJd1MT9endcLgqOsrIw",
+            "appleMusic": "https://music.apple.com/us/album/losers-of-the-year/1654053125",
+            "bandcamp": "https://sludgeworth.bandcamp.com/album/losers-of-the-year",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/36248701-sludgeworth-losers-of-the-year-lp-cccp-244-1"
+        }
+    },
+    {
+        "bandName": "The Bollweevils",
+        "album": "Essential",
+        "releaseNumber": "247",
+        "releaseDate": "2023-05-05",
+        "coverArt": "https://f4.bcbits.com/img/a2590620312_10.jpg",
+        "trackList":[
+            "01. Predisposition",
+            "02. Galt's Gulch",
+            "03. Disrespected Peggy Sue",
+            "04. Honesty",
+            "05. The Cutting Solution",
+            "06. Theme",
+            "07. Bottomless Pit",
+            "08. Our Glass",
+            "09. Resistance",
+            "10. Liniment And Tonic"
+        ],
+        "links":{
+            "spotify": "hhttps://open.spotify.com/album/1g72TnMILw8U512xBvgbIt?si=C3pstF2SRzSK1Rqwp8r8-g",
+            "appleMusic": "https://music.apple.com/us/album/essential/1677639760",
+            "bandcamp": "https://thebollweevils.bandcamp.com/album/essential",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/36458878-the-bollweevils-essential-lp-cccp-247-1"
+        }
+    },
+    {
+        "bandName": "Tightwire",
+        "album": "Head Full Of Snakes",
+        "releaseNumber": "248",
+        "releaseDate": "2023-06-09",
+        "coverArt": "https://f4.bcbits.com/img/a1727143980_10.jpg",
+        "trackList":[
+            "01. Head Full of Snakes",
+            "02. Party",
+            "03. Smoke Machine",
+            "04. One Foot In The Grave",
+            "05. Anyone But You",
+            "06. Bad Things",
+            "07. Bitter P!ll",
+            "08. Bad Decisions",
+            "09. Shakin’",
+            "10. Good Time",
+            "11. Rehab… Again",
+            "12. All Alone On Christmas"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4nMOWPauxqbZhj3yRmOJ8c?si=AFCVO1zQTgClUFsZFBbM5A",
+            "appleMusic": "https://music.apple.com/us/album/head-full-of-snakes/1684580004",
+            "bandcamp": "https://tightwirempls.bandcamp.com/album/head-full-of-snakes",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/36480331-tightwire-head-full-of-snakes-lp-cccp-248-1"
+        }
+    },
+    {
+        "bandName": "Sam Russo",
+        "album": "Mistletoe Pier",
+        "releaseNumber": "253",
+        "releaseDate": "2023-11-17",
+        "coverArt": "https://f4.bcbits.com/img/a1869367366_10.jpg",
+        "trackList":[
+            "01. Christmas Under The Pier",
+            "02. Merry Christmas (Baby, I'm Sorry)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4Rr9eeyvdbBuqYMgGe9T1Z?si=M6iYzKuCQdurcGr44riiag",
+            "appleMusic": "https://music.apple.com/us/album/mistletoe-pier-single/1709190665",
+            "bandcamp": "https://samrusso.bandcamp.com/album/mistletoe-pier",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/36675907-sam-russo-mistletoe-pier-7-cccp-253-7"
+        }
+    },
+    {
+        "bandName": "Broadway Calls",
+        "album": "Coming After You!",
+        "releaseNumber": "254",
+        "releaseDate": "2024-01-26",
+        "coverArt": "https://f4.bcbits.com/img/a0851234312_10.jpg",
+        "trackList":[
+            "01. Coming After You",
+            "02. A Little Shake",
+            "03. Dead Before I Hit the Ground",
+            "04. Dreamin' (Castle Rock Version)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/3jPYjmal6j9dRNvyFb9ysQ?si=zOp1yFR-TK6pHsbNx8Jk8A",
+            "appleMusic": "https://music.apple.com/us/album/coming-after-you-ep/1720426722",
+            "bandcamp": "https://broadwaycalls.bandcamp.com/album/coming-after-you",
+            "store": "https://redscare.storenvy.com/collections/9915-all-products/products/36719859-broadway-calls-coming-after-you-7-ep-cccp-254-7"
+        }
     }
-
 ]
