@@ -15,7 +15,7 @@
             "bandName": "Arms Aloft",
             "hometown": "Eau Claire, WI",
             "socials": {
-                "facebook": "https://www.facebook.com/band",
+                "facebook": "https://www.facebook.com/armsaloft/",
                 "twitter": "https://twitter.com/armsaloft",
                 "instagram": "https://instagram.com/armsaloft",
                 "bandcamp": "https://armsaloft.bandcamp.com/"
@@ -41,7 +41,7 @@
             "socials": {
                 "facebook": "https://www.facebook.com/thebollweevils",
                 "twitter": "https://twitter.com/thebollweevils",
-                "instagram": "https://instagram.com/thebollweevils",
+                "instagram": "https://www.instagram.com/the_bollweevils_chicago/",
                 "bandcamp": "https://thebollweevils.bandcamp.com/"
             },
             "picture": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2023/05/The-Bollweevils-by-Paul-Catani.jpg?w=1200&quality=89&ssl=1",
@@ -442,6 +442,18 @@
             },
             "picture": "https://f4.bcbits.com/img/0012554470_10.jpg",
             "bio": "Red City Radio is a punk rock band from Oklahoma City, Oklahoma. They have released four full-length albums on Red Scare Industries. The band released their first album, The Dangers of Standing Still, in 2011. In 2013, the band released their second album, Titles. In 2015, the band released their third album, Red City Radio. In 2018, the band released their fourth album, SkyTigers."
+        },
+        {
+            "bandName": "SACK",
+            "hometown": "Denver, CO",
+            "socials": {
+                "facebook": "https://www.facebook.com/SACKSTREETROCK/",
+                "twitter": "https://twitter.com/sackstreetrock",
+                "instagram": "https://www.instagram.com/sackstreetrock/",
+                "bandcamp": "https://sackstreetrock.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0020656209_10.jpg",
+            "bio": "SACK is a punk rock band from Denver, Colorado. They have released one full-length album on Red Scare Industries. The band released their first album, Get Wrecked, in 2016."
         },
         {
             "bandName": "Sam Russo",

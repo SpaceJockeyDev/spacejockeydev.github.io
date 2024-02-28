@@ -12,18 +12,27 @@
   />
   <link rel="icon" href="assets/fist.ico" />
   <style>
+    .content-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: calc(
+        100vh - 60px
+      ); /* Adjust based on the height of your navbar and footer */
+      margin: 0;
+    }
     #band-name {
       font-size: 3em;
       color: #333;
       font-family: "Viva";
-      text-align: center; 
+      text-align: center;
     }
     #band-picture {
       width: 600px;
-    height: auto;
-    display: block; /* Center the band picture */
-    margin-left: auto;
-    margin-right: auto;
+      height: auto;
+      display: block; /* Center the band picture */
+      margin-left: auto;
+      margin-right: auto;
     }
     #band-bio {
       font-size: 1.2em;
@@ -59,14 +68,14 @@
     }
     @media (max-width: 600px) {
       #band-picture {
-        width: 600px;
+        width: 400px;
         max-width: 100%;
         display: block;
         margin: auto;
       }
       #band-name {
-    text-align: center;
-  }
+        text-align: center;
+      }
       body {
         background-size: 20%, 10%; /* Adjust as needed */
         background-repeat: repeat-y, repeat-y;
@@ -90,22 +99,28 @@
       text-align: center;
     }
     #band-socials {
-    text-align: center; /* Center the band socials */
-  }
+      text-align: center; /* Center the band socials */
+    }
+    .underline {
+  border-bottom: 5px solid red;
+} 
   </style>
 </head>
-<div id="navbar-container"></div>
-<div class="band-info">
-  <h1 id="band-name"></h1>
-  <img id="band-picture"/>
-  <p id="band-hometown"></p>
-  <p id="band-socials"></p>
-  <p id="band-bio"></p>
-  <h2 style="font-family: 'Viva'">Releases</h2>
-  <div id="band-releases" class="band-releases"></div>
+<body>
+  <div id="navbar-container"></div>
+  <div id="content-container">
+    <h1 id="band-name"></h1>
+    <img id="band-picture" />
+    <p id="band-hometown"></p>
+    <p id="band-socials"></p>
+    <div class="band-info">
+      <p id="band-bio"></p>
+      <h2 style="font-family: 'Viva'">Releases</h2>
+      <div id="band-releases" class="band-releases"></div>
+    </div>
+  </div>
   <div id="footer"></div>
-  <!-- More elements for the other band data... -->
-</div>
+</body>
 <script>
   const urlParams = new URLSearchParams(window.location.search);
   const bandName = decodeURIComponent(urlParams.get("band")).replace(/-/g, " ");
@@ -118,22 +133,40 @@
       fetch("releases.json")
         .then((response) => response.json())
         .then((releases) => {
-          band.releases = releases.filter(
-            (release) => release.bandName === band.bandName
+          // Filter the releases that include the band's name
+          band.releases = releases.filter((release) =>
+            release.bandName.includes(band.bandName)
           );
 
           // Sort the releases by release number
           band.releases.sort((a, b) => b.releaseNumber - a.releaseNumber);
 
-          document.getElementById("band-name").textContent = band.bandName;
+          document.getElementById("band-name").innerHTML = `<span class="underline">${band.bandName}</span>`;;
           document.getElementById("band-picture").src = band.picture;
-          document.getElementById("band-hometown").textContent = 'Hometown: ' + band.hometown;
+          document.getElementById("band-hometown").textContent =
+            "Hometown: " + band.hometown;
           document.getElementById("band-bio").textContent = band.bio;
           document.getElementById("band-socials").innerHTML = `
-            ${band.socials.facebook ? `<a href="${band.socials.facebook}" target="_blank"><i class="fab fa-facebook-f"></i></a>` : ''}
-            ${band.socials.twitter ? `<a href="${band.socials.twitter}" target="_blank"><i class="fab fa-twitter"></i></a>` : ''}
-            ${band.socials.instagram ? `<a href="${band.socials.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>` : ''}
-            ${band.socials.bandcamp ? `<a href="${band.socials.bandcamp}" target="_blank"><i class="fab fa-bandcamp"></i></a>` : ''}`;
+            ${
+              band.socials.facebook
+                ? `<a href="${band.socials.facebook}" target="_blank"><i class="fab fa-facebook-f"></i></a>`
+                : ""
+            }
+            ${
+              band.socials.twitter
+                ? `<a href="${band.socials.twitter}" target="_blank"><i class="fab fa-twitter"></i></a>`
+                : ""
+            }
+            ${
+              band.socials.instagram
+                ? `<a href="${band.socials.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>`
+                : ""
+            }
+            ${
+              band.socials.bandcamp
+                ? `<a href="${band.socials.bandcamp}" target="_blank"><i class="fab fa-bandcamp"></i></a>`
+                : ""
+            }`;
 
           document.title = "Red Scare | " + band.bandName;
 
@@ -172,4 +205,3 @@
     $("#footer").load("footer.html");
   });
 </script>
-

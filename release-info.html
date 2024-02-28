@@ -132,63 +132,85 @@
             // Find the album with the correct name
             const album = albums.find((album) => album.album === albumName);
 
-            // Set the title of the page
-            document.title = `${album.bandName} - ${album.album}`;
+            // Fetch the band data from bands.json
+            fetch("bands.json")
+              .then((response) => response.json())
+              .then((bands) => {
+                // Find the band with the correct name
+                const band = bands.find((band) =>
+                  album.bandName.includes(band.bandName)
+                );
 
-            // Get the container where the album information will be displayed
-            const container = document.getElementById("album-info-container");
+                // If the band is found, update the band name link
+                if (band) {
+                  album.bandName = band.bandName;
+                }
 
-            // Create HTML elements for the album information
-            const albumElement = document.createElement("div");
-            albumElement.innerHTML = `
-                      <div class="album-container">
-                          <div class="album-cover">
-                              <img class="album-cover-info" src="${
-                                album.coverArt
-                              }" alt="${album.album} Cover Art">
-                          </div>
-                    <div class="album-info">
-                        <h2 class="band-name"><a href="band-bio.html?band=${encodeURIComponent(
-                          album.bandName.replace(/\s/g, "-")
-                        )}">${album.bandName}</a></h2>
-                        <p class="album-title">${album.album}</p>
-                        <p class="release-info">CCCP ${album.releaseNumber} - ${
-              album.releaseDate
-            }</p>
+                // Set the title of the page
+                document.title = `${album.bandName} - ${album.album}`;
+
+                // Get the container where the album information will be displayed
+                const container = document.getElementById(
+                  "album-info-container"
+                );
+
+                // Create HTML elements for the album information
+                const albumElement = document.createElement("div");
+                albumElement.innerHTML = `
+                          <div class="album-container">
+                              <div class="album-cover">
+                                  <img class="album-cover-info" src="${
+                                    album.coverArt
+                                  }" alt="${album.album} Cover Art">
+                              </div>
+                        <div class="album-info">
+                            <h2 class="band-name">${
+                              album.bandName === "Various Artists"
+                                ? album.bandName
+                                : `<a href="band-bio.html?band=${encodeURIComponent(
+                                    album.bandName.replace(/\s/g, "-")
+                                  )}">${album.bandName}</a>`
+                            }</h2>
+                            <p class="album-title">${album.album}</p>
+                            <p class="release-info">CCCP ${
+                              album.releaseNumber
+                            } - ${album.releaseDate}</p>
+                ${
+                  album.links.store !== null
+                    ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
+                    : ""
+                }
+                <p style="font-family: 'Alte';">Track List:</p>
+                <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
+                ${album.trackList.map((track) => `<li>${track}</li>`).join("")}
+                </ul>
+                <div class="stream-on">
+                <p>Stream on:</p>
+                <div class="icon-container">
             ${
-              album.links.store !== null
-                ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
+              album.links.spotify != null
+                ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>`
                 : ""
             }
-            <p style="font-family: 'Alte';">Track List:</p>
-            <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
-            ${album.trackList.map((track) => `<li>${track}</li>`).join("")}
-            </ul>
-            <div class="stream-on">
-            <p>Stream on:</p>
-            <div class="icon-container">
-        ${
-          album.links.spotify != null
-            ? `<a href="${album.links.spotify}" target="_blank"><i class="fab fa-spotify icon"></i></a>`
-            : ""
-        }
-        ${
-          album.links.appleMusic != null
-            ? `<a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple icon"></i></a>`
-            : ""
-        }
-        ${
-          album.links.bandcamp != null
-            ? `<a href="${album.links.bandcamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>`
-            : ""
-        }
-    </div>
-</div>
+            ${
+              album.links.appleMusic != null
+                ? `<a href="${album.links.appleMusic}" target="_blank"><i class="fab fa-apple icon"></i></a>`
+                : ""
+            }
+            ${
+              album.links.bandcamp != null
+                ? `<a href="${album.links.bandcamp}" target="_blank"><i class="fab fa-bandcamp icon"></i></a>`
+                : ""
+            }
         </div>
-    </div>`;
+    </div>
+            </div>
+        </div>`;
 
-            // Add the album information to the container
-            container.appendChild(albumElement);
+                // Add the album information to the container
+                container.appendChild(albumElement);
+              })
+              .catch((error) => console.error("Error:", error));
           })
           .catch((error) => console.error("Error:", error));
       };
