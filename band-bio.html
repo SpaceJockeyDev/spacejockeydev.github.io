@@ -90,12 +90,12 @@
       background-color: #f2ead3;
     }
     .band-info {
-  display: column;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%; /* or any other percentage or fixed value you prefer */
-}
-    @media screen and (max-width: 768px) {
+      display: column;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%; /* or any other percentage or fixed value you prefer */
+    }
+    @media (max-width: 990px) {
       #band-picture {
         width: 400px;
         max-width: 100%;
@@ -105,38 +105,44 @@
       #band-name {
         text-align: center;
       }
-      body {
-        background-image: url("assets/PNGs/Skyline_Cropped.png"),
-          url("assets/PNGs/Hands_Cropped.png"),
-          url("assets/PNGs/Circle_Full.png");
-        background-position: right, left, left 120px;
-        background-size: 15%, 40%, 20%;
-        background-repeat: repeat-y, repeat-y, no-repeat;
-        background-attachment: fixed;
-        background-color: #f2ead3;
-      }
+      
       .release img {
         width: 200px;
         height: auto;
       }
+      body::before {
+        content: "";
+        position: fixed;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        background-image: url("assets/PNGs/Skyline_Full.png"),
+          url("assets/PNGs/Hands_Cropped.png"),
+          url("assets/PNGs/Circle_Full.png");
+        background-position: right, left, left 120px;
+        background-size: 15%, 50%, 60%;
+        background-repeat: repeat-y, repeat-y, no-repeat;
+        background-color: #f2ead3;
+        min-width: 100%;
+        min-height: 100%;
+      }
       .band-info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding-right: 20px;
-  }
-  .band-releases {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .bio-container {
-    width: 100%;
-    max-width: 400px; /* You can adjust this value to your liking */
-  }
-  
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-right: 20px;
+      }
+      .band-releases {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .bio-container {
+        width: 100%;
+        max-width: 400px; /* You can adjust this value to your liking */
+      }
     }
     #band-releases .release a:hover {
       text-decoration: none;
@@ -151,18 +157,18 @@
       background-color: whitesmoke;
     }
     .info-container {
-  display: inline-block;
-  background-color: whitesmoke;
-  text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-top: 10px;
-  margin-bottom: 20px;
-}
-.info-wrapper {
-  display: flex;
-  justify-content: center;
-}
+      display: inline-block;
+      background-color: whitesmoke;
+      text-align: center;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+    .info-wrapper {
+      display: flex;
+      justify-content: center;
+    }
   </style>
 </head>
 <body>

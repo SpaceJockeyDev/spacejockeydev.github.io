@@ -14,7 +14,10 @@
     />
     <link rel="icon" href="assets/fist.ico" />
     <title>Releases - Red Scare Industries</title>
-    <meta name="description" content="This page shows all releases that have been released on Red Scare Industries.">
+    <meta
+      name="description"
+      content="This page shows all releases that have been released on Red Scare Industries."
+    />
     <style>
       .align-sort-container {
         position: absolute;
@@ -24,7 +27,9 @@
         padding-right: 40px;
       }
       .title-container {
-        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
       }
       .title {
         display: inline-block;
@@ -32,14 +37,14 @@
         padding-left: 20px;
         padding-right: 20px;
         font-size: 60px;
-        font-family: 'Viva';
+        font-family: "Viva";
         margin-top: 20px;
       }
       .sort-select {
         margin-left: 10px;
         margin-bottom: 5px;
       }
-      
+
       .sort-label {
         font-size: 25px;
         font-family: "Viva";
@@ -109,15 +114,18 @@
       }
       .pagination-button {
         background-color: #770c0c00; /* Change to your desired color */
-        font-size: 16px; /* Change to your desired font size */
+        font-size: 18px; /* Change to your desired font size */
         font-family: "Lemon";
         border: none;
+        margin-bottom: 40px;
       }
       .pagination-button.active {
         border-bottom: 2px solid #000; /* Change to your desired color and thickness */
       }
       body {
-        background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+        background-image: url("assets/PNGs/Skyline_Cropped.png"),
+          url("assets/PNGs/Hands_Cropped.png"),
+          url("assets/PNGs/Circle_Full.png");
         background-position: right, left, left 120px;
         background-size: 15%, 40%, 20%;
         background-repeat: repeat-y, repeat-y, no-repeat;
@@ -130,14 +138,22 @@
         position: relative;
       }
 
-      @media screen and (max-width: 768px) {
-        body {
-          background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
-        background-position: right, left, left 120px;
-        background-size: 15%, 40%, 20%;
-        background-repeat: repeat-y, repeat-y, no-repeat;
-        background-attachment: fixed;
-        background-color: #f2ead3;
+      @media (max-width: 990px) {
+        body::before {
+          content: "";
+          position: fixed;
+          z-index: -1;
+          top: 0;
+          left: 0;
+          background-image: url("assets/PNGs/Skyline_Full.png"),
+            url("assets/PNGs/Hands_Cropped.png"),
+            url("assets/PNGs/Circle_Full.png");
+          background-position: right, left, left 120px;
+          background-size: 15%, 50%, 60%;
+          background-repeat: repeat-y, repeat-y, no-repeat;
+          background-color: #f2ead3;
+          min-width: 100%;
+          min-height: 100%;
         }
         .header-container {
           flex-direction: column;
@@ -153,7 +169,7 @@
           width: 100%;
           text-align: right;
           padding-right: 10px;
-          margin-top: 20px;
+          margin-top: 30px;
         }
         .album {
           flex: 0 0 calc(50% - 2%); /* Subtract the horizontal margin */
@@ -172,14 +188,13 @@
     <div class="header-container">
       <div class="title-container">
         <h1 class="title">Releases</h1>
-      </div>
-
-      <div class="sort-container align-sort-container">
-        <label for="sort-select" class="sort-label">Sort by:</label>
-        <select id="sort-select" class="sort-select">
-          <option value="newest">Latest to Earliest</option>
-          <option value="oldest">Earliest to Latest</option>
-        </select>
+        <div class="sort-container align-sort-container">
+          <label for="sort-select" class="sort-label">Sort by:</label>
+          <select id="sort-select" class="sort-select">
+            <option value="newest">Latest to Earliest</option>
+            <option value="oldest">Earliest to Latest</option>
+          </select>
+        </div>
       </div>
     </div>
 
