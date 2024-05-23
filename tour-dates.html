@@ -13,7 +13,11 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
     <link rel="icon" href="assets/fist.ico" />
-    <title>Tour Dates - Red Scare</title>
+    <title>Tour Dates - Red Scare Industries</title>
+    <meta
+      name="description"
+      content="This page shows all active tour dates for bands on Red Scare Industries."
+    />
     <style>
       a {
         color: red;
@@ -21,8 +25,16 @@
       #bands p {
         margin: 0;
       }
+
       .ticket-link:hover {
         color: red;
+      }
+      #bandDropdown {
+        width: 200px; /* Set the width of the dropdown */
+        margin: 0 auto; /* Center the dropdown horizontally */
+        font-size: 20px; /* Set the font size */
+        font-family: "Alte";
+        margin-bottom: 10px;
       }
       #bands {
         display: flex;
@@ -31,49 +43,81 @@
         justify-content: center;
         font-family: "Alte", sans-serif;
       }
+      #bands ul {
+        padding: 0;
+        margin: 0;
+      }
       .band-section {
-        margin-bottom: 100px; /* Adjust as needed */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: whitesmoke;
+        margin-bottom: 30px;
+        padding-top: 20px;
+        text-align: center;
+        width: 30%;
       }
       body {
-        background-image: url("assets/bgright.png"), url("assets/bgleft.png");
-        background-repeat: repeat-y, repeat-y;
-        background-position: right, left;
-        background-size: 25%, 25%;
+        background-image: url("assets/PNGs/Skyline_Cropped.png"),
+          url("assets/PNGs/Hands_Cropped.png"),
+          url("assets/PNGs/Circle_Full.png");
+        background-position: right, left, left 120px;
+        background-size: 15%, 40%, 20%;
+        background-repeat: repeat-y, repeat-y, no-repeat;
+        background-attachment: fixed;
+        background-color: #f2ead3;
       }
       #bands img {
-        max-width: 20%;
+        max-width: 400px;
         height: auto;
       }
       .band-name {
-        font-size: 35px;
+        font-size: 40px;
         color: #000;
         font-family: "Viva";
+        background-color: whitesmoke;
+        margin-top: 20px;
+        margin-bottom: 20px;
       }
       .title-container {
         text-align: center;
       }
       .title {
         display: inline-block;
-        border-bottom: 5px solid rgb(252, 4, 4); /* Adjust as needed */
+        background-color: whitesmoke;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 60px;
+        font-family: "Viva";
+        margin-top: 20px;
+        margin-bottom: 20px;
       }
-      @media (max-width: 600px) {
+      @media (max-width: 990px) {
         #bands {
           font-size: 14px;
           margin-right: 10px;
-          margin-left: -10px;
         }
         #bands h1 {
           font-size: 1.5em;
         }
+        .band-section {
+          text-align: center;
+          width: 70%;
+        }
         #bands img {
-          max-width: 50%;
+          max-width: 200px;
           height: auto;
         }
         body {
-          background-size: 8%, 10%; /* Adjust as needed */
-          background-repeat: repeat-y, repeat-y;
-          background-image: url("assets/bgrightmobile.png"),
-            url("assets/bgleftmobile.png");
+          background-image: url("assets/PNGs/Skyline_Cropped.png"),
+            url("assets/PNGs/Hands_Cropped.png"),
+            url("assets/PNGs/Circle_Full.png");
+          background-position: right, left, left 120px;
+          background-size: 25%, 40%, 60%;
+          background-repeat: repeat-y, repeat-y, no-repeat;
+          background-attachment: fixed;
+          background-color: #f2ead3;
         }
       }
     </style>
@@ -108,8 +152,7 @@
         txt.innerHTML = html;
         return txt.value;
       }
-    </script>
-    <script>
+
       function fetchAllPages(url, page = 1, events = []) {
         return fetch(`${url}?page=${page}`)
           .then((response) => response.json())
@@ -131,6 +174,30 @@
       ])
         .then(([apiData, bandsData]) => {
           const bandsDiv = document.getElementById("bands");
+          const dropdown = document.createElement("select");
+          dropdown.id = "bandDropdown";
+          bandsDiv.before(dropdown);
+
+          // Add an "All" option at the beginning of the dropdown
+          const allOption = document.createElement("option");
+          allOption.value = "All";
+          allOption.textContent = "All Bands";
+          dropdown.appendChild(allOption);
+
+          bandsData.forEach((band) => {
+            // Check if the band has any shows
+            const hasShows = apiData.some(
+              (event) => event.title === band.bandName
+            );
+
+            if (hasShows) {
+              const option = document.createElement("option");
+              option.value = band.bandName;
+              option.textContent = band.bandName;
+              dropdown.appendChild(option);
+            }
+          });
+
           const today = new Date();
           today.setHours(0, 0, 0, 0); // Set the time to 00:00:00 for accurate comparison
 
@@ -142,14 +209,17 @@
             );
 
             if (bandEvents.length > 0) {
+              const bandSection = document.createElement("div");
+              bandSection.className = "band-section";
+
               const bandImage = document.createElement("img");
               bandImage.src = band.picture; // Use the image from the bandsData
-              bandsDiv.appendChild(bandImage);
+              bandSection.appendChild(bandImage);
 
               const bandName = document.createElement("h2");
               bandName.textContent = decodeHtml(band.bandName); // Decode HTML entities in the band name
               bandName.className = "band-name";
-              bandsDiv.appendChild(bandName);
+              bandSection.appendChild(bandName);
 
               const tourDatesList = document.createElement("ul");
               tourDatesList.style.listStyleType = "none";
@@ -158,6 +228,8 @@
               bandEvents.forEach((event) => {
                 const eventDate = new Date(event.start_date);
                 const li = document.createElement("li");
+
+                li.style.backgroundColor = "whitesmoke";
 
                 const formattedDate = eventDate.toLocaleString("en-US", {
                   month: "short",
@@ -186,7 +258,25 @@
                 }
                 tourDatesList.appendChild(li);
               });
-              bandsDiv.appendChild(tourDatesList);
+              bandSection.appendChild(tourDatesList);
+              bandsDiv.appendChild(bandSection);
+            }
+          });
+          dropdown.addEventListener("change", function () {
+            const selectedBand = this.value;
+            const bandSections =
+              document.getElementsByClassName("band-section");
+
+            for (let i = 0; i < bandSections.length; i++) {
+              const bandSection = bandSections[i];
+              const bandName =
+                bandSection.getElementsByClassName("band-name")[0].textContent;
+
+              if (bandName === selectedBand || selectedBand === "All") {
+                bandSection.style.display = "block";
+              } else {
+                bandSection.style.display = "none";
+              }
             }
           });
         })

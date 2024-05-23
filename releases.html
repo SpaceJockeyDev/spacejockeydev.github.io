@@ -13,7 +13,8 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
     <link rel="icon" href="assets/fist.ico" />
-    <title>Releases - Red Scare</title>
+    <title>Releases - Red Scare Industries</title>
+    <meta name="description" content="This page shows all releases that have been released on Red Scare Industries.">
     <style>
       .align-sort-container {
         position: absolute;
@@ -27,17 +28,23 @@
       }
       .title {
         display: inline-block;
-        border-bottom: 5px solid rgb(252, 4, 4); /* Adjust as needed */
+        background-color: whitesmoke;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 60px;
+        font-family: 'Viva';
+        margin-top: 20px;
       }
       .sort-select {
         margin-left: 10px;
         margin-bottom: 5px;
       }
+      
       .sort-label {
-        /* Add your styles here */
         font-size: 25px;
         font-family: "Viva";
         color: #333;
+        background-color: whitesmoke;
       }
       .album {
         flex: 0 0 calc(20% - 2%); /* Subtract the horizontal margin */
@@ -46,7 +53,6 @@
         height: 100%;
         width: auto;
       }
-
       .album img {
         width: 100%; /* Take up full width of the .album container */
         height: 300px; /* Maintain aspect ratio */
@@ -83,6 +89,8 @@
         font-family: "Viva";
         margin-top: 10px;
         margin-left: 10px;
+        background-color: whitesmoke;
+        padding-left: 10px;
       }
       .album-title {
         /* Add your styles here */
@@ -91,6 +99,8 @@
         font-family: "Helv";
         margin-top: -5px;
         margin-left: 10px;
+        background-color: whitesmoke;
+        padding-left: 10px;
       }
       #pagination-container {
         display: flex;
@@ -107,10 +117,12 @@
         border-bottom: 2px solid #000; /* Change to your desired color and thickness */
       }
       body {
-        background-image: url("assets/bgright.png"), url("assets/bgleft.png");
-        background-repeat: repeat-y, repeat-y;
-        background-position: right center, left center;
-        background-size: 10%, 10%;
+        background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+        background-position: right, left, left 120px;
+        background-size: 15%, 40%, 20%;
+        background-repeat: repeat-y, repeat-y, no-repeat;
+        background-attachment: fixed;
+        background-color: #f2ead3;
       }
       .header-container {
         display: flex;
@@ -118,12 +130,14 @@
         position: relative;
       }
 
-      @media (max-width: 600px) {
+      @media screen and (max-width: 768px) {
         body {
-          background-image: url("assets/bgrightmobile.png"),
-            url("assets/bgleftmobile.png");
-          background-size: 10%, 10%; /* Adjust as needed */
-          background-repeat: repeat-y, repeat-y;
+          background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+        background-position: right, left, left 120px;
+        background-size: 15%, 40%, 20%;
+        background-repeat: repeat-y, repeat-y, no-repeat;
+        background-attachment: fixed;
+        background-color: #f2ead3;
         }
         .header-container {
           flex-direction: column;
@@ -157,14 +171,14 @@
 
     <div class="header-container">
       <div class="title-container">
-        <h1 class="title" style="font-family: 'Viva'">Releases</h1>
+        <h1 class="title">Releases</h1>
       </div>
 
       <div class="sort-container align-sort-container">
         <label for="sort-select" class="sort-label">Sort by:</label>
         <select id="sort-select" class="sort-select">
-          <option value="newest">Newest to Oldest</option>
-          <option value="oldest">Oldest to Newest</option>
+          <option value="newest">Latest to Earliest</option>
+          <option value="oldest">Earliest to Latest</option>
         </select>
       </div>
     </div>
@@ -226,12 +240,12 @@
               const clickableElement = document.createElement("a");
               clickableElement.href = `release-info.html?album=${albumLink}`;
               clickableElement.innerHTML = `
-                <img class="album-cover" src="${album.coverArt}" alt="${album.album} Cover Art">
-                <div class="band-album-info">
-                    <h2 class="band-name">${album.bandName}</h2>
-                    <p class="album-title">${album.album}</p>
-                </div>
-            `;
+  <img class="album-cover" src="${album.coverArt}" alt="${album.album} Cover Art">
+  <div class="band-album-info">
+    <h2 class="band-name">${album.bandName}</h2>
+    <p class="album-title">${album.album}</p>
+  </div>
+`;
 
               albumElement.appendChild(clickableElement);
               container.appendChild(albumElement);

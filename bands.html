@@ -7,21 +7,27 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="icon" href="assets/fist.ico">
-    <title>Bands - Red Scare</title>
+    <title>Bands - Red Scare Industries</title>
+    <meta name="description" content="This page shows all artists who have released music on Red Scare Industries.">
     <style>
    .title {
         display: inline-block;
-        border-bottom: 5px solid rgb(252, 4, 4); /* Adjust as needed */
+        background-color: whitesmoke;
+        padding-left: 20px;
+          padding-right: 20px;
+          font-size: 60px;
+          margin-top: 20px;
+          margin-bottom: 20px;
     }
     .band-content {
         padding-right: 15px;
     }
     .band-name {
-        /* Add your styles here. For example: */
         color: #333;
-        font-size: 25px;
+        font-size: 30px;
         text-align: center;
         font-family: 'Viva';
+        background-color: whitesmoke;
     }
     .band-content a {
     text-decoration: none;
@@ -58,19 +64,25 @@
         transform: scale(1.05);
     }
     body {
-    background-image: url('assets/bgright.png'), url('assets/bgleft.png');
-    background-repeat: repeat-y, repeat-y;
-    background-position: right, left;
-    background-size: 15%, 15%;
+        background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+        background-position: right, left, left 120px;
+        background-size: 15%, 40%, 20%;
+        background-repeat: repeat-y, repeat-y, no-repeat;
+        background-attachment: fixed;
+        background-color: #f2ead3;
     text-align: center;
     }
-    @media (max-width: 600px) {
+    @media screen and (max-width: 768px) {
         .band-content {
             flex-direction: column;
         }
         body {
-        background-size: 10%, 10%; /* Adjust as needed */
-        background-repeat: repeat-y, repeat-y;
+            background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+        background-position: right, left, left 120px;
+        background-size: 15%, 40%, 20%;
+        background-repeat: repeat-y, repeat-y, no-repeat;
+        background-attachment: fixed;
+        background-color: #f2ead3;
     }
     }
     </style>

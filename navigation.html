@@ -1,122 +1,250 @@
-    <style>
-        .nav-link {
-            font-family: 'Viva';
-            font-size: 2em;
-        }
-        .navbar-logo {
-            width: 13em; /* Change to your desired width */
-            height: 100%; /* Change to your desired height */
-        }
-        .nav-link.active {
-            background: 
-                linear-gradient(to right, rgba(255, 255, 255, 0.644), rgba(253, 2, 2, 0.397)), 
-                url('assets/Tabbg.jpg');
-            background-size: cover;
-            border-radius: 15px;
-        }
-        
-        .menu-label {
-            display: none; /* Hide the label by default */
-            font-family: 'Viva';
-            font-size: 30px;
-            margin-right: 10px; /* Add a right margin */
-            color: #333;
-        }
-        @media (max-width: 768px) { /* Show the label on small screens */
-            .menu-label {
-                display: inline-block;
-            }
-            .nav-link.active {
-                background-image: none; /* Remove the background image */
-                border-radius: 0; 
-            }
-            .nav-link {
-                border-bottom: 4px solid #000; /* Add a bottom border to each tab */
-            }  
-              
-        }
-        .custom-toggler span {
-            display: block;
-            width: 30px;
-            height: 4px; /* Adjust this to make the lines thicker or thinner */
-            margin: 6px 0;
-            background: black; /* Adjust this to change the color of the lines */
-        }
+<style>
+  .nav-link {
+    font-family: "Viva";
+    font-size: 2em;
+  }
+  .navbar-logo {
+    width: 13em; /* Change to your desired width */
+    height: 100%; /* Change to your desired height */
+  }
+  .nav-link.active {
+    background: linear-gradient(to right, #f2ead3, rgba(253, 2, 2, 0.397)),
+      url("assets/Tabbg.jpg");
+    background-size: cover;
+    border-radius: 15px;
+  }
+  .nav-container {
+    width: 100%;
+  }
+  .social-icon {
+    font-size: 1.5em; /* Adjust this value as needed */
+  }
+  .main-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    list-style-type: none;
+  }
+  
+  .menu-label {
+    display: none; /* Hide the label by default */
+    font-family: "Viva";
+    font-size: 30px;
+    margin-right: 10px; /* Add a right margin */
+    color: #333;
+  }
+  .social-links {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin-left: auto; /* Add this line */
+    align-items: center; /* Add this line */
+    padding-top: 1%;
+  }
 
-        .navbar-toggler {
-            border: none;
-            display: flex;
-            align-items: center;
-        }
-        .nav-item {
+  .navbar-nav ul {
+    display: flex;
+    list-style-type: none;
+  }
+  .navbar-collapse {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  @media (max-width: 990px) {
+    /* Show the label on small screens */
+    .menu-label {
+      display: inline-block;
+    }
+    .nav-link.active {
+      background-image: none; /* Remove the background image */
+      border-radius: 0;
+    }
+    .nav-link {
+      border-bottom: 4px solid #000; /* Add a bottom border to each tab */
+      text-align: right;
+    }
+    .main-nav {
+      flex-direction: column;
+      align-items: center;
+    }
+    .social-links {
+      flex-direction: row;
+      justify-content: center;
+      margin-top: 10px; /* Adjust this value as needed */
+    }
+    .nav-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  .navbar-toggler {
+    display: flex;
+  }
+  .navbar-logo {
+    width: 12em; /* Change to your desired width */
+    height: 100%; /* Change to your desired height */
+  }
+  .nav-item {
+    margin-right: 0px !important; /* Adjust this value as needed */
+  }
+  }
+  .custom-toggler span {
+    display: block;
+    width: 30px;
+    height: 4px; /* Adjust this to make the lines thicker or thinner */
+    margin: 6px 0;
+    background: black; /* Adjust this to change the color of the lines */
+  }
+  .navbar-toggler {
+    border: none;
+    display: flex;
+    align-items: center;
+  }
+  .nav-item {
     margin-right: 15px; /* Adjust this value as needed */
-}
-    
-    </style>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="index.html">
-        <img class="navbar-logo" src="assets/logo/RedScareIndustriesLogo2.png" alt="Red Scare Industries">
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <div class="custom-toggler">
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link" href="index.html">News</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="bands.html">Bands</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="releases.html">Releases</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="faq.html">F.A.Q.</a>
-          </li>
-            <li class="nav-item">
-                <a class="nav-link" href="tour-dates.html">Tour Dates</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="https://redscare.storenvy.com/" target="_blank">Store</a>
-            </li>
-        </ul>
+  }
+</style>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="index.html">
+    <img
+      class="navbar-logo"
+      src="/red-scare-website/assets/logo/20annlogo.PNG"
+      alt="Red Scare Industries"
+    />
+  </a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarNav"
+    aria-controls="navbarNav"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <div class="custom-toggler">
+      <span></span>
+      <span></span>
+      <span></span>
     </div>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="nav-container">
+      <div class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">News</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="bands.html">Bands</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="releases.html">Releases</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="faq.html">F.A.Q.</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="tour-dates.html">Tour Dates</a>
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link"
+            href="https://redscare.storenvy.com/"
+            target="_blank"
+            >Store</a
+          >
+        </li>
+        <li class="nav-item">
+            <a
+              class="nav-link"
+              href="https://redscareindustries.bandcamp.com/"
+              target="_blank"
+              >BandCamp</a
+            >
+          </li>
+        <ul class="social-links">
+          <li>
+            <a
+              href="https://www.facebook.com/RedScareIndustries/"
+              target="_blank" aria-label="Facebook"
+              ><i class="fab fa-facebook-f social-icon"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://www.twitter.com/redscare" target="_blank" aria-label="Twitter"
+              ><i class="fab fa-twitter social-icon"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.instagram.com/redscareindustries/"
+              target="_blank" aria-label="Instagram"
+              ><i class="fab fa-instagram social-icon"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://www.tiktok.com/@redscareindustries" target="_blank" aria-label="TikTok"
+              ><i class="fab fa-tiktok social-icon"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/@RedScare" target="_blank" aria-label="YouTube"
+              ><i class="fab fa-youtube social-icon"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://redscareindustries.bandcamp.com/" target="_blank" aria-label="BandCamp"
+              ><i class="fab fa-bandcamp social-icon"></i
+            ></a>
+          </li>
+          <li>
+            <a href="https://discord.gg/ZgmTqMKEVv" target="_blank" aria-label="Discord"
+              ><i class="fab fa-discord social-icon"></i
+            ></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </nav>
 
 <script>
-    // Get current page name
-var pageName = window.location.pathname.split("/").pop();
+  // Get current page name
+  var pageName = window.location.pathname.split("/").pop();
 
-// Select all nav links
-var navLinks = document.querySelectorAll('.nav-link');
+  // Select all nav links
+  var navLinks = document.querySelectorAll(".nav-link");
 
-// Loop through each link
-navLinks.forEach(function(link) {
+  // Loop through each link
+  navLinks.forEach(function (link) {
     // Get href of the link
-    var linkHref = link.getAttribute('href');
+    var linkHref = link.getAttribute("href");
 
     // Check if the current page is band-bio.html or the href of the link
-    if (linkHref == pageName || (pageName == 'band-bio.html' && linkHref == 'bands.html') || (pageName == 'release-info.html' && linkHref == 'releases.html')) {
-        // Add active class to the link
-        link.classList.add('active');
+    if (
+      linkHref == pageName ||
+      (pageName == "band-bio.html" && linkHref == "bands.html") ||
+      (pageName == "release-info.html" && linkHref == "releases.html")
+    ) {
+      // Add active class to the link
+      link.classList.add("active");
     }
-});
-
+  });
 </script>
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-    var navItems = document.querySelectorAll('.nav-item a');
-    var currentPage = window.location.href;
-
-    navItems.forEach(function(item) {
-        if (item.href === currentPage || (currentPage.includes('band') && item.href.includes('bands.html'))) {
-            item.parentElement.classList.add('active');
+    document.addEventListener("DOMContentLoaded", function () {
+      var navItems = document.querySelectorAll(".nav-item a");
+      var currentPage = window.location.href;
+  
+      navItems.forEach(function (item) {
+        if (
+          item.href === currentPage ||
+          (currentPage.includes("band") && item.href.includes("bands.html")) ||
+          (currentPage.includes("release") && item.href.includes("releases.html"))
+        ) {
+          item.parentElement.classList.add("active");
         }
+      });
     });
-});
-</script>
+  </script>
