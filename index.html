@@ -21,7 +21,6 @@
         justify-content: space-evenly;
         flex-wrap: wrap;
       }
-
       .social-feeds .feed {
         width: 100%;
         margin-bottom: 20px;
@@ -37,7 +36,7 @@
         margin: auto;
         padding: 20px;
         background-color: #f7f3f3;
-        margin-top: 50px;
+        margin-top: 10px;
       }
       #blog-posts a {
         color: red; /* Change the color of hyperlinks to red */
@@ -84,7 +83,6 @@
         margin-top: 20px;
         margin-bottom: 20px;
         background-color: whitesmoke;
-        padding-left: 20px;
         padding-right: 20px;
       }
       .releases-container {
@@ -94,6 +92,7 @@
       }
       .release {
         width: 10%;
+        margin-right: 20px;
       }
       .release img {
         width: 80%;
@@ -107,6 +106,7 @@
         color: rgb(8, 8, 8);
         font-family: "Helv";
         font-size: 16px;
+        background-color: whitesmoke;
       }
       #pagination {
         display: flex;
@@ -156,7 +156,7 @@
         .release img {
           width: 100%; /* Adjust as needed, but should not exceed 100% */
         }
-        
+
         body::before {
           content: "";
           position: fixed;
@@ -340,13 +340,13 @@
           releaseLink.appendChild(releaseImage);
           releaseDiv.appendChild(releaseLink);
 
-          //   const bandName = document.createElement("h2");
-          //   bandName.textContent = release.bandName;
-          //   releaseDiv.appendChild(bandName);
+          const bandName = document.createElement("h2");
+          bandName.textContent = release.bandName;
+          releaseDiv.appendChild(bandName);
 
-          //   const album = document.createElement("p");
-          //   album.textContent = release.album;
-          //   releaseDiv.appendChild(album);
+          const album = document.createElement("p");
+          album.textContent = release.album;
+          releaseDiv.appendChild(album);
 
           releasesContainer.appendChild(releaseDiv);
         }
