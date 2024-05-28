@@ -111,13 +111,15 @@
         display: flex;
         justify-content: center;
         padding-bottom: 20px;
+        margin-bottom: 30px;
       }
       .pagination-button {
-        background-color: #770c0c00; /* Change to your desired color */
+        background-color: whitesmoke; /* Change to your desired color */
         font-size: 18px; /* Change to your desired font size */
         font-family: "Lemon";
         border: none;
-        margin-bottom: 40px;
+        padding: 10px; /* Add padding to increase button size */
+        margin: 0 5px;
       }
       .pagination-button.active {
         border-bottom: 2px solid #000; /* Change to your desired color and thickness */
@@ -159,19 +161,10 @@
           flex-direction: column;
           align-items: center;
         }
-
         .title-container {
           order: -1;
         }
-        .pagination-button {
-          background-color: #770c0c00; /* Change to your desired color */
-          font-size: 18px; /* Change to your desired font size */
-          font-family: "Lemon";
-          border: none;
-          margin-bottom: 40px;
-          padding: 10px 20px; /* Add padding to increase button size */
-          border-radius: 10px; /* Add border-radius to make buttons round */
-        }
+        
 
         .pagination-button.active {
           border-bottom: 2px solid #000; /* Change to your desired color and thickness */
@@ -222,25 +215,48 @@
       const releasesPerPage = 20;
 
       function createPaginationButtons(totalReleases) {
-        const totalPages = Math.ceil(totalReleases / releasesPerPage);
-        const paginationContainer = document.getElementById(
-          "pagination-container"
-        );
-        paginationContainer.innerHTML = "";
-        for (let i = 1; i <= totalPages; i++) {
-          const button = document.createElement("button");
-          button.textContent = i;
-          button.className = "pagination-button";
-          if (i === currentPage) {
-            button.classList.add("active"); // Add 'active' class to the current page button
-          }
-          button.addEventListener("click", () => {
-            currentPage = i;
-            displayReleases();
-          });
-          paginationContainer.appendChild(button);
-        }
-      }
+  const totalPages = Math.ceil(totalReleases / releasesPerPage);
+  const paginationContainer = document.getElementById("pagination-container");
+  paginationContainer.innerHTML = "";
+
+  // Create previous button
+  const prevButton = document.createElement("button");
+  prevButton.textContent = "<";
+  prevButton.className = "pagination-button";
+  prevButton.addEventListener("click", () => {
+    if (currentPage > 1) {
+      currentPage--;
+      displayReleases();
+    }
+  });
+  paginationContainer.appendChild(prevButton);
+
+  for (let i = 1; i <= totalPages; i++) {
+    const button = document.createElement("button");
+    button.textContent = i;
+    button.className = "pagination-button";
+    if (i === currentPage) {
+      button.classList.add("active");
+    }
+    button.addEventListener("click", () => {
+      currentPage = i;
+      displayReleases();
+    });
+    paginationContainer.appendChild(button);
+  }
+
+  // Create next button
+  const nextButton = document.createElement("button");
+  nextButton.textContent = ">";
+  nextButton.className = "pagination-button";
+  nextButton.addEventListener("click", () => {
+    if (currentPage < totalPages) {
+      currentPage++;
+      displayReleases();
+    }
+  });
+  paginationContainer.appendChild(nextButton);
+}
 
       function displayReleases() {
         fetch("releases.json")

@@ -13,12 +13,19 @@
     background-size: cover;
     border-radius: 15px;
   }
+  .navbar {
+    width: 100%;
+  }
   .nav-container {
+    width: 100%;
+  }
+  .navbar {
     width: 100%;
   }
   .social-icon {
     font-size: 1.5em; /* Adjust this value as needed */
   }
+
   .main-nav {
     display: flex;
     flex-direction: row;
@@ -26,7 +33,7 @@
     width: 100%;
     list-style-type: none;
   }
-  
+
   .menu-label {
     display: none; /* Hide the label by default */
     font-family: "Viva";
@@ -52,7 +59,7 @@
     justify-content: space-between;
     align-items: center;
   }
-  
+
   @media (max-width: 990px) {
     /* Show the label on small screens */
     .menu-label {
@@ -79,12 +86,12 @@
       flex-direction: column;
       align-items: center;
     }
-  .navbar-toggler {
-    display: flex;
-  }
-  .nav-item {
-    margin-right: 0px !important; /* Adjust this value as needed */
-  }
+    .navbar-toggler {
+      display: flex;
+    }
+    .nav-item {
+      margin-right: 0px !important; /* Adjust this value as needed */
+    }
   }
   .custom-toggler span {
     display: block;
@@ -152,54 +159,14 @@
           >
         </li>
         <li class="nav-item">
-            <a
-              class="nav-link"
-              href="https://redscareindustries.bandcamp.com/"
-              target="_blank"
-              >BandCamp</a
-            >
-          </li>
-        <ul class="social-links">
-          <li>
-            <a
-              href="https://www.facebook.com/RedScareIndustries/"
-              target="_blank" aria-label="Facebook"
-              ><i class="fab fa-facebook-f social-icon"></i
-            ></a>
-          </li>
-          <li>
-            <a href="https://www.twitter.com/redscare" target="_blank" aria-label="Twitter"
-              ><i class="fab fa-twitter social-icon"></i
-            ></a>
-          </li>
-          <li>
-            <a
-              href="https://www.instagram.com/redscareindustries/"
-              target="_blank" aria-label="Instagram"
-              ><i class="fab fa-instagram social-icon"></i
-            ></a>
-          </li>
-          <li>
-            <a href="https://www.tiktok.com/@redscareindustries" target="_blank" aria-label="TikTok"
-              ><i class="fab fa-tiktok social-icon"></i
-            ></a>
-          </li>
-          <li>
-            <a href="https://www.youtube.com/@RedScare" target="_blank" aria-label="YouTube"
-              ><i class="fab fa-youtube social-icon"></i
-            ></a>
-          </li>
-          <li>
-            <a href="https://redscareindustries.bandcamp.com/" target="_blank" aria-label="BandCamp"
-              ><i class="fab fa-bandcamp social-icon"></i
-            ></a>
-          </li>
-          <li>
-            <a href="https://discord.gg/ZgmTqMKEVv" target="_blank" aria-label="Discord"
-              ><i class="fab fa-discord social-icon"></i
-            ></a>
-          </li>
-        </ul>
+          <a
+            class="nav-link"
+            href="https://redscareindustries.bandcamp.com/"
+            target="_blank"
+            >BandCamp</a
+          >
+        </li>
+        <ul class="social-links"></ul>
       </div>
     </div>
   </div>
@@ -229,18 +196,84 @@
   });
 </script>
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      var navItems = document.querySelectorAll(".nav-item a");
-      var currentPage = window.location.href;
-  
-      navItems.forEach(function (item) {
-        if (
-          item.href === currentPage ||
-          (currentPage.includes("band") && item.href.includes("bands.html")) ||
-          (currentPage.includes("release") && item.href.includes("releases.html"))
-        ) {
-          item.parentElement.classList.add("active");
-        }
-      });
+  document.addEventListener("DOMContentLoaded", function () {
+    var navItems = document.querySelectorAll(".nav-item a");
+    var currentPage = window.location.href;
+
+    navItems.forEach(function (item) {
+      if (
+        item.href === currentPage ||
+        (currentPage.includes("band") && item.href.includes("bands.html")) ||
+        (currentPage.includes("release") && item.href.includes("releases.html"))
+      ) {
+        item.parentElement.classList.add("active");
+      }
     });
-  </script>
+  });
+</script>
+<script>
+  // Define social links
+  const socialLinks = [
+    {
+      href: "https://www.facebook.com/RedScareIndustries/",
+      icon: "fab fa-facebook-f",
+      label: "Facebook",
+    },
+    {
+      href: "https://www.twitter.com/redscare",
+      icon: "fab fa-twitter",
+      label: "Twitter",
+    },
+    {
+      href: "https://www.instagram.com/redscareindustries/",
+      icon: "fab fa-instagram",
+      label: "Instagram",
+    },
+    {
+      href: "https://www.tiktok.com/@redscareindustries",
+      icon: "fab fa-tiktok",
+      label: "TikTok",
+    },
+    {
+      href: "https://www.youtube.com/@RedScare",
+      icon: "fab fa-youtube",
+      label: "YouTube",
+    },
+    {
+      href: "https://redscareindustries.bandcamp.com/",
+      icon: "fab fa-bandcamp",
+      label: "Bandcamp",
+    },
+    {
+      href: "https://discord.gg/ZgmTqMKEVv",
+      icon: "fab fa-discord",
+      label: "Discord",
+    }
+  ];
+
+  // Function to create social link
+  function createSocialLink({ href, icon, label }) {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    const i = document.createElement("i");
+
+    a.href = href;
+    a.target = "_blank";
+    a.ariaLabel = label;
+    i.className = `${icon} social-icon`;
+
+    a.appendChild(i);
+    li.appendChild(a);
+
+    return li;
+  }
+
+  // Get the social links container
+  const socialLinksContainer = document.querySelector(".social-links");
+
+  // Add social links to the container
+  socialLinks.forEach((link) => {
+    const socialLink = createSocialLink(link);
+    socialLinksContainer.appendChild(socialLink);
+  });
+</script>
