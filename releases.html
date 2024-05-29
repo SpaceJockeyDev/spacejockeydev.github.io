@@ -85,25 +85,20 @@
       }
       .album a:hover .band-name,
       .album a:hover .album-title {
-        color: red; /* Change to your desired color */
+        color: red;
       }
       .band-name {
-        /* Add your styles here */
-        color: #050505; /* For example, change the text color */
-        font-size: 20px; /* Change the font size */
+        color: #050505;
+        font-size: 20px;
         font-family: "Viva";
         margin-top: 10px;
-        margin-left: 10px;
         background-color: whitesmoke;
         padding-left: 10px;
       }
       .album-title {
-        /* Add your styles here */
-        color: #050505; /* For example, change the text color */
-        font-size: 20px; /* Change the font size */
+        color: #050505;
+        font-size: 20px;
         font-family: "Helv";
-        margin-top: -5px;
-        margin-left: 10px;
         background-color: whitesmoke;
         padding-left: 10px;
       }
@@ -114,15 +109,16 @@
         margin-bottom: 30px;
       }
       .pagination-button {
-        background-color: whitesmoke; /* Change to your desired color */
-        font-size: 18px; /* Change to your desired font size */
+        background-color: whitesmoke;
+        font-size: 18px;
         font-family: "Lemon";
         border: none;
-        padding: 10px; /* Add padding to increase button size */
+        color: black;
+        padding: 10px;
         margin: 0 5px;
       }
       .pagination-button.active {
-        border-bottom: 2px solid #000; /* Change to your desired color and thickness */
+        border-bottom: 2px solid #000;
       }
       body {
         background-image: url("assets/PNGs/Skyline_Cropped.png"),
@@ -164,12 +160,10 @@
         .title-container {
           order: -1;
         }
-        
-
         .pagination-button.active {
-          border-bottom: 2px solid #000; /* Change to your desired color and thickness */
-          background-color: #000; /* Change to your desired active button color */
-          color: #fff; /* Change text color for active button */
+          border-bottom: 2px solid #000;
+          background-color: #000; 
+          color: #fff; 
         }
         .align-sort-container {
           position: static;
@@ -179,11 +173,11 @@
           margin-top: 30px;
         }
         .album {
-          flex: 0 0 calc(50% - 2%); /* Subtract the horizontal margin */
-          max-width: calc(50% - 2%); /* Subtract the horizontal margin */
+          flex: 0 0 calc(50% - 2%);
+          max-width: calc(50% - 2%);
         }
         .album img {
-          height: 40vw; /* Increase height on smaller screens */
+          height: 40vw;
           width: 100%;
         }
       }
@@ -191,7 +185,6 @@
   </head>
   <body>
     <div id="navbar-container"></div>
-
     <div class="header-container">
       <div class="title-container">
         <h1 class="title">Releases</h1>
@@ -209,54 +202,56 @@
     <div id="pagination-container"></div>
 
     <div id="footer"></div>
-
+  </body>
     <script>
       let currentPage = 1;
       const releasesPerPage = 20;
 
       function createPaginationButtons(totalReleases) {
-  const totalPages = Math.ceil(totalReleases / releasesPerPage);
-  const paginationContainer = document.getElementById("pagination-container");
-  paginationContainer.innerHTML = "";
+        const totalPages = Math.ceil(totalReleases / releasesPerPage);
+        const paginationContainer = document.getElementById(
+          "pagination-container"
+        );
+        paginationContainer.innerHTML = "";
 
-  // Create previous button
-  const prevButton = document.createElement("button");
-  prevButton.textContent = "<";
-  prevButton.className = "pagination-button";
-  prevButton.addEventListener("click", () => {
-    if (currentPage > 1) {
-      currentPage--;
-      displayReleases();
-    }
-  });
-  paginationContainer.appendChild(prevButton);
+        // Create previous button
+        const prevButton = document.createElement("button");
+        prevButton.textContent = "<";
+        prevButton.className = "pagination-button";
+        prevButton.addEventListener("click", () => {
+          if (currentPage > 1) {
+            currentPage--;
+            displayReleases();
+          }
+        });
+        paginationContainer.appendChild(prevButton);
 
-  for (let i = 1; i <= totalPages; i++) {
-    const button = document.createElement("button");
-    button.textContent = i;
-    button.className = "pagination-button";
-    if (i === currentPage) {
-      button.classList.add("active");
-    }
-    button.addEventListener("click", () => {
-      currentPage = i;
-      displayReleases();
-    });
-    paginationContainer.appendChild(button);
-  }
+        for (let i = 1; i <= totalPages; i++) {
+          const button = document.createElement("button");
+          button.textContent = i;
+          button.className = "pagination-button";
+          if (i === currentPage) {
+            button.classList.add("active");
+          }
+          button.addEventListener("click", () => {
+            currentPage = i;
+            displayReleases();
+          });
+          paginationContainer.appendChild(button);
+        }
 
-  // Create next button
-  const nextButton = document.createElement("button");
-  nextButton.textContent = ">";
-  nextButton.className = "pagination-button";
-  nextButton.addEventListener("click", () => {
-    if (currentPage < totalPages) {
-      currentPage++;
-      displayReleases();
-    }
-  });
-  paginationContainer.appendChild(nextButton);
-}
+        // Create next button
+        const nextButton = document.createElement("button");
+        nextButton.textContent = ">";
+        nextButton.className = "pagination-button";
+        nextButton.addEventListener("click", () => {
+          if (currentPage < totalPages) {
+            currentPage++;
+            displayReleases();
+          }
+        });
+        paginationContainer.appendChild(nextButton);
+      }
 
       function displayReleases() {
         fetch("releases.json")
@@ -320,5 +315,5 @@
         $("#footer").load("footer.html");
       });
     </script>
-  </body>
+  
 </html>

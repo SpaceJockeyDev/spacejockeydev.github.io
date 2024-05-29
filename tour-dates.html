@@ -139,155 +139,153 @@
     <div id="bands"></div>
 
     <div id="footer"></div>
-
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script>
-      $(function () {
-        $("#navbar-container").load("navigation.html");
-      });
-    </script>
-    <script>
-      $(function () {
-        $("#footer").load("footer.html");
-      });
-    </script>
-    <script>
-      function decodeHtml(html) {
-        var txt = document.createElement("textarea");
-        txt.innerHTML = html;
-        return txt.value;
-      }
-
-      function fetchAllPages(url, page = 1, events = []) {
-        return fetch(`${url}?page=${page}`)
-          .then((response) => response.json())
-          .then((data) => {
-            const allEvents = events.concat(data.events);
-            if (data.next_rest_url) {
-              return fetchAllPages(url, page + 1, allEvents);
-            } else {
-              return allEvents;
-            }
-          });
-      }
-
-      Promise.all([
-        fetchAllPages(
-          "https://www.redscare.net/site/wp-json/tribe/events/v1/events"
-        ),
-        fetch("bands.json").then((response) => response.json()),
-      ])
-        .then(([apiData, bandsData]) => {
-          const bandsDiv = document.getElementById("bands");
-          const dropdown = document.createElement("select");
-          dropdown.id = "bandDropdown";
-          bandsDiv.before(dropdown);
-
-          // Add an "All" option at the beginning of the dropdown
-          const allOption = document.createElement("option");
-          allOption.value = "All";
-          allOption.textContent = "All Bands";
-          dropdown.appendChild(allOption);
-
-          bandsData.forEach((band) => {
-            // Check if the band has any shows
-            const hasShows = apiData.some(
-              (event) => event.title === band.bandName
-            );
-
-            if (hasShows) {
-              const option = document.createElement("option");
-              option.value = band.bandName;
-              option.textContent = band.bandName;
-              dropdown.appendChild(option);
-            }
-          });
-
-          const today = new Date();
-          today.setHours(0, 0, 0, 0); // Set the time to 00:00:00 for accurate comparison
-
-          bandsData.forEach((band) => {
-            const bandEvents = apiData.filter(
-              (event) =>
-                band.bandName === event.title &&
-                new Date(event.start_date) >= today
-            );
-
-            if (bandEvents.length > 0) {
-              const bandSection = document.createElement("div");
-              bandSection.className = "band-section";
-
-              const bandImage = document.createElement("img");
-              bandImage.src = band.picture; // Use the image from the bandsData
-              bandSection.appendChild(bandImage);
-
-              const bandName = document.createElement("h2");
-              bandName.textContent = decodeHtml(band.bandName); // Decode HTML entities in the band name
-              bandName.className = "band-name";
-              bandSection.appendChild(bandName);
-
-              const tourDatesList = document.createElement("ul");
-              tourDatesList.style.listStyleType = "none";
-              tourDatesList.style.marginBottom = "50px";
-
-              bandEvents.forEach((event) => {
-                const eventDate = new Date(event.start_date);
-                const li = document.createElement("li");
-
-                li.style.backgroundColor = "whitesmoke";
-
-                const formattedDate = eventDate.toLocaleString("en-US", {
-                  month: "short",
-                  day: "2-digit",
-                  year: "numeric",
-                });
-                li.textContent = `${formattedDate} - ${decodeHtml(
-                  event.venue.city
-                )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
-                  event.venue.venue
-                )}`; // Assuming the city and venue are stored in event.venue.city and event.venue.venue
-
-                if (event.description) {
-                  const description = document.createElement("p");
-                  description.innerHTML = decodeHtml(event.description); // Decode HTML entities in the description
-                  description.style.marginLeft = "0px"; // Indent the description
-                  description.style.fontStyle = "italic"; // Make the description italic
-                  li.appendChild(description);
-                }
-                if (event.website) {
-                  const a = document.createElement("a");
-                  a.href = event.website; // Assuming the link is stored in event.url
-                  a.textContent = " Buy Tickets";
-                  a.className = "ticket-link";
-                  li.appendChild(a);
-                }
-                tourDatesList.appendChild(li);
-              });
-              bandSection.appendChild(tourDatesList);
-              bandsDiv.appendChild(bandSection);
-            }
-          });
-          dropdown.addEventListener("change", function () {
-            const selectedBand = this.value;
-            const bandSections =
-              document.getElementsByClassName("band-section");
-
-            for (let i = 0; i < bandSections.length; i++) {
-              const bandSection = bandSections[i];
-              const bandName =
-                bandSection.getElementsByClassName("band-name")[0].textContent;
-
-              if (bandName === selectedBand || selectedBand === "All") {
-                bandSection.style.display = "block";
-              } else {
-                bandSection.style.display = "none";
-              }
-            }
-          });
-        })
-        .catch((error) => console.error("Error:", error));
-    </script>
   </body>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    $(function () {
+      $("#navbar-container").load("navigation.html");
+    });
+  </script>
+  <script>
+    $(function () {
+      $("#footer").load("footer.html");
+    });
+  </script>
+  <script>
+    function decodeHtml(html) {
+      var txt = document.createElement("textarea");
+      txt.innerHTML = html;
+      return txt.value;
+    }
+
+    function fetchAllPages(url, page = 1, events = []) {
+      return fetch(`${url}?page=${page}`)
+        .then((response) => response.json())
+        .then((data) => {
+          const allEvents = events.concat(data.events);
+          if (data.next_rest_url) {
+            return fetchAllPages(url, page + 1, allEvents);
+          } else {
+            return allEvents;
+          }
+        });
+    }
+
+    Promise.all([
+      fetchAllPages(
+        "https://www.redscare.net/site/wp-json/tribe/events/v1/events"
+      ),
+      fetch("bands.json").then((response) => response.json()),
+    ])
+      .then(([apiData, bandsData]) => {
+        const bandsDiv = document.getElementById("bands");
+        const dropdown = document.createElement("select");
+        dropdown.id = "bandDropdown";
+        bandsDiv.before(dropdown);
+
+        // Add an "All" option at the beginning of the dropdown
+        const allOption = document.createElement("option");
+        allOption.value = "All";
+        allOption.textContent = "All Bands";
+        dropdown.appendChild(allOption);
+
+        bandsData.forEach((band) => {
+          // Check if the band has any shows
+          const hasShows = apiData.some(
+            (event) => event.title === band.bandName
+          );
+
+          if (hasShows) {
+            const option = document.createElement("option");
+            option.value = band.bandName;
+            option.textContent = band.bandName;
+            dropdown.appendChild(option);
+          }
+        });
+
+        const today = new Date();
+        today.setHours(0, 0, 0, 0); // Set the time to 00:00:00 for accurate comparison
+
+        bandsData.forEach((band) => {
+          const bandEvents = apiData.filter(
+            (event) =>
+              band.bandName === event.title &&
+              new Date(event.start_date) >= today
+          );
+
+          if (bandEvents.length > 0) {
+            const bandSection = document.createElement("div");
+            bandSection.className = "band-section";
+
+            const bandImage = document.createElement("img");
+            bandImage.src = band.picture; // Use the image from the bandsData
+            bandSection.appendChild(bandImage);
+
+            const bandName = document.createElement("h2");
+            bandName.textContent = decodeHtml(band.bandName); // Decode HTML entities in the band name
+            bandName.className = "band-name";
+            bandSection.appendChild(bandName);
+
+            const tourDatesList = document.createElement("ul");
+            tourDatesList.style.listStyleType = "none";
+            tourDatesList.style.marginBottom = "50px";
+
+            bandEvents.forEach((event) => {
+              const eventDate = new Date(event.start_date);
+              const li = document.createElement("li");
+
+              li.style.backgroundColor = "whitesmoke";
+
+              const formattedDate = eventDate.toLocaleString("en-US", {
+                month: "short",
+                day: "2-digit",
+                year: "numeric",
+              });
+              li.textContent = `${formattedDate} - ${decodeHtml(
+                event.venue.city
+              )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
+                event.venue.venue
+              )}`; // Assuming the city and venue are stored in event.venue.city and event.venue.venue
+
+              if (event.description) {
+                const description = document.createElement("p");
+                description.innerHTML = decodeHtml(event.description); // Decode HTML entities in the description
+                description.style.marginLeft = "0px"; // Indent the description
+                description.style.fontStyle = "italic"; // Make the description italic
+                li.appendChild(description);
+              }
+              if (event.website) {
+                const a = document.createElement("a");
+                a.href = event.website; // Assuming the link is stored in event.url
+                a.textContent = " Buy Tickets";
+                a.className = "ticket-link";
+                li.appendChild(a);
+              }
+              tourDatesList.appendChild(li);
+            });
+            bandSection.appendChild(tourDatesList);
+            bandsDiv.appendChild(bandSection);
+          }
+        });
+        dropdown.addEventListener("change", function () {
+          const selectedBand = this.value;
+          const bandSections = document.getElementsByClassName("band-section");
+
+          for (let i = 0; i < bandSections.length; i++) {
+            const bandSection = bandSections[i];
+            const bandName =
+              bandSection.getElementsByClassName("band-name")[0].textContent;
+
+            if (bandName === selectedBand || selectedBand === "All") {
+              bandSection.style.display = "block";
+            } else {
+              bandSection.style.display = "none";
+            }
+          }
+        });
+      })
+      .catch((error) => console.error("Error:", error));
+  </script>
 </html>
