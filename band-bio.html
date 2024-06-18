@@ -94,7 +94,7 @@
       display: column;
       margin-left: auto;
       margin-right: auto;
-      width: 100%; /* or any other percentage or fixed value you prefer */
+      width: 60%; /* or any other percentage or fixed value you prefer */
     }
     @media (max-width: 990px) {
       #band-picture {
@@ -132,7 +132,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        padding-right: 20px;
+        width: 80%;
       }
       .band-releases {
         display: flex;
@@ -173,8 +173,8 @@
   </style>
 </head>
 <body>
-  <div id="navbar-container"></div>
-  <div id="content-container">
+  <nav id="navbar-container"></nav>
+  <main id="content-container">
     <div class="center-container">
       <div class="band-name-container">
         <h1 id="band-name"></h1>
@@ -196,8 +196,8 @@
       </h2>
       <div id="band-releases" class="band-releases"></div>
     </div>
-  </div>
-  <div id="footer"></div>
+  </main>
+  <footer id="footer"></div>
 </body>
 <script>
   const urlParams = new URLSearchParams(window.location.search);
