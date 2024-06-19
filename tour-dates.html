@@ -25,7 +25,10 @@
       #bands p {
         margin: 0;
       }
-
+      .ticket-link {
+        display: block;
+        color: red;
+      }
       .ticket-link:hover {
         color: red;
       }
@@ -106,7 +109,7 @@
           text-align: center;
           width: 70%;
         }
-        
+
         body::before {
           content: "";
           position: fixed;
@@ -256,7 +259,7 @@
               if (event.website) {
                 const a = document.createElement("a");
                 a.href = event.website; // Assuming the link is stored in event.url
-                a.textContent = " Buy Tickets";
+                a.textContent = "Buy Tickets";
                 a.className = "ticket-link";
                 li.appendChild(a);
               }
