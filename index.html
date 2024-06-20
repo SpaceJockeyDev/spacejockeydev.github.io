@@ -30,7 +30,6 @@
         justify-content: center;
         align-items: center;
       }
-
       #blog-posts {
         width: 50%;
         margin: auto;
@@ -83,8 +82,11 @@
         margin-top: 20px;
         margin-bottom: 0px;
         background-color: whitesmoke;
-        padding-left: 20px;
-        padding-right: 20px;
+      }
+      bandname {
+        color: #ff0404;
+        font-family: "Viva";
+        font-size: 22px;
       }
       .info {
         text-align: center;
@@ -107,6 +109,7 @@
       }
       .release img {
         width: 80%;
+        padding-bottom: 10px;
       }
       .release h2 {
         color: #ff0404;
@@ -200,7 +203,7 @@
     <div id="navbar-container"></div>
 
     <div style="display: table; margin: 0 auto">
-      <h2>Latest Releases</h2>
+      <h2 style="padding-left: 20px; padding-right: 20px">Latest Releases</h2>
     </div>
 
     <div class="album-container">
@@ -218,6 +221,7 @@
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
   <script>
     let currentPage = 1;
     const postsPerPage = 5;
@@ -290,42 +294,52 @@
   </script>
   <script>
     async function fetchReleases() {
-  try {
-    const response = await fetch("releases.json");
-    const releases = await response.json();
-    releases.sort((a, b) => b.releaseNumber - a.releaseNumber);
+      try {
+        const response = await fetch("releases.json");
+        const releases = await response.json();
+        releases.sort((a, b) => b.releaseNumber - a.releaseNumber);
 
-    const releasesContainer = createElement("div", "releases-container");
-    releases.slice(0, 4).forEach(release => {
-      const releaseDiv = createElement("div", "release");
-      const releaseLink = createElement("a", null, { href: `release-info.html?album=${encodeURIComponent(release.album)}` });
-      const releaseImage = createElement("img", null, { src: release.coverArt });
+        const releasesContainer = createElement("div", "releases-container");
+        releases.slice(0, 4).forEach((release) => {
+          const releaseDiv = createElement("div", "release");
+          const releaseLink = createElement("a", null, {
+            href: `release-info.html?album=${encodeURIComponent(
+              release.album
+            )}`,
+          });
+          const releaseImage = createElement("img", null, {
+            src: release.coverArt,
+          });
 
-      releaseLink.appendChild(releaseImage);
-      releaseDiv.appendChild(releaseLink);
+          releaseLink.appendChild(releaseImage);
+          releaseDiv.appendChild(releaseLink);
 
-      const infoDiv = createElement("div", "info");
-      infoDiv.appendChild(createElement("h2", null, { textContent: release.bandName }));
-      infoDiv.appendChild(createElement("p", null, { textContent: release.album }));
+          const infoDiv = createElement("div", "info");
+          infoDiv.appendChild(
+            createElement("bandname", null, { textContent: release.bandName })
+          );
+          infoDiv.appendChild(
+            createElement("p", null, { textContent: release.album })
+          );
 
-      releaseDiv.appendChild(infoDiv);
-      releasesContainer.appendChild(releaseDiv);
-    });
+          releaseDiv.appendChild(infoDiv);
+          releasesContainer.appendChild(releaseDiv);
+        });
 
-    document.getElementById("albums").appendChild(releasesContainer);
-  } catch (error) {
-    console.error("Error:", error);
-  }
-}
+        document.getElementById("albums").appendChild(releasesContainer);
+      } catch (error) {
+        console.error("Error:", error);
+      }
+    }
 
-function createElement(tag, className, attributes = {}) {
-  const element = document.createElement(tag);
-  if (className) element.className = className;
-  Object.assign(element, attributes);
-  return element;
-}
+    function createElement(tag, className, attributes = {}) {
+      const element = document.createElement(tag);
+      if (className) element.className = className;
+      Object.assign(element, attributes);
+      return element;
+    }
 
-fetchReleases();
+    fetchReleases();
   </script>
   <script>
     $(function () {
