@@ -16,20 +16,7 @@
     <link rel="icon" href="assets/fist.ico" />
     <title>Red Scare Industries</title>
     <style>
-      .social-feeds {
-        display: flex;
-        justify-content: space-evenly;
-        flex-wrap: wrap;
-      }
-      .social-feeds .feed {
-        width: 100%;
-        margin-bottom: 20px;
-      }
-      .logo-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
+      
       #blog-posts {
         width: 50%;
         margin: auto;
@@ -39,6 +26,7 @@
       #blog-posts a {
         color: #ff0404; /* Change the color of hyperlinks to red */
       }
+      
       #blog-posts img,
       #blog-posts video,
       #blog-posts iframe {
@@ -97,6 +85,19 @@
         justify-content: center; /* Centers the releases horizontally */
         flex-wrap: wrap;
         margin-top: 20px;
+        margin-bottom: 20px;
+      }
+      a {
+        text-decoration: none !important;
+      }
+      a:hover {
+        text-decoration: none !important;
+      }
+      p {
+        margin-bottom: 0px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
       }
       .release {
         width: 10%;
@@ -221,7 +222,7 @@
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  
+
   <script>
     let currentPage = 1;
     const postsPerPage = 5;
@@ -311,8 +312,8 @@
             src: release.coverArt,
           });
 
+          // Append the image to the link
           releaseLink.appendChild(releaseImage);
-          releaseDiv.appendChild(releaseLink);
 
           const infoDiv = createElement("div", "info");
           infoDiv.appendChild(
@@ -322,7 +323,12 @@
             createElement("p", null, { textContent: release.album })
           );
 
-          releaseDiv.appendChild(infoDiv);
+          // Instead of appending the infoDiv to the releaseDiv, append it to the releaseLink
+          releaseLink.appendChild(infoDiv);
+
+          // Now, append the releaseLink (which contains both the image and info) to the releaseDiv
+          releaseDiv.appendChild(releaseLink);
+
           releasesContainer.appendChild(releaseDiv);
         });
 
