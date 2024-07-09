@@ -16,9 +16,8 @@
     <link rel="icon" href="assets/fist.ico" />
     <title>Red Scare Industries</title>
     <style>
-      
       #blog-posts {
-        width: 50%;
+        width: 60%;
         margin: auto;
         padding: 20px;
         background-color: whitesmoke;
@@ -26,7 +25,7 @@
       #blog-posts a {
         color: #ff0404; /* Change the color of hyperlinks to red */
       }
-      
+
       #blog-posts img,
       #blog-posts video,
       #blog-posts iframe {
@@ -83,6 +82,7 @@
       .releases-container {
         display: flex;
         justify-content: center; /* Centers the releases horizontally */
+        gap: 50px;
         flex-wrap: wrap;
         margin-top: 20px;
         margin-bottom: 20px;
@@ -101,7 +101,6 @@
       }
       .release {
         width: 10%;
-        margin-right: 20px;
       }
       .release a {
         display: flex;
@@ -109,7 +108,7 @@
         align-items: center;
       }
       .release img {
-        width: 80%;
+        width: 100%;
         padding-bottom: 10px;
       }
       .release h2 {
@@ -119,6 +118,7 @@
       }
       .release p {
         color: rgb(8, 8, 8);
+        white-space: nowrap;
         font-family: "Helv";
         font-size: clamp(12px, 2vw, 14px);
       }
@@ -144,7 +144,17 @@
         background-color: #ffffff;
         color: #ff0404;
       }
-
+      @media (min-width: 991px) and (max-width: 1400px) {
+        .releases-container {
+          gap: 50px;
+        }
+        .release {
+          width: 15%;
+        }
+        .release img {
+          width: 100%;
+        }
+      }
       @media (max-width: 990px) {
         .releases {
           display: flex;
@@ -166,6 +176,9 @@
           box-sizing: border-box;
           width: 40%; /* Adjust as needed */
           margin: 3%; /* Adjust as needed */
+        }
+        .releases-container {
+          gap: 10px; /* Reduce the gap for smaller screens */
         }
         .release img {
           width: 100%; /* Adjust as needed, but should not exceed 100% */
