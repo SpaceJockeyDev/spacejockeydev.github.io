@@ -191,10 +191,14 @@
         dropdown.appendChild(allOption);
 
         bandsData.forEach((band) => {
-          if (apiData.some((event) => event.title === band.bandName)) {
+          if (
+            apiData.some(
+              (event) => decodeHtml(event.title) === decodeHtml(band.bandName)
+            )
+          ) {
             const option = document.createElement("option");
-            option.value = band.bandName;
-            option.textContent = band.bandName;
+            option.value = decodeHtml(band.bandName);
+            option.textContent = decodeHtml(band.bandName);
             dropdown.appendChild(option);
           }
         });
@@ -206,7 +210,7 @@
         bandsData.forEach((band) => {
           const bandEvents = apiData.filter(
             (event) =>
-              band.bandName === event.title &&
+              decodeHtml(band.bandName) === decodeHtml(event.title) &&
               new Date(event.start_date) >= today
           );
           if (bandEvents.length > 0) {

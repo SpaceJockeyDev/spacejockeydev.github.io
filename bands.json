@@ -48,6 +48,18 @@
             "bio": "The Bollweevils are a punk rock band from Chicago, Illinois. They have released three full-length albums on Dr. Strange Records. The band released their first album, Stick Your Neck Out, in 1995. In 1997, the band released their second album, Heavyweight. In 2003, the band released their third album, History of the Bollweevils Part 1."
         },
         {
+            "bandName": "Brendan Kelly",
+            "hometown": "Chicago, IL",
+            "socials": {
+                "facebook": null,
+                "twitter": "https://twitter.com/badsandwich",
+                "instagram": "https://instagram.com/dr_beexo",
+                "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/"
+            },
+            "picture": "https://f4.bcbits.com/img/0008465590_10.jpg",
+            "bio": "Brendan Kelly is the dude from The Lawrence Arms and The Falcon. Chicago boy done good. Sometimes he goes solo and sometimes he soars with a dubious crew called the Wandering Birds. He’s done a couple LPs and some 7”s with Red Scare, and it’s all pretty freaky stuff: songs about torture, songs about drugs, songs about pervs, songs about serial killers, and songs about your mom. The recordings are definitely not your typical punk acoustic faire as he works with a full band of deviant collaborators, and the live show has been described as Andy Kaufman goes Kafka, but with songs about your mom. - TJ"
+        },
+        {
             "bandName": "Broadway Calls",
             "hometown": "Rainier, OR",
             "socials": {
@@ -70,18 +82,6 @@
             },
             "picture": "https://f4.bcbits.com/img/0004728671_25.jpg",
             "bio": "The Brokedowns are a punk rock band from Elgin, Illinois. They have released four full-length albums on Red Scare Industries. The band released their first album, New Brains for Everyone, in 2008. In 2010, the band released their second album, Species Bender. In 2013, the band released their third album, Species Bender. In 2016, the band released their fourth album, Species Bender."
-        },
-        {
-            "bandName": "Brendan Kelly",
-            "hometown": "Chicago, IL",
-            "socials": {
-                "facebook": null,
-                "twitter": "https://twitter.com/badsandwich",
-                "instagram": "https://instagram.com/dr_beexo",
-                "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/"
-            },
-            "picture": "https://f4.bcbits.com/img/0008465590_10.jpg",
-            "bio": "Brendan Kelly is the dude from The Lawrence Arms and The Falcon. Chicago boy done good. Sometimes he goes solo and sometimes he soars with a dubious crew called the Wandering Birds. He’s done a couple LPs and some 7”s with Red Scare, and it’s all pretty freaky stuff: songs about torture, songs about drugs, songs about pervs, songs about serial killers, and songs about your mom. The recordings are definitely not your typical punk acoustic faire as he works with a full band of deviant collaborators, and the live show has been described as Andy Kaufman goes Kafka, but with songs about your mom. - TJ"
         },
         {
             "bandName": "Bullets To Broadway",
