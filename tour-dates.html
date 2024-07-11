@@ -205,7 +205,9 @@
         bandsData.forEach((band) => {
           if (
             apiData.some(
-              (event) => decodeHtml(event.title) === decodeHtml(band.bandName)
+              (event) =>
+                decodeHtml(event.title).toLowerCase() ===
+                decodeHtml(band.bandName).toLowerCase()
             )
           ) {
             const option = document.createElement("option");
@@ -222,7 +224,8 @@
         bandsData.forEach((band) => {
           const bandEvents = apiData.filter(
             (event) =>
-              decodeHtml(band.bandName) === decodeHtml(event.title) &&
+              decodeHtml(band.bandName).toLowerCase() ===
+                decodeHtml(event.title).toLowerCase() &&
               new Date(event.start_date) >= today
           );
           if (bandEvents.length > 0) {
@@ -280,13 +283,14 @@
         bandsDiv.appendChild(fragment);
 
         dropdown.addEventListener("change", function () {
-          const selectedBand = this.value;
+          const selectedBand = this.value.toLowerCase(); // Convert selected band to lower case
           const bandSections = document.getElementsByClassName("band-section");
           Array.from(bandSections).forEach((bandSection) => {
-            const bandName =
-              bandSection.getElementsByClassName("band-name")[0].textContent;
+            const bandName = bandSection
+              .getElementsByClassName("band-name")[0]
+              .textContent.toLowerCase(); // Convert band name to lower case for comparison
             bandSection.style.display =
-              bandName === selectedBand || selectedBand === "All"
+              bandName === selectedBand || selectedBand === "all"
                 ? "block"
                 : "none";
           });
