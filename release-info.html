@@ -55,7 +55,9 @@
         color: #f80d0d;
       }
       body {
-        background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+        background-image: url("assets/PNGs/Skyline_Cropped.png"),
+          url("assets/PNGs/Hands_Cropped.png"),
+          url("assets/PNGs/Circle_Full.png");
         background-position: right, left, left 120px;
         background-size: 15%, 40%, 20%;
         background-repeat: repeat-y, repeat-y, no-repeat;
@@ -67,12 +69,14 @@
           font-size: 2.3em; /* Adjust this value as needed */
         }
         body {
-          background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
-        background-position: right, left, left 120px;
-        background-size: 15%, 40%, 20%;
-        background-repeat: repeat-y, repeat-y, no-repeat;
-        background-attachment: fixed;
-        background-color: #f2ead3;
+          background-image: url("assets/PNGs/Skyline_Cropped.png"),
+            url("assets/PNGs/Hands_Cropped.png"),
+            url("assets/PNGs/Circle_Full.png");
+          background-position: right, left, left 120px;
+          background-size: 15%, 40%, 20%;
+          background-repeat: repeat-y, repeat-y, no-repeat;
+          background-attachment: fixed;
+          background-color: #f2ead3;
         }
         .album-container {
           flex-direction: column;
@@ -84,8 +88,8 @@
           text-align: center;
         }
         .album-cover {
-        margin-right: 0px; /* Adjust this value as needed */
-      }
+          margin-right: 0px; /* Adjust this value as needed */
+        }
       }
       .buy-button {
         display: inline-block;
@@ -126,49 +130,46 @@
     <div id="album-info-container" class="container"></div>
 
     <div id="footer"></div>
-
   </body>
-    <script>
-      window.onload = function () {
-        // Get the album name from the URL
-        const urlParams = new URLSearchParams(window.location.search);
-        const albumName = decodeURIComponent(urlParams.get("album")).replace(
-          /-/g,
-          " "
-        );
+  <script>
+    window.onload = function () {
+      // Get the album name from the URL
+      const urlParams = new URLSearchParams(window.location.search);
+      const albumName = decodeURIComponent(urlParams.get("album")).replace(
+        /-/g,
+        " "
+      );
 
-        // Fetch the album data from releases.json
-        fetch("releases.json")
-          .then((response) => response.json())
-          .then((albums) => {
-            // Find the album with the correct name
-            const album = albums.find((album) => album.album === albumName);
+      // Fetch the album data from releases.json
+      fetch("releases.json")
+        .then((response) => response.json())
+        .then((albums) => {
+          // Find the album with the correct name
+          const album = albums.find((album) => album.album === albumName);
 
-            // Fetch the band data from bands.json
-            fetch("bands.json")
-              .then((response) => response.json())
-              .then((bands) => {
-                // Find the band with the correct name
-                const band = bands.find((band) =>
-                  album.bandName.includes(band.bandName)
-                );
+          // Fetch the band data from bands.json
+          fetch("bands.json")
+            .then((response) => response.json())
+            .then((bands) => {
+              // Find the band with the correct name
+              const band = bands.find((band) =>
+                album.bandName.includes(band.bandName)
+              );
 
-                // If the band is found, update the band name link
-                if (band) {
-                  album.bandName = band.bandName;
-                }
+              // If the band is found, update the band name link
+              if (band) {
+                album.bandName = band.bandName;
+              }
 
-                // Set the title of the page
-                document.title = `${album.bandName} - ${album.album}`;
+              // Set the title of the page
+              document.title = `${album.bandName} - ${album.album}`;
 
-                // Get the container where the album information will be displayed
-                const container = document.getElementById(
-                  "album-info-container"
-                );
+              // Get the container where the album information will be displayed
+              const container = document.getElementById("album-info-container");
 
-                // Create HTML elements for the album information
-                const albumElement = document.createElement("div");
-                albumElement.innerHTML = `
+              // Create HTML elements for the album information
+              const albumElement = document.createElement("div");
+              albumElement.innerHTML = `
                           <div class="album-container">
                               <div class="album-cover">
                                   <img class="album-cover-info" src="${
@@ -192,8 +193,12 @@
                     ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
                     : ""
                 }
+                <p style="font-family: 'Alte';">Description:</p>
+                <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte';  font-weight: bold;">
+                ${album.description}
+                </ul>
                 <p style="font-family: 'Alte';">Track List:</p>
-                <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
+                <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte';">
                 ${album.trackList.map((track) => `<li>${track}</li>`).join("")}
                 </ul>
                 <div class="stream-on">
@@ -219,27 +224,26 @@
             </div>
         </div>`;
 
-                // Add the album information to the container
-                container.appendChild(albumElement);
-              })
-              .catch((error) => console.error("Error:", error));
-          })
-          .catch((error) => console.error("Error:", error));
-      };
-    </script>
+              // Add the album information to the container
+              container.appendChild(albumElement);
+            })
+            .catch((error) => console.error("Error:", error));
+        })
+        .catch((error) => console.error("Error:", error));
+    };
+  </script>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script>
-      $(function () {
-        $("#navbar-container").load("navigation.html");
-      });
-    </script>
-    <script>
-      $(function () {
-        $("#footer").load("footer.html");
-      });
-    </script>
-  
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    $(function () {
+      $("#navbar-container").load("navigation.html");
+    });
+  </script>
+  <script>
+    $(function () {
+      $("#footer").load("footer.html");
+    });
+  </script>
 </html>
