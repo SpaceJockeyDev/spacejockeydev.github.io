@@ -45,11 +45,11 @@
         align-items: center;
         justify-content: center;
         font-family: "Alte", sans-serif;
-        padding-bottom: 40px;
       }
       #bands ul {
         padding: 0;
         margin: 0;
+        margin-bottom: 15px !important;
       }
       .band-section {
         display: flex;
@@ -96,6 +96,18 @@
         font-family: "Viva";
         margin-top: 20px;
         margin-bottom: 20px;
+      }
+      #bands ul {
+        padding: 0;
+        margin: 0;
+        width: 100%; /* Ensure the ul takes the full width */
+      }
+
+      .li-separator:not(:last-child) {
+        border-bottom: 2px solid #ccc; /* Solid line as a separator */
+        padding-bottom: 10px; /* Space between the text and the separator */
+        margin-bottom: 10px; /* Space between the separator and the next item */
+        width: 100%; /* Ensure the li takes the full width */
       }
       @media (max-width: 990px) {
         #bands {
@@ -232,6 +244,7 @@
 
             bandEvents.forEach((event) => {
               const li = document.createElement("li");
+              li.className = "li-separator"; // Add this line
               li.style.backgroundColor = "whitesmoke";
               const eventDate = new Date(event.start_date);
               const formattedDate = eventDate.toLocaleString("en-US", {
