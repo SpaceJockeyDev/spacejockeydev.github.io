@@ -41,7 +41,6 @@
         justify-content: center;
         width: 60%;
         margin: 0 auto;
-
       }
       .band-name {
         margin-top: 10px;
@@ -194,10 +193,14 @@
                     ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
                     : ""
                 }
-                <p style="font-family: 'Alte';">Description:</p>
-                <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte';  font-weight: bold;">
-                ${album.description}
-                </ul>
+                ${
+                  album.description !== null
+                    ? `<p style="font-family: 'Alte';">Description:</p>
+                      <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte';  font-weight: bold;">
+                        ${album.description}
+                      </ul>`
+                    : ""
+                }
                 <p style="font-family: 'Alte';">Track List:</p>
                 <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte';">
                 ${album.trackList.map((track) => `<li>${track}</li>`).join("")}
