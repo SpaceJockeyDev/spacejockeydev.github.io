@@ -96,6 +96,9 @@
       margin-right: auto;
       width: 80%;
     }
+    .preserve-whitespace {
+    white-space: pre-wrap;
+  }
     @media (max-width: 990px) {
       #band-picture {
         width: 400px;
@@ -225,7 +228,8 @@
           document.getElementById("band-picture").src = band.picture;
           document.getElementById("band-hometown").textContent =
             "Hometown: " + band.hometown;
-          document.getElementById("band-bio").textContent = band.bio;
+            document.getElementById("band-bio").style.whiteSpace = "pre-wrap";
+            document.getElementById("band-bio").innerHTML = band.bio;
           document.getElementById("band-socials").innerHTML = `
             ${
               band.socials.facebook
@@ -248,8 +252,8 @@
                 : ""
             }
             ${
-              band.socials.bandcamp
-                ? `<a href="${band.socials.bandcamp}" target="_blank"><i class="fas fa-globe"></i></a>`
+              band.socials.website
+                ? `<a href="${band.socials.website}" target="_blank"><i class="fas fa-globe"></i></a>`
                 : ""
             }`;
 
@@ -276,7 +280,21 @@
     })
     .catch((error) => console.error("Error:", error));
 </script>
+<script>
+// Step 1: Get the bio text
+const bioElement = document.getElementById('band-bio');
+if (bioElement) { // Ensure the element exists
+  let bioText = bioElement.innerHTML;
 
+  // Step 2 and 3: Replace each period followed by a space with a period followed by two non-breaking spaces
+  bioText = bioText.replace(/\. /g, '.&nbsp;&nbsp;');
+
+  // Step 4: Set the modified text back to the element
+  bioElement.innerHTML = bioText;
+} else {
+  console.error('Bio element not found');
+}
+</script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

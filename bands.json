@@ -6,7 +6,8 @@
                 "facebook": "https://www.facebook.com/theallbrights/",
                 "twitter": "https://twitter.com/theallbrights",
                 "instagram": "https://instagram.com/theallbrights",
-                "bandcamp": "https://theallbrights.bandcamp.com/"
+                "bandcamp": "https://theallbrights.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0008466304_10.jpg",
             "bio": "The All Brights are a punk rock band from Santa Barbara, California. They have released one full-length album on Red Scare Industries. The band released their first album, The White Album, in 2016."
@@ -18,10 +19,11 @@
                 "facebook": "https://www.facebook.com/armsaloft/",
                 "twitter": "https://twitter.com/armsaloft",
                 "instagram": "https://instagram.com/armsaloft",
-                "bandcamp": "https://armsaloft.bandcamp.com/"
+                "bandcamp": "https://armsaloft.bandcamp.com/",
+                "website": null
             },
             "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/armsaloft.jpg",
-            "bio": "Arms Aloft are four Leftist punks from Eau Claire, Wisconsin. Ya know the quiet person that sits in the corner that only speaks up once a year, but when they do, they say something inspiring, thoughtful, and profound?  That’s Arms Aloft. Not the busiest group on the planet, but when the band materializes, the punk scene listens. They are loud and proud socialists (Alright, alright, alright, just the way we like ‘em), and if there’s ever some wacky Right Wing takeover in America *looks around, laughs nervously* they’re coming for Arms Aloft first. But good luck taking on this band, as they’re smart, scrappy, and they literally eat from garbage cans. What a time to be barely alive! - TJ"
+            "bio": "Arms Aloft are four Leftist punks from Eau Claire, Wisconsin. Ya know the quiet person that sits in the corner that only speaks up once a year, but when they do, they say something inspiring, thoughtful, and profound?  That’s Arms Aloft. Not the busiest group on the planet, but when the band materializes, the punk scene listens. They are loud and proud socialists (Alright, alright, alright, just the way we like ‘em), and if there’s ever some wacky Right Wing takeover in America *looks around, laughs nervously* they’re coming for Arms Aloft first. But good luck taking on this band, as they’re smart, scrappy, and they literally eat from garbage cans. What a time to be barely alive! <br><br>- tj"
         },
         {
             "bandName": "Billy Liar",
@@ -30,7 +32,8 @@
                 "facebook": "https://www.facebook.com/official.billy.liar/",
                 "twitter": "https://twitter.com/thebillyliar",
                 "instagram": "https://www.instagram.com/officialbillyliar/",
-                "bandcamp": "https://officialbillyliar.bandcamp.com/"
+                "bandcamp": "https://officialbillyliar.bandcamp.com/",
+                "website": "https://www.billyliarmusic.com/"
             },
             "picture": "https://xthoughtswordsactionx.files.wordpress.com/2023/10/2d1dff90-c667-1ced-95f9-0700447f7cd6.jpg",
             "bio": "Billy Liar is a punk rock band from Edinburgh, Scotland. They have released two full-length albums on Red Scare Industries. The band released their first album, All I've Got, in 2015. In 2018, the band released their second album, Some Legacy."
@@ -42,7 +45,8 @@
                 "facebook": "https://www.facebook.com/thebollweevils",
                 "twitter": "https://twitter.com/thebollweevils",
                 "instagram": "https://www.instagram.com/the_bollweevils_chicago/",
-                "bandcamp": "https://thebollweevils.bandcamp.com/"
+                "bandcamp": "https://thebollweevils.bandcamp.com/",
+                "website": null
             },
             "picture": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2023/05/The-Bollweevils-by-Paul-Catani.jpg?w=1200&quality=89&ssl=1",
             "bio": "The Bollweevils are a punk rock band from Chicago, Illinois. They have released three full-length albums on Dr. Strange Records. The band released their first album, Stick Your Neck Out, in 1995. In 1997, the band released their second album, Heavyweight. In 2003, the band released their third album, History of the Bollweevils Part 1."
@@ -54,10 +58,11 @@
                 "facebook": null,
                 "twitter": "https://twitter.com/badsandwich",
                 "instagram": "https://instagram.com/dr_beexo",
-                "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/"
+                "bandcamp": "https://brendankellyandthewanderingbirds.bandcamp.com/",
+                "website": "https://badsandwich.substack.com/"
             },
             "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/brendankelly.jpg",
-            "bio": "Brendan Kelly is the dude from The Lawrence Arms and The Falcon. Chicago boy done good. Sometimes he goes solo and sometimes he soars with a dubious crew called the Wandering Birds. He’s done a couple LPs and some 7”s with Red Scare, and it’s all pretty freaky stuff: songs about torture, songs about drugs, songs about pervs, songs about serial killers, and songs about your mom. The recordings are definitely not your typical punk acoustic faire as he works with a full band of deviant collaborators, and the live show has been described as Andy Kaufman goes Kafka, but with songs about your mom. - TJ"
+            "bio": "Brendan Kelly is the dude from The Lawrence Arms and The Falcon.  Chicago boy done good.  Sometimes he goes solo and sometimes he soars with a dubious crew called the Wandering Birds.  He’s done a couple LPs and some 7”s with Red Scare, and it’s all pretty freaky stuff: songs about torture, songs about drugs, songs about pervs, songs about serial killers, and songs about your mom.  The recordings are definitely not your typical punk acoustic faire as he works with a full band of deviant collaborators, and the live show has been described as Andy Kaufman goes Kafka, but with songs about your mom. <br><br>- tj"
         },
         {
             "bandName": "Broadway Calls",
@@ -66,10 +71,11 @@
                 "facebook": "https://www.facebook.com/broadwaycalls",
                 "twitter": "https://twitter.com/broadwaycalls",
                 "instagram": "https://instagram.com/broadwaycalls",
-                "bandcamp": "https://broadwaycalls.bandcamp.com/"
+                "bandcamp": "https://broadwaycalls.bandcamp.com/",
+                "website": null
             },
             "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/broadwaycalls.jpg",
-            "bio": "Broadway Calls are an Oregon trio that started out on Green Day’s imprint, Adeline Records, then moved to Side One Dummy… then a couple more labels that subsequently died… then won the music biz lottery and ended up on immortal Red Scare Industries in 2019.  They have a minimalist approach and maximum sound, not unlike The Jesus and Mary Chain or Ramones.  They’ve done the Warped Tour, played Tokyo with Taylor Swift and Jay Z (wish we were lying), toured the UK with Alkaline Trio, etc.  These humble kids have been on magazine covers, heard on commercial radio, and the bass player even owns an actual bulldozer.  Not bad for three BFFs from the woods of the Pacific Northwest. - TJ"
+            "bio": "Broadway Calls are an Oregon trio that started out on Green Day’s imprint, Adeline Records, then moved to Side One Dummy… then a couple more labels that subsequently died… then won the music biz lottery and ended up on immortal Red Scare Industries in 2019.  They have a minimalist approach and maximum sound, not unlike The Jesus and Mary Chain or Ramones.  They’ve done the Warped Tour, played Tokyo with Taylor Swift and Jay Z (wish we were lying), toured the UK with Alkaline Trio, etc.  These humble kids have been on magazine covers, heard on commercial radio, and the bass player even owns an actual bulldozer.  Not bad for three BFFs from the woods of the Pacific Northwest. <br><br>- tj"
         },
         {
             "bandName": "The Brokedowns",
@@ -78,7 +84,8 @@
                 "facebook": "https://www.facebook.com/thebrokedowns",
                 "twitter": "https://twitter.com/thebrokedowns",
                 "instagram": "https://instagram.com/thebrokedowns",
-                "bandcamp": "https://thebrokedowns.bandcamp.com/"
+                "bandcamp": "https://thebrokedowns.bandcamp.com/",
+                "website": "https://thebrokedowns.com/"
             },
             "picture": "https://f4.bcbits.com/img/0004728671_25.jpg",
             "bio": "The Brokedowns are a punk rock band from Elgin, Illinois. They have released four full-length albums on Red Scare Industries. The band released their first album, New Brains for Everyone, in 2008. In 2010, the band released their second album, Species Bender. In 2013, the band released their third album, Species Bender. In 2016, the band released their fourth album, Species Bender."
@@ -90,10 +97,11 @@
                 "facebook": null,
                 "twitter": null,
                 "instagram": null,
-                "bandcamp": "https://bulletstobroadway.bandcamp.com/"
+                "bandcamp": "https://bulletstobroadway.bandcamp.com/",
+                "website": null
             },
-            "picture": "https://f4.bcbits.com/img/0012923482_10.jpg",
-            "bio": "Bullets to Broadway is a punk rock band from Gainesville, Florida. They have released one full-length album on Red Scare Industries. The band released their first album, The Black, The White, and the Grey, in 2016."
+            "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/bulletstobroadway.jpg",
+            "bio": "Bullets To Broadway was the merger of three ex-members of Teen Idols and two guitar shredders from Rehasher.  Gainesville grit meets Nashville heat.  They were the third band signed to Red Scare in 2005 and have only one glorious release: an 8-song EP produced by Less Than Jake’s, Roger Lima.  The band toured like hell (they were sponsored by Sparks and Taco Bell, after all), but things slowed down when Heather and Gui started a family, Ryan Geis got into animal husbandry, and Matt Drastic took over on drums for LTJ.  They reunited recently to play Fest, so maybe we’ll get to see and hear more of this squirrely punk quintet?!<br><br>- tj"
         },
         {
             "bandName": "Cobra Skulls",
@@ -102,10 +110,11 @@
                 "facebook": "https://www.facebook.com/cobraskulls",
                 "twitter": "https://twitter.com/cobraskulls",
                 "instagram": "https://instagram.com/cobraskulls",
-                "bandcamp": "https://cobraskulls.bandcamp.com/"
+                "bandcamp": "https://cobraskulls.bandcamp.com/",
+                "website": null
             },
             "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/cobraskulls.jpg",
-            "bio": "Straight out of Reno is a crazy motherfucker named Devin Peralta: part skateboard, part serpentine mongoose, part Cramps logo.  Devin and his various skin-challenged serpentine cohorts spent years crisscrossing this great nation charming the children with their music so effortlessly, it was as though they were in baskets in an open air market in an Indiana Jones movie or something.  Seriously though, Cobra Skulls are the most old school meets new school political horror self-reflective ophidiophilic stripped-down acoustic lushly instrumental melodic screechy deadly serious total party band you’ll ever meet. \n\nSadly, you won’t have too many chances to meet them anymore.  Pulled up from their den by Red Scare, the Cobra Skulls gained enough attention in the national punk scene that Fat Wreck Chords decided to do what it does best, namely stroll through the Red Scare orchards and harvest the ripest fruits to take home for themselves.  And the Skulls were exactly the ripe and fecund fruits that wanted, needed to be plucked. \n\nHowever, irony is a cruel mistress, for this seemingly game-changing move to a larger label only inspired the ever-unpredictable Devin to look at the bigger picture and make some changes and do some fruit plucking himself.  What does that mean?  Long story short he’s a farmer that sells oranges now and as a result they barely play anymore.  But when they do, they scream and croon in Spanish and English, and if you stand very still and can ignore the infrastructural collapse of Reno as it bursts around you like a plague boil, you can hear the serpents slithering up from the sewers, once again entranced by the singular siren song of the Cobra Skulls, amassing and preparing to take over the whole fucking world. - BK"
+            "bio": "Straight out of Reno is a crazy motherfucker named Devin Peralta: part skateboard, part serpentine mongoose, part Cramps logo.  Devin and his various skin-challenged serpentine cohorts spent years crisscrossing this great nation charming the children with their music so effortlessly, it was as though they were in baskets in an open air market in an Indiana Jones movie or something.  Seriously though, Cobra Skulls are the most old school meets new school political horror self-reflective ophidiophilic stripped-down acoustic lushly instrumental melodic screechy deadly serious total party band you’ll ever meet. <br><br>Sadly, you won’t have too many chances to meet them anymore.  Pulled up from their den by Red Scare, the Cobra Skulls gained enough attention in the national punk scene that Fat Wreck Chords decided to do what it does best, namely stroll through the Red Scare orchards and harvest the ripest fruits to take home for themselves.  And the Skulls were exactly the ripe and fecund fruits that wanted, needed to be plucked. <br><br>However, irony is a cruel mistress, for this seemingly game-changing move to a larger label only inspired the ever-unpredictable Devin to look at the bigger picture and make some changes and do some fruit plucking himself.  What does that mean?  Long story short he’s a farmer that sells oranges now and as a result they barely play anymore.  But when they do, they scream and croon in Spanish and English, and if you stand very still and can ignore the infrastructural collapse of Reno as it bursts around you like a plague boil, you can hear the serpents slithering up from the sewers, once again entranced by the singular siren song of the Cobra Skulls, amassing and preparing to take over the whole fucking world. <br><br>- bk"
         },
         {
             "bandName": "The Copyrights",
@@ -114,10 +123,11 @@
                 "facebook": "https://www.facebook.com/thecopyrights",
                 "twitter": "https://twitter.com/thecopyrights",
                 "instagram": "https://instagram.com/thecopyrights",
-                "bandcamp": "https://thecopyrights.bandcamp.com/"
+                "bandcamp": "https://thecopyrights.bandcamp.com/",
+                "website": null
             },
-            "picture": "https://f4.bcbits.com/img/0003965677_10.jpg",
-            "bio": "The Copyrights are a punk rock band from Carbondale, Illinois. They have released six full-length albums on Red Scare Industries. The band released their first album, Mutiny Pop, in 2006. In 2007, the band released their second album, Make Sound. In 2010, the band released their third album, Learn the Hard Way. In 2014, the band released their fourth album, Report. In 2018, the band released their fifth album, Report. In 2021, the band released their sixth album, Report."
+            "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/copyrights.jpg",
+            "bio": "To call Carbondale, Illinois a hell on earth would be giving a lot of credit to your idea of hell.  If hell is hard-living roving gangs of party animals fueled by McDonald’s cheeseburgers found on the floor of the last party, and glue vapors, propelled ever forward to god-knows-what-next nowhere all while every single person involved howls along to the pop punk masterpieces laid down by local legends, The Copyrights, then yeah, it’s a lot like Carbondale. <br><br>Just like in their hometown of Carbondale, there are no rules in The Copyrights.  The drummer writes the songs but doesn’t even usually tour with them.  One of the dudes lives in a trailer park and cooks squirrels and shit and also makes giant art installations for Coachella and is internationally renowned as a great visionary artist by the most elite fart-sniffing tastemakers of our time.  The bass player refuses to age.  The lead singer is everyone in the band, every word, all the time.  They’ve been playing deceptively simple pop punk for a thousand years and went from promising to disappointing to safe and boring to promising to beloved to brilliant subverters of the whole idea of pop punk while still remaining 100% true to it to legends all without doing anything different or noticing that they were being perceived at all.  And they did all this by pounding out some of the no shit, greatest most emblematic punk anthems you’ll ever hear in any genre by any band (see: “Passport”, “Shit’s Fucked”, “Crutches”, etc). <br><br>Also, The Copyrights will never die, but that doesn’t mean you should slack on seeing them.  They’re getting older (besides the aforementioned singer, Fletcher), and to paraphrase the words of Stevie Nicks, you’re getting older too. <br><br>Oh yeah, and one of the guitar players is named Funburg.  For real. <br><br>- bk"
         },
         {
             "bandName": "Derek Grant",
@@ -126,7 +136,8 @@
                 "facebook": "https://www.facebook.com/derekgrant",
                 "twitter": null,
                 "instagram": "https://instagram.com/derekdontgram",
-                "bandcamp": "https://derekgrant.bandcamp.com/"
+                "bandcamp": "https://derekgrant.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0009466635_10.jpg",
             "bio": "Derek Grant is a punk rock band from Chicago, Illinois. They have released two full-length albums on Red Scare Industries. The band released their first album, Breakdown, in 2015. In 2017, the band released their second album, Breakdown."
@@ -138,7 +149,8 @@
                 "facebook": "https://www.facebook.com/directhitband",
                 "twitter": "https://twitter.com/directhit_sucks",
                 "instagram": "https://instagram.com/directhitband",
-                "bandcamp": "https://directhit.bandcamp.com/"
+                "bandcamp": "https://directhit.bandcamp.com/",
+                "website": "https://crownofnothing.com/"
             },
             "picture": "https://f4.bcbits.com/img/0014254304_10.jpg",
             "bio": "Direct Hit! is a punk rock band from Milwaukee, Wisconsin. They have released five full-length albums on Red Scare Industries. The band released their first album, Domesplitter, in 2011. In 2013, the band released their second album, Brainless God. In 2015, the band released their third album, Wasted Mind. In 2018, the band released their fourth album, Crown of Nothing. In 2020, the band released their fifth album, Crown of Nothing."
@@ -150,7 +162,8 @@
                 "facebook": "https://www.facebook.com/drakulastx",
                 "twitter": "https://twitter.com/drakulastx",
                 "instagram": "https://instagram.com/drakulastx",
-                "bandcamp": "https://drakulas.bandcamp.com/"
+                "bandcamp": "https://drakulas.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0009459660_10.jpg",
             "bio": "Drakulas is a punk rock band from Austin, Texas. They have released two full-length albums on Red Scare Industries. The band released their first album, Raw Wave, in 2015. In 2019, the band released their second album, Terminal Amusements."
@@ -162,7 +175,8 @@
                 "facebook": "https://www.facebook.com/druglordsoftheavenues",
                 "twitter": "https://twitter.com/druglordsband",
                 "instagram": "https://instagram.com/druglordsoftheavenues",
-                "bandcamp": "https://druglordsoftheavenues.bandcamp.com/"
+                "bandcamp": "https://druglordsoftheavenues.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0008466485_10.jpg",
             "bio": "Druglords of the Avenues is a punk rock band from Oakland, California. They have released two full-length albums on Red Scare Industries. The band released their first album, Sing Songs, in 2009. In 2011, the band released their second album, New Drugs."
@@ -174,10 +188,11 @@
                 "facebook": "https://www.facebook.com/ElwayTheBand",
                 "twitter": "https://twitter.com/elwaytheband",
                 "instagram": "https://instagram.com/elwaytheband",
-                "bandcamp": "https://elwaytheband.bandcamp.com/"
+                "bandcamp": "https://elwaytheband.bandcamp.com/",
+                "website": null
             },
-            "picture": "https://f4.bcbits.com/img/0002590850_10.jpg",
-            "bio": "Elway is a punk rock band from Fort Collins, Colorado. They have released three full-length albums on Red Scare Industries. The band released their first album, Delusions, in 2011. In 2013, the band released their second album, Leavetaking. In 2015, the band released their third album, Better Whenever."
+            "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/elway.jpg",
+            "bio": "Spanish for “the way” Elway is a Mandelorian band who came to Earth piloted by noted Jean Luc Picard enthusiast, Time Browne, and crash landed in Colorado where they’ve taken the instrumentation of Propagandhi, paired it with the melodies of Taylor Swift and lyricism straight from Holden Caulfield if he had a little more Mark David Chapman in him. <br><br>Elway mixed this musical granola together on the great highways of America and the sex-fueled highways of Europe for years before finally settling into a comfortable rut as disapproving professionals who come together once in a while to shock their friends when it turns out that “the band I’m in” is actually good. <br><br>Could your friend who loves Crosby Stills and Nash listen to Elway?  Sure!  Elway sounds a little like if they were Crosby, Crosby, and Crosby at times, a wasted and gleeful meat and potatoes take on classic rock and roll.  Though they’ll tell you they’re more of a Silver Bullet band, only the second guitarist Brian can even so much as change his own oil, and truth be told, that’s fine.  Elway sounds like Elway more than they sound like who they think they sound like, or who their detractors say they sound like, which is to say, they’re great and unique, disguised as a fairly straight forward punk-influenced rock band. <br><br>If it weren’t for angsty politically aware teachers, coders, activists, and whatever the fuck Squid (real birth name!) does, then there wouldn’t be the effortlessly crushable easy-drinking hard-thinking Elway, who truly, truly are both the smartest and the dumbest band you will ever meet in your life. <br><br>- bk"
         },
         {
             "bandName": "Enemy You",
@@ -186,7 +201,8 @@
                 "facebook": "https://www.facebook.com/p/Enemy-You-100066488358195/",
                 "twitter": null,
                 "instagram": null,
-                "bandcamp": "https://enemyyou.bandcamp.com/"
+                "bandcamp": "https://enemyyou.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0008480324_10.jpg",
             "bio": "Enemy You is a punk rock band from San Francisco, California. They have released two full-length albums on Red Scare Industries. The band released their first album, Where No One Knows My Name, in 2000. In 2004, the band released their second album, Stories Never Told."
@@ -198,7 +214,8 @@
                 "facebook": "https://www.facebook.com/MoFukkinFalcon/",
                 "twitter": "https://twitter.com/mofukkinfalcon",
                 "instagram": null,
-                "bandcamp": "https://mofukkinfalcon.bandcamp.com/"
+                "bandcamp": "https://mofukkinfalcon.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0008477196_25.jpg",
             "bio": "The Falcon is a punk rock band from Chicago, Illinois. They have released three full-length albums on Red Scare Industries. The band released their first album, Unicornography, in 2006. In 2009, the band released their second album, Gather Up the Chaps. In 2016, the band released their third album, Gather Up the Chaps."
@@ -210,7 +227,8 @@
                 "facebook": "https://www.facebook.com/FleauXdestruction/",
                 "twitter": null,
                 "instagram": "https://www.instagram.com/fleau.destruction",
-                "bandcamp": "https://fleau.bandcamp.com/"
+                "bandcamp": "https://fleau.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0023734045_10.jpg",
             "bio": "Fleau is a punk rock band from Lyon, France. They have released one full-length album on Red Scare Industries. The band released their first album, It Wakes Up, in 2016."
@@ -222,7 +240,8 @@
                 "facebook": null,
                 "twitter": null,
                 "instagram": "https://instagram.com/garrettdale",
-                "bandcamp": "https://garrettdale.bandcamp.com/"
+                "bandcamp": "https://garrettdale.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0010416735_10.jpg",
             "bio": "Garrett Dale is a punk rock band from Oklahoma City, Oklahoma. They have released one full-length album on Red Scare Industries. The band released their first album, Two T's, in 2017."
@@ -234,7 +253,8 @@
                 "facebook": "https://www.facebook.com/goodfriendofficial",
                 "twitter": "https://twitter.com/goodfriendband",
                 "instagram": "https://instagram.com/goodfriendband",
-                "bandcamp": "https://goodfriend.bandcamp.com/"
+                "bandcamp": "https://goodfriend.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0023518320_10.jpg",
             "bio": "Good Friend is a punk rock band from Derry, Ireland. They have released two EPs and one full-length album."
@@ -246,7 +266,8 @@
                 "facebook": "https://www.facebook.com/gxpgxp",
                 "twitter": "https://twitter.com/gxpgxp",
                 "instagram": null,
-                "bandcamp": "https://guerillapoubelle.bandcamp.com/"
+                "bandcamp": "https://guerillapoubelle.bandcamp.com/",
+                "website": "https://www.guerilla-poubelle.com/"
             },
             "picture": "https://f4.bcbits.com/img/0002196285_10.jpg",
             "bio": "Guerilla Poubelle is a punk rock band from Paris, France. They have released six full-length albums on Red Scare Industries. The band released their first album, Il Faut Repeindre le Monde... En Noir, in 2005. In 2007, the band released their second album, Amor Fati. In 2010, the band released their third album, L'Ennui. In 2013, the band released their fourth album, La Nausée. In 2015, the band released their fifth album, La Nausée. In 2018, the band released their sixth album, La Nausée."
@@ -258,7 +279,8 @@
                 "facebook": "https://www.facebook.com/heartandlungband",
                 "twitter": "https://twitter.com/heartandlungband",
                 "instagram": "https://instagram.com/heartandlung",
-                "bandcamp": "https://heartandlung.bandcamp.com/"
+                "bandcamp": "https://heartandlung.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0022108034_10.jpg",
             "bio": "Heart & Lung is a punk rock band from Cleveland, Ohio. They have released one full-length album on Red Scare Industries. The band released their first album, You Wanna Know the Truth?, in 2019."
@@ -270,7 +292,8 @@
                 "facebook": "https://www.facebook.com/theheattape",
                 "twitter": "https://twitter.com/theheattape",
                 "instagram": "https://instagram.com/theheattape",
-                "bandcamp": "https://theheattape.bandcamp.com/"
+                "bandcamp": "https://theheattape.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0009414163_10.jpg",
             "bio": "The Heat Tape is a punk rock band from Makanda, Illinois. They have released one full-length album on Red Scare Industries. The band released their first album, Raccoon Valley Recordings, in 2016."
@@ -282,7 +305,8 @@
                 "facebook": "https://www.facebook.com/theholymesspa",
                 "twitter": "https://twitter.com/fucktheholymess",
                 "instagram": "https://instagram.com/theholymess",
-                "bandcamp": "https://fucktheholymess.bandcamp.com/"
+                "bandcamp": "https://fucktheholymess.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0007025137_10.jpg",
             "bio": "The Holy Mess is a punk rock band from Stroudsburg, Pennsylvania. They have released three full-length albums on Red Scare Industries. The band released their first album, The Holy Mess, in 2009. In 2010, the band released their second album, Benefit Sesh. In 2012, the band released their third album, Cande Ru Las Degas."
@@ -294,7 +318,8 @@
                 "facebook": null,
                 "twitter": null,
                 "instagram": null,
-                "bandcamp": "https://laplebe.bandcamp.com/"
+                "bandcamp": "https://laplebe.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0003466310_10.jpg",
             "bio": "La Plebe is a band."
@@ -306,7 +331,8 @@
                 "facebook": "https://www.facebook.com/LauraJaneGraceofficial/",
                 "twitter": "https://twitter.com/laurajanegrace",
                 "instagram": "https://instagram.com/laurajanegrace",
-                "bandcamp": "https://laurajanegrace.bandcamp.com/"
+                "bandcamp": "https://laurajanegrace.bandcamp.com/",
+                "website": "https://www.laurajanegrace.com/"
             },
             "picture": "https://f4.bcbits.com/img/0034440014_10.jpg",
             "bio": "Laura Jane Grace is a punk rock band from Chicago, Illinois. They have released two full-length albums on Red Scare Industries. The band released their first album, Bought to Rot, in 2018. In 2020, the band released their second album, Stay Alive."
@@ -318,7 +344,8 @@
                 "facebook": "https://www.facebook.com/thelillingtons",
                 "twitter": null,
                 "instagram": "https://instagram.com/thelillingtons",
-                "bandcamp": "https://thelillingtons.bandcamp.com/"
+                "bandcamp": "https://thelillingtons.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0009395532_10.jpg",
             "bio": "The Lillingtons are a punk rock band from Newcastle, Wyoming. They have released five full-length albums on Red Scare Industries. The band released their."
@@ -330,7 +357,8 @@
                 "facebook": "https://www.facebook.com/TheLippiesGR/",
                 "twitter": "https://twitter.com/the_lippies",
                 "instagram": "https://instagram.com/the_lippies",
-                "bandcamp": "https://thelippies.bandcamp.com/"
+                "bandcamp": "https://thelippies.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0016147120_10.jpg",
             "bio": "The Lippies are a punk rock band from Grand Rapids, Michigan. They have released one full-length album on Red Scare Industries. The band released their first album, The Lippies, in 2015."
@@ -342,7 +370,8 @@
                 "facebook": "https://www.facebook.com/MakeWarMusic/",
                 "twitter": "https://twitter.com/makewarmusic",
                 "instagram": "https://instagram.com/makewarmusic",
-                "bandcamp": "https://makewar.bandcamp.com/"
+                "bandcamp": "https://makewar.bandcamp.com/",
+                "website": "https://www.makewarband.com/#makewar"
             },
             "picture": "https://f4.bcbits.com/img/0009396646_10.jpg",
             "bio": "MakeWar is a punk rock band from Brooklyn, New York. They have released three full-length albums on Red Scare Industries. The band released their first album, Developing a Theory of Integrity, in 2015. In 2016, the band released their second album, Developing a Theory of Integrity. In 2019, the band released their third album, Developing a Theory of Integrity."
@@ -354,7 +383,8 @@
                 "facebook": "https://www.facebook.com/maskedintruder",
                 "twitter": "https://twitter.com/maskedintruder1",
                 "instagram": "https://instagram.com/maskedintruder",
-                "bandcamp": "https://maskedintruder.bandcamp.com/"
+                "bandcamp": "https://maskedintruder.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0000091543_10.jpg",
             "bio": "Masked Intruder is a punk rock band from Madison, Wisconsin. They have released three full-length albums on Red Scare Industries. The band released their first album, Masked Intruder, in 2012. In 2014, the band released their second album, M.I. In 2019, the band released their third album, M.I."
@@ -366,7 +396,8 @@
                 "facebook": "https://www.facebook.com/themenzingers",
                 "twitter": "https://twitter.com/themenzingers",
                 "instagram": "https://instagram.com/themenzingers",
-                "bandcamp": "https://themenzingers.bandcamp.com/"
+                "bandcamp": "https://themenzingers.bandcamp.com/",
+                "website": "https://themenzingers.com/"
             },
             "picture": "https://f4.bcbits.com/img/0032975383_10.jpg",
             "bio": "The Menzingers are a punk rock band from Scranton, Pennsylvania. They have released six full-length albums on Red Scare Industries. The band released their first album, A Lesson in the Abuse of Information Technology, in 2007. In 2010, the band released their second album, Chamberlain Waits. In 2012, the band released their third album, On the Impossible Past. In 2014, the band released their fourth album, Rented World. In 2017, the band released their fifth album, After the Party. In 2020, the band released their sixth album, Hello Exile."
@@ -378,7 +409,8 @@
                 "facebook": "https://www.facebook.com/themethadones",
                 "twitter": "https://twitter.com/themethadones",
                 "instagram": "https://instagram.com/themethadones",
-                "bandcamp": "https://themethadones.bandcamp.com/"
+                "bandcamp": "https://themethadones.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0009414735_10.jpg",
             "bio": "The Methadones are a punk rock band from Chicago, Illinois. They have released five full-length albums on Red Scare Industries. The band released their first album, Ill at Ease, in 2001. In 2003, the band released their second album, Career Objective. In 2004, the band released their third album, Not Economically Viable. In 2006, the band released their fourth album, 21st Century Power Pop Riot. In 2007, the band released their fifth album, This Won't Hurt."
@@ -390,7 +422,8 @@
                 "facebook": "https://www.facebook.com/notrigger",
                 "twitter": "https://twitter.com/notrigger",
                 "instagram": "https://instagram.com/notrigger",
-                "bandcamp": "https://notrigger.bandcamp.com/"
+                "bandcamp": "https://notrigger.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0033565919_10.jpg",
             "bio": "No Trigger is a punk rock band from Worcester, Massachusetts. They have released three full-length albums on Red Scare Industries. The band released their first album, Canyoneer, in 2006. In 2012, the band released their second album, Tycoon. In 2017, the band released their third album, Adult Braces."
@@ -402,7 +435,8 @@
                 "facebook": "https://www.facebook.com/nothington",
                 "twitter": "https://twitter.com/nothington",
                 "instagram": "https://instagram.com/nothington_band",
-                "bandcamp": "https://nothington.bandcamp.com/"
+                "bandcamp": "https://nothington.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0008817464_10.jpg",
             "bio": "Nothington is a punk rock band from San Francisco, California. They have released four full-length albums on Red Scare Industries. The band released their first album, All In, in 2007. In 2009, the band released their second album, Roads, Bridges, and Ruins. In 2011, the band released their third album, Borrowed Time. In 2017, the band released their fourth album, In the End."
@@ -414,7 +448,8 @@
                 "facebook": "https://www.facebook.com/ramona206",
                 "twitter": "https://twitter.com/hey_yo_ramona",
                 "instagram": "https://instagram.com/ramonamusic",
-                "bandcamp": "https://ramonamusic.bandcamp.com/"
+                "bandcamp": "https://ramonamusic.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0008424538_10.jpg",
             "bio": "Ramona is a punk rock band from Philadelphia, Pennsylvania. They have released two full-length albums on Red Scare Industries. The band released their first album, Deals, Deals, Deals!, in 2017. In 2020, the band released their second album, Deals, Deals, Deals!."
@@ -426,7 +461,8 @@
                 "facebook": "https://www.facebook.com/thereaganomics",
                 "twitter": "https://twitter.com/thereaganomics",
                 "instagram": "https://instagram.com/the_reaganomics",
-                "bandcamp": "https://thereaganomics.bandcamp.com/"
+                "bandcamp": "https://thereaganomics.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0009459683_10.jpg",
             "bio": "The Reaganomics are a punk rock band from Joliet, Illinois. They have released one full-length album on Red Scare Industries. The band released their first album, Lower the Bar, in 2016."
@@ -438,7 +474,8 @@
                 "facebook": "https://www.facebook.com/redcityradio",
                 "twitter": "https://twitter.com/redcityradio",
                 "instagram": "https://instagram.com/redcityradio",
-                "bandcamp": "https://redcityradio.bandcamp.com/"
+                "bandcamp": "https://redcityradio.bandcamp.com/",
+                "website": "https://redcityradio.com/"
             },
             "picture": "https://f4.bcbits.com/img/0012554470_10.jpg",
             "bio": "Red City Radio is a punk rock band from Oklahoma City, Oklahoma. They have released four full-length albums on Red Scare Industries. The band released their first album, The Dangers of Standing Still, in 2011. In 2013, the band released their second album, Titles. In 2015, the band released their third album, Red City Radio. In 2018, the band released their fourth album, SkyTigers."
@@ -450,7 +487,8 @@
                 "facebook": "https://www.facebook.com/SACKSTREETROCK/",
                 "twitter": "https://twitter.com/sackstreetrock",
                 "instagram": "https://www.instagram.com/sackstreetrock/",
-                "bandcamp": "https://sackstreetrock.bandcamp.com/"
+                "bandcamp": "https://sackstreetrock.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0020656209_10.jpg",
             "bio": "SACK is a punk rock band from Denver, Colorado. They have released one full-length album on Red Scare Industries. The band released their first album, Get Wrecked, in 2016."
@@ -462,7 +500,8 @@
                 "facebook": "https://www.facebook.com/samrusso113",
                 "twitter": "https://twitter.com/samrussomusic",
                 "instagram": "https://instagram.com/samrussomusic",
-                "bandcamp": "https://samrusso.bandcamp.com/"
+                "bandcamp": "https://samrusso.bandcamp.com/",
+                "website": "https://samrusso.bigcartel.com/"
             },
             "picture": "https://f4.bcbits.com/img/0018617015_10.jpg",
             "bio": "Sam Russo is a punk rock band from Haverhill, United Kingdom. They have released two full-length albums on Red Scare Industries. The band released their first album, Storm, in 2015. In 2019, the band released their second album, Back to the Party."
@@ -474,7 +513,8 @@
                 "facebook": "https://www.facebook.com/sickotheband",
                 "twitter": "https://twitter.com/sickotheband",
                 "instagram": "https://instagram.com/sickotheband",
-                "bandcamp": "https://sickotheband.bandcamp.com/"
+                "bandcamp": "https://sickotheband.bandcamp.com/",
+                "website": "https://www.sicko.com/"
             },
             "picture": "https://f4.bcbits.com/img/0010266936_36.jpg",
             "bio": "Sicko is a punk rock band from Seattle, Washington. They have released three full-length albums on Red Scare Industries. The band released their first album, You Can Feel the Love in This Room, in 1994. In 1995, the band released their second album, Laugh While You Can."
@@ -486,10 +526,11 @@
                 "facebook": "https://www.facebook.com/sidekicksohio",
                 "twitter": "https://twitter.com/sidekicksohio",
                 "instagram": "https://instagram.com/sidekicksohio",
-                "bandcamp": "https://sidekicksohio.bandcamp.com/"
+                "bandcamp": "https://sidekicksohio.bandcamp.com/",
+                "website": null
             },
             "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/sidekicks.jpg",
-            "bio": "Don’t feel too bad…pretty much everyone missed The Sidekicks.  Forged in the deepest subterranean mines of Cleveland, Ohio, The Sidekicks were one of those incredible indie rock/punk/pop/wizard combos that everyone agrees made some of the best music of the millennium.  No, really.  Their last few records were all over “best of” lists, but who cares now, right?  They’re dead. \n\n Red Scare snapped up The Sidekicks when they were wee pups and properly put out their first album, So Long, Soggy Dog (which was a tribute to a punk house), all on the strength of a cell phone video of guitarist/vocalist Steve Ciolek playing the bass solo of Rancid’s “Maxwell Murder” FLAWLESSLY while sitting on a couch in a hoodie in his underwear and participating in the rather reckless mosh pit that his homies had started on said couch. \n\n From there, he and drummer Matt Climer have cycled through some members, growing and expanding in unexpected ways, finally coming out of their chrysalis state on their album Awkward Breeds as a band with more in common with Band of Horses and Flaming Lips than Rancid.  They signed to Epitaph, put out even more great records and then they broke up because you didn’t come see them. Now they all work at Skyline Chili in Cincinnati because just like the other greatest thing to come out of Cleveland, LeBron, their own city has turned on them just for being incredible and daring to dream. - BK"
+            "bio": "Don’t feel too bad…pretty much everyone missed The Sidekicks.  Forged in the deepest subterranean mines of Cleveland, Ohio, The Sidekicks were one of those incredible indie rock/punk/pop/wizard combos that everyone agrees made some of the best music of the millennium.  No, really.  Their last few records were all over “best of” lists, but who cares now, right?  They’re dead. <br><br>Red Scare snapped up The Sidekicks when they were wee pups and properly put out their first album, So Long, Soggy Dog (which was a tribute to a punk house), all on the strength of a cell phone video of guitarist/vocalist Steve Ciolek playing the bass solo of Rancid’s “Maxwell Murder” FLAWLESSLY while sitting on a couch in a hoodie in his underwear and participating in the rather reckless mosh pit that his homies had started on said couch. <br><br>From there, he and drummer Matt Climer have cycled through some members, growing and expanding in unexpected ways, finally coming out of their chrysalis state on their album Awkward Breeds as a band with more in common with Band of Horses and Flaming Lips than Rancid.  They signed to Epitaph, put out even more great records and then they broke up because you didn’t come see them. Now they all work at Skyline Chili in Cincinnati because just like the other greatest thing to come out of Cleveland, LeBron, their own city has turned on them just for being incredible and daring to dream. <br><br>- bk"
         },
         {
             "bandName": "Sincere Engineer",
@@ -498,10 +539,11 @@
                 "facebook": "https://www.facebook.com/sincereengineer",
                 "twitter": "https://twitter.com/sincereengineer",
                 "instagram": "https://instagram.com/sincereengineer",
-                "bandcamp": "https://sincereengineer.bandcamp.com/"
+                "bandcamp": "https://sincereengineer.bandcamp.com/",
+                "website": "https://sincereengineer.com/"
             },
-            "picture": "https://f4.bcbits.com/img/0032145555_10.jpg",
-            "bio": "Sincere Engineer is a punk rock band from Chicago, Illinois. They have released two full-length albums on Red Scare Industries. The band released their first album, Rhombithian, in 2017. In 2020, the band released their second album, Rhombithian."
+            "picture": "https://spacejockey.blob.core.windows.net/redscarecdn/bandpics/sincereengineer.jpg",
+            "bio": "Sincere Engineer began as a solo project for Deanna Belos, a nervous nerd from the same Chicago burbs that gave the world Slapstick and The Brokedowns.  Red Scare booked her first real live show, supporting labelmates Brendan Kelly and Sam Russo at Double Door in Chicago.  Not long after we released her debut album and got her on some big festivals and a tour opening for The Lawrence Arms.  Next thing we know, she’s got herself a full band and a big record deal with them fancy folks out in Smellay!  The band continues to grow and keeps a busy tour schedule, and we continue to sing along and cheer for Sincere Engineer…<br><br>- tj"
         },
         {
             "bandName": "Sludgeworth",
@@ -510,7 +552,8 @@
                 "facebook": "https://www.facebook.com/sludgeworth",
                 "twitter": "https://twitter.com/sludgeworth",
                 "instagram": "https://instagram.com/sludgeworth",
-                "bandcamp": "https://sludgeworth.bandcamp.com/"
+                "bandcamp": "https://sludgeworth.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0030474158_10.jpg",
             "bio": "Sludgeworth is a punk rock band from Chicago, Illinois. They have released one full-length album on Red Scare Industries. The band released their first album, Loser, in 1995."
@@ -522,7 +565,8 @@
                 "facebook": "https://www.facebook.com/successpunk",
                 "twitter": "https://twitter.com/successpunk",
                 "instagram": "https://instagram.com/successpunk",
-                "bandcamp": "https://successpunk.bandcamp.com/"
+                "bandcamp": "https://successpunk.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0003337739_10.jpg",
             "bio": "Success is a punk rock band from Seattle, Washington. They have released two full-length albums on Red Scare Industries. The band released their first album, Radio Recovery, in 2015. In 2018, the band released their second album, Radio Recovery."
@@ -534,7 +578,8 @@
                 "facebook": "https://www.facebook.com/sundownermusic",
                 "twitter": null,
                 "instagram": "https://instagram.com/sundowner",
-                "bandcamp": "https://sundownerrock.bandcamp.com/"
+                "bandcamp": "https://sundownerrock.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0003960138_10.jpg",
             "bio": "Sundowner is a punk rock band from Portland, Oregon. They have released three full-length albums on Red Scare Industries. The band released their first album, Four One Five Two, in 2007. In 2010, the band released their second album, We Chase the Waves. In 2013, the band released their third album, Neon Fiction."
@@ -546,7 +591,8 @@
                 "facebook": "https://www.facebook.com/teenagebottlerocketofficial",
                 "twitter": "https://twitter.com/teenbottlerock",
                 "instagram": "https://instagram.com/teenagebottlerocket",
-                "bandcamp": "https://teenagebottlerocket.bandcamp.com/"
+                "bandcamp": "https://teenagebottlerocket.bandcamp.com/",
+                "website": "https://teenagebottlerocket.com/"
             },
             "picture": "https://f4.bcbits.com/img/0015327439_10.jpg",
             "bio": "Teenage Bottlerocket is a punk rock band from Laramie, Wyoming. They have released six full-length albums on Red Scare Industries. The band released their first album, They Came from the Shadows, in 2009. In 2011, the band released their second album, Freak Out!. In 2012, the band released their third album, Freak Out!. In 2015, the band released their fourth album, Tales from Wyoming. In 2017, the band released their fifth album, Stealing the Covers. In 2019, the band released their sixth album, Stay Rad!."
@@ -558,7 +604,8 @@
                 "facebook": "https://www.facebook.com/tightwireMPLS/",
                 "twitter": "https://twitter.com/tanegraves",
                 "instagram": "https://instagram.com/tightewirempls",
-                "bandcamp": "https://tightwirempls.bandcamp.com/"
+                "bandcamp": "https://tightwirempls.bandcamp.com/",
+                "website": "https://tightwirempls.com/"
             },
             "picture": "https://f4.bcbits.com/img/0027509249_10.jpg",
             "bio": "Tightwire is a punk rock band from Minneapolis, Minnesota. They have released two full-length albums on Red Scare Industries. The band released their first album, Tightwire, in 2011. In 2013, the band released their second album, Tightwire."
@@ -570,7 +617,8 @@
                 "facebook": "https://www.facebook.com/vulturesunited",
                 "twitter": null,
                 "instagram": "https://instagram.com/vulturesunited",
-                "bandcamp": "https://vulturesunited.bandcamp.com/"
+                "bandcamp": "https://vulturesunited.bandcamp.com/",
+                "website": null
             },
             "picture": "https://f4.bcbits.com/img/0010344641_10.jpg",
             "bio": "Vultures United is a punk rock band from Fountain Valley, California. They have released two full-length albums on Red Scare Industries. The band released their first album, I'd Rather Die Than Live Forever, in 2012. In 2018, the band released their second album, Keep Walkin' Pal."
