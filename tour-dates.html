@@ -143,9 +143,15 @@
   </head>
   <body>
     <div id="navbar-container"></div>
-
+    
     <div class="title-container">
       <h1 class="title" style="font-family: 'Viva'">Tour Dates</h1>
+    </div>
+
+    <div id="loading" style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+      <i class="fas fa-brain fa-fade" style="font-size: 6rem;"></i>
+      <i class="fas fa-brain fa-fade" style="font-size: 6rem;"></i>
+      <i class="fas fa-brain fa-fade" style="font-size: 6rem;"></i>
     </div>
 
     <div id="bands"></div>
@@ -298,6 +304,7 @@
       } catch (error) {
         console.error("Error:", error);
       }
+      document.getElementById('loading').style.display = 'none';
     })();
   </script>
 </html>
