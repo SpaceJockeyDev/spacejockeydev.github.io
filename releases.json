@@ -1384,7 +1384,7 @@
         "album": "The Obituaries/ Burn After Writing",
         "releaseNumber": "154",
         "releaseDate": "2012-01-31",
-        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2018/06/MENZsevenCOVER.jpg",
+        "coverArt": "https://api.redscare.net/wp-content/uploads/2018/06/MENZsevenCOVER.jpg",
         "description": "Two new songs from Scranton-Philly hitmakers, The Menzingers.  These guys begged and begged to stay on the label for another album, but we had to let 'em go.  Sorry dudes, but we gave you guys a couple years to meet the height requirement and it just never happened.",
         "trackList":[
             "01. The Obituaries",
@@ -1625,7 +1625,7 @@
         "album": "Red Scare Across America",
         "releaseNumber": "168",
         "releaseDate": "2013-06-06",
-        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2018/06/TOUR7DIGICOVER-300x300.jpg",
+        "coverArt": "https://api.redscare.net/wp-content/uploads/2018/06/TOUR7DIGICOVER-300x300.jpg",
         "description": "This is a pretty rare 7\" that we made a few years ago for the Red Scare Across America tour.  It has 3 exclusive songs on it: Masked Intruder, Elway, and Sam Russo.",
         "trackList":[
             "01. Masked Intruder “No Excuses”",
@@ -1964,7 +1964,7 @@
         "album": "Love Is A Bad Dream",
         "releaseNumber": "183",
         "releaseDate": "2014-09-13",
-        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2018/06/Derek-Grant-Love-is-a-Bad-Dream-Single-Cover-300x300.jpg",
+        "coverArt": "https://api.redscare.net/wp-content/uploads/2018/06/Derek-Grant-Love-is-a-Bad-Dream-Single-Cover-300x300.jpg",
         "description": null,
         "trackList":[
             "01. Love Is A Bad Dream",
@@ -2529,7 +2529,7 @@
         "album": "We Didn’t Come Here To Die",
         "releaseNumber": "207",
         "releaseDate": "2003-07-23",
-        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2020/06/Copyrights_Die_Cover-300x300.jpg",
+        "coverArt": "https://api.redscare.net/wp-content/uploads/2020/06/Copyrights_Die_Cover-300x300.jpg",
         "description": null,
         "trackList":[
             "01. They Say",
@@ -2558,7 +2558,7 @@
         "album": "Mutiny Pop",
         "releaseNumber": "208",
         "releaseDate": "2006-05-02",
-        "coverArt": "https://www.redscare.net/site/wp-content/uploads/2020/06/Copyrights_MutinyPop_Cover-300x300.jpg",
+        "coverArt": "https://api.redscare.net/wp-content/uploads/2020/06/Copyrights_MutinyPop_Cover-300x300.jpg",
         "description": null,
         "trackList":[
             "01. Cashiers",
