@@ -82,7 +82,7 @@
       .releases-container {
         display: flex;
         justify-content: center; /* Centers the releases horizontally */
-        gap: 50px;
+        gap: 80px;
         flex-wrap: wrap;
         margin-top: 20px;
         margin-bottom: 20px;
@@ -333,8 +333,8 @@
             createElement("bandname", null, { textContent: release.bandName })
           );
           infoDiv.appendChild(
-            createElement("p", null, { textContent: release.album })
-          );
+  createElement("p", null, { textContent: release.album.length > 25 ? release.album.slice(0, 25) + "...." : release.album })
+);
 
           // Instead of appending the infoDiv to the releaseDiv, append it to the releaseLink
           releaseLink.appendChild(infoDiv);
