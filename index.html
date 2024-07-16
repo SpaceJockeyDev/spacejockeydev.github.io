@@ -243,7 +243,7 @@
     async function fetchPosts(page) {
       try {
         const response = await fetch(
-          `https://www.redscare.net/site/wp-json/wp/v2/posts?per_page=${postsPerPage}&page=${page}`
+          `https://api.redscare.net/wp-json/wp/v2/posts?per_page=${postsPerPage}&page=${page}`
         );
         if (!response.ok) throw new Error("No more posts");
         const posts = await response.json();

@@ -191,7 +191,7 @@
       try {
         const [apiData, bandsData] = await Promise.all([
           fetchAllPages(
-            "https://www.redscare.net/site/wp-json/tribe/events/v1/events"
+            "https://api.redscare.net/wp-json/tribe/events/v1/events"
           ),
           fetch("bands.json").then((response) => response.json()),
         ]);
