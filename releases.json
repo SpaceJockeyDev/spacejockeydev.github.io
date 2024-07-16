@@ -3506,5 +3506,38 @@
             "bandcamp": "https://sludgeworth.bandcamp.com/album/together-not-together",
             "store": "https://redscare.storenvy.com/products/36764899-sludgeworth-together-not-together-7-cccp-255-7"
         }
+    },
+    {
+        "bandName": "Various Artists",
+        "album": "Red Scare Industries: 20 Years Of Dreaming And Scheming",
+        "releaseNumber": "256",
+        "releaseDate": "2024-09-06",
+        "coverArt": "https://f4.bcbits.com/img/a1898392717_10.jpg",
+        "description": "\"20 Years Of Dreaming And Scheming\" is 17 unreleased songs from all across the Red Scare expanded universe. We've got some new faces, some Red Scare regulars, some beloved alumni, some guest artists, and even some inactive bands that reformed to give us a new track. Because it's our 20th birthday, we're doing a buncha parties and PR around the milestone, but most importantly, we have these 17 songs. Assembling this has been a labor of love and a heartfelt paean to the punks. We love y'all, and these songs are for you. Sure, there's a couple stinkers in the bunch, but most of them are RAD, and you can only hear these tunes right here. Dreamin' and schemin' indeed!",
+        "trackList":[
+            "01. The Falcon “Book Of Dead Names”",
+            "02. Won’t Stay Dead “Ex Machina”",
+            "03. Cobra Skulls “You Know I Know”",
+            "04. Dead To Me “Don’t Be Mad”",
+            "05. Nothington “Aware”",
+            "06. Heart & Lung “Big Yikes”",
+            "07. No Trigger “Super Beef”",
+            "08. Sam Russo “One Foot In The Grave”",
+            "09. Good Friend “Bonzo Goes To Belfast”",
+            "10. Laura Jane Grace “Baby, Baby”",
+            "11. Sludgeworth “Overpromised”",
+            "12. The Brokedowns “Cool Ranch”",
+            "13. The Bollweevils “DNR”",
+            "14. The Lippies “Host Bodies”",
+            "15. Elway “Traffic Haze”",
+            "16. The Menzingers “Second City”",
+            "17. The Holy Mess “Heaven (All Of It)”"
+        ],
+        "links":{
+            "spotify": "https://api.ffm.to/sl/e/ps/rs20?cd=eyJ1YSI6eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjYuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImJyb3dzZXIiOnsibmFtZSI6IkNocm9tZSIsInZlcnNpb24iOiIxMjYuMC4wLjAiLCJtYWpvciI6IjEyNiJ9LCJlbmdpbmUiOnsibmFtZSI6IkJsaW5rIiwidmVyc2lvbiI6IjEyNi4wLjAuMCJ9LCJvcyI6eyJuYW1lIjoiV2luZG93cyIsInZlcnNpb24iOiIxMCJ9LCJkZXZpY2UiOnt9LCJjcHUiOnsiYXJjaGl0ZWN0dXJlIjoiYW1kNjQifX0sImNsaWVudCI6eyJyaWQiOiI3YTk3NDA1NS1mYzc0LTQ0OTAtOTY0Zi1kMjAzOTlkMjRhMzciLCJzaWQiOiJkNTgwZDc4Ny01YWUxLTQ5ZDMtODVjMy1kYjkzNjQ0ZDlhNGEiLCJpcCI6IjEwOC44NS4zNi4xOTciLCJyZWYiOiJodHRwczovL29yY2QuY28vIiwiaG9zdCI6Im9yY2QuY28iLCJsYW5nIjoiZW4tVVMiLCJpcENvdW50cnkiOiJVUyJ9LCJpc1dlYnBTdXBwb3J0ZWQiOnRydWUsImlzRnJvbUVVIjp0cnVlLCJjb3VudHJ5Q29kZSI6bnVsbCwiaXNCb3QiOmZhbHNlLCJ1c2VBZmYiOiJvcmlnaW4iLCJpZCI6IjY2OGYwNDhkMzEwMDAwMDkwMDY4NDcwMCIsInBydiI6ZmFsc2UsImlzUHJlUiI6dHJ1ZSwidHpvIjoyNDAsImNoIjpudWxsLCJhbiI6bnVsbCwiZGVzdFVybCI6Imh0dHBzOi8vYWNjb3VudHMuc3BvdGlmeS5jb20vYXV0aG9yaXplP2NsaWVudF9pZD02NmQzY2RiNDQ4MDc0YTBkODhlOWIwOGJhYWYyZjNkNyZyZXNwb25zZV90eXBlPWNvZGUmcmVkaXJlY3RfdXJpPWh0dHBzJTNBJTJGJTJGYXBpLmZmbS50byUyRndlYmhvb2slMkZzcG90aWZ5JTJGYXV0aG9yaXplJnNjb3BlPXVzZXItcmVhZC1wcml2YXRlJTIwdXNlci1yZWFkLWJpcnRoZGF0ZSUyMHVzZXItcmVhZC1lbWFpbCUyMHVzZXItbGlicmFyeS1tb2RpZnklMjB1c2VyLWxpYnJhcnktcmVhZCUyMHVzZXItcmVhZC1yZWNlbnRseS1wbGF5ZWQlMjB1c2VyLWZvbGxvdy1yZWFkJTIwdXNlci1mb2xsb3ctbW9kaWZ5JTIwdXNlci10b3AtcmVhZCUyMHBsYXlsaXN0LW1vZGlmeS1wdWJsaWMlMjBwbGF5bGlzdC1yZWFkLXByaXZhdGUlMjBwbGF5bGlzdC1tb2RpZnktcHJpdmF0ZSZzdGF0ZT1leUprWWt4cGJtdEpaQ0k2SWpZMk9HWXdORGhrTXpFd01EQXdNRGt3TURZNE5EY3dNQ0lzSW1GamRHbHZibFI1Y0dVaU9tNTFiR3dzSW1OMFlTSTZJbEJ5WlMxVFlYWmxJaXdpZFhObGNrTnZkVzUwY25raU9pSlZVeUlzSW5Ob2IzSjBTV1FpT2lKU1V6SXdJaXdpWkc5dFlXbHVJam9pYUhSMGNITTZMeTl2Y21Oa0xtTnZJaXdpYzJWeWRtbGpaVTVoYldVaU9pSnpjRzkwYVdaNUlpd2ljSEp2WkhWamRDSTZJbk50WVhKMGJHbHVheUlzSW5KbFpHbHlaV04wVlhKcElqb2lhSFIwY0hNNkx5OXZjbU5rTG1OdkwxSlRNakF2Y0hKbGMyRjJaV05oYkd4aVlXTnJJaXdpWm1Gc2JHSmhZMnRWY213aU9tNTFiR3dzSW1selVISmxVbVZzWldGelpTSTZkSEoxWlN3aWFYTkdkWFIxY21WU1pXeGxZWE5sSWpwMGNuVmxMQ0poY25ScGMzUkpaQ0k2SWpWaVpqSmlaV1l4TWpBd01EQXdORFF3TUdJM04yTXhOaUlzSW1GeWRHbHpkRTkzYm1WeUlqb2lOV0ptTW1KbFpXUXhZakF3TURCa1lXRXlaR05tTldVeklpd2lZV04wYVc5dVNXUWlPbTUxYkd3c0ltbHpSbkp2YlVWVklqcG1ZV3h6WlN3aWJHbHVhMVI1Y0dVaU9pSjBjbUZqYXlJc0luVnpaWEpKVUNJNklqRXdPQzQ0TlM0ek5pNHhPVGNpTENKeVpYZGhjbVJWYzJWeVNXUWlPbTUxYkd3c0luSmxabVZ5Y21Gc1NXUWlPbTUxYkd3c0luVjFhV1FpT2lJeVpEVmpZVGhoTWkxaE16RTBMVFJoTmpBdE9XSTBNeTA0WldNd09UYzRNVGN4TXpBaWZRPT0iLCJ2aWQiOiJkYTQ1YjIyZC1kNDUwLTQxYzItYmVlNC1mMjMwODliNjA3M2YiLCJzcnZjIjoic3BvdGlmeSIsInByb2R1Y3QiOiJzbWFydGxpbmsiLCJzaG9ydElkIjoicnMyMCIsImlzQXV0aG9yaXphdGlvblJlcXVpcmVkIjp0cnVlLCJvd25lciI6IjViZjJiZWVkMWIwMDAwZGFhMmRjZjVlMyIsInRlbmFudCI6IjViZDllMzQwNzhmNGYwM2ZhNzJhOWZiMSIsImFyIjoiNWJmMmJlZjEyMDAwMDA0NDAwYjc3YzE2IiwiaXNTaG9ydExpbmsiOmZhbHNlfQ",
+            "appleMusic": "https://api.ffm.to/sl/e/ps/rs20?cd=eyJ1YSI6eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjYuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImJyb3dzZXIiOnsibmFtZSI6IkNocm9tZSIsInZlcnNpb24iOiIxMjYuMC4wLjAiLCJtYWpvciI6IjEyNiJ9LCJlbmdpbmUiOnsibmFtZSI6IkJsaW5rIiwidmVyc2lvbiI6IjEyNi4wLjAuMCJ9LCJvcyI6eyJuYW1lIjoiV2luZG93cyIsInZlcnNpb24iOiIxMCJ9LCJkZXZpY2UiOnt9LCJjcHUiOnsiYXJjaGl0ZWN0dXJlIjoiYW1kNjQifX0sImNsaWVudCI6eyJyaWQiOiI3YTk3NDA1NS1mYzc0LTQ0OTAtOTY0Zi1kMjAzOTlkMjRhMzciLCJzaWQiOiJkNTgwZDc4Ny01YWUxLTQ5ZDMtODVjMy1kYjkzNjQ0ZDlhNGEiLCJpcCI6IjEwOC44NS4zNi4xOTciLCJyZWYiOiJodHRwczovL29yY2QuY28vIiwiaG9zdCI6Im9yY2QuY28iLCJsYW5nIjoiZW4tVVMiLCJpcENvdW50cnkiOiJVUyJ9LCJpc1dlYnBTdXBwb3J0ZWQiOnRydWUsImlzRnJvbUVVIjp0cnVlLCJjb3VudHJ5Q29kZSI6bnVsbCwiaXNCb3QiOmZhbHNlLCJ1c2VBZmYiOiJvcmlnaW4iLCJpZCI6IjY2OGYwNDhkMzEwMDAwMDkwMDY4NDcwMCIsInBydiI6ZmFsc2UsImlzUHJlUiI6dHJ1ZSwidHpvIjoyNDAsImNoIjpudWxsLCJhbiI6bnVsbCwiZGVzdFVybCI6Imh0dHBzOi8vYXBpLmZmbS50by93ZWJob29rL2FwcGxlL2F1dGhvcml6ZT9zdGF0ZT1leUprWWt4cGJtdEpaQ0k2SWpZMk9HWXdORGhrTXpFd01EQXdNRGt3TURZNE5EY3dNQ0lzSW1GamRHbHZibFI1Y0dVaU9tNTFiR3dzSW1OMFlTSTZJbEJ5WlMxQlpHUWlMQ0oxYzJWeVEyOTFiblJ5ZVNJNklsVlRJaXdpYzJodmNuUkpaQ0k2SWxKVE1qQWlMQ0prYjIxaGFXNGlPaUpvZEhSd2N6b3ZMMjl5WTJRdVkyOGlMQ0p6WlhKMmFXTmxUbUZ0WlNJNkltRndjR3hsSWl3aWNISnZaSFZqZENJNkluTnRZWEowYkdsdWF5SXNJbkpsWkdseVpXTjBWWEpwSWpvaWFIUjBjSE02THk5dmNtTmtMbU52TDFKVE1qQXZjSEpsYzJGMlpXTmhiR3hpWVdOcklpd2labUZzYkdKaFkydFZjbXdpT201MWJHd3NJbWx6VUhKbFVtVnNaV0Z6WlNJNmRISjFaU3dpYVhOR2RYUjFjbVZTWld4bFlYTmxJanAwY25WbExDSmhjblJwYzNSSlpDSTZJalZpWmpKaVpXWXhNakF3TURBd05EUXdNR0kzTjJNeE5pSXNJbUZ5ZEdsemRFOTNibVZ5SWpvaU5XSm1NbUpsWldReFlqQXdNREJrWVdFeVpHTm1OV1V6SWl3aVlXTjBhVzl1U1dRaU9tNTFiR3dzSW1selJuSnZiVVZWSWpwbVlXeHpaU3dpYkdsdWExUjVjR1VpT2lKaGJHSjFiU0lzSW5WelpYSkpVQ0k2SWpFd09DNDROUzR6Tmk0eE9UY2lMQ0p5WlhkaGNtUlZjMlZ5U1dRaU9tNTFiR3dzSW5KbFptVnljbUZzU1dRaU9tNTFiR3dzSW5WMWFXUWlPaUl3TmpKa1l6UTVOUzB6TlRCaUxUUTNOREl0T1RVMk9TMDNZek0zWlRZMk1ERmpZbVVpZlE9PSIsInZpZCI6ImRhNDViMjJkLWQ0NTAtNDFjMi1iZWU0LWYyMzA4OWI2MDczZiIsInNydmMiOiJhcHBsZSIsInByb2R1Y3QiOiJzbWFydGxpbmsiLCJzaG9ydElkIjoicnMyMCIsImlzQXV0aG9yaXphdGlvblJlcXVpcmVkIjp0cnVlLCJvd25lciI6IjViZjJiZWVkMWIwMDAwZGFhMmRjZjVlMyIsInRlbmFudCI6IjViZDllMzQwNzhmNGYwM2ZhNzJhOWZiMSIsImFyIjoiNWJmMmJlZjEyMDAwMDA0NDAwYjc3YzE2IiwiaXNTaG9ydExpbmsiOmZhbHNlfQ",
+            "bandcamp": "https://redscareindustries.bandcamp.com/album/red-scare-industries-20-years-of-dreaming-and-scheming",
+            "store": "https://redscare.storenvy.com/products/36805492-various-artists-red-scare-industries-20-years-of-dreaming-and-scheming-lp"
+        }
     }
 ]
