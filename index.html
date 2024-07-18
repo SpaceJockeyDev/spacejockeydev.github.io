@@ -237,7 +237,7 @@
     <div class="album-container">
       <div id="albums"></div>
     </div>
-
+    
     <div id="blog-posts"></div>
     <div id="pagination">
       <button id="prev-page">New News</button>
@@ -255,21 +255,27 @@
     const postsPerPage = 5;
 
     async function fetchPosts(page) {
-      try {
-        const response = await fetch(
-          `https://api.redscare.net/wp-json/wp/v2/posts?per_page=${postsPerPage}&page=${page}`
-        );
-        if (!response.ok) throw new Error("No more posts");
-        const posts = await response.json();
-        const blogPostsDiv = document.getElementById("blog-posts");
-        blogPostsDiv.innerHTML = "";
-        posts.forEach(
-          (post) => (blogPostsDiv.innerHTML += createPostHTML(post))
-        );
-      } catch (error) {
-        console.error("Error:", error);
-      }
-    }
+  const blogPostsDiv = document.getElementById("blog-posts");
+  // Show loading icon
+  blogPostsDiv.innerHTML = '<div id="loading" style="display: flex; justify-content: center; flex-direction: column; align-items: center;"> <i class="fas fa-spinner fa-spin" style="font-size: 4rem"></i></div>';
+  
+  try {
+    const response = await fetch(
+      `https://api.redscare.net/wp-json/wp/v2/posts?per_page=${postsPerPage}&page=${page}`
+    );
+    if (!response.ok) throw new Error("No more posts");
+    const posts = await response.json();
+    // Clear the loading icon
+    blogPostsDiv.innerHTML = "";
+    posts.forEach(
+      (post) => (blogPostsDiv.innerHTML += createPostHTML(post))
+    );
+  } catch (error) {
+    console.error("Error:", error);
+    // Optionally, handle loading error, e.g., show an error message
+    blogPostsDiv.innerHTML = '<div class="error">Failed to load posts.</div>';
+  }
+}
 
     function createPostHTML(post) {
       const parser = new DOMParser();
