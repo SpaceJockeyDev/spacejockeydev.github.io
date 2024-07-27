@@ -22,6 +22,13 @@
   />
   <link rel="icon" href="assets/fist.ico" />
   <style>
+    .ticket-link {
+        display: block;
+        color: red;
+      }
+      .ticket-link:hover {
+        color: red;
+      }
     .content-container {
       display: flex;
       justify-content: center;
@@ -31,6 +38,15 @@
       ); /* Adjust based on the height of your navbar and footer */
       margin: 0;
     }
+    #bands {
+  display: flex;
+  justify-content: center;
+}
+#bands ul {
+        padding: 0;
+        margin: 0;
+        margin-bottom: 15px !important;
+      }
     #band-name {
       color: #333;
       font-family: "Viva";
@@ -48,11 +64,39 @@
       margin-top: 20px;
       margin-bottom: 20px;
     }
-
+    .li-separator:not(:last-child) {
+    border-bottom: 2px solid #ccc; 
+    padding-bottom: 10px; 
+    margin-bottom: 10px; 
+    width: 100%; 
+    box-sizing: border-box; 
+  }
+  #bands ul {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 15px !important;
+    list-style-type: none; 
+    width: 100%; 
+  }
+  #bands li {
+    width: 100%; 
+  }
+      .band-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: whitesmoke;
+        padding-top: 20px;
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+      }
     #band-picture {
       width: 600px;
       height: auto;
-      display: block; /* Center the band picture */
+      display: block; 
       margin-left: auto;
       margin-right: auto;
     }
@@ -108,6 +152,16 @@
     .preserve-whitespace {
     white-space: pre-wrap;
   }
+  .center-text {
+  text-align: center;
+}
+.no-events {
+  background-color: white; 
+  padding: 10px; 
+  font-family: Alte;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
     @media (max-width: 990px) {
       #band-picture {
         width: 400px;
@@ -119,7 +173,9 @@
         text-align: center;
         font-size: 40px;
       }
-      
+      .band-section{
+        width: 90%;
+      }
       .release img {
         width: 200px;
         height: auto;
@@ -203,11 +259,27 @@
       <div class="bio-container">
         <p id="band-bio"></p>
       </div>
-      <h2 style="font-family: 'Viva'">
+      <h2 class="center-text" style="font-family: 'Viva'">
         <span class="highlight">Releases</span>
       </h2>
       <div id="band-releases" class="band-releases"></div>
+      <h2 class="center-text" style="font-family: 'Viva'">
+        <span class="highlight">Tour Dates</span>
+      </h2>
+    <div
+      id="loading"
+      style="
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+      "
+    >
+      <i class="fas fa-spinner fa-spin" style="font-size: 4rem"></i>
     </div>
+    <div id="bands"></div>
+  </div>
   </main>
   <footer id="footer"></div>
 </body>
@@ -317,4 +389,115 @@ if (bioElement) { // Ensure the element exists
     $("#footer").load("footer.html");
   });
 </script>
-</html>
+<script>
+  async function decodeHtml(html) {
+    const txt = document.createElement("textarea");
+    txt.innerHTML = html;
+    return txt.value;
+  }
+
+  async function fetchAllPages(url, page = 1, events = []) {
+    const response = await fetch(`${url}?page=${page}`);
+    const data = await response.json();
+    const allEvents = events.concat(data.events);
+    if (data.next_rest_url) {
+      return fetchAllPages(url, page + 1, allEvents);
+    } else {
+      return allEvents;
+    }
+  }
+
+  (async function () {
+    try {
+      const [apiData, bandsData] = await Promise.all([
+        fetchAllPages(
+          "https://api.redscare.net/wp-json/tribe/events/v1/events"
+        ),
+        fetch("bands.json").then((response) => response.json()),
+      ]);
+
+      const bandsDiv = document.getElementById("bands");
+      
+      // Get the current band name from the page
+      const currentBandElement = document.getElementById("band-name");
+      if (!currentBandElement) {
+        throw new Error("Current band name element not found");
+      }
+      const currentBandName = currentBandElement.textContent.trim().toLowerCase();
+
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      const fragment = document.createDocumentFragment();
+      const band = bandsData.find(band => band.bandName.toLowerCase() === currentBandName);
+
+      if (band) {
+        const bandEvents = await Promise.all(apiData.map(async event => {
+          const decodedEventTitle = (await decodeHtml(event.title)).toLowerCase();
+          if (decodedEventTitle.includes(currentBandName) && new Date(event.start_date) >= today) {
+            return event;
+          }
+        })).then(events => events.filter(event => event !== undefined));
+
+        if (bandEvents.length > 0) {
+          const bandSection = document.createElement("div");
+          bandSection.className = "band-section";
+
+          const bandName = document.createElement("h2");
+          bandName.textContent = band.bandName;
+
+          const tourDatesList = document.createElement("ul");
+          tourDatesList.style.listStyleType = "none";
+          tourDatesList.style.marginBottom = "50px";
+
+          for (const event of bandEvents) {
+            const li = document.createElement("li");
+            li.className = "li-separator";
+            li.style.backgroundColor = "whitesmoke";
+            const eventDate = new Date(event.start_date);
+            const formattedDate = eventDate.toLocaleString("en-US", {
+              month: "short",
+              day: "2-digit",
+              year: "numeric",
+            });
+            li.textContent = `${formattedDate} - ${await decodeHtml(event.venue.city)}, ${await decodeHtml(event.venue.stateprovince)} - ${await decodeHtml(event.venue.venue)}`;
+            if (event.description) {
+              const description = document.createElement("p");
+              description.innerHTML = await decodeHtml(event.description);
+              description.style.marginLeft = "0px";
+              description.style.fontStyle = "italic";
+              li.appendChild(description);
+            }
+            if (event.website) {
+              const a = document.createElement("a");
+              a.href = event.website;
+              a.textContent = "Buy Tickets";
+              a.className = "ticket-link";
+              a.target = "_blank";
+              li.appendChild(a);
+            }
+            tourDatesList.appendChild(li);
+          }
+          bandSection.appendChild(tourDatesList);
+          fragment.appendChild(bandSection);
+        }
+        else {
+  const noEvents = document.createElement("p");
+  noEvents.textContent = "No upcoming tour dates.";
+  noEvents.classList.add("no-events"); // Add this line
+  fragment.appendChild(noEvents);
+}
+      }
+      bandsDiv.appendChild(fragment);
+
+    } catch (error) {
+      console.error("Error:", error);
+    }
+
+    const loadingElement = document.getElementById("loading");
+    if (loadingElement) {
+      loadingElement.style.display = "none";
+    }
+  })();
+</script>
+  </html>
