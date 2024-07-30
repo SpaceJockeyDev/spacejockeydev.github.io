@@ -138,8 +138,19 @@
 
                     // Create the band image element
                     const bandImageElement = document.createElement('img');
-                    bandImageElement.src = band.picture;
                     bandImageElement.className = 'img-fluid band-image';
+
+                    // Check if the image is cached
+                    const cachedImage = localStorage.getItem(band.picture);
+                    if (cachedImage) {
+                        bandImageElement.src = cachedImage;
+                    } else {
+                        bandImageElement.src = band.picture;
+                        bandImageElement.onload = function() {
+                            localStorage.setItem(band.picture, band.picture);
+                        };
+                    }
+
                     bandLinkElement.appendChild(bandImageElement);
 
                     // Append the band link to the band content
