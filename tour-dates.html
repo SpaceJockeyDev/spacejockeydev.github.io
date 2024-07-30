@@ -198,36 +198,42 @@
         txt.innerHTML = html;
         return txt.value;
       }
-
-      async function fetchAllPages(url, page = 1, events = []) {
-        const response = await fetch(`${url}?page=${page}`);
-        const data = await response.json();
-        const allEvents = events.concat(data.events);
-        if (data.next_rest_url) {
-          return fetchAllPages(url, page + 1, allEvents);
-        } else {
-          return allEvents;
+  
+      async function fetchAllPages(url) {
+        const firstPageResponse = await fetch(`${url}?page=1`);
+        const firstPageData = await firstPageResponse.json();
+        const totalPages = firstPageData.total_pages;
+        const allEvents = firstPageData.events;
+  
+        const fetchPromises = [];
+        for (let page = 2; page <= totalPages; page++) {
+          fetchPromises.push(fetch(`${url}?page=${page}`).then(response => response.json()));
         }
+  
+        const remainingPagesData = await Promise.all(fetchPromises);
+        remainingPagesData.forEach(data => {
+          allEvents.push(...data.events);
+        });
+  
+        return allEvents;
       }
-
+  
       try {
         const [apiData, bandsData] = await Promise.all([
-          fetchAllPages(
-            "https://api.redscare.net/wp-json/tribe/events/v1/events"
-          ),
-          fetch("bands.json").then((response) => response.json()),
+          fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
+          fetch("bands.json").then(response => response.json()),
         ]);
-
+  
         const bandsDiv = document.getElementById("bands");
         const dropdown = document.createElement("select");
         dropdown.id = "bandDropdown";
         bandsDiv.before(dropdown);
-
+  
         const allOption = document.createElement("option");
         allOption.value = "All";
         allOption.textContent = "All Bands";
         dropdown.appendChild(allOption);
-
+  
         bandsData.forEach((band) => {
           if (
             apiData.some(
@@ -242,10 +248,10 @@
             dropdown.appendChild(option);
           }
         });
-
+  
         const today = new Date();
         today.setHours(0, 0, 0, 0);
-
+  
         const fragment = document.createDocumentFragment();
         bandsData.forEach((band) => {
           const bandEvents = apiData.filter(
@@ -257,20 +263,20 @@
           if (bandEvents.length > 0) {
             const bandSection = document.createElement("div");
             bandSection.className = "band-section";
-
+  
             const bandImage = document.createElement("img");
             bandImage.src = band.picture;
             bandSection.appendChild(bandImage);
-
+  
             const bandName = document.createElement("h2");
             bandName.textContent = decodeHtml(band.bandName);
             bandName.className = "band-name";
             bandSection.appendChild(bandName);
-
+  
             const tourDatesList = document.createElement("ul");
             tourDatesList.style.listStyleType = "none";
             tourDatesList.style.marginBottom = "50px";
-
+  
             bandEvents.forEach((event) => {
               const li = document.createElement("li");
               li.className = "li-separator"; // Add this line
@@ -308,7 +314,7 @@
           }
         });
         bandsDiv.appendChild(fragment);
-
+  
         dropdown.addEventListener("change", function () {
           const selectedBand = this.value.toLowerCase(); // Convert selected band to lower case
           const bandSections = document.getElementsByClassName("band-section");
