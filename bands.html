@@ -42,6 +42,7 @@
     .band-content a {
     text-decoration: none;
     }
+    
     .band-image {
         width: 100%;
         height: 200px; /* Adjust this value as needed */
@@ -99,9 +100,22 @@
 <div id="navbar-container"></div>
 
 <body>
+    
     <div id="bands-container" class="container-fluid">
         <h1 class="title" style="font-family: 'Viva';"> Active Bands <b>+</b> Alumni</h1>
         <div class="row" id="bands-row"></div>
+    </div>
+    <div
+      id="loading-icon"
+      style="
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+      "
+    >
+      <i class="fas fa-spinner fa-spin" style="font-size: 4rem"></i>
     </div>
     
 </div>
@@ -109,6 +123,7 @@
 </body>
 
 <script>
+    document.getElementById('loading-icon').style.display = 'block';
     window.onload = function() {
         fetch('bands.json')
             .then(response => response.json())
@@ -165,8 +180,10 @@
 
                 // Append the fragment to the band row
                 bandRowElement.appendChild(fragment);
+                document.getElementById('loading-icon').style.display = 'none';
             })
             .catch(error => console.error('Error:', error));
+            document.getElementById('loading-icon').style.display = 'none';
     }
 </script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>

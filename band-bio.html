@@ -295,9 +295,10 @@
       fetch("releases.json")
         .then((response) => response.json())
         .then((releases) => {
-          // Filter the releases that include the band's name
+          // Filter the releases that include the band's name in bandName or songTitles
           band.releases = releases.filter((release) =>
-            release.bandName.includes(band.bandName)
+            release.bandName.includes(band.bandName) ||
+            release.trackList.some((trackList) => trackList.includes(band.bandName))
           );
 
           // Sort the releases by release number
@@ -309,8 +310,8 @@
           document.getElementById("band-picture").src = band.picture;
           document.getElementById("band-hometown").textContent =
             "Hometown: " + band.hometown;
-            document.getElementById("band-bio").style.whiteSpace = "pre-wrap";
-            document.getElementById("band-bio").innerHTML = band.bio;
+          document.getElementById("band-bio").style.whiteSpace = "pre-wrap";
+          document.getElementById("band-bio").innerHTML = band.bio;
           document.getElementById("band-socials").innerHTML = `
             ${
               band.socials.facebook
