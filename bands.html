@@ -19,6 +19,7 @@
     <title>Bands - Red Scare Industries</title>
     <meta name="description" content="This page shows all artists who have released music on Red Scare Industries.">
     <style>
+        
    .title {
         display: inline-block;
         background-color: whitesmoke;
@@ -105,25 +106,13 @@
         <h1 class="title" style="font-family: 'Viva';"> Active Bands <b>+</b> Alumni</h1>
         <div class="row" id="bands-row"></div>
     </div>
-    <div
-      id="loading-icon"
-      style="
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        align-items: center;
-        margin-bottom: 40px;
-      "
-    >
-      <i class="fas fa-spinner fa-spin" style="font-size: 4rem"></i>
-    </div>
+    
     
 </div>
 <div id="footer"></div>
 </body>
 
 <script>
-    document.getElementById('loading-icon').style.display = 'block';
     window.onload = function() {
         fetch('bands.json')
             .then(response => response.json())
@@ -154,15 +143,22 @@
                     // Create the band image element
                     const bandImageElement = document.createElement('img');
                     bandImageElement.className = 'img-fluid band-image';
+                    bandImageElement.setAttribute('loading', 'lazy');
 
                     // Check if the image is cached
                     const cachedImage = localStorage.getItem(band.picture);
                     if (cachedImage) {
                         bandImageElement.src = cachedImage;
                     } else {
-                        bandImageElement.src = band.picture;
+                        // Use WebP format if available
+                        const webpImage = band.picture.replace(/\.(jpg|jpeg|png)$/, '.webp');
+                        bandImageElement.src = webpImage;
+                        bandImageElement.onerror = function() {
+                            // Fallback to original image if WebP fails
+                            bandImageElement.src = band.picture;
+                        };
                         bandImageElement.onload = function() {
-                            localStorage.setItem(band.picture, band.picture);
+                            localStorage.setItem(band.picture, bandImageElement.src);
                         };
                     }
 
@@ -170,21 +166,13 @@
 
                     // Append the band link to the band content
                     bandContent.appendChild(bandLinkElement);
-
-                    // Append the band content to the band container
                     bandContainer.appendChild(bandContent);
-
-                    // Append the band container to the fragment
                     fragment.appendChild(bandContainer);
                 });
 
-                // Append the fragment to the band row
                 bandRowElement.appendChild(fragment);
-                document.getElementById('loading-icon').style.display = 'none';
-            })
-            .catch(error => console.error('Error:', error));
-            document.getElementById('loading-icon').style.display = 'none';
-    }
+            });
+    };
 </script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
