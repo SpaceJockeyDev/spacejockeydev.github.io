@@ -299,7 +299,11 @@
         parser.parseFromString(post.title.rendered, "text/html").body
           .textContent || "";
       const date = new Date(post.date).toLocaleDateString();
-      const body = post.content.rendered;
+      let body = post.content.rendered;
+      
+      // Insert newline before image or video links
+      body = body.replace(/(<img[^>]*>|<iframe[^>]*>)/g, '<br>$1');
+      
       const videoId = getVideoId(body);
       const videoHTML = videoId ? getVideoHTML(videoId) : "";
       return `<div><h2>${title}</h2><p>${date}</p><p>${body}${videoHTML}</p></div>`;
