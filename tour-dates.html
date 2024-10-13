@@ -289,7 +289,7 @@
               });
               li.textContent = `${formattedDate} - ${decodeHtml(
                 event.venue.city
-              )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
+              )}, ${decodeHtml(event.venue.stateprovince)} ${event.venue.country !== 'United States' ? `, ${decodeHtml(event.venue.country)}` : ''} - ${decodeHtml(
                 event.venue.venue
               )}`;
               if (event.description) {
