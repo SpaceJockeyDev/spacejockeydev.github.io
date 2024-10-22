@@ -469,7 +469,7 @@ if (bioElement) { // Ensure the element exists
               day: "2-digit",
               year: "numeric",
             });
-            li.textContent = `${formattedDate} - ${await decode(event.venue.city)}, ${await decode(event.venue.stateprovince)} - ${await decode(event.venue.venue)}`;
+            li.textContent = `${formattedDate} - ${await decode(event.venue.city)}, ${await decodeHtml(event.venue.stateprovince)} ${event.venue.country !== 'United States' ? `, ${await decodeHtml(event.venue.country)}` : ''} - ${await decode(event.venue.venue)}`;
             if (event.description) {
               const description = document.createElement("p");
               description.innerHTML = await decode(event.description);
