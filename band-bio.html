@@ -469,7 +469,20 @@ if (bioElement) { // Ensure the element exists
               day: "2-digit",
               year: "numeric",
             });
-            li.textContent = `${formattedDate} - ${await decode(event.venue.city)}, ${await decodeHtml(event.venue.stateprovince)} ${event.venue.country !== 'United States' ? `, ${await decodeHtml(event.venue.country)}` : ''} - ${await decode(event.venue.venue)}`;
+            if (event.venue.country === "United States") {
+                li.textContent = `${formattedDate} - ${await decodeHtml(
+                event.venue.city
+              )}, ${await decodeHtml(event.venue.stateprovince)} - ${await decodeHtml(
+                event.venue.venue
+              )}`;
+              }
+              else {
+                li.textContent = `${formattedDate} - ${await decodeHtml(
+                event.venue.city
+              )}, ${await decodeHtml(event.venue.country)} - ${await decodeHtml(
+                event.venue.venue
+              )}`;
+              }
             if (event.description) {
               const description = document.createElement("p");
               description.innerHTML = await decode(event.description);

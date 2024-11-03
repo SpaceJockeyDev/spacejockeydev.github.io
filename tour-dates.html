@@ -287,11 +287,21 @@
                 day: "2-digit",
                 year: "numeric",
               });
-              li.textContent = `${formattedDate} - ${decodeHtml(
+              if (event.venue.country === "United States") {
+                li.textContent = `${formattedDate} - ${decodeHtml(
                 event.venue.city
-              )}, ${decodeHtml(event.venue.stateprovince)} ${event.venue.country !== 'United States' ? `, ${decodeHtml(event.venue.country)}` : ''} - ${decodeHtml(
+              )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
                 event.venue.venue
               )}`;
+              }
+              else {
+                li.textContent = `${formattedDate} - ${decodeHtml(
+                event.venue.city
+              )}, ${decodeHtml(event.venue.country)} - ${decodeHtml(
+                event.venue.venue
+              )}`;
+              }
+              
               if (event.description) {
                 const description = document.createElement("p");
                 description.innerHTML = decodeHtml(event.description);
