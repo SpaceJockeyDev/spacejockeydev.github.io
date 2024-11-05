@@ -142,65 +142,64 @@
   </body>
   <script>
     window.onload = function () {
-      // Get the album name from the URL
-      const urlParams = new URLSearchParams(window.location.search);
-      const albumName = decodeURIComponent(urlParams.get("album")).replace(
-        /-/g,
-        " "
-      );
+      // Get the album name from the URL parameters
+const urlParams = new URLSearchParams(window.location.search);
+const albumName = decodeURIComponent(urlParams.get('album'));
 
-      // Fetch the album data from releases.json
-      fetch("releases.json")
-        .then((response) => response.json())
-        .then((albums) => {
-          // Find the album with the correct name
-          const album = albums.find((album) => album.album === albumName);
+// Fetch the album data from releases.json
+fetch("releases.json")
+  .then((response) => response.json())
+  .then((albums) => {
+    // Find the album with the correct name
+    const album = albums.find((album) => album.album === albumName);
 
-          // Fetch the band data from bands.json
-          fetch("bands.json")
-            .then((response) => response.json())
-            .then((bands) => {
-              // Find the band with the correct name
-              const band = bands.find((band) =>
-                album.bandName.includes(band.bandName)
-              );
+    // Fetch the band data from bands.json
+    fetch("bands.json")
+      .then((response) => response.json())
+      .then((bands) => {
+        // Find the band with the correct name
+        const band = bands.find((band) =>
+          album.bandName.includes(band.bandName)
+        );
 
-              // If the band is found, update the band name link
-              if (band) {
-                album.bandName = band.bandName;
+        // If the band is found, update the band name link
+        if (band) {
+          album.bandName = band.bandName;
+        }
+
+        // Set the title of the page
+        document.title = `${album.bandName} - ${album.album}`;
+
+        // Get the container where the album information will be displayed
+        const container = document.getElementById("album-info-container");
+
+        // Create HTML elements for the album information
+        const albumElement = document.createElement("div");
+        albumElement.innerHTML = `
+          <div class="album-container">
+            <div class="album-cover">
+              <img class="album-cover-info" src="${album.coverArt}" alt="${album.album} Cover Art">
+            </div>
+            <div class="album-info">
+              <h2 class="band-name">${
+                album.bandName === "Various Artists"
+                  ? album.bandName
+                  : `<a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, "-"))}">${album.bandName}</a>`
+              }</h2>
+              <p class="album-title">${album.album}</p>
+              <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate}</p>
+              ${
+                album.links.store !== null
+                  ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
+                  : ""
               }
-
-              // Set the title of the page
-              document.title = `${album.bandName} - ${album.album}`;
-
-              // Get the container where the album information will be displayed
-              const container = document.getElementById("album-info-container");
-
-              // Create HTML elements for the album information
-              const albumElement = document.createElement("div");
-              albumElement.innerHTML = `
-                          <div class="album-container">
-                              <div class="album-cover">
-                                  <img class="album-cover-info" src="${
-                                    album.coverArt
-                                  }" alt="${album.album} Cover Art">
-                              </div>
-                        <div class="album-info">
-                            <h2 class="band-name">${
-                              album.bandName === "Various Artists"
-                                ? album.bandName
-                                : `<a href="band-bio.html?band=${encodeURIComponent(
-                                    album.bandName.replace(/\s/g, "-")
-                                  )}">${album.bandName}</a>`
-                            }</h2>
-                            <p class="album-title">${album.album}</p>
-                            <p class="release-info">CCCP ${
-                              album.releaseNumber
-                            } - ${album.releaseDate}</p>
-                ${
-                  album.links.store !== null
-                    ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
-                    : ""
+              ${
+                album.description !== null
+                  ? `<p style="font-family: 'Alte';">Description:</p>
+                    <ul style="list-style-type: none; padding-left: 0; font-family: 'Alte'; font-weight: bold;">
+                      ${album.description}
+                    </ul>`
+                  : ""
                 }
                 ${
                   album.description !== null
