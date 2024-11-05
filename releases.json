@@ -2,6 +2,7 @@
     {
         "bandName": "The Falcon",
         "album": "God Don’t Make No Trash or Up Your Ass With Broken Glass",
+        "displayAlbum": "God Don’t Make No Trash or Up Your Ass With Broken Glass",
         "releaseNumber": "101",
         "releaseDate": "2004-12-14", 
         "coverArt": "https://f4.bcbits.com/img/a2831372560_10.jpg",
@@ -22,6 +23,7 @@
     {
         "bandName": "Enemy You",
         "album": "Stories Never Told",
+        "displayAlbum": "Stories Never Told",
         "releaseNumber":"102",
         "releaseDate": "2004-11-23",
         "coverArt": "https://f4.bcbits.com/img/a0312496032_10.jpg",
@@ -52,6 +54,7 @@
     {
         "bandName": "Teenage Bottlerocket",
         "album": "Total",
+        "displayAlbum": "Total",
         "releaseNumber": "103",
         "releaseDate": "2005-03-29",
         "coverArt": "https://f4.bcbits.com/img/a4205719845_10.jpg",
@@ -81,6 +84,7 @@
     {
         "bandName":"Enemy You",
         "album": "Where No One Knows My Name",
+        "displayAlbum": "Where No One Knows My Name",
         "releaseNumber": "104",
         "releaseDate": "1999-11-02",
         "coverArt": "https://f4.bcbits.com/img/a2938689339_10.jpg",
@@ -111,6 +115,7 @@
     {
         "bandName": "The Lillingtons",
         "album": "Death By Television",
+        "displayAlbum": "Death By Television",
         "releaseNumber": "105",
         "releaseDate": "1999-03-30",
         "coverArt": "https://f4.bcbits.com/img/a1497238680_10.jpg",
@@ -141,6 +146,7 @@
     {
         "bandName":"The Lillingtons",
         "album": "The Backchannel Broadcast",
+        "displayAlbum": "The Backchannel Broadcast",
         "releaseNumber": "106",
         "releaseDate": "2001-02-20",
         "coverArt": "https://f4.bcbits.com/img/a2300029977_10.jpg",
@@ -173,6 +179,7 @@
     {
         "bandName": "Bullets To Broadway",
         "album": "Drink Positive",
+        "displayAlbum": "Drink Positive",
         "releaseNumber": "107",
         "releaseDate": "2005-11-08",
         "description": "\"Drink Positive\" is the 8-song debut CDEP (Produced by Roger from Less Than Jake) from the hard-touring punk rock upstarts known as Bullets To Broadway. Formed out of the ashes of two now-defunct bands (Fat Wreck's Teen Idols and No Idea's Army Of Ponch); these kids have already played shows with NOFX, Bad Religion, and Suicide Machines. Their sound combines Nashville with Gainesville for an aggressive punk rock hybrid made even catchier with Heather's sweet harmonies and back-ups.",
@@ -197,6 +204,7 @@
     {
         "bandName": "The Methadones",
         "album": "21st Century Power Pop Riot",
+        "displayAlbum": "21st Century Power Pop Riot",
         "releaseNumber": "108",
         "releaseDate": "2006-06-06",
         "coverArt": "https://f4.bcbits.com/img/a1867153582_10.jpg",
@@ -225,6 +233,7 @@
     {
         "bandName": "The Falcon",
         "album": "Unicornography",
+        "displayAlbum": "Unicornography",
         "releaseNumber": "109",
         "releaseDate": "2006-09-26",
         "coverArt": "https://f4.bcbits.com/img/a3266654651_10.jpg",
@@ -252,6 +261,7 @@
     {
         "bandName": "The Lillingtons",
         "album": "The Too Late Show",
+        "displayAlbum": "The Too Late Show",
         "releaseNumber": "110",
         "releaseDate": "2006-10-10",
         "coverArt": "https://f4.bcbits.com/img/a1203848880_10.jpg",
@@ -279,6 +289,7 @@
     {
         "bandName": "Sundowner",
         "album": "Four One Five Two",
+        "displayAlbum": "Four One Five Two",
         "releaseNumber": "112",
         "releaseDate": "2007-03-13",
         "coverArt": "https://f4.bcbits.com/img/a2622257295_10.jpg",
@@ -307,6 +318,7 @@
     {
         "bandName": "The Copyrights",
         "album": "Make Sound",
+        "displayAlbum": "Make Sound",
         "releaseNumber": "113",
         "releaseDate": "2007-03-27",
         "coverArt": "https://f4.bcbits.com/img/a0129351396_10.jpg",
@@ -336,7 +348,8 @@
     },
     {
         "bandName":"The Methadones",
-        "album": "This Won't Hurt...",
+        "album": "This Won't Hurt",
+        "displayAlbum": "This Won't Hurt...",
         "releaseNumber": "114",
         "releaseDate": "2007-07-10",
         "coverArt": "https://f4.bcbits.com/img/a1250763033_10.jpg",
@@ -366,6 +379,7 @@
     {
         "bandName": "Cobra Skulls",
         "album": "Sitting Army",
+        "displayAlbum": "Sitting Army",
         "releaseNumber": "115",
         "releaseDate": "2007-07-10",
         "coverArt": "https://f4.bcbits.com/img/a1365013878_10.jpg",
@@ -394,7 +408,8 @@
     },
     {
         "bandName": "La Plebe",
-        "album": "¡Hasta La Muerte!",
+        "album": "Hasta La Muerte",
+        "displayAlbum": "¡Hasta La Muerte!",
         "releaseNumber": "116",
         "releaseDate": "2007-12-08",
         "coverArt": "https://f4.bcbits.com/img/a4113150859_10.jpg",
@@ -422,6 +437,7 @@
     {
         "bandName":"Teenage Bottlerocket",
         "album": "Warning Device",
+        "displayAlbum": "Warning Device",
         "releaseNumber": "118",
         "releaseDate": "2008-01-08",
         "coverArt": "https://f4.bcbits.com/img/a1919210190_10.jpg",
@@ -451,6 +467,7 @@
     {
         "bandName": "The Copyrights",
         "album": "Learn The Hard Way",
+        "displayAlbum": "Learn The Hard Way",
         "releaseNumber": "119",
         "releaseDate": "2008-02-26",
         "coverArt": "https://f4.bcbits.com/img/a3624003035_10.jpg",
@@ -481,6 +498,7 @@
     {
         "bandName": "The Sidekicks",
         "album": "So Long, Soggy Dog",
+        "displayAlbum": "So Long, Soggy Dog",
         "releaseNumber": "120",
         "releaseDate": "2007-09-25",
         "coverArt": "https://f4.bcbits.com/img/a3129698034_10.jpg",
@@ -508,6 +526,7 @@
     {
         "bandName":"Cobra Skulls",
         "album": "Never Be A Machine",
+        "displayAlbum": "Never Be A Machine",
         "releaseNumber": "121",
         "releaseDate": "2009-07-29",
         "coverArt": "https://f4.bcbits.com/img/a1797132388_10.jpg",
@@ -527,6 +546,7 @@
     {
         "bandName": "Druglords of the Avenues",
         "album": "Sing Songs",
+        "displayAlbum": "Sing Songs",
         "releaseNumber": "122",
         "releaseDate": "2009-02-15",
         "coverArt": "https://f4.bcbits.com/img/a0136193953_10.jpg",
@@ -556,6 +576,7 @@
     {
         "bandName": "Cobra Skulls",
         "album": "Draw Muhammad",
+        "displayAlbum": "Draw Muhammad",
         "releaseNumber": "123",
         "releaseDate": "2007-07-04",
         "coverArt": "https://f4.bcbits.com/img/a2872503868_10.jpg",
@@ -579,6 +600,7 @@
     {
         "bandName": "The Menzingers",
         "album": "Hold On, Dodge",
+        "displayAlbum": "Hold On, Dodge",
         "releaseNumber": "124",
         "releaseDate": "2009-05-05",
         "coverArt": "https://f4.bcbits.com/img/a2450696231_10.jpg",
@@ -599,7 +621,8 @@
     },
     {
         "bandName": "Teenage Bottlerocket",
-        "album": "Live In ‘06",
+        "album": "Live In 06",
+        "displayAlbum": "Live In ‘06",
         "releaseNumber": "125",
         "releaseDate": "2009-03-24",
         "coverArt": "https://f4.bcbits.com/img/a1240261878_10.jpg",
@@ -631,6 +654,7 @@
     {
         "bandName": "Cobra Skulls",
         "album": "American Rubicon",
+        "displayAlbum": "American Rubicon",
         "releaseNumber": "127",
         "releaseDate": "2009-09-29",
         "coverArt": "https://f4.bcbits.com/img/a2815865669_10.jpg",
@@ -664,6 +688,7 @@
     {
         "bandName": "The Sidekicks",
         "album": "Weight Of Air",
+        "displayAlbum": "Weight Of Air",
         "releaseNumber": "128",
         "releaseDate": "2009-09-15",
         "coverArt": "https://f4.bcbits.com/img/a1777401190_10.jpg",
@@ -692,6 +717,7 @@
     {
         "bandName": "Sicko",
         "album": "You Can Feel The Love In This Room",
+        "displayAlbum": "You Can Feel The Love In This Room",
         "releaseNumber": "129",
         "releaseDate": "1994-04-08",
         "coverArt": "https://f4.bcbits.com/img/a3721358115_10.jpg",
@@ -725,6 +751,7 @@
     {
         "bandName": "Sicko",
         "album": "Laugh While You Can Monkey Boy",
+        "displayAlbum": "Laugh While You Can Monkey Boy",
         "releaseNumber": "130",
         "releaseDate": "1995-05-19",
         "coverArt": "https://f4.bcbits.com/img/a0515270557_10.jpg",
@@ -754,6 +781,7 @@
     {
         "bandName": "Sicko",
         "album": "Chef Boy R U Dum",
+        "displayAlbum": "Chef Boy R U Dum",
         "releaseNumber": "131",
         "releaseDate": "1995-10-27",
         "coverArt": "https://f4.bcbits.com/img/a3934679161_10.jpg",
@@ -786,7 +814,8 @@
     },
     {
         "bandName": "Sicko",
-        "album": "You Are Not The Boss Of Me!",
+        "album": "You Are Not The Boss Of Me",
+        "displayAlbum": "You Are Not The Boss Of Me!",
         "releaseNumber": "132",
         "releaseDate": "1997-10-28",
         "coverArt": "https://f4.bcbits.com/img/a1401073927_10.jpg",
@@ -820,6 +849,7 @@
     {
         "bandName": "Sicko",
         "album": "Count Me Out",
+        "displayAlbum": "Count Me Out",
         "releaseNumber": "133",
         "releaseDate": "1993-03-30",
         "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music/9d/76/11/mzi.lvpvxcjq.jpg/316x316bb.webp",
@@ -839,7 +869,8 @@
     },
     {
         "bandName": "The Reaganomics",
-        "album": "Get Lost, Stay Lost",
+        "album": "Get Lost Stay Lost",
+        "displayAlbum": "Get Lost, Stay Lost",
         "releaseNumber": "134",
         "releaseDate": "2009-10-20",
         "coverArt": "https://f4.bcbits.com/img/a3151379224_10.jpg",
@@ -872,7 +903,8 @@
     },
     {
         "bandName": "Various Artists",
-        "album": "Untitled 21: A Juvenile Tribute To Swingin’ Utters",
+        "album": "Untitled 21 A Juvenile Tribute To Swingin Utters",
+        "displayAlbum": "Untitled 21: A Juvenile Tribute To Swingin’ Utters",
         "releaseNumber": "135",
         "releaseDate": "2010-02-16",
         "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/88/dc/7088dc24-a8e1-6ed4-7714-776ee4db4f08/mzi.gvaeexgs.jpg/316x316bb.webp",
@@ -920,6 +952,7 @@
     {
         "bandName": "Brendan Kelly & Joe McMahon",
         "album": "Wasted Potential",
+        "displayAlbum": "Wasted Potential",
         "releaseNumber": "136",
         "releaseDate": "2010-03-16",
         "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f1/45/89/f1458980-3394-30c3-4b7d-ea9fe7b61c0e/dj.zbwcsvmu.tif/316x316bb.webp",
@@ -950,6 +983,7 @@
     {
         "bandName": "Vultures United",
         "album": "Savages",
+        "displayAlbum": "Savages",
         "releaseNumber": "137",
         "releaseDate": "2010-04-13",
         "coverArt": "https://f4.bcbits.com/img/a3683166480_10.jpg",
@@ -979,6 +1013,7 @@
     {
         "bandName": "The Menzingers",
         "album": "I Was Born",
+        "displayAlbum": "I Was Born",
         "releaseNumber": "138",
         "releaseDate": "2010-03-16",
         "coverArt": "https://f4.bcbits.com/img/a1855734396_10.jpg",
@@ -998,6 +1033,7 @@
     {
         "bandName":"The Menzingers",
         "album": "Chamberlain Waits",
+        "displayAlbum": "Chamberlain Waits",
         "releaseNumber": "139",
         "releaseDate": "2010-04-13",
         "coverArt": "https://f4.bcbits.com/img/a2511799068_10.jpg",
@@ -1026,6 +1062,7 @@
     {
         "bandName": "The Brokedowns",
         "album": "Species Bender",
+        "displayAlbum": "Species Bender",
         "releaseNumber": "140",
         "releaseDate": "2010-09-07",
         "coverArt": "https://f4.bcbits.com/img/a3876584281_10.jpg",
@@ -1055,6 +1092,7 @@
     {
         "bandName": "The Bombpops",
         "album": "Like I Care",
+        "displayAlbum": "Like I Care",
         "releaseNumber": "141",
         "releaseDate": "2010-11-01",
         "coverArt": "https://f4.bcbits.com/img/a0277981959_10.jpg",
@@ -1077,6 +1115,7 @@
     {
         "bandName": "The Reaganomics",
         "album": "Lower The Bar",
+        "displayAlbum": "Lower The Bar",
         "releaseNumber": "142",
         "releaseDate": "2011-02-15",
         "coverArt": "https://f4.bcbits.com/img/a1165030836_10.jpg",
@@ -1110,6 +1149,7 @@
     {
         "bandName": "The Heat Tape",
         "album": "Raccoon Valley Recordings",
+        "displayAlbum": "Raccoon Valley Recordings",
         "releaseNumber": "143",
         "releaseDate": "2011-02-15",
         "coverArt": "https://f4.bcbits.com/img/a2971587514_10.jpg",
@@ -1138,6 +1178,7 @@
     {
         "bandName": "Teenage Bottlerocket",
         "album": "Another Way (Deluxe Edition)",
+        "displayAlbum": "Another Way (Deluxe Edition)",
         "releaseNumber": "144",
         "releaseDate": "2003-10-31",
         "coverArt": "https://f4.bcbits.com/img/a3855143235_10.jpg",
@@ -1171,6 +1212,7 @@
     {
         "bandName": "Elway",
         "album": "Passing Days",
+        "displayAlbum": "Passing Days",
         "releaseNumber": "145",
         "releaseDate": "2011-04-05",
         "coverArt": "https://f4.bcbits.com/img/a0018965923_10.jpg",
@@ -1190,6 +1232,7 @@
     {
         "bandName": "Elway",
         "album": "Delusions",
+        "displayAlbum": "Delusions",
         "releaseNumber": "146",
         "releaseDate": "2011-05-10",
         "coverArt": "https://f4.bcbits.com/img/a1666596792_10.jpg",
@@ -1217,6 +1260,7 @@
     {
         "bandName": "Nothington",
         "album": "More Than Obvious",
+        "displayAlbum": "More Than Obvious",
         "releaseNumber": "147",
         "releaseDate": "2011-07-05",
         "coverArt": "https://f4.bcbits.com/img/a1589396783_10.jpg",
@@ -1239,6 +1283,7 @@
     {
         "bandName": "The Holy Mess",
         "album": "The Holy Mess",
+        "displayAlbum": "The Holy Mess",
         "releaseNumber": "148",
         "releaseDate": "2011-06-14",
         "coverArt": "https://f4.bcbits.com/img/a2474722469_10.jpg",
@@ -1266,6 +1311,7 @@
     {
         "bandName": "The Copyrights",
         "album": "Crutches",
+        "displayAlbum": "Crutches",
         "releaseNumber": "149",
         "releaseDate": "2011-06-28",
         "coverArt": "https://f4.bcbits.com/img/a2904552453_10.jpg",
@@ -1286,6 +1332,7 @@
     {
         "bandName": "The Copyrights",
         "album": "North Sentinel Island",
+        "displayAlbum": "North Sentinel Island",
         "releaseNumber": "150",
         "releaseDate": "2011-08-02",
         "coverArt": "https://f4.bcbits.com/img/a3224233476_10.jpg",
@@ -1316,6 +1363,7 @@
     {
         "bandName": "Nothington",
         "album": "Borrowed Time",
+        "displayAlbum": "Borrowed Time",
         "releaseNumber": "151",
         "releaseDate": "2011-09-13",
         "coverArt": "https://f4.bcbits.com/img/a3210604594_10.jpg",
@@ -1343,6 +1391,7 @@
     {
         "bandName": "The Bombpops",
         "album": "Stole The TV",
+        "displayAlbum": "Stole The TV",
         "releaseNumber": "152",
         "releaseDate": "2011-10-04",
         "coverArt": "https://f4.bcbits.com/img/a1919745963_10.jpg",
@@ -1363,6 +1412,7 @@
     {
         "bandName": "Brendan Kelly and the Wandering Birds",
         "album": "A Man With The Passion Of Tennessee Williams",
+        "displayAlbum": "A Man With The Passion Of Tennessee Williams",
         "releaseNumber": "153",
         "releaseDate": "2011-12-27",
         "coverArt": "https://f4.bcbits.com/img/a4247564104_10.jpg",
@@ -1382,6 +1432,7 @@
     {
         "bandName": "The Menzingers",
         "album": "The Obituaries/ Burn After Writing",
+        "displayAlbum": "The Obituaries/ Burn After Writing",
         "releaseNumber": "154",
         "releaseDate": "2012-01-31",
         "coverArt": "https://api.redscare.net/wp-content/uploads/2018/06/MENZsevenCOVER.jpg",
@@ -1400,6 +1451,7 @@
     {
         "bandName": "The Sidekicks",
         "album": "Grace",
+        "displayAlbum": "Grace",
         "releaseNumber": "155",
         "releaseDate": "2012-01-17",
         "coverArt": "https://f4.bcbits.com/img/a1117122614_16.jpg",
@@ -1420,6 +1472,7 @@
     {
         "bandName": "The Sidekicks",
         "album": "Awkward Breeds",
+        "displayAlbum": "Awkward Breeds",
         "releaseNumber": "156",
         "releaseDate": "2012-02-21",
         "coverArt": "https://f4.bcbits.com/img/a3566516164_10.jpg",
@@ -1446,7 +1499,8 @@
     },
     {
         "bandName":"Brendan Kelly and the Wandering Birds",
-        "album": "I’d Rather Die Than Live Forever",
+        "album": "Id Rather Die Than Live Forever",
+        "displayAlbum": "I’d Rather Die Than Live Forever",
         "releaseNumber": "157",
         "releaseDate": "2012-03-27",
         "coverArt": "https://f4.bcbits.com/img/a0129804113_10.jpg",
@@ -1475,6 +1529,7 @@
     {
         "bandName": "Elway",
         "album": "Hence My Optimism",
+        "displayAlbum": "Hence My Optimism",
         "releaseNumber": "158",
         "releaseDate": "2012-06-12",
         "coverArt": "https://f4.bcbits.com/img/a3128707857_10.jpg",
@@ -1495,6 +1550,7 @@
     {
         "bandName": "Dan Andriano in the Emergency Room & Brendan Kelly and the Wandering Birds",
         "album": "European Vacation",
+        "displayAlbum": "European Vacation",
         "releaseNumber": "159",
         "releaseDate": "2012-06-19",
         "coverArt": "https://prod-cdn-08.storenvy.com/product_photos/811415/CCCP159-7-Cover-RGB_original.jpg",
@@ -1513,6 +1569,7 @@
     {
         "bandName": "Masked Intruder",
         "album": "Masked Intruder",
+        "displayAlbum": "Masked Intruder",
         "releaseNumber": "162",
         "releaseDate": "2012-08-14",
         "coverArt": "https://f4.bcbits.com/img/a0339585625_10.jpg",
@@ -1542,6 +1599,7 @@
     {
         "bandName": "The Holy Mess",
         "album": "Cande Ru Las Degas",
+        "displayAlbum": "Cande Ru Las Degas",
         "releaseNumber": "163",
         "releaseDate": "2012-08-14",
         "coverArt": "https://f4.bcbits.com/img/a1886269790_10.jpg",
@@ -1568,6 +1626,7 @@
     {
         "bandName": "Sam Russo",
         "album": "Storm",
+        "displayAlbum": "Storm",
         "releaseNumber": "164",
         "releaseDate": "2012-10-30",
         "coverArt": "https://f4.bcbits.com/img/a3516529470_10.jpg",
@@ -1594,6 +1653,7 @@
     {
         "bandName": "Druglords of the Avenues",
         "album": "New Drugs",
+        "displayAlbum": "New Drugs",
         "releaseNumber": "165",
         "releaseDate": "2013-05-21",
         "coverArt": "https://f4.bcbits.com/img/a4173219882_10.jpg",
@@ -1623,6 +1683,7 @@
     {
         "bandName": "Various Artists",
         "album": "Red Scare Across America",
+        "displayAlbum": "Red Scare Across America",
         "releaseNumber": "168",
         "releaseDate": "2013-06-06",
         "coverArt": "https://api.redscare.net/wp-content/uploads/2018/06/TOUR7DIGICOVER-300x300.jpg",
@@ -1642,6 +1703,7 @@
     {
         "bandName": "Elway",
         "album": "Leavetaking",
+        "displayAlbum": "Leavetaking",
         "releaseNumber": "169",
         "releaseDate": "2013-06-25",
         "coverArt": "https://f4.bcbits.com/img/a4260306580_10.jpg",
@@ -1670,6 +1732,7 @@
     {
         "bandName": "Direct Hit!",
         "album": "Brainless God",
+        "displayAlbum": "Brainless God",
         "releaseNumber": "171",
         "releaseDate": "2013-09-03",
         "coverArt": "https://f4.bcbits.com/img/a2168466807_10.jpg",
@@ -1698,6 +1761,7 @@
     {
         "bandName": "The Lillingtons",
         "album": "Shit Out Of Luck",
+        "displayAlbum": "Shit Out Of Luck",
         "releaseNumber": "172",
         "releaseDate": "1996-01-01",
         "coverArt": "https://f4.bcbits.com/img/a2447468533_10.jpg",
@@ -1729,6 +1793,7 @@
     {
         "bandName": "Nothington",
         "album": "Lost Along The Way",
+        "displayAlbum": "Lost Along The Way",
         "releaseNumber": "174",
         "releaseDate": "2013-10-08",
         "coverArt": "https://f4.bcbits.com/img/a1825802528_10.jpg",
@@ -1761,6 +1826,7 @@
     {
         "bandName": "The Slow Death & The Brokedowns",
         "album": "Split EP",
+        "displayAlbum": "Split EP",
         "releaseNumber": "175",
         "releaseDate": "2013-11-12",
         "coverArt": "https://prod-cdn-06.storenvy.com/product_photos/9543770/SlowDownsWEB_original.jpg",
@@ -1785,6 +1851,7 @@
     {
         "bandName": "Masked Intruder",
         "album": "Under The Mistletoe",
+        "displayAlbum": "Under The Mistletoe",
         "releaseNumber": "176",
         "releaseDate": "2013-12-10",
         "coverArt": "https://f4.bcbits.com/img/a0250692691_10.jpg",
@@ -1803,6 +1870,7 @@
     {
         "bandName": "Brendan Kelly & Sam Russo",
         "album": "Split The Tip",
+        "displayAlbum": "Split The Tip",
         "releaseNumber": "177",
         "releaseDate": "2014-05-13",
         "coverArt": "https://prod-cdn-07.storenvy.com/product_photos/19602447/BK_20SR_20split_20300x300_original.jpg",
@@ -1825,6 +1893,7 @@
     {
         "bandName": "Cobra Skulls",
         "album": "Live At The BBC",
+        "displayAlbum": "Live At The BBC",
         "releaseNumber": "178",
         "releaseDate": "2014-04-18",
         "coverArt": "https://f4.bcbits.com/img/a1104069470_10.jpg",
@@ -1845,6 +1914,7 @@
     {
         "bandName": "Direct Hit! & Priceduifkes",
         "album": "Split",
+        "displayAlbum": "Split",
         "releaseNumber": "179",
         "releaseDate": "2014-05-13",
         "coverArt": "https://prod-cdn-04.storenvy.com/product_photos/19603134/dhpdsplit_original.jpg",
@@ -1867,6 +1937,7 @@
     {
         "bandName": "The Copyrights",
         "album": "Report",
+        "displayAlbum": "Report",
         "releaseNumber": "180",
         "releaseDate": "2014-08-19",
         "coverArt": "https://f4.bcbits.com/img/a2907252137_10.jpg",
@@ -1897,6 +1968,7 @@
     {
         "bandName": "The Brokedowns",
         "album": "Life Is A Breeze",
+        "displayAlbum": "Life Is A Breeze",
         "releaseNumber": "181",
         "releaseDate": "2014-12-02",
         "coverArt": "https://f4.bcbits.com/img/a3371687072_10.jpg",
@@ -1929,6 +2001,7 @@
     {
         "bandName": "Red Scare Industries",
         "album": "10 Years Of Your Dumb Bullshit",
+        "displayAlbum": "10 Years Of Your Dumb Bullshit",
         "releaseNumber": "182",
         "releaseDate": "2014-10-14",
         "coverArt": "https://prod-cdn-04.storenvy.com/product_photos/21351607/CCCP182_original.jpg",
@@ -1962,6 +2035,7 @@
     {
         "bandName": "Derek Grant",
         "album": "Love Is A Bad Dream",
+        "displayAlbum": "Love Is A Bad Dream",
         "releaseNumber": "183",
         "releaseDate": "2014-09-13",
         "coverArt": "https://api.redscare.net/wp-content/uploads/2018/06/Derek-Grant-Love-is-a-Bad-Dream-Single-Cover-300x300.jpg",
@@ -1980,6 +2054,7 @@
     {
         "bandName": "Derek Grant",
         "album": "Breakdown",
+        "displayAlbum": "Breakdown",
         "releaseNumber": "184",
         "releaseDate": "2015-01-20",
         "coverArt": "https://f4.bcbits.com/img/a4064730451_10.jpg",
@@ -2003,7 +2078,8 @@
     },
     {
         "bandName": "Masked Intruder",
-        "album": "Incriminating Evidence: 2011 Demos",
+        "album": "Incriminating Evidence 2011 Demos",
+        "displayAlbum": "Incriminating Evidence: 2011 Demos",
         "releaseNumber": "186",
         "releaseDate": "2015-04-15",
         "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/17/53/1a/17531a2d-f0cc-c037-4422-867e4a593f22/187223018668.jpg/316x316bb.webp",
@@ -2024,6 +2100,7 @@
     {
         "bandName": "Success",
         "album": "Radio Recovery",
+        "displayAlbum": "Radio Recovery",
         "releaseNumber": "187",
         "releaseDate": "2015-03-30",
         "coverArt": "https://f4.bcbits.com/img/a1162202048_10.jpg",
@@ -2050,6 +2127,7 @@
     {
         "bandName": "Direct Hit!",
         "album": "More Of The Same",
+        "displayAlbum": "More Of The Same: Satanic Singles 2010-2014",
         "releaseNumber": "188",
         "releaseDate": "2015-08-15",
         "coverArt": "https://f4.bcbits.com/img/a2087151825_10.jpg",
@@ -2077,6 +2155,7 @@
     {
         "bandName": "Drakulas",
         "album": "OWOWOWOWOWOWOW",
+        "displayAlbum": "OWOWOWOWOWOWOW",
         "releaseNumber": "189",
         "releaseDate": "2015-06-18",
         "coverArt": "https://f4.bcbits.com/img/a3575410085_10.jpg",
@@ -2097,6 +2176,7 @@
     {
         "bandName": "Elway",
         "album": "Better Whenever",
+        "displayAlbum": "Better Whenever",
         "releaseNumber": "190",
         "releaseDate": "2015-11-20",
         "coverArt": "https://f4.bcbits.com/img/a0243556388_10.jpg",
@@ -2123,6 +2203,7 @@
     {
         "bandName": "Sam Russo",
         "album": "Greyhound Dreams",
+        "displayAlbum": "Greyhound Dreams",
         "releaseNumber": "191",
         "releaseDate": "2015-10-09",
         "coverArt": "https://f4.bcbits.com/img/a0947959051_10.jpg",
@@ -2149,6 +2230,7 @@
     {
         "bandName": "The All Brights",
         "album": "Are Wild For The Night",
+        "displayAlbum": "Are Wild For The Night",
         "releaseNumber": "192",
         "releaseDate": "2015-11-06",
         "coverArt": "https://f4.bcbits.com/img/a3782825760_10.jpg",
@@ -2171,6 +2253,7 @@
     {
         "bandName": "The Lippies",
         "album": "The Lippies EP",
+        "displayAlbum": "The Lippies EP",
         "releaseNumber": "193",
         "releaseDate": "2014-12-20",
         "coverArt": "https://f4.bcbits.com/img/a1189085417_10.jpg",
@@ -2193,6 +2276,7 @@
     {
         "bandName": "The Lippies",
         "album": "The Lippies",
+        "displayAlbum": "The Lippies",
         "releaseNumber": "194",
         "releaseDate": "2016-03-04",
         "coverArt": "https://f4.bcbits.com/img/a0852829300_10.jpg",
@@ -2221,6 +2305,7 @@
     {
         "bandName":"The Falcon",
         "album": "Gather Up The Chaps",
+        "displayAlbum": "Gather Up The Chaps",
         "releaseNumber": "195",
         "releaseDate": "2016-03-18",
         "coverArt": "https://f4.bcbits.com/img/a0045433718_10.jpg",
@@ -2249,6 +2334,7 @@
     {
         "bandName": "The Brokedowns & Direct Hit!",
         "album": "Making A Midwesterner",
+        "displayAlbum": "Making A Midwesterner",
         "releaseNumber": "196",
         "releaseDate": "2016-04-16",
         "coverArt": "https://prod-cdn-08.storenvy.com/product_photos/41386893/RSD7_original.jpg",
@@ -2272,6 +2358,7 @@
     {
         "bandName": "Arms Aloft",
         "album": "What A Time To Be Barely Alive",
+        "displayAlbum": "What A Time To Be Barely Alive",
         "releaseNumber": "197",
         "releaseDate": "2016-09-02",
         "coverArt": "https://f4.bcbits.com/img/a3400554416_10.jpg",
@@ -2300,6 +2387,7 @@
     {
         "bandName": "Good Friend",
         "album": "Ride The Storm",
+        "displayAlbum": "Ride The Storm",
         "releaseNumber": "198",
         "releaseDate": "2016-11-25",
         "coverArt": "https://f4.bcbits.com/img/a2941964999_10.jpg",
@@ -2326,6 +2414,7 @@
     {
         "bandName": "MakeWar",
         "album": "Developing A Theory Of Integrity",
+        "displayAlbum": "Developing A Theory Of Integrity",
         "releaseNumber": "199",
         "releaseDate": "2016-12-09",
         "coverArt": "https://f4.bcbits.com/img/a3498833918_10.jpg",
@@ -2352,6 +2441,7 @@
     {
         "bandName": "Nothington",
         "album": "Cobblestones",
+        "displayAlbum": "Cobblestones",
         "releaseNumber": "200",
         "releaseDate": "2017-11-25",
         "coverArt": "https://f4.bcbits.com/img/a3739019017_10.jpg",
@@ -2370,6 +2460,7 @@
     {
         "bandName": "Nothington",
         "album": "In The End",
+        "displayAlbum": "In The End",
         "releaseNumber": "201",
         "releaseDate": "2017-02-17",
         "coverArt": "https://f4.bcbits.com/img/a0268319179_10.jpg",
@@ -2396,7 +2487,8 @@
     },
     {
         "bandName": "Garrett Dale",
-        "album": "Two T’s EP",
+        "album": "Two Ts EP",
+        "displayAlbum": "Two T’s EP",
         "releaseNumber": "202",
         "releaseDate": "2017-03-31",
         "coverArt": "https://f4.bcbits.com/img/a0606928714_10.jpg",
@@ -2416,6 +2508,7 @@
     {
         "bandName":"The Lillingtons",
         "album": "Project 313",
+        "displayAlbum": "Project 313",
         "releaseNumber": "203",
         "releaseDate": "2017-06-09",
         "coverArt": "https://f4.bcbits.com/img/a2999257917_10.jpg",
@@ -2436,6 +2529,7 @@
     {
         "bandName": "Sincere Engineer",
         "album": "Rhombithian",
+        "displayAlbum": "Rhombithian",
         "releaseNumber": "204",
         "releaseDate": "2017-10-20",
         "coverArt": "https://f4.bcbits.com/img/a1639390722_10.jpg",
@@ -2462,7 +2556,8 @@
     },
     {
         "bandName": "Guerilla Poubelle",
-        "album": "La Nausée",
+        "album": "La Nausee",
+        "displayAlbum": "La Nausee",
         "releaseNumber": "205",
         "releaseDate": "2017-11-17",
         "coverArt": "https://f4.bcbits.com/img/a3922069280_10.jpg",
@@ -2492,6 +2587,7 @@
     {
         "bandName": "Sicko",
         "album": "In The Alternate Timeline",
+        "displayAlbum": "In The Alternate Timeline",
         "releaseNumber": "206",
         "releaseDate": "2019-09-13",
         "coverArt": "https://f4.bcbits.com/img/a2376409210_10.jpg",
@@ -2526,7 +2622,8 @@
     },
     {
         "bandName": "The Copyrights",
-        "album": "We Didn’t Come Here To Die",
+        "album": "We Didn t Come Here To Die",
+        "displayAlbum": "We Didn’t Come Here To Die",
         "releaseNumber": "207",
         "releaseDate": "2003-07-23",
         "coverArt": "https://api.redscare.net/wp-content/uploads/2020/06/Copyrights_Die_Cover-300x300.jpg",
@@ -2556,6 +2653,7 @@
     {
         "bandName": "The Copyrights",
         "album": "Mutiny Pop",
+        "displayAlbum": "Mutiny Pop",
         "releaseNumber": "208",
         "releaseDate": "2006-05-02",
         "coverArt": "https://api.redscare.net/wp-content/uploads/2020/06/Copyrights_MutinyPop_Cover-300x300.jpg",
@@ -2588,6 +2686,7 @@
     {
         "bandName": "Elway",
         "album": "For The Sake Of The Bit",
+        "displayAlbum": "For The Sake Of The Bit",
         "releaseNumber": "209",
         "releaseDate": "2018-04-27",
         "coverArt": "https://f4.bcbits.com/img/a2931115377_10.jpg",
@@ -2612,6 +2711,7 @@
     {
         "bandName": "Red City Radio",
         "album": "SkyTigers",
+        "displayAlbum": "SkyTigers",
         "releaseNumber": "210",
         "releaseDate": "2018-03-09",
         "coverArt": "https://f4.bcbits.com/img/a0640338063_10.jpg",
@@ -2633,6 +2733,7 @@
     {
         "bandName": "The Brokedowns",
         "album": "Sick Of Space",
+        "displayAlbum": "Sick Of Space",
         "releaseNumber": "211",
         "releaseDate": "2018-05-18",
         "coverArt": "https://f4.bcbits.com/img/a1463676019_10.jpg",
@@ -2662,6 +2763,7 @@
     {
         "bandName": "The All Brights",
         "album": "The White Album EP",
+        "displayAlbum": "The White Album EP",
         "releaseNumber": "212",
         "releaseDate": "2018-06-22",
         "coverArt": "https://f4.bcbits.com/img/a3317564194_10.jpg",
@@ -2684,6 +2786,7 @@
     {
         "bandName": "Arms Aloft",
         "album": "Sawdust City",
+        "displayAlbum": "Sawdust City",
         "releaseNumber": "213",
         "releaseDate": "2012-10-23",
         "coverArt": "https://f4.bcbits.com/img/a0899304792_10.jpg",
@@ -2712,6 +2815,7 @@
     {
         "bandName": "Tightwire",
         "album": "Six Feet Deep",
+        "displayAlbum": "Six Feet Deep",
         "releaseNumber": "214",
         "releaseDate": "2018-08-24",
         "coverArt": "https://f4.bcbits.com/img/a2033821240_10.jpg",
@@ -2740,7 +2844,8 @@
     },
     {
         "bandName": "Brendan Kelly and the Wandering Birds",
-        "album": "Keep Walkin’ Pal",
+        "album": "Keep Walkin Pal",
+        "displayAlbum": "Keep Walkin’ Pal",
         "releaseNumber": "215",
         "releaseDate": "2018-10-26",
         "coverArt": "https://f4.bcbits.com/img/a2332948034_10.jpg",
@@ -2767,6 +2872,7 @@
     {
         "bandName": "Swingin’ Utters & Nothington",
         "album": "Bird Party",
+        "displayAlbum": "Bird Party",
         "releaseNumber": "216",
         "releaseDate": "2018-11-09",
         "coverArt": "https://prod-cdn-07.storenvy.com/product_photos/66132375/file_21439013fc_original.jpg",
@@ -2785,6 +2891,7 @@
     {
         "bandName": "Billy Liar",
         "album": "Some Legacy",
+        "displayAlbum": "Some Legacy",
         "releaseNumber": "218",
         "releaseDate": "2019-06-21",
         "coverArt": "https://f4.bcbits.com/img/a3029596294_10.jpg",
@@ -2811,7 +2918,8 @@
     },
     {
         "bandName": "Ramona",
-        "album": "Deals, Deals, Deals!",
+        "album": "Deals Deals Deals",
+        "displayAlbum": "Deals, Deals, Deals!",
         "releaseNumber": "219",
         "releaseDate": "2019-06-07",
         "coverArt": "https://f4.bcbits.com/img/a1171641401_10.jpg",
@@ -2838,6 +2946,7 @@
     {
         "bandName": "Broadway Calls",
         "album": "Broadway Calls",
+        "displayAlbum": "Broadway Calls",
         "releaseNumber": "220",
         "releaseDate": "2007-07-10",
         "coverArt": "https://f4.bcbits.com/img/a4168441849_10.jpg",
@@ -2868,6 +2977,7 @@
     {
         "bandName": "The Copyrights & Kepi Ghoulie",
         "album": "Observation Wagon",
+        "displayAlbum": "Observation Wagon",
         "releaseNumber": "221",
         "releaseDate": "2019-07-12",
         "coverArt": "https://prod-cdn-06.storenvy.com/product_photos/74082267/file_1537d94e72_original.jpg",
@@ -2890,6 +3000,7 @@
     {
         "bandName": "Red Scare Industries",
         "album": "15 Years of Tears and Beers",
+        "displayAlbum": "15 Years of Tears and Beers",
         "releaseNumber": "222",
         "releaseDate": "2019-09-27",
         "coverArt": "https://f4.bcbits.com/img/a4196222847_10.jpg",
@@ -2921,6 +3032,7 @@
     {
         "bandName": "The Reaganomics",
         "album": "The Aging Punk",
+        "displayAlbum": "The Aging Punk",
         "releaseNumber": "223",
         "releaseDate": "2019-12-13",
         "coverArt": "https://f4.bcbits.com/img/a0045282249_10.jpg",
@@ -2949,7 +3061,8 @@
     },
     {
         "bandName": "Guerilla Poubelle",
-        "album": "L’ennui",
+        "album": "L ennui",
+        "displayAlbum": "L’ennui",
         "releaseNumber": "224",
         "releaseDate": "2020-01-31",
         "coverArt": "https://f4.bcbits.com/img/a3227848069_10.jpg",
@@ -2979,6 +3092,7 @@
     {
         "bandName": "Sam Russo",
         "album": "Back To The Party",
+        "displayAlbum": "Back To The Party",
         "releaseNumber": "225",
         "releaseDate": "2020-03-27",
         "coverArt": "https://f4.bcbits.com/img/a2031946603_10.jpg",
@@ -3005,6 +3119,7 @@
     {
         "bandName": "Broadway Calls",
         "album": "Meet Me On The Moon",
+        "displayAlbum": "Meet Me On The Moon",
         "releaseNumber": "226",
         "releaseDate": "2020-04-03",
         "coverArt": "https://f4.bcbits.com/img/a0946274942_10.jpg",
@@ -3023,6 +3138,7 @@
     {
         "bandName": "Cobra Skulls",
         "album": "Eat Your Babies",
+        "displayAlbum": "Eat Your Babies",
         "releaseNumber": "227",
         "releaseDate": "2020-06-12",
         "coverArt": "https://f4.bcbits.com/img/a2632350048_10.jpg",
@@ -3049,6 +3165,7 @@
     {
         "bandName": "Broadway Calls",
         "album": "Sad In The City",
+        "displayAlbum": "Sad In The City",
         "releaseNumber": "228",
         "releaseDate": "2020-05-15",
         "coverArt": "https://f4.bcbits.com/img/a1861324552_10.jpg",
@@ -3075,7 +3192,8 @@
     },
     {
         "bandName": "The Lippies",
-        "album": "Pop 'n' Lockdown EP",
+        "album": "Pop n Lockdown EP",
+        "displayAlbum": "Pop 'n' Lockdown EP",
         "releaseNumber": "229",
         "releaseDate": "2016-06-17",
         "coverArt": "https://f4.bcbits.com/img/a3502883414_10.jpg",
@@ -3095,6 +3213,7 @@
     {
         "bandName": "Raging Nathans & The Reaganomics",
         "album": "Midwest Duress",
+        "displayAlbum": "Midwest Duress",
         "releaseNumber": "230",
         "releaseDate": "2020-07-10",
         "coverArt": "https://prod-cdn-07.storenvy.com/product_photos/86605249/file_140878cbbe_original.jpg",
@@ -3117,6 +3236,7 @@
     {
         "bandName": "Good Friend",
         "album": "The Erin Rose EP",
+        "displayAlbum": "The Erin Rose EP",
         "releaseNumber": "231",
         "releaseDate": "2020-12-11",
         "coverArt": "https://f4.bcbits.com/img/a2846441980_10.jpg",
@@ -3136,6 +3256,7 @@
     {
         "bandName": "Fleau",
         "album": "Fleau",
+        "displayAlbum": "Fleau",
         "releaseNumber": "233",
         "releaseDate": "2021-03-19",
         "coverArt": "https://f4.bcbits.com/img/a0905350560_10.jpg",
@@ -3155,7 +3276,8 @@
     },
     {
         "bandName": "The Lillingtons",
-        "album": "Can Anybody Hear Me?",
+        "album": "Can Anybody Hear Me",
+        "displayAlbum": "Can Anybody Hear Me? A Tribute To Enemy You",
         "releaseNumber": "234",
         "releaseDate": "2021-04-23",
         "coverArt": "https://f4.bcbits.com/img/a0675491212_10.jpg",
@@ -3177,7 +3299,8 @@
     },
     {
         "bandName": "Heart & Lung",
-        "album": "Twistin' The Knife Away",
+        "album": "Twistin The Knife Away",
+        "displayAlbum": "Twistin' The Knife Away",
         "releaseNumber": "237",
         "releaseDate": "2021-10-15",
         "coverArt": "https://f4.bcbits.com/img/a0269107795_10.jpg",
@@ -3205,6 +3328,7 @@
     {
         "bandName": "Elway",
         "album": "The Best Of All Possible Worlds",
+        "displayAlbum": "The Best Of All Possible Worlds",
         "releaseNumber": "240",
         "releaseDate": "2022-04-01",
         "coverArt": "https://f4.bcbits.com/img/a2955267021_10.jpg",
@@ -3232,6 +3356,7 @@
     {
         "bandName": "No Trigger",
         "album": "Acid Lord EP",
+        "displayAlbum": "Acid Lord EP",
         "releaseNumber": "241",
         "releaseDate": "2022-05-20",
         "coverArt": "https://f4.bcbits.com/img/a2947902380_10.jpg",
@@ -3253,6 +3378,7 @@
     {
         "bandName": "SACK",
         "album": "Ripper!",
+        "displayAlbum": "Ripper!",
         "releaseNumber": "242",
         "releaseDate": "2022-06-10",
         "coverArt": "https://f4.bcbits.com/img/a1593645708_10.jpg",
@@ -3281,6 +3407,7 @@
     {
         "bandName": "No Trigger",
         "album": "Dr. Album",
+        "displayAlbum": "Dr .Album",
         "releaseNumber": "243",
         "coverArt": "https://f4.bcbits.com/img/a2048129653_10.jpg",
         "description": "It’s been ten years since No Trigger gifted the world a full length.  TEN GODDAMN YEARS.  But all that is about to change with the release of 2022’s \"Dr. Album\".  They’re the first sextet on Red Scare (we think?) and the biggest thing to come outta Worcester, MA since Bob Cousy.  These guys have played all over the world (Europe, Japan, South America, Australia, etc.) and made their name perfecting melodic hardcore, but this new 13-song record has something for everyone.  Dynamic indie-punk of all stripes can be heard on \"Dr. Album\", and this doctor has an IV bag of hooks, choruses, melodies, and ferocious lyrics that you’ll wanna inject straight into your veins.  Side note: Did you know that Emma Goldman opened an ice cream shop in Worcester (AKA Wormtown) back in the 1800’s?  It’s true, and Saint Emma would be proud of these scrappy punks and this Left-Wing masterpiece.  It may have taken a decade, but No Trigger is relentless, and the band is playing Riot Fest, Punk In Drublic Festival, and shows with The Lawrence Arms in support of these new songs.  Onward and upward!",
@@ -3309,6 +3436,7 @@
     {
         "bandName": "The Brokedowns",
         "album": "Maximum Khaki",
+        "displayAlbum": "Maximum Khaki",
         "releaseNumber": "245",
         "releaseDate": "2023-01-20",
         "coverArt": "https://f4.bcbits.com/img/a1106134006_10.jpg",
@@ -3339,6 +3467,7 @@
     {
         "bandName": "Laura Jane Grace",
         "album": "Bought To Rot",
+        "displayAlbum": "Bought To Rot",
         "releaseNumber": "246",
         "releaseDate": "2018-11-09",
         "coverArt": "https://f4.bcbits.com/img/a0183381647_10.jpg",
@@ -3369,6 +3498,7 @@
     {
         "bandName": "Sludgeworth",
         "album": "Losers of the Year",
+        "displayAlbum": "Losers of the Year",
         "releaseNumber": "247",
         "releaseDate": "2022-12-09",
         "coverArt": "https://f4.bcbits.com/img/a2694921567_10.jpg",
@@ -3400,6 +3530,7 @@
     {
         "bandName": "The Bollweevils",
         "album": "Essential",
+        "displayAlbum": "Essential",
         "releaseNumber": "247",
         "releaseDate": "2023-05-05",
         "coverArt": "https://f4.bcbits.com/img/a2590620312_10.jpg",
@@ -3426,6 +3557,7 @@
     {
         "bandName": "Tightwire",
         "album": "Head Full Of Snakes",
+        "displayAlbum": "Head Full Of Snakes",
         "releaseNumber": "248",
         "releaseDate": "2023-06-09",
         "coverArt": "https://f4.bcbits.com/img/a1727143980_10.jpg",
@@ -3454,6 +3586,7 @@
     {
         "bandName": "Sam Russo",
         "album": "Mistletoe Pier",
+        "displayAlbum": "Mistletoe Pier",
         "releaseNumber": "253",
         "releaseDate": "2023-11-17",
         "coverArt": "https://f4.bcbits.com/img/a1869367366_10.jpg",
@@ -3472,6 +3605,7 @@
     {
         "bandName": "Broadway Calls",
         "album": "Coming After You!",
+        "displayAlbum": "Coming After You!",
         "releaseNumber": "254",
         "releaseDate": "2024-01-26",
         "coverArt": "https://f4.bcbits.com/img/a0851234312_10.jpg",
@@ -3492,6 +3626,7 @@
     {
         "bandName": "Sludgeworth",
         "album": "Together Not Together",
+        "displayAlbum": "Together Not Together",
         "releaseNumber": "255",
         "releaseDate": "2024-05-17",
         "coverArt": "https://f4.bcbits.com/img/a4147302672_10.jpg",
@@ -3510,6 +3645,7 @@
     {
         "bandName": "Red Scare Industries",
         "album": "20 Years Of Dreaming And Scheming",
+        "displayAlbum": "20 Years Of Dreaming And Scheming",
         "releaseNumber": "256",
         "releaseDate": "2024-09-06",
         "coverArt": "https://f4.bcbits.com/img/a1898392717_10.jpg",
@@ -3542,7 +3678,8 @@
     },
     {
         "bandName": "Arms Aloft",
-        "album": "Red Lanterns: The Third EP",
+        "album": "Red Lanterns The Third EP",
+        "displayAlbum": "Red Lanterns - The Third EP",
         "releaseNumber": "257",
         "releaseDate": "2024-11-05",
         "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/armsaloft-redlanterns_cover.jpg",

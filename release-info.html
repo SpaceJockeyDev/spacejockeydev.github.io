@@ -186,7 +186,7 @@
                         ? album.bandName
                         : `<a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, "-"))}">${album.bandName}</a>`
                     }</h2>
-                    <p class="album-title">${album.album}</p>
+                    <p class="album-title">${album.displayAlbum}</p>
                     <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate}</p>
                     ${
                       album.links.store !== null
