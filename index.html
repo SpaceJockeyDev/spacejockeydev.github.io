@@ -354,11 +354,12 @@
         releases.sort((a, b) => b.releaseNumber - a.releaseNumber);
 
         const releasesContainer = createElement("div", "releases-container");
+        
         releases.slice(0, 4).forEach((release) => {
           const releaseDiv = createElement("div", "release");
           const releaseLink = createElement("a", null, {
             href: `release-info.html?album=${encodeURIComponent(
-              release.album
+              release.album.replace(/\s+/g, '-')
             )}`,
           });
           const releaseImage = createElement("img", null, {
@@ -372,11 +373,13 @@
           infoDiv.appendChild(
             createElement("bandname", null, { textContent: release.bandName })
           );
+
+          
           infoDiv.appendChild(
             createElement("p", null, {
               textContent:
-                release.album.length > 25
-                  ? release.album.slice(0, 25) + "...."
+                release.album.length > 20
+                  ? release.displayAlbum.slice(0, 20) + "...."
                   : release.displayAlbum,
             })
           );
