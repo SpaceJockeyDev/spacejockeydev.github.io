@@ -136,9 +136,9 @@
           width: 90%;
         }
         #bands img {
-        max-width: 60%;
-        height: auto;
-      }
+          max-width: 60%;
+          height: auto;
+        }
         body::before {
           content: "";
           position: fixed;
@@ -178,6 +178,17 @@
     </div>
 
     <div id="bands"></div>
+    <div
+      id="no-events-message"
+      style="
+        display: none;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 20px;
+      "
+    >
+      Server error. Please refresh page or try again later.
+    </div>
 
     <div id="footer"></div>
   </body>
@@ -201,42 +212,49 @@
         txt.innerHTML = html;
         return txt.value;
       }
-  
+
       async function fetchAllPages(url) {
         const firstPageResponse = await fetch(`${url}?page=1`);
         const firstPageData = await firstPageResponse.json();
         const totalPages = firstPageData.total_pages;
         const allEvents = firstPageData.events;
-  
+
         const fetchPromises = [];
         for (let page = 2; page <= totalPages; page++) {
-          fetchPromises.push(fetch(`${url}?page=${page}`).then(response => response.json()));
+          fetchPromises.push(
+            fetch(`${url}?page=${page}`).then((response) => response.json())
+          );
         }
-  
+
         const remainingPagesData = await Promise.all(fetchPromises);
-        remainingPagesData.forEach(data => {
+        remainingPagesData.forEach((data) => {
           allEvents.push(...data.events);
         });
-  
+
         return allEvents;
       }
-  
+
       try {
         const [apiData, bandsData] = await Promise.all([
-          fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
-          fetch("bands.json").then(response => response.json()),
+          fetchAllPages(
+            "https://api.redscare.net/wp-json/tribe/events/v1/events"
+          ),
+          fetch("bands.json").then((response) => response.json()),
         ]);
-  
+
+        console.log("API Data:", apiData); // Log API data
+        console.log("Bands Data:", bandsData); // Log Bands data
+
         const bandsDiv = document.getElementById("bands");
         const dropdown = document.createElement("select");
         dropdown.id = "bandDropdown";
         bandsDiv.before(dropdown);
-  
+
         const allOption = document.createElement("option");
         allOption.value = "All";
         allOption.textContent = "All Bands";
         dropdown.appendChild(allOption);
-  
+
         bandsData.forEach((band) => {
           if (
             apiData.some(
@@ -251,11 +269,13 @@
             dropdown.appendChild(option);
           }
         });
-  
+
         const today = new Date();
         today.setHours(0, 0, 0, 0);
-  
+
         const fragment = document.createDocumentFragment();
+        let eventsFound = false;
+
         bandsData.forEach((band) => {
           const bandEvents = apiData.filter(
             (event) =>
@@ -263,26 +283,30 @@
                 decodeHtml(event.title).toLowerCase() &&
               new Date(event.start_date) >= today
           );
+
+          console.log(`Events for ${band.bandName}:`, bandEvents); // Log events for each band
+
           if (bandEvents.length > 0) {
+            eventsFound = true;
             const bandSection = document.createElement("div");
             bandSection.className = "band-section";
-  
+
             const bandImage = document.createElement("img");
             bandImage.src = band.picture;
             bandSection.appendChild(bandImage);
-  
+
             const bandName = document.createElement("h2");
             bandName.textContent = decodeHtml(band.bandName);
             bandName.className = "band-name";
             bandSection.appendChild(bandName);
-  
+
             const tourDatesList = document.createElement("ul");
             tourDatesList.style.listStyleType = "none";
             tourDatesList.style.marginBottom = "50px";
-  
+
             bandEvents.forEach((event) => {
               const li = document.createElement("li");
-              li.className = "li-separator"; // Add this line
+              li.className = "li-separator";
               li.style.backgroundColor = "whitesmoke";
               const eventDate = new Date(event.start_date);
               const formattedDate = eventDate.toLocaleString("en-US", {
@@ -292,19 +316,18 @@
               });
               if (event.venue.country === "United States") {
                 li.textContent = `${formattedDate} - ${decodeHtml(
-                event.venue.city
-              )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
-                event.venue.venue
-              )}`;
-              }
-              else {
+                  event.venue.city
+                )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
+                  event.venue.venue
+                )}`;
+              } else {
                 li.textContent = `${formattedDate} - ${decodeHtml(
-                event.venue.city
-              )}, ${decodeHtml(event.venue.country)} - ${decodeHtml(
-                event.venue.venue
-              )}`;
+                  event.venue.city
+                )}, ${decodeHtml(event.venue.country)} - ${decodeHtml(
+                  event.venue.venue
+                )}`;
               }
-              
+
               if (event.description) {
                 const description = document.createElement("p");
                 description.innerHTML = decodeHtml(event.description);
@@ -326,8 +349,13 @@
             fragment.appendChild(bandSection);
           }
         });
+
+        if (!eventsFound) {
+          document.getElementById("no-events-message").style.display = "block";
+        }
+
         bandsDiv.appendChild(fragment);
-  
+
         dropdown.addEventListener("change", function () {
           const selectedBand = this.value.toLowerCase(); // Convert selected band to lower case
           const bandSections = document.getElementsByClassName("band-section");
@@ -341,10 +369,13 @@
                 : "none";
           });
         });
+
+        document.getElementById("loading").style.display = "none";
       } catch (error) {
         console.error("Error:", error);
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("no-events-message").style.display = "block";
       }
-      document.getElementById("loading").style.display = "none";
     })();
   </script>
 </html>
