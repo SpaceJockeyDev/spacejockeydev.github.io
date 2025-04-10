@@ -206,58 +206,94 @@
     });
   </script>
   <script>
+    function decodeHtml(html) {
+      const txt = document.createElement("textarea");
+      txt.innerHTML = html;
+      return txt.value;
+    }
+
+  async function fetchAzureTableData() {
+  const accountName = "spacejockey";
+  const sasToken = "sv=2019-02-02&st=2025-04-10T15%3A19%3A17Z&se=2040-01-23T16%3A34%3A00Z&sp=r&sig=Y7IIrelezmc9gkR%2F6hPZg0ek1ww1sjtIp46TmhLvl3M%3D&tn=rstourdates"; // Generate a Shared Access Signature (SAS) token
+  const tableName = "rstourdates";
+
+  const url = `https://${accountName}.table.core.windows.net/${tableName}?${sasToken}`;
+
+  try {
+    const response = await fetch(url, {
+      headers: {
+        Accept: "application/json;odata=nometadata",
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error("Failed to fetch data from Azure Table Storage");
+    }
+
+    const data = await response.json();
+    return data.value.map((entity) => ({
+      title: entity.title,
+      start_date: entity.start_date,
+      venue: {
+        city: entity.venue_city,
+        stateprovince: entity.venue_stateprovince,
+        country: entity.venue_country,
+        venue: entity.venue_name,
+      },
+      description: entity.description,
+      website: entity.website,
+    }));
+  } catch (error) {
+    console.error("Error fetching Azure Table data:", error);
+    return [];
+  }
+}
+  
+    async function fetchAllPages(url) {
+      const firstPageResponse = await fetch(`${url}?page=1`);
+      const firstPageData = await firstPageResponse.json();
+      const totalPages = firstPageData.total_pages;
+      const allEvents = firstPageData.events;
+  
+      const fetchPromises = [];
+      for (let page = 2; page <= totalPages; page++) {
+        fetchPromises.push(
+          fetch(`${url}?page=${page}`).then((response) => response.json())
+        );
+      }
+  
+      const remainingPagesData = await Promise.all(fetchPromises);
+      remainingPagesData.forEach((data) => {
+        allEvents.push(...data.events);
+      });
+  
+      return allEvents;
+    }
+  
     (async function () {
-      function decodeHtml(html) {
-        const txt = document.createElement("textarea");
-        txt.innerHTML = html;
-        return txt.value;
-      }
-
-      async function fetchAllPages(url) {
-        const firstPageResponse = await fetch(`${url}?page=1`);
-        const firstPageData = await firstPageResponse.json();
-        const totalPages = firstPageData.total_pages;
-        const allEvents = firstPageData.events;
-
-        const fetchPromises = [];
-        for (let page = 2; page <= totalPages; page++) {
-          fetchPromises.push(
-            fetch(`${url}?page=${page}`).then((response) => response.json())
-          );
-        }
-
-        const remainingPagesData = await Promise.all(fetchPromises);
-        remainingPagesData.forEach((data) => {
-          allEvents.push(...data.events);
-        });
-
-        return allEvents;
-      }
-
       try {
-        const [apiData, bandsData] = await Promise.all([
-          fetchAllPages(
-            "https://api.redscare.net/wp-json/tribe/events/v1/events"
-          ),
+        const [apiData, azureData, bandsData] = await Promise.all([
+          fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
+          fetchAzureTableData(),
           fetch("bands.json").then((response) => response.json()),
         ]);
-
-        console.log("API Data:", apiData); // Log API data
-        console.log("Bands Data:", bandsData); // Log Bands data
-
+  
+        const combinedData = [...apiData, ...azureData];
+        console.log("Combined Data:", combinedData);
+  
         const bandsDiv = document.getElementById("bands");
         const dropdown = document.createElement("select");
         dropdown.id = "bandDropdown";
         bandsDiv.before(dropdown);
-
+  
         const allOption = document.createElement("option");
         allOption.value = "All";
         allOption.textContent = "All Bands";
         dropdown.appendChild(allOption);
-
+  
         bandsData.forEach((band) => {
           if (
-            apiData.some(
+            combinedData.some(
               (event) =>
                 decodeHtml(event.title).toLowerCase() ===
                 decodeHtml(band.bandName).toLowerCase()
@@ -269,41 +305,39 @@
             dropdown.appendChild(option);
           }
         });
-
+  
         const today = new Date();
         today.setHours(0, 0, 0, 0);
-
+  
         const fragment = document.createDocumentFragment();
         let eventsFound = false;
-
+  
         bandsData.forEach((band) => {
-          const bandEvents = apiData.filter(
+          const bandEvents = combinedData.filter(
             (event) =>
               decodeHtml(band.bandName).toLowerCase() ===
                 decodeHtml(event.title).toLowerCase() &&
               new Date(event.start_date) >= today
           );
-
-          console.log(`Events for ${band.bandName}:`, bandEvents); // Log events for each band
-
+  
           if (bandEvents.length > 0) {
             eventsFound = true;
             const bandSection = document.createElement("div");
             bandSection.className = "band-section";
-
+  
             const bandImage = document.createElement("img");
             bandImage.src = band.picture;
             bandSection.appendChild(bandImage);
-
+  
             const bandName = document.createElement("h2");
             bandName.textContent = decodeHtml(band.bandName);
             bandName.className = "band-name";
             bandSection.appendChild(bandName);
-
+  
             const tourDatesList = document.createElement("ul");
             tourDatesList.style.listStyleType = "none";
             tourDatesList.style.marginBottom = "50px";
-
+  
             bandEvents.forEach((event) => {
               const li = document.createElement("li");
               li.className = "li-separator";
@@ -327,7 +361,7 @@
                   event.venue.venue
                 )}`;
               }
-
+  
               if (event.description) {
                 const description = document.createElement("p");
                 description.innerHTML = decodeHtml(event.description);
@@ -349,27 +383,27 @@
             fragment.appendChild(bandSection);
           }
         });
-
+  
         if (!eventsFound) {
           document.getElementById("no-events-message").style.display = "block";
         }
-
+  
         bandsDiv.appendChild(fragment);
-
+  
         dropdown.addEventListener("change", function () {
-          const selectedBand = this.value.toLowerCase(); // Convert selected band to lower case
+          const selectedBand = this.value.toLowerCase();
           const bandSections = document.getElementsByClassName("band-section");
           Array.from(bandSections).forEach((bandSection) => {
             const bandName = bandSection
               .getElementsByClassName("band-name")[0]
-              .textContent.toLowerCase(); // Convert band name to lower case for comparison
+              .textContent.toLowerCase();
             bandSection.style.display =
               bandName === selectedBand || selectedBand === "all"
                 ? "block"
                 : "none";
           });
         });
-
+  
         document.getElementById("loading").style.display = "none";
       } catch (error) {
         console.error("Error:", error);
