@@ -271,145 +271,151 @@
     }
   
     (async function () {
-      try {
-        const [apiData, azureData, bandsData] = await Promise.all([
-          fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
-          fetchAzureTableData(),
-          fetch("bands.json").then((response) => response.json()),
-        ]);
-  
-        const combinedData = [...apiData, ...azureData];
-        console.log("Combined Data:", combinedData);
-  
-        const bandsDiv = document.getElementById("bands");
-        const dropdown = document.createElement("select");
-        dropdown.id = "bandDropdown";
-        bandsDiv.before(dropdown);
-  
-        const allOption = document.createElement("option");
-        allOption.value = "All";
-        allOption.textContent = "All Bands";
-        dropdown.appendChild(allOption);
-  
-        bandsData.forEach((band) => {
-          if (
-            combinedData.some(
-              (event) =>
-                decodeHtml(event.title).toLowerCase() ===
-                decodeHtml(band.bandName).toLowerCase()
-            )
-          ) {
-            const option = document.createElement("option");
-            option.value = decodeHtml(band.bandName);
-            option.textContent = decodeHtml(band.bandName);
-            dropdown.appendChild(option);
-          }
-        });
-  
-        const today = new Date();
-        today.setHours(0, 0, 0, 0);
-  
-        const fragment = document.createDocumentFragment();
-        let eventsFound = false;
-  
-        bandsData.forEach((band) => {
-          const bandEvents = combinedData.filter(
-            (event) =>
-              decodeHtml(band.bandName).toLowerCase() ===
-                decodeHtml(event.title).toLowerCase() &&
-              new Date(event.start_date) >= today
-          );
-  
-          if (bandEvents.length > 0) {
-            eventsFound = true;
-            const bandSection = document.createElement("div");
-            bandSection.className = "band-section";
-  
-            const bandImage = document.createElement("img");
-            bandImage.src = band.picture;
-            bandSection.appendChild(bandImage);
-  
-            const bandName = document.createElement("h2");
-            bandName.textContent = decodeHtml(band.bandName);
-            bandName.className = "band-name";
-            bandSection.appendChild(bandName);
-  
-            const tourDatesList = document.createElement("ul");
-            tourDatesList.style.listStyleType = "none";
-            tourDatesList.style.marginBottom = "50px";
-  
-            bandEvents.forEach((event) => {
-              const li = document.createElement("li");
-              li.className = "li-separator";
-              li.style.backgroundColor = "whitesmoke";
-              const eventDate = new Date(event.start_date);
-              const formattedDate = eventDate.toLocaleString("en-US", {
-                month: "short",
-                day: "2-digit",
-                year: "numeric",
-              });
-              if (event.venue.country === "United States") {
-                li.textContent = `${formattedDate} - ${decodeHtml(
-                  event.venue.city
-                )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
-                  event.venue.venue
-                )}`;
-              } else {
-                li.textContent = `${formattedDate} - ${decodeHtml(
-                  event.venue.city
-                )}, ${decodeHtml(event.venue.country)} - ${decodeHtml(
-                  event.venue.venue
-                )}`;
-              }
-  
-              if (event.description) {
-                const description = document.createElement("p");
-                description.innerHTML = decodeHtml(event.description);
-                description.style.marginLeft = "0px";
-                description.style.fontStyle = "italic";
-                li.appendChild(description);
-              }
-              if (event.website) {
-                const a = document.createElement("a");
-                a.href = event.website;
-                a.textContent = "Buy Tickets";
-                a.className = "ticket-link";
-                a.target = "_blank";
-                li.appendChild(a);
-              }
-              tourDatesList.appendChild(li);
-            });
-            bandSection.appendChild(tourDatesList);
-            fragment.appendChild(bandSection);
-          }
-        });
-  
-        if (!eventsFound) {
-          document.getElementById("no-events-message").style.display = "block";
-        }
-  
-        bandsDiv.appendChild(fragment);
-  
-        dropdown.addEventListener("change", function () {
-          const selectedBand = this.value.toLowerCase();
-          const bandSections = document.getElementsByClassName("band-section");
-          Array.from(bandSections).forEach((bandSection) => {
-            const bandName = bandSection
-              .getElementsByClassName("band-name")[0]
-              .textContent.toLowerCase();
-            bandSection.style.display =
-              bandName === selectedBand || selectedBand === "all"
-                ? "block"
-                : "none";
-          });
-        });
-  
-        document.getElementById("loading").style.display = "none";
-      } catch (error) {
-        console.error("Error:", error);
-        document.getElementById("loading").style.display = "none";
-        document.getElementById("no-events-message").style.display = "block";
+  try {
+    const [apiData, azureData, bandsData] = await Promise.all([
+      fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
+      fetchAzureTableData(),
+      fetch("bands.json").then((response) => response.json()),
+    ]);
+
+    // Combine and sort the data by start_date
+    const combinedData = [...apiData, ...azureData].sort((a, b) => {
+      const dateA = new Date(a.start_date);
+      const dateB = new Date(b.start_date);
+      return dateA - dateB; // Ascending order
+    });
+
+    console.log("Sorted Combined Data:", combinedData);
+
+    const bandsDiv = document.getElementById("bands");
+    const dropdown = document.createElement("select");
+    dropdown.id = "bandDropdown";
+    bandsDiv.before(dropdown);
+
+    const allOption = document.createElement("option");
+    allOption.value = "All";
+    allOption.textContent = "All Bands";
+    dropdown.appendChild(allOption);
+
+    bandsData.forEach((band) => {
+      if (
+        combinedData.some(
+          (event) =>
+            decodeHtml(event.title).toLowerCase() ===
+            decodeHtml(band.bandName).toLowerCase()
+        )
+      ) {
+        const option = document.createElement("option");
+        option.value = decodeHtml(band.bandName);
+        option.textContent = decodeHtml(band.bandName);
+        dropdown.appendChild(option);
       }
-    })();
+    });
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const fragment = document.createDocumentFragment();
+    let eventsFound = false;
+
+    bandsData.forEach((band) => {
+      const bandEvents = combinedData.filter(
+        (event) =>
+          decodeHtml(band.bandName).toLowerCase() ===
+            decodeHtml(event.title).toLowerCase() &&
+          new Date(event.start_date) >= today
+      );
+
+      if (bandEvents.length > 0) {
+        eventsFound = true;
+        const bandSection = document.createElement("div");
+        bandSection.className = "band-section";
+
+        const bandImage = document.createElement("img");
+        bandImage.src = band.picture;
+        bandSection.appendChild(bandImage);
+
+        const bandName = document.createElement("h2");
+        bandName.textContent = decodeHtml(band.bandName);
+        bandName.className = "band-name";
+        bandSection.appendChild(bandName);
+
+        const tourDatesList = document.createElement("ul");
+        tourDatesList.style.listStyleType = "none";
+        tourDatesList.style.marginBottom = "50px";
+
+        bandEvents.forEach((event) => {
+          const li = document.createElement("li");
+          li.className = "li-separator";
+          li.style.backgroundColor = "whitesmoke";
+          const eventDate = new Date(event.start_date);
+          const formattedDate = eventDate.toLocaleString("en-US", {
+            month: "short",
+            day: "2-digit",
+            year: "numeric",
+          });
+          if (event.venue.country === "United States") {
+            li.textContent = `${formattedDate} - ${decodeHtml(
+              event.venue.city
+            )}, ${decodeHtml(event.venue.stateprovince)} - ${decodeHtml(
+              event.venue.venue
+            )}`;
+          } else {
+            li.textContent = `${formattedDate} - ${decodeHtml(
+              event.venue.city
+            )}, ${decodeHtml(event.venue.country)} - ${decodeHtml(
+              event.venue.venue
+            )}`;
+          }
+
+          if (event.description) {
+            const description = document.createElement("p");
+            description.innerHTML = decodeHtml(event.description);
+            description.style.marginLeft = "0px";
+            description.style.fontStyle = "italic";
+            li.appendChild(description);
+          }
+          if (event.website) {
+            const a = document.createElement("a");
+            a.href = event.website;
+            a.textContent = "Buy Tickets";
+            a.className = "ticket-link";
+            a.target = "_blank";
+            li.appendChild(a);
+          }
+          tourDatesList.appendChild(li);
+        });
+        bandSection.appendChild(tourDatesList);
+        fragment.appendChild(bandSection);
+      }
+    });
+
+    if (!eventsFound) {
+      document.getElementById("no-events-message").style.display = "block";
+    }
+
+    bandsDiv.appendChild(fragment);
+
+    dropdown.addEventListener("change", function () {
+      const selectedBand = this.value.toLowerCase();
+      const bandSections = document.getElementsByClassName("band-section");
+      Array.from(bandSections).forEach((bandSection) => {
+        const bandName = bandSection
+          .getElementsByClassName("band-name")[0]
+          .textContent.toLowerCase();
+        bandSection.style.display =
+          bandName === selectedBand || selectedBand === "all"
+            ? "block"
+            : "none";
+      });
+    });
+
+    document.getElementById("loading").style.display = "none";
+  } catch (error) {
+    console.error("Error:", error);
+    document.getElementById("loading").style.display = "none";
+    document.getElementById("no-events-message").style.display = "block";
+  }
+})();
   </script>
 </html>
