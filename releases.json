@@ -3716,5 +3716,24 @@
             "bandcamp": "https://armsaloft.bandcamp.com/album/red-lanterns-the-third-ep",
             "store": null
         }
+    },
+    {
+        "bandName": "Elway",
+        "album": "Laugh Track",
+        "displayAlbum": "Laugh Track",
+        "releaseNumber": "259",
+        "releaseDate": "2025-05-01",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/laugh-track-single.jpg",
+        "description": "\"Laugh Track\" is the first single from Elway's upcoming <i>Nobody's Going To Heaven</i> LP, and even though these soy boys are REALLY frustrated with the current timeline, the new songs are secretly triumphant and affirmative.  And to make damn sure the message gets through to the listener, they enlisted Colorado's Blasting Room Studios (Hot Water Music, Broadway Calls, Propagandhi, etc.) to turn this shit up to 11.  A minimalist rendition of fan favorite \"Better Whenever\" is on the B-side, and yes, that is a piano accompaniment you're hearing.  But what does it all mean?!  More new Elway music coming in 2025!",
+        "trackList":[
+            "01. Laugh Track",
+            "02. Better Whenever (At Ten)"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": null
+        }
     }
 ]
