@@ -3730,9 +3730,9 @@
             "02. Better Whenever (At Ten)"
         ],
         "links":{
-            "spotify": null,
-            "appleMusic": null,
-            "bandcamp": null,
+            "spotify": "https://open.spotify.com/album/2q40kAvBLchwPgpBoqYgN3?si=JUazb0-CSE23aFc-KobJ9g",
+            "appleMusic": "https://music.apple.com/us/album/laugh-track-single/1806699726",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/laugh-track-single",
             "store": null
         }
     }
