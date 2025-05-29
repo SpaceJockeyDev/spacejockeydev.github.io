@@ -3735,5 +3735,24 @@
             "bandcamp": "https://elwaytheband.bandcamp.com/album/laugh-track-single",
             "store": null
         }
+    },
+    {
+        "bandName": "The Methadones",
+        "album": "Love On Layaway",
+        "displayAlbum": "Love On Layaway",
+        "releaseNumber": "258",
+        "releaseDate": "2025-05-29",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/Methadones-Love-on-Layaway-3000.jpg",
+        "description": "The Methadones haven't released new music in years and years, but that's all about to change with this new 7\".  *crowd goes wild*  Two new songs of power-pop-punk-rock!  Hopefully a sign of good things to come?  These Chicago heroes are led by the master of melody: Dan Schafer (from The Cheats, Screeching Weasel, Sludgeworth, etc.), and they've been heating up with shows from St. Louis to Rotterdam.  As for the wax, we teamed up with beloved Dutch label, Stardumb Records, to celebrate their 25th birthday, and we pressed a very limited 7\" as a party favor.  This is one of those things that's gonna be super scarce, so A) Grab a copy at the show, or B) Hit up mailorder early, or C) Listen to these hits over and over on the internet.  You have options, comrades!",
+        "trackList":[
+            "01. Love On Layaway",
+            "02. My Insanity Plea"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": null
+        }
     }
 ]
