@@ -150,8 +150,21 @@
       fetch("releases.json")
         .then((response) => response.json())
         .then((albums) => {
-          // Find the album with the correct name
-          const album = albums.find((album) => album.album === albumName);
+  // Find the album with the correct name
+  const album = albums.find((album) => album.album === albumName);
+
+  // If album not found, show error and stop
+  if (!album) {
+    document.title = "Red Scare | Album Not Found";
+    const container = document.getElementById("album-info-container");
+    container.innerHTML = `
+      <div style="background: whitesmoke; padding: 40px; text-align: center; border-radius: 8px;">
+        <h2 style="color: red;">Album Not Found</h2>
+        <p>Sorry, we couldn't find that album. Please check the URL.</p>
+      </div>
+    `;
+    return; // Stop further processing
+  }
 
           // Fetch the band data from bands.json
           fetch("bands.json")

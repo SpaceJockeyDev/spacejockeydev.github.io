@@ -290,7 +290,19 @@
   fetch("bands.json")
     .then((response) => response.json())
     .then((bands) => {
-      const band = bands.find((band) => band.bandName === bandName);
+  const band = bands.find((band) => band.bandName === bandName);
+
+  if (!band) {
+    // Band not found: show error message and stop further processing
+    document.getElementById("band-name").innerHTML = `<span class="underline">Band Not Found</span>`;
+    document.getElementById("band-picture").style.display = "none";
+    document.getElementById("band-hometown").textContent = "";
+    document.getElementById("band-bio").innerHTML = "<span style='color:red;'>Sorry, we couldn't find that band. Check the URL.</span>";
+    document.getElementById("band-socials").innerHTML = "";
+    document.getElementById("band-releases").innerHTML = "";
+    document.title = "Red Scare | Band Not Found";
+    return; // Stop further processing
+  }
 
       fetch("releases.json")
         .then((response) => response.json())
