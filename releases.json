@@ -3749,9 +3749,9 @@
             "02. My Insanity Plea"
         ],
         "links":{
-            "spotify": null,
-            "appleMusic": null,
-            "bandcamp": null,
+            "spotify": "https://open.spotify.com/album/2MwOSgz4X4Sm7ZQOCG737R?si=7hJaghufT9-SgVeUigms_w",
+            "appleMusic": "https://music.apple.com/us/album/love-on-layaway-single/1806350942",
+            "bandcamp": "https://themethadones.bandcamp.com/album/love-on-layaway",
             "store": "https://redscare.storenvy.com/products/36934786-the-methadones-love-on-layaway-7-cccp-258-7"
         }
     }
