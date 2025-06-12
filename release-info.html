@@ -200,7 +200,7 @@
                         : `<a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, "-"))}">${album.bandName}</a>`
                     }</h2>
                     <p class="album-title">${album.displayAlbum}</p>
-                    <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate}</p>
+                    <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate.substring(0, 4)}</p>
                     ${
                       album.links.store !== null
                         ? `<a class="buy-button" href="${album.links.store}" target="_blank" role="button">Buy</a>`
