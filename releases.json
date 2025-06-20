@@ -3768,9 +3768,9 @@
             "02. Old Keys (Sound Acres Live Acoustic Session)"
         ],
         "links":{
-            "spotify": null,
-            "appleMusic": null,
-            "bandcamp": null,
+            "spotify": "https://open.spotify.com/album/5tem55itAkkjVpoyzIwIeJ?si=f7HQj-oQSLyd13NJOewFLA",
+            "appleMusic": "https://music.apple.com/us/album/your-great-escape-single/1818401795",
+            "bandcamp": "https://tiredradio.bandcamp.com/album/your-great-escape-single",
             "store": null
         }
     }
