@@ -3698,6 +3698,51 @@
     },
     {
         "bandName": "Arms Aloft",
+        "album": "2007 Demos The First EP",
+        "displayAlbum": "2007 Demos - The First EP",
+        "releaseNumber": "268",
+        "releaseDate": "2007",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/armsaloft-2007demo-cover.jpg",
+        "description": "Wisconsin's Arms Aloft formed in 2007 when neighborhood friends Seth Gile and Matt Keil decided to bang out some Leftist rock songs.  We're grateful they did, because the band has endured as a respected voice in the underground scene and is a lode star for punk rock ethics.  Bassist Matt battled ALS for nearly two years before tragically passing away in July of 2025, and we knew that their beginnings needed to be documented.  According to legend, \"We burned a hundred copies or so and they were gone real quick after a few local shows.\"  Thanks for the music, Matt.  Your friends love and miss you.",
+        "trackList":[
+            "01. Dreams Are Dogs That Die In Their Kennels (Demo)",
+            "02. Content With Discontent (The Great Defeatist)",
+            "03. Torn Apart On A Digital Sea",
+            "04. Irish Coffee (Demo)",
+            "05. Two-For-Ones At The Gothic Castle"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://armsaloft.bandcamp.com/album/demo-summer-2007",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Arms Aloft",
+        "album": "Comfort At Any Cost The Second EP",
+        "displayAlbum": "Comfort At Any Cost - The Second EP",
+        "releaseNumber": "269",
+        "releaseDate": "2010",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/armsaloft-comfortEP-cover.jpg",
+        "description": "The first official release from Arms Aloft came out as this 7\" back in 2010.  Just ask anyone in town, this is the band that put Eau Claire, Wisconsin on the map!  Six gritty punk rock tracks that're a taste of great things to come.  If you're hankerin' for a dose of Marx and Engels, but don't have any radical literature handy, this EP will work in a pinch.",
+        "trackList":[
+            "01. Comfort At Any Cost",
+            "02. Dreams Are Dogs That Die In Their Kennels",
+            "03. Chopper Dave",
+            "04. Solid Ground",
+            "05. Skinny Love",
+            "06. DOUBLEDRANOPERCOCETNOICE"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://armsaloft.bandcamp.com/album/comfort-at-any-cost-ep",
+            "store": null
+        }
+    },
+    {
+        "bandName": "Arms Aloft",
         "album": "Red Lanterns The Third EP",
         "displayAlbum": "Red Lanterns - The Third EP",
         "releaseNumber": "257",
