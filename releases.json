@@ -3818,5 +3818,26 @@
             "bandcamp": "https://tiredradio.bandcamp.com/album/your-great-escape-single",
             "store": null
         }
+    },
+    {
+        "bandName": "Various Artists",
+        "album": "Red Scare Across Canada",
+        "displayAlbum": "Red Scare Across Canada: 2025",
+        "releaseNumber": "261",
+        "releaseDate": "2025-07-18",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/RED-SCARE-CANADA-7inch-3000.JPG",
+        "description": "Punk Rock Story Time: Sometimes dumb politicians show up and exert their stupidity and zeal into our everyday lives.  Like, say, a completely unprovoked trade war between two eternally peaceful neighboring nations.  But WHY, you ask?  Hard to say.  Maybe the scaremongering and strife gives these hobgoblins an opportunity to... distract, seize power, play golf?  Enter the good guys, Red Scare.  We're here to squash this beef with a tour of lovely Canadian towns and we're making a special EP for the shows.  Four exclusive songs!  Acts from Chicago, France, UK, and Boston.  Leave it to the punks to restore peace to the galaxy...",
+        "trackList":[
+            "01. Brendan Kelly and the Wandering Birds “Tracksuit”",
+            "02. Guerilla Poubelle “L'incendie, le canadair et le colibri”",
+            "03. Sam Russo “Leaving”",
+            "04. In The Meantime “Old Gum”"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/4fi43QDRPbhEdVFrnWp2hD?si=2ExYywwfQQ2bb4dawI7ttQ",
+            "appleMusic": "https://music.apple.com/us/album/red-scare-across-canada-2025-ep/1824525547",
+            "bandcamp": "https://redscareindustries.bandcamp.com/album/red-scare-across-canada-2025",
+            "store": null
+        }
     }
 ]
