@@ -1,0 +1,2612 @@
+[
+  {
+    "index": 1,
+    "title": "Tired Radio",
+    "start_date": "2025-08-08 08:00:00",
+    "formatted_date": "Aug 08, 2025",
+    "venue": {
+      "city": "Medford",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Deep Cuts"
+    },
+    "description": "<p>With One Fall!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 2,
+    "title": "Sam Russo",
+    "start_date": "2025-08-08 08:00:00",
+    "formatted_date": "Aug 08, 2025",
+    "venue": {
+      "city": "Bristol",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Specialist Subject Records"
+    },
+    "description": "<p>Hold You Hard release show!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 3,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-12 08:00:00",
+    "formatted_date": "Aug 12, 2025",
+    "venue": {
+      "city": "Ottawa",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "27 Club"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://www.ticketweb.ca/event/guerilla-poubelle-brendan-kelly-sam-the-27-club-tickets/14404093?pl=spectrasonic&amp;refid=BK",
+    "is_future_event": true
+  },
+  {
+    "index": 4,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-12 08:00:00",
+    "formatted_date": "Aug 12, 2025",
+    "venue": {
+      "city": "Ottawa",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "27 Club"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://www.ticketweb.ca/event/guerilla-poubelle-brendan-kelly-sam-the-27-club-tickets/14404093?pl=spectrasonic&amp;refid=BK",
+    "is_future_event": true
+  },
+  {
+    "index": 5,
+    "title": "Sam Russo",
+    "start_date": "2025-08-12 08:00:00",
+    "formatted_date": "Aug 12, 2025",
+    "venue": {
+      "city": "Ottawa",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "27 Club"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://www.ticketweb.ca/event/guerilla-poubelle-brendan-kelly-sam-the-27-club-tickets/14404093?pl=spectrasonic&amp;refid=BK",
+    "is_future_event": true
+  },
+  {
+    "index": 6,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-12 08:00:00",
+    "formatted_date": "Aug 12, 2025",
+    "venue": {
+      "city": "Winnipeg",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sidestage"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-broadway-sidestage-tickets/14491653?pl=sidestage",
+    "is_future_event": true
+  },
+  {
+    "index": 7,
+    "title": "Broadway Calls",
+    "start_date": "2025-08-12 08:00:00",
+    "formatted_date": "Aug 12, 2025",
+    "venue": {
+      "city": "Winnipeg",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sidestage"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-broadway-sidestage-tickets/14491653?pl=sidestage",
+    "is_future_event": true
+  },
+  {
+    "index": 8,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-13 08:00:00",
+    "formatted_date": "Aug 13, 2025",
+    "venue": {
+      "city": "Tillsonburg",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Paddy&#8217;s"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://redscaretillsonburg.eventbrite.ca/",
+    "is_future_event": true
+  },
+  {
+    "index": 9,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-13 08:00:00",
+    "formatted_date": "Aug 13, 2025",
+    "venue": {
+      "city": "Tillsonburg",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Paddy&#8217;s"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://redscaretillsonburg.eventbrite.ca/",
+    "is_future_event": true
+  },
+  {
+    "index": 10,
+    "title": "Sam Russo",
+    "start_date": "2025-08-13 08:00:00",
+    "formatted_date": "Aug 13, 2025",
+    "venue": {
+      "city": "Tillsonburg",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Paddy&#8217;s"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://redscaretillsonburg.eventbrite.ca/",
+    "is_future_event": true
+  },
+  {
+    "index": 11,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-13 08:00:00",
+    "formatted_date": "Aug 13, 2025",
+    "venue": {
+      "city": "Saskatoon",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Black Cat Tavern"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://show.ps/l/b64e8e2b/",
+    "is_future_event": true
+  },
+  {
+    "index": 12,
+    "title": "Broadway Calls",
+    "start_date": "2025-08-13 08:00:00",
+    "formatted_date": "Aug 13, 2025",
+    "venue": {
+      "city": "Saskatoon",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Black Cat Tavern"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://show.ps/l/b64e8e2b/",
+    "is_future_event": true
+  },
+  {
+    "index": 13,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Guelph",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sonic Hall"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://tixr.com/e/141413",
+    "is_future_event": true
+  },
+  {
+    "index": 14,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Guelph",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sonic Hall"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://tixr.com/e/141413",
+    "is_future_event": true
+  },
+  {
+    "index": 15,
+    "title": "Sam Russo",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Guelph",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sonic Hall"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://tixr.com/e/141413",
+    "is_future_event": true
+  },
+  {
+    "index": 16,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Edmonton",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "The Starlite Room"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottle-rocket-the-starlite-room-tickets/13759074?pl=ConcertWorks",
+    "is_future_event": true
+  },
+  {
+    "index": 17,
+    "title": "Broadway Calls",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Edmonton",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "The Starlite Room"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottle-rocket-the-starlite-room-tickets/13759074?pl=ConcertWorks",
+    "is_future_event": true
+  },
+  {
+    "index": 18,
+    "title": "Sam Russo",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Toronto",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Horseshoe"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://www.showclix.com/tickets/BKATWB",
+    "is_future_event": true
+  },
+  {
+    "index": 19,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Toronto",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Horseshoe"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://www.showclix.com/tickets/BKATWB",
+    "is_future_event": true
+  },
+  {
+    "index": 20,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Toronto",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Horseshoe"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://www.showclix.com/tickets/BKATWB",
+    "is_future_event": true
+  },
+  {
+    "index": 21,
+    "title": "Broadway Calls",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Calgary",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Dickens"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.ca/e/1373876153559?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 22,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Calgary",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Dickens"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.eventbrite.ca/e/1373876153559?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 23,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Piranah Bar"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://aftontickets.com/GuerillaPoubelle",
+    "is_future_event": true
+  },
+  {
+    "index": 24,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Piranah Bar"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://aftontickets.com/GuerillaPoubelle",
+    "is_future_event": true
+  },
+  {
+    "index": 25,
+    "title": "Sam Russo",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Piranah Bar"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://aftontickets.com/GuerillaPoubelle",
+    "is_future_event": true
+  },
+  {
+    "index": 26,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
+    "venue": {
+      "city": "Kelowna",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Jackknife"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.eventbrite.ca/e/teenage-bottlerocket-w-broadway-calls-kelowna-bc-tickets-1378179113829?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 27,
+    "title": "Broadway Calls",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
+    "venue": {
+      "city": "Kelowna",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Jackknife"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.ca/e/teenage-bottlerocket-w-broadway-calls-kelowna-bc-tickets-1378179113829?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 28,
+    "title": "Heart &#038; Lung",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
+    "venue": {
+      "city": "Cleveland",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "The Birdhouse"
+    },
+    "description": "<p>With Royal Dog, Flippant, and House of Willis!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 29,
+    "title": "Sam Russo",
+    "start_date": "2025-08-17 08:00:00",
+    "formatted_date": "Aug 17, 2025",
+    "venue": {
+      "city": "Quebec City",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "L&#8217;Anti"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/d7p250817001",
+    "is_future_event": true
+  },
+  {
+    "index": 30,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-17 08:00:00",
+    "formatted_date": "Aug 17, 2025",
+    "venue": {
+      "city": "Quebec City",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "L&#8217;Anti"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/d7p250817001",
+    "is_future_event": true
+  },
+  {
+    "index": 31,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-17 08:00:00",
+    "formatted_date": "Aug 17, 2025",
+    "venue": {
+      "city": "Quebec City",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "L&#8217;Anti"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/d7p250817001",
+    "is_future_event": true
+  },
+  {
+    "index": 32,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-17 08:00:00",
+    "formatted_date": "Aug 17, 2025",
+    "venue": {
+      "city": "Vancouver",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Rickshaw Theatre"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://tbr-vancouver.eventbrite.ca/",
+    "is_future_event": true
+  },
+  {
+    "index": 33,
+    "title": "Broadway Calls",
+    "start_date": "2025-08-17 08:00:00",
+    "formatted_date": "Aug 17, 2025",
+    "venue": {
+      "city": "Vancouver",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Rickshaw Theatre"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://tbr-vancouver.eventbrite.ca/",
+    "is_future_event": true
+  },
+  {
+    "index": 34,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-18 08:00:00",
+    "formatted_date": "Aug 18, 2025",
+    "venue": {
+      "city": "Jonquiere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Cote-Cour"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "is_future_event": true
+  },
+  {
+    "index": 35,
+    "title": "Sam Russo",
+    "start_date": "2025-08-18 08:00:00",
+    "formatted_date": "Aug 18, 2025",
+    "venue": {
+      "city": "Jonquiere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Cote-Cour"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "is_future_event": true
+  },
+  {
+    "index": 36,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-18 08:00:00",
+    "formatted_date": "Aug 18, 2025",
+    "venue": {
+      "city": "Jonquiere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Cote-Cour"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "is_future_event": true
+  },
+  {
+    "index": 37,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-19 08:00:00",
+    "formatted_date": "Aug 19, 2025",
+    "venue": {
+      "city": "Sherbrooke",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Le Murdoch"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/mur250819001",
+    "is_future_event": true
+  },
+  {
+    "index": 38,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-19 08:00:00",
+    "formatted_date": "Aug 19, 2025",
+    "venue": {
+      "city": "Sherbrooke",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Le Murdoch"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/mur250819001",
+    "is_future_event": true
+  },
+  {
+    "index": 39,
+    "title": "Sam Russo",
+    "start_date": "2025-08-19 08:00:00",
+    "formatted_date": "Aug 19, 2025",
+    "venue": {
+      "city": "Sherbrooke",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Le Murdoch"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/mur250819001",
+    "is_future_event": true
+  },
+  {
+    "index": 40,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-20 08:00:00",
+    "formatted_date": "Aug 20, 2025",
+    "venue": {
+      "city": "Trois Riviere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Rock Cafe Le Stage"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/4rl250820001",
+    "is_future_event": true
+  },
+  {
+    "index": 41,
+    "title": "Sam Russo",
+    "start_date": "2025-08-20 08:00:00",
+    "formatted_date": "Aug 20, 2025",
+    "venue": {
+      "city": "Trois Riviere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Rock Cafe Le Stage"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/4rl250820001",
+    "is_future_event": true
+  },
+  {
+    "index": 42,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-20 08:00:00",
+    "formatted_date": "Aug 20, 2025",
+    "venue": {
+      "city": "Trois Riviere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Rock Cafe Le Stage"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/4rl250820001",
+    "is_future_event": true
+  },
+  {
+    "index": 43,
+    "title": "The Bollweevils",
+    "start_date": "2025-08-22 08:00:00",
+    "formatted_date": "Aug 22, 2025",
+    "venue": {
+      "city": "West Dundee",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Rochaus"
+    },
+    "description": "<p>With The Brokedowns, Rad Payoff, Pure Intentions, and Dialator!</p>",
+    "website": "https://www.seetickets.us/event/the-bollweevils-the-brokedowns/655362",
+    "is_future_event": true
+  },
+  {
+    "index": 44,
+    "title": "The Brokedowns",
+    "start_date": "2025-08-22 08:00:00",
+    "formatted_date": "Aug 22, 2025",
+    "venue": {
+      "city": "West Dundee",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Rochaus"
+    },
+    "description": "<p>With The Bollweevils, Rad Payoff, Pure Intentions, and Dialator!</p>",
+    "website": "https://www.seetickets.us/event/the-bollweevils-the-brokedowns/655362",
+    "is_future_event": true
+  },
+  {
+    "index": 45,
+    "title": "Sam Russo",
+    "start_date": "2025-08-29 08:00:00",
+    "formatted_date": "Aug 29, 2025",
+    "venue": {
+      "city": "Haggerston",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Signature Brew"
+    },
+    "description": "<p>Hold You Hard release show!</p>",
+    "website": "https://www.tixr.com/e/148536",
+    "is_future_event": true
+  },
+  {
+    "index": 46,
+    "title": "The Methadones",
+    "start_date": "2025-08-30 08:00:00",
+    "formatted_date": "Aug 30, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Cobra Lounge"
+    },
+    "description": "<p>Riot Fest Presents &#8220;Love on Layaway&#8221; Release show with Sore Subjects and Special Guests!</p>",
+    "website": "https://dice.fm/partner/235-ashland-holdings-inc-dba-cobra-lounge/event/xel65a-the-methadones-love-on-the-layaway-release-show-30th-aug-cobra-lounge-chicago-tickets?dice_id=6210674&amp;dice_channel=web&amp;dice_tags=organic&amp;dice_campaign=235+Ashland+Holdings%2C+Inc+dba+Cobra+Lounge&amp;dice_feature=mio_marketing&amp;_ga=2.23249402.1303897139.1748536953-528891854.1748536953&amp;_branch_match_id=1450955556766159744&amp;utm_source=web&amp;utm_campaign=235+Ashland+Holdings%2C+Inc+dba+Cobra+Lounge&amp;utm_medium=mio_marketing&amp;_branch_referrer=H4sIAAAAAAAAA03ISw6CQAwA0Nu4c4a206E1IS48CEEpMFE%2BKSTGjWd361u%2B6Ti2%2FRLjqyzP0JeHhWGOn8zQQ5dVUa7t2DUYkDBpqjAAVSRaA2mAOglTVqYzo4iCcPrL09dtMPeyjO3d1%2Fdu3twmX2f7AdkwfWB1AAAA",
+    "is_future_event": true
+  },
+  {
+    "index": 47,
+    "title": "Sam Russo",
+    "start_date": "2025-08-30 08:00:00",
+    "formatted_date": "Aug 30, 2025",
+    "venue": {
+      "city": "Manchester",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "The Rat and Pigeon"
+    },
+    "description": "<p>Hold You Hard release show!</p>",
+    "website": "https://bit.ly/russohold",
+    "is_future_event": true
+  },
+  {
+    "index": 48,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-30 08:00:00",
+    "formatted_date": "Aug 30, 2025",
+    "venue": {
+      "city": "Woodstock",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "The Records Department"
+    },
+    "description": "<p>With Garrett Dale!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 49,
+    "title": "Garrett Dale",
+    "start_date": "2025-08-30 08:00:00",
+    "formatted_date": "Aug 30, 2025",
+    "venue": {
+      "city": "Woodstock",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "The Records Department"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 50,
+    "title": "Sludgeworth",
+    "start_date": "2025-09-05 08:00:00",
+    "formatted_date": "Sep 05, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Edgewater Music Fest"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 51,
+    "title": "The Brokedowns",
+    "start_date": "2025-09-05 08:00:00",
+    "formatted_date": "Sep 05, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Edgewater Music Fest"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 52,
+    "title": "Tightwire",
+    "start_date": "2025-09-05 08:00:00",
+    "formatted_date": "Sep 05, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Edgewater Music Fest"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 53,
+    "title": "The Reaganomics",
+    "start_date": "2025-09-05 08:00:00",
+    "formatted_date": "Sep 05, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Edgewater Music Fest"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 54,
+    "title": "The Reaganomics",
+    "start_date": "2025-09-07 08:00:00",
+    "formatted_date": "Sep 07, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Bottom Lounge"
+    },
+    "description": "<p>With Bad Planning, Goldwaite, The Iron Spiders, and Won’t Stay Dead!</p>",
+    "website": "https://www.ticketweb.com/event/bad-planning-goldwaite-the-reaganomics-bottom-lounge-tickets/13865904?REFID=clientsitewp",
+    "is_future_event": true
+  },
+  {
+    "index": 55,
+    "title": "Tired Radio",
+    "start_date": "2025-09-15 08:00:00",
+    "formatted_date": "Sep 15, 2025",
+    "venue": {
+      "city": "Philadelphia",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "Warehouse On Watts"
+    },
+    "description": "<p>With Sincere Engineer!</p>",
+    "website": "https://www.etix.com/ticket/p/70871002/sincere-engineer-philadelphia-warehouse-on-watts-cambridge-hall",
+    "is_future_event": true
+  },
+  {
+    "index": 56,
+    "title": "Sincere Engineer",
+    "start_date": "2025-09-17 08:00:00",
+    "formatted_date": "Sep 17, 2025",
+    "venue": {
+      "city": "Newport",
+      "stateprovince": "KY",
+      "country": "United States",
+      "venue": "MegaCorp Pavilion"
+    },
+    "description": "<p>With The Front Bottoms!</p>",
+    "website": "https://www.axs.com/events/1011763/the-front-bottoms-tickets",
+    "is_future_event": true
+  },
+  {
+    "index": 57,
+    "title": "Sincere Engineer",
+    "start_date": "2025-09-18 08:00:00",
+    "formatted_date": "Sep 18, 2025",
+    "venue": {
+      "city": "Grand Rapids",
+      "stateprovince": "MI",
+      "country": "United States",
+      "venue": "The Intersection"
+    },
+    "description": "<p>With The Front Bottoms!</p>",
+    "website": "https://www.etix.com/ticket/p/55273352/the-front-bottoms-10-years-of-back-on-top-grand-rapids-the-intersection",
+    "is_future_event": true
+  },
+  {
+    "index": 58,
+    "title": "Sincere Engineer",
+    "start_date": "2025-09-22 08:00:00",
+    "formatted_date": "Sep 22, 2025",
+    "venue": {
+      "city": "Knoxville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "The Mill &#038; Mine"
+    },
+    "description": "<p>With The Front Bottoms!</p>",
+    "website": "https://www.ticketweb.com/event/the-front-bottoms-the-mill-mine-tickets/13777324",
+    "is_future_event": true
+  },
+  {
+    "index": 59,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-23 08:00:00",
+    "formatted_date": "Sep 23, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Palasad SocialBowl"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.showpass.com/teenage-bottlerocket-socialbowl/",
+    "is_future_event": true
+  },
+  {
+    "index": 60,
+    "title": "Sincere Engineer",
+    "start_date": "2025-09-23 08:00:00",
+    "formatted_date": "Sep 23, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "The National"
+    },
+    "description": "<p>With The Front Bottoms!</p>",
+    "website": "https://www.axs.com/events/1008229/the-front-bottoms-tickets",
+    "is_future_event": true
+  },
+  {
+    "index": 61,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-24 08:00:00",
+    "formatted_date": "Sep 24, 2025",
+    "venue": {
+      "city": "Toronto",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Hard Luck Bar"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.showclix.com/tickets/TBR",
+    "is_future_event": true
+  },
+  {
+    "index": 62,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-25 08:00:00",
+    "formatted_date": "Sep 25, 2025",
+    "venue": {
+      "city": "Kingston",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "The Mansion"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://fannatickets.com/event/sep-25-teenage-bottlerocket-and-we-were-sharks-at-the-mansion-kingston-565/register",
+    "is_future_event": true
+  },
+  {
+    "index": 63,
+    "title": "Sincere Engineer",
+    "start_date": "2025-09-25 08:00:00",
+    "formatted_date": "Sep 25, 2025",
+    "venue": {
+      "city": "Huntington",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "The Paramount"
+    },
+    "description": "<p>With The Front Bottoms!</p>",
+    "website": "https://www.ticketmaster.com/event/000062BED29D3509",
+    "is_future_event": true
+  },
+  {
+    "index": 64,
+    "title": "Teenage Bottlrocket",
+    "start_date": "2025-09-26 08:00:00",
+    "formatted_date": "Sep 26, 2025",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Les Foufounes"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.universe.com/events/teenage-bottlerocket-tickets-ZPTV1H",
+    "is_future_event": true
+  },
+  {
+    "index": 65,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-26 08:00:00",
+    "formatted_date": "Sep 26, 2025",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Les Foufounes"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.universe.com/events/teenage-bottlerocket-tickets-ZPTV1H",
+    "is_future_event": true
+  },
+  {
+    "index": 66,
+    "title": "Sincere Engineer",
+    "start_date": "2025-09-26 08:00:00",
+    "formatted_date": "Sep 26, 2025",
+    "venue": {
+      "city": "Boston",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Roadrunner"
+    },
+    "description": "<p>With The Front Bottoms!</p>",
+    "website": "https://www.axs.com/events/1010258/the-front-bottoms-tickets?skin=roadrunner",
+    "is_future_event": true
+  },
+  {
+    "index": 67,
+    "title": "The Menzingers",
+    "start_date": "2025-09-27 08:00:00",
+    "formatted_date": "Sep 27, 2025",
+    "venue": {
+      "city": "Asbury Park",
+      "stateprovince": "NJ",
+      "country": "United States",
+      "venue": "Stone Pony"
+    },
+    "description": null,
+    "website": "https://www.ticketmaster.com/event/00006182D3663370?irgwc=1&amp;clickid=2p1wvSQhexyKRxH31mWqhwvFUkCSrjU1I1goQg0&amp;camefrom=CFC_BUYAT_1387536&amp;impradid=1387536&amp;REFERRAL_ID=tmfeedbuyat1387536&amp;wt.mc_id=aff_BUYAT_1387536&amp;utm_source=1387536-Seated&amp;impradname=Seated&amp;utm_medium=affiliate&amp;ircid=4272",
+    "is_future_event": true
+  },
+  {
+    "index": 68,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-27 08:00:00",
+    "formatted_date": "Sep 27, 2025",
+    "venue": {
+      "city": "Quebec City",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "L&#8217;Anti"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://lepointdevente.com/billets/d7p250927001",
+    "is_future_event": true
+  },
+  {
+    "index": 69,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-28 08:00:00",
+    "formatted_date": "Sep 28, 2025",
+    "venue": {
+      "city": "Ottawa",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "The 27 Club"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-the-dopamines-the-27-club-tickets/14490963?pl=spectrasonic&amp;refid=TBR",
+    "is_future_event": true
+  },
+  {
+    "index": 70,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-05 08:00:00",
+    "formatted_date": "Oct 05, 2025",
+    "venue": {
+      "city": "Birmingham",
+      "stateprovince": "AL",
+      "country": "United States",
+      "venue": "Furnace Fest"
+    },
+    "description": "<p>Furnace Fest!</p>",
+    "website": "https://linktr.ee/furnacefest",
+    "is_future_event": true
+  },
+  {
+    "index": 71,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-09 08:00:00",
+    "formatted_date": "Oct 09, 2025",
+    "venue": {
+      "city": "Wien",
+      "stateprovince": "",
+      "country": "Austria",
+      "venue": "Szene"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.oeticket.com/event/spanish-love-songs-szene-wien-19743808/?affiliate=EOE&amp;affiliate=O92&amp;awc=13859_1744397128_82695ca648db0d5b90097429b1e285d0",
+    "is_future_event": true
+  },
+  {
+    "index": 72,
+    "title": "Tired Radio",
+    "start_date": "2025-10-09 08:00:00",
+    "formatted_date": "Oct 09, 2025",
+    "venue": {
+      "city": "Brooklyn",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "The Broadway"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 73,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-10 08:00:00",
+    "formatted_date": "Oct 10, 2025",
+    "venue": {
+      "city": "Stuttgart",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "clubCANN"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.eventim.de/artist/spanish-love-songs/?affiliate=ZEE&amp;affiliate=BNO&amp;utm_source=awin&amp;utm_medium=affiliate&amp;utm_campaign=97249&amp;awc=11388_1744397273_496a3e64d11daeae53e91811f0700fd5",
+    "is_future_event": true
+  },
+  {
+    "index": 74,
+    "title": "Tired Radio",
+    "start_date": "2025-10-10 08:00:00",
+    "formatted_date": "Oct 10, 2025",
+    "venue": {
+      "city": "Philadelphia",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "Ortlieb&#8217;s"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 75,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-11 08:00:00",
+    "formatted_date": "Oct 11, 2025",
+    "venue": {
+      "city": "Schweinfurt",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Kulturhaus Stattnahnhof"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.eventim.de/artist/spanish-love-songs/?affiliate=ZEE&amp;affiliate=BNO&amp;utm_source=awin&amp;utm_medium=affiliate&amp;utm_campaign=97249&amp;awc=11388_1744397323_82e5188988ac4999d075081f500e6a32",
+    "is_future_event": true
+  },
+  {
+    "index": 76,
+    "title": "Tired Radio",
+    "start_date": "2025-10-11 08:00:00",
+    "formatted_date": "Oct 11, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "804 Mart"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 77,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-12 08:00:00",
+    "formatted_date": "Oct 12, 2025",
+    "venue": {
+      "city": "Milano",
+      "stateprovince": "",
+      "country": "Italy",
+      "venue": "Legend 54"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.bandsintown.com/e/106704828?affil_code=js_spanishlovesongs.com&amp;app_id=js_spanishlovesongs.com&amp;came_from=700&amp;utm_campaign=event&amp;utm_medium=web&amp;utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 78,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-14 08:00:00",
+    "formatted_date": "Oct 14, 2025",
+    "venue": {
+      "city": "Zurich",
+      "stateprovince": "",
+      "country": "Switzerland",
+      "venue": "Dynamo"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.ticketmaster.ch/artist/spanish-love-songs-tickets/993992?clickId=wY7QNF3IUxycRwGTgrzhPwNRUkp0Zr1xI1goQg0&amp;irgwc=1&amp;utm_medium=affiliate&amp;utm_campaign=219208&amp;utm_source=219208-Bandsintown",
+    "is_future_event": true
+  },
+  {
+    "index": 79,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-15 08:00:00",
+    "formatted_date": "Oct 15, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "GMan Tavern"
+    },
+    "description": "<p>With Sam Russo and Good Friend!</p>",
+    "website": "https://www.etix.com/ticket/p/87826530/",
+    "is_future_event": true
+  },
+  {
+    "index": 80,
+    "title": "Sam Russo",
+    "start_date": "2025-10-15 08:00:00",
+    "formatted_date": "Oct 15, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "GMan Tavern"
+    },
+    "description": "<p>With Brendan Kelly and Good Friend!</p>",
+    "website": "https://www.etix.com/ticket/p/87826530/",
+    "is_future_event": true
+  },
+  {
+    "index": 81,
+    "title": "Good Friend",
+    "start_date": "2025-10-15 08:00:00",
+    "formatted_date": "Oct 15, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "GMan Tavern"
+    },
+    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
+    "website": "https://www.etix.com/ticket/p/87826530/",
+    "is_future_event": true
+  },
+  {
+    "index": 82,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-15 08:00:00",
+    "formatted_date": "Oct 15, 2025",
+    "venue": {
+      "city": "Wiesbaden",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Schlachthof Wiesbaden"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.eventim.de/artist/spanish-love-songs/?affiliate=ZEE&amp;affiliate=BNO&amp;utm_source=awin&amp;utm_medium=affiliate&amp;utm_campaign=97249&amp;awc=11388_1744397669_87d72573fc4adddf0feb60e9d3ad0112",
+    "is_future_event": true
+  },
+  {
+    "index": 83,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-16 08:00:00",
+    "formatted_date": "Oct 16, 2025",
+    "venue": {
+      "city": "Lakewood",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Mahall&#8217;s"
+    },
+    "description": "<p>With Sam Russo and Good Friend!</p>",
+    "website": "https://dice.fm/partner/dice/event/yombvp?dice_id=6545764&amp;dice_channel=web&amp;dice_tags=organic&amp;dice_campaign=DICE&amp;dice_feature=mio_marketing&amp;_branch_match_id=1471214867754828139&amp;utm_source=web&amp;utm_campaign=DICE&amp;utm_medium=mio_marketing&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdPNU%2BzsEhLMjcztbCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDx0UhHOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 84,
+    "title": "Sam Russo",
+    "start_date": "2025-10-16 08:00:00",
+    "formatted_date": "Oct 16, 2025",
+    "venue": {
+      "city": "Lakewood",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Mahall&#8217;s"
+    },
+    "description": "<p>With Brendan Kelly and Good Friend!</p>",
+    "website": "https://dice.fm/partner/dice/event/yombvp?dice_id=6545764&amp;dice_channel=web&amp;dice_tags=organic&amp;dice_campaign=DICE&amp;dice_feature=mio_marketing&amp;_branch_match_id=1471214867754828139&amp;utm_source=web&amp;utm_campaign=DICE&amp;utm_medium=mio_marketing&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdPNU%2BzsEhLMjcztbCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDx0UhHOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 85,
+    "title": "Good Friend",
+    "start_date": "2025-10-16 08:00:00",
+    "formatted_date": "Oct 16, 2025",
+    "venue": {
+      "city": "Lakewood",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Mahall&#8217;s"
+    },
+    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
+    "website": "https://dice.fm/partner/dice/event/yombvp?dice_id=6545764&amp;dice_channel=web&amp;dice_tags=organic&amp;dice_campaign=DICE&amp;dice_feature=mio_marketing&amp;_branch_match_id=1471214867754828139&amp;utm_source=web&amp;utm_campaign=DICE&amp;utm_medium=mio_marketing&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdPNU%2BzsEhLMjcztbCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDx0UhHOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 86,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-16 08:00:00",
+    "formatted_date": "Oct 16, 2025",
+    "venue": {
+      "city": "Hamburg",
+      "stateprovince": "",
+      "country": "United States",
+      "venue": "Knust"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.eventim.de/artist/spanish-love-songs/?affiliate=ZEE&amp;affiliate=BNO&amp;utm_source=awin&amp;utm_medium=affiliate&amp;utm_campaign=97249&amp;awc=11388_1744397719_9c25e867656b2b4ab104870c9cd9103d",
+    "is_future_event": true
+  },
+  {
+    "index": 87,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-17 08:00:00",
+    "formatted_date": "Oct 17, 2025",
+    "venue": {
+      "city": "Malden",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Faces Brewing Co"
+    },
+    "description": "<p>With Sam Russo and Good Friend!</p>",
+    "website": "https://www.facesbrewing.com/store/event/brendan-kelly-sam-russo-good-friend/",
+    "is_future_event": true
+  },
+  {
+    "index": 88,
+    "title": "Sam Russo",
+    "start_date": "2025-10-17 08:00:00",
+    "formatted_date": "Oct 17, 2025",
+    "venue": {
+      "city": "Malden",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Faces Brewing Co"
+    },
+    "description": "<p>With Brendan Kelly and Good Friend!</p>",
+    "website": "https://www.facesbrewing.com/store/event/brendan-kelly-sam-russo-good-friend/",
+    "is_future_event": true
+  },
+  {
+    "index": 89,
+    "title": "Good Friend",
+    "start_date": "2025-10-17 08:00:00",
+    "formatted_date": "Oct 17, 2025",
+    "venue": {
+      "city": "Malden",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Faces Brewing Co"
+    },
+    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
+    "website": "https://www.facesbrewing.com/store/event/brendan-kelly-sam-russo-good-friend/",
+    "is_future_event": true
+  },
+  {
+    "index": 90,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-18 08:00:00",
+    "formatted_date": "Oct 18, 2025",
+    "venue": {
+      "city": "Oberhausen",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Turbinenhalle"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.eventim.de/artist/common-thread/?affiliate=ET2",
+    "is_future_event": true
+  },
+  {
+    "index": 91,
+    "title": "MakeWar",
+    "start_date": "2025-10-18 08:00:00",
+    "formatted_date": "Oct 18, 2025",
+    "venue": {
+      "city": "Oberhausen",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Turbinenhalle"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.eventim.de/artist/common-thread/?affiliate=ET2",
+    "is_future_event": true
+  },
+  {
+    "index": 92,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-18 08:00:00",
+    "formatted_date": "Oct 18, 2025",
+    "venue": {
+      "city": "Oberhausen",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Turbinenhalle"
+    },
+    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.eventim.de/artist/common-thread/?affiliate=ET2",
+    "is_future_event": true
+  },
+  {
+    "index": 93,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-18 08:00:00",
+    "formatted_date": "Oct 18, 2025",
+    "venue": {
+      "city": "Queens",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "Bridge and Tunnel Brewery"
+    },
+    "description": "<p>With Sam Russo, Good Friend, and Sketchy!</p>",
+    "website": "https://www.eventbrite.com/e/brendan-kelly-sam-russo-good-friend-sketchy-tickets-1468132887989?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 94,
+    "title": "Sam Russo",
+    "start_date": "2025-10-18 08:00:00",
+    "formatted_date": "Oct 18, 2025",
+    "venue": {
+      "city": "Queens",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "Bridge and Tunnel Brewery"
+    },
+    "description": "<p>With Brendan Kelly, Good Friend, and Sketchy!</p>",
+    "website": "https://www.eventbrite.com/e/brendan-kelly-sam-russo-good-friend-sketchy-tickets-1468132887989?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 95,
+    "title": "Good Friend",
+    "start_date": "2025-10-18 08:00:00",
+    "formatted_date": "Oct 18, 2025",
+    "venue": {
+      "city": "Queens",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "Bridge and Tunnel Brewery"
+    },
+    "description": "<p>With Brendan Kelly, Sam Russo, and Sketchy!</p>",
+    "website": "https://www.eventbrite.com/e/brendan-kelly-sam-russo-good-friend-sketchy-tickets-1468132887989?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 96,
+    "title": "MakeWar",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Haarlem",
+      "stateprovince": "",
+      "country": "Netherlands",
+      "venue": "Patronaat"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
+    "is_future_event": true
+  },
+  {
+    "index": 97,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Brussels",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "AB"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
+    "is_future_event": true
+  },
+  {
+    "index": 98,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Brussels",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "AB"
+    },
+    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
+    "is_future_event": true
+  },
+  {
+    "index": 99,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "Canal Club"
+    },
+    "description": "<p>With Sam Russo and Good Friend!</p>",
+    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
+    "is_future_event": true
+  },
+  {
+    "index": 100,
+    "title": "Sam Russo",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "Canal Club"
+    },
+    "description": "<p>With Brendan Kelly and Good Friend!</p>",
+    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
+    "is_future_event": true
+  },
+  {
+    "index": 101,
+    "title": "Good Friend",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "Canal Club"
+    },
+    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
+    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
+    "is_future_event": true
+  },
+  {
+    "index": 102,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2025",
+    "venue": {
+      "city": "Haarlem",
+      "stateprovince": "",
+      "country": "Netherlands",
+      "venue": "Patronaat"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
+    "is_future_event": true
+  },
+  {
+    "index": 103,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2025",
+    "venue": {
+      "city": "Haarlem",
+      "stateprovince": "",
+      "country": "Netherlands",
+      "venue": "Patronaat"
+    },
+    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
+    "is_future_event": true
+  },
+  {
+    "index": 104,
+    "title": "MakeWar",
+    "start_date": "2025-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2025",
+    "venue": {
+      "city": "Brussels",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "AB"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
+    "is_future_event": true
+  },
+  {
+    "index": 105,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2025",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Smith&#8217;s Olde Bar"
+    },
+    "description": "<p>With Sam Russo and Good Friend!</p>",
+    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
+    "is_future_event": true
+  },
+  {
+    "index": 106,
+    "title": "Sam Russo",
+    "start_date": "2025-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2025",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Smith&#8217;s Olde Bar"
+    },
+    "description": "<p>With Brendan Kelly and Good Friend!</p>",
+    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
+    "is_future_event": true
+  },
+  {
+    "index": 107,
+    "title": "Good Friend",
+    "start_date": "2025-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2025",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Smith&#8217;s Olde Bar"
+    },
+    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
+    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
+    "is_future_event": true
+  },
+  {
+    "index": 108,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2025",
+    "venue": {
+      "city": "Orlando",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Will&#8217;s Pub"
+    },
+    "description": "<p>Pre-Pre Fest with Chris Farren, Good Friend, Sam Russo, and many more!</p>",
+    "website": "https://willspub.org/tm-event/pre-pre-fest-11/",
+    "is_future_event": true
+  },
+  {
+    "index": 109,
+    "title": "Good Friend",
+    "start_date": "2025-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2025",
+    "venue": {
+      "city": "Orlando",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Will&#8217;s Pub"
+    },
+    "description": "<p>Pre-Pre Fest with Brendan Kelly, Chris Farren, Sam Russo, and many more!</p>",
+    "website": "https://willspub.org/tm-event/pre-pre-fest-11/",
+    "is_future_event": true
+  },
+  {
+    "index": 110,
+    "title": "Sam Russo",
+    "start_date": "2025-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2025",
+    "venue": {
+      "city": "Orlando",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Will&#8217;s Pub"
+    },
+    "description": "<p>Pre-Pre Fest with Brendan Kelly, Chris Farren, Good Friend, and many more!</p>",
+    "website": "https://willspub.org/tm-event/pre-pre-fest-11/",
+    "is_future_event": true
+  },
+  {
+    "index": 111,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2025",
+    "venue": {
+      "city": "Birmingham",
+      "stateprovince": "",
+      "country": "United States",
+      "venue": "O2 Institute Birmingham"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.bandsintown.com/e/106704836?affil_code=js_spanishlovesongs.com&amp;app_id=js_spanishlovesongs.com&amp;came_from=700&amp;utm_campaign=event&amp;utm_medium=web&amp;utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 112,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-23 08:00:00",
+    "formatted_date": "Oct 23, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Boca Fiesta"
+    },
+    "description": "<p>Unofficial Pre-Fest with Chris Farren, Good Friend, Sam Russo, and many more!</p>",
+    "website": "https://www.ticketweb.com/event/gainesville-unofficial-pre-fest-7-the-backyard-tickets/14495623",
+    "is_future_event": true
+  },
+  {
+    "index": 113,
+    "title": "Sam Russo",
+    "start_date": "2025-10-23 08:00:00",
+    "formatted_date": "Oct 23, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Boca Fiesta"
+    },
+    "description": "<p>Unofficial Pre-Fest with Brendan Kelly, Chris Farren, Good Friend, and many more!</p>",
+    "website": "https://www.ticketweb.com/event/gainesville-unofficial-pre-fest-7-the-backyard-tickets/14495623",
+    "is_future_event": true
+  },
+  {
+    "index": 114,
+    "title": "Good Friend",
+    "start_date": "2025-10-23 08:00:00",
+    "formatted_date": "Oct 23, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Boca Fiesta"
+    },
+    "description": "<p>Unofficial Pre-Fest with Brendan Kelly, Chris Farren, Sam Russo, and many more!</p>",
+    "website": "https://www.ticketweb.com/event/gainesville-unofficial-pre-fest-7-the-backyard-tickets/14495623",
+    "is_future_event": true
+  },
+  {
+    "index": 115,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-23 08:00:00",
+    "formatted_date": "Oct 23, 2025",
+    "venue": {
+      "city": "Manchester",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "New Century Hall"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.bandsintown.com/e/106704839?affil_code=js_spanishlovesongs.com&amp;app_id=js_spanishlovesongs.com&amp;came_from=700&amp;utm_campaign=event&amp;utm_medium=web&amp;utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 116,
+    "title": "The Holy Mess",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 117,
+    "title": "Good Friend",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 118,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 119,
+    "title": "Heart &#038; Lung",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 120,
+    "title": "Sam Russo",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 121,
+    "title": "Direct Hit!",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 122,
+    "title": "Elway",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 123,
+    "title": "The Bollweevils",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Los Angeles",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Glass House"
+    },
+    "description": "<p>Dr. Strange 37th with rAdolescents, Whatever, Rhythm Collision, and the Maxies! </p>",
+    "website": "https://dice.fm/event/nvbgq9-dr-strange-37th-with-radolescents-the-bollweevils-24th-oct-the-glass-house-pomona-tickets?pid=a1331df1&amp;_branch_match_id=1468273628568927743&amp;utm_medium=partners_api&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1a9ITTI1TE02MTZLMbUvyEyxTTQ0NjZMSTNUqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAtk6IfUgAAAA%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 124,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Notthingham",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "The Rescue Rooms"
+    },
+    "description": "<p>With Spanish Love Songs, The Dirty Nil, and Kali Masi!</p>",
+    "website": "https://www.bandsintown.com/e/106704840?affil_code=js_spanishlovesongs.com&amp;app_id=js_spanishlovesongs.com&amp;came_from=700&amp;utm_campaign=event&amp;utm_medium=web&amp;utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 125,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-25 08:00:00",
+    "formatted_date": "Oct 25, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Roundhouse"
+    },
+    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://myticket.co.uk/artists/common-thread-tour",
+    "is_future_event": true
+  },
+  {
+    "index": 126,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-25 08:00:00",
+    "formatted_date": "Oct 25, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Camden Assembly"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://myticket.co.uk/artists/common-thread-tour",
+    "is_future_event": true
+  },
+  {
+    "index": 127,
+    "title": "MakeWar",
+    "start_date": "2025-10-25 08:00:00",
+    "formatted_date": "Oct 25, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Black Heart"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://myticket.co.uk/artists/common-thread-tour",
+    "is_future_event": true
+  },
+  {
+    "index": 128,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-26 08:00:00",
+    "formatted_date": "Oct 26, 2025",
+    "venue": {
+      "city": "Leeds",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Leeds University Union"
+    },
+    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://slamdunkmusic.seetickets.com/event/common-thread-tour-2025/leeds-university-union/3317744",
+    "is_future_event": true
+  },
+  {
+    "index": 129,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-26 08:00:00",
+    "formatted_date": "Oct 26, 2025",
+    "venue": {
+      "city": "Leeds",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Leeds University Union"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://slamdunkmusic.seetickets.com/event/common-thread-tour-2025/leeds-university-union/3317744",
+    "is_future_event": true
+  },
+  {
+    "index": 130,
+    "title": "MakeWar",
+    "start_date": "2025-10-26 08:00:00",
+    "formatted_date": "Oct 26, 2025",
+    "venue": {
+      "city": "Leeds",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Leeds University Union"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://slamdunkmusic.seetickets.com/event/common-thread-tour-2025/leeds-university-union/3317744",
+    "is_future_event": true
+  },
+  {
+    "index": 131,
+    "title": "Tired Radio",
+    "start_date": "2025-10-26 08:00:00",
+    "formatted_date": "Oct 26, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 132,
+    "title": "The Copyrights",
+    "start_date": "2025-11-01 08:00:00",
+    "formatted_date": "Nov 01, 2025",
+    "venue": {
+      "city": "St. Louis",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "Heavy Anchor"
+    },
+    "description": "<p>With Off With Their Heads and Smug!</p>",
+    "website": "https://www.theheavyanchor.com/product/11-1-25-off-with-their-head-the-copyrights-smug/4AVGURS4NJQVW6FGBBR236SY?cs=true&amp;cst=custom",
+    "is_future_event": true
+  },
+  {
+    "index": 133,
+    "title": "The Copyrights",
+    "start_date": "2025-11-02 08:00:00",
+    "formatted_date": "Nov 02, 2025",
+    "venue": {
+      "city": "Kansas City",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "The Ship"
+    },
+    "description": "<p>With Off With Their Heads and Smug!</p>",
+    "website": "https://www.eventbrite.com/e/off-with-their-heads-the-copyrights-smug-hipshot-killer-tickets-1531205740589?aff=oddtdtcreator&amp;fbclid=PAQ0xDSwLw0n9leHRuA2FlbQIxMQABpyTHi-BVKLAHPJUJL8bp7NNmuAJR-5szcXX0azeI6yTKY1RYzJuzOopTicgb_aem_jxK4-W7IhTNCtvJer8Forg",
+    "is_future_event": true
+  },
+  {
+    "index": 134,
+    "title": "The Copyrights",
+    "start_date": "2025-11-04 08:00:00",
+    "formatted_date": "Nov 04, 2025",
+    "venue": {
+      "city": "Tulsa",
+      "stateprovince": "OK",
+      "country": "United States",
+      "venue": "Mass Movement Community Arts"
+    },
+    "description": "<p>With Off With Their Heads and Smug!</p>",
+    "website": "https://www.eventbrite.com/e/off-with-their-heads-w-the-copyrights-smug-tickets-1528136851459?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 135,
+    "title": "The Copyrights",
+    "start_date": "2025-11-05 08:00:00",
+    "formatted_date": "Nov 05, 2025",
+    "venue": {
+      "city": "Oklahoma City",
+      "stateprovince": "OK",
+      "country": "United States",
+      "venue": "Resonant Head"
+    },
+    "description": "<p>With Off With Their Heads and Smug!</p>",
+    "website": "https://www.prekindle.com/event/12191-off-with-their-heads-oklahoma-city",
+    "is_future_event": true
+  },
+  {
+    "index": 136,
+    "title": "The Copyrights",
+    "start_date": "2025-11-06 08:00:00",
+    "formatted_date": "Nov 06, 2025",
+    "venue": {
+      "city": "Dallas",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Double Wide"
+    },
+    "description": "<p>With Off With Their Heads and Smug!</p>",
+    "website": "https://www.prekindle.com/event/35551-off-with-their-heads-the-copyrights-smug-dallas",
+    "is_future_event": true
+  },
+  {
+    "index": 137,
+    "title": "The Copyrights",
+    "start_date": "2025-11-07 08:00:00",
+    "formatted_date": "Nov 07, 2025",
+    "venue": {
+      "city": "Austin",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Far Out Lounge"
+    },
+    "description": "<p>With Off With Their Heads and Smug!</p>",
+    "website": "https://www.tickettailor.com/events/thefaroutloungestage/1796540",
+    "is_future_event": true
+  },
+  {
+    "index": 138,
+    "title": "The Copyrights",
+    "start_date": "2025-11-08 08:00:00",
+    "formatted_date": "Nov 08, 2025",
+    "venue": {
+      "city": "San Antonio",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Rah Rah Room"
+    },
+    "description": "<p>With Off With Their Heads and Smug!</p>",
+    "website": "https://www.eventbrite.com/e/off-with-their-heads-w-the-copyrights-smug-and-ignoramoose-tickets-1527353608759?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=wsa&amp;aff=ebdsshwebmobile",
+    "is_future_event": true
+  },
+  {
+    "index": 139,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-13 08:00:00",
+    "formatted_date": "Nov 13, 2025",
+    "venue": {
+      "city": "Albuquerque",
+      "stateprovince": "NM",
+      "country": "United States",
+      "venue": "Launchpad"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://holdmyticket.com/event/450975",
+    "is_future_event": true
+  },
+  {
+    "index": 140,
+    "title": "Sam Russo",
+    "start_date": "2025-11-13 08:00:00",
+    "formatted_date": "Nov 13, 2025",
+    "venue": {
+      "city": "Albuquerque",
+      "stateprovince": "NM",
+      "country": "United States",
+      "venue": "Launchpad"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://holdmyticket.com/event/450975",
+    "is_future_event": true
+  },
+  {
+    "index": 141,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-14 08:00:00",
+    "formatted_date": "Nov 14, 2025",
+    "venue": {
+      "city": "Tucson",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Congress Hall"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://link.dice.fm/i8b824742dbb",
+    "is_future_event": true
+  },
+  {
+    "index": 142,
+    "title": "Sam Russo",
+    "start_date": "2025-11-14 08:00:00",
+    "formatted_date": "Nov 14, 2025",
+    "venue": {
+      "city": "Tucson",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Congress Hall"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://link.dice.fm/i8b824742dbb",
+    "is_future_event": true
+  },
+  {
+    "index": 143,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-15 08:00:00",
+    "formatted_date": "Nov 15, 2025",
+    "venue": {
+      "city": "Tempe",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Yucca Tap Room"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-yucca-tap-room-tickets/13890404",
+    "is_future_event": true
+  },
+  {
+    "index": 144,
+    "title": "Sam Russo",
+    "start_date": "2025-11-15 08:00:00",
+    "formatted_date": "Nov 15, 2025",
+    "venue": {
+      "city": "Tempe",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Yucca Tap Room"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-yucca-tap-room-tickets/13890404",
+    "is_future_event": true
+  },
+  {
+    "index": 145,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-16 08:00:00",
+    "formatted_date": "Nov 16, 2025",
+    "venue": {
+      "city": "San Diego",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Brick By Brick"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-special-guests-brick-by-brick-tickets/13888364?pl=brickbybrick",
+    "is_future_event": true
+  },
+  {
+    "index": 146,
+    "title": "Sam Russo",
+    "start_date": "2025-11-16 08:00:00",
+    "formatted_date": "Nov 16, 2025",
+    "venue": {
+      "city": "San Diego",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Brick By Brick"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-special-guests-brick-by-brick-tickets/13888364?pl=brickbybrick",
+    "is_future_event": true
+  },
+  {
+    "index": 147,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-18 08:00:00",
+    "formatted_date": "Nov 18, 2025",
+    "venue": {
+      "city": "Las Vegas",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "The Usual Place"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.eventbrite.com/e/1508230109859/preview/",
+    "is_future_event": true
+  },
+  {
+    "index": 148,
+    "title": "Sam Russo",
+    "start_date": "2025-11-18 08:00:00",
+    "formatted_date": "Nov 18, 2025",
+    "venue": {
+      "city": "Las Vegas",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "The Usual Place"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.com/e/1508230109859/preview/",
+    "is_future_event": true
+  },
+  {
+    "index": 149,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-19 08:00:00",
+    "formatted_date": "Nov 19, 2025",
+    "venue": {
+      "city": "Riverside",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Romano&#8217;s Concert Lounge"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-w-fea-sam-russo-tickets-1510817569019?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 150,
+    "title": "Sam Russo",
+    "start_date": "2025-11-19 08:00:00",
+    "formatted_date": "Nov 19, 2025",
+    "venue": {
+      "city": "Riverside",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Romano&#8217;s Concert Lounge"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-w-fea-sam-russo-tickets-1510817569019?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 151,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-20 08:00:00",
+    "formatted_date": "Nov 20, 2025",
+    "venue": {
+      "city": "San Francisco",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Bottom of the Hill"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "http://www.bottomofthehill.com/stubmatic/event20251120.html",
+    "is_future_event": true
+  },
+  {
+    "index": 152,
+    "title": "Sam Russo",
+    "start_date": "2025-11-20 08:00:00",
+    "formatted_date": "Nov 20, 2025",
+    "venue": {
+      "city": "San Francisco",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Bottom of the Hill"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "http://www.bottomofthehill.com/stubmatic/event20251120.html",
+    "is_future_event": true
+  },
+  {
+    "index": 153,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-21 08:00:00",
+    "formatted_date": "Nov 21, 2025",
+    "venue": {
+      "city": "Sacramento",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Goldfield Trading Post"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.eventim.us/event/teenage-bottlerocket/658376",
+    "is_future_event": true
+  },
+  {
+    "index": 154,
+    "title": "Sam Russo",
+    "start_date": "2025-11-21 08:00:00",
+    "formatted_date": "Nov 21, 2025",
+    "venue": {
+      "city": "Sacramento",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Goldfield Trading Post"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventim.us/event/teenage-bottlerocket/658376",
+    "is_future_event": true
+  },
+  {
+    "index": 155,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-22 08:00:00",
+    "formatted_date": "Nov 22, 2025",
+    "venue": {
+      "city": "San Jose",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Ritz"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-the-ritz-tickets/13898734",
+    "is_future_event": true
+  },
+  {
+    "index": 156,
+    "title": "Sam Russo",
+    "start_date": "2025-11-22 08:00:00",
+    "formatted_date": "Nov 22, 2025",
+    "venue": {
+      "city": "San Jose",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Ritz"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-the-ritz-tickets/13898734",
+    "is_future_event": true
+  },
+  {
+    "index": 157,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-23 08:00:00",
+    "formatted_date": "Nov 23, 2025",
+    "venue": {
+      "city": "Reno",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "Virginia St. Brewhouse"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-fea-sam-virginia-street-brewhouse-tickets/13888884",
+    "is_future_event": true
+  },
+  {
+    "index": 158,
+    "title": "Sam Russo",
+    "start_date": "2025-11-23 08:00:00",
+    "formatted_date": "Nov 23, 2025",
+    "venue": {
+      "city": "Reno",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "Virginia St. Brewhouse"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-fea-sam-virginia-street-brewhouse-tickets/13888884",
+    "is_future_event": true
+  },
+  {
+    "index": 159,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-10 08:00:00",
+    "formatted_date": "Dec 10, 2025",
+    "venue": {
+      "city": "Corpus Christi",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "House of Rock"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.etix.com/ticket/p/56425516/teenage-bottlerocket-corpus-christi-house-of-rock",
+    "is_future_event": true
+  },
+  {
+    "index": 160,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-11 08:00:00",
+    "formatted_date": "Dec 11, 2025",
+    "venue": {
+      "city": "Houston",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "White Oak"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.ticketmaster.com/event/3A0062F2D89357BF",
+    "is_future_event": true
+  },
+  {
+    "index": 161,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2025",
+    "venue": {
+      "city": "San Antonio",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Paper Tiger"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket/658565?afflky=PaperTiger",
+    "is_future_event": true
+  },
+  {
+    "index": 162,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-14 08:00:00",
+    "formatted_date": "Dec 14, 2025",
+    "venue": {
+      "city": "Oklahoma City",
+      "stateprovince": "OK",
+      "country": "United States",
+      "venue": "Resonant Head"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.prekindle.com/event/16323-teenage-bottlerocket-oklahoma-city",
+    "is_future_event": true
+  },
+  {
+    "index": 163,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-16 08:00:00",
+    "formatted_date": "Dec 16, 2025",
+    "venue": {
+      "city": "Kansas City",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "recordBar"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://link.dice.fm/q85d52f0a5af",
+    "is_future_event": true
+  },
+  {
+    "index": 164,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-17 08:00:00",
+    "formatted_date": "Dec 17, 2025",
+    "venue": {
+      "city": "Columbia",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "Rose Music Hall"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.ticketmaster.com/event/060062F1C3AC485F",
+    "is_future_event": true
+  },
+  {
+    "index": 165,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-18 08:00:00",
+    "formatted_date": "Dec 18, 2025",
+    "venue": {
+      "city": "Davenport",
+      "stateprovince": "IA",
+      "country": "United States",
+      "venue": "Raccoon Motel"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://link.dice.fm/R5eb82ed7b0f",
+    "is_future_event": true
+  },
+  {
+    "index": 166,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-19 08:00:00",
+    "formatted_date": "Dec 19, 2025",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Skank Hall"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-boris-the-shank-hall-tickets/13894864?pl=shank",
+    "is_future_event": true
+  },
+  {
+    "index": 167,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-20 08:00:00",
+    "formatted_date": "Dec 20, 2025",
+    "venue": {
+      "city": "West Dundee",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Rochaus"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://eventim.us/event/teenage-bottlerocket/658760",
+    "is_future_event": true
+  },
+  {
+    "index": 168,
+    "title": "Billy Liar",
+    "start_date": "2025-09-11 08:00:00",
+    "formatted_date": "Sep 11, 2025",
+    "venue": {
+      "city": "Glasgow",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Audio"
+    },
+    "description": "<p>With The Drowns!</p>",
+    "website": "https://tickets-scotland.com/t4759?fbclid=IwZXh0bgNhZW0CMTEAAR0dpqoBXyNRwl5DxuVdRCeywTgIj19SdefdU9FEhHTpKok__n88sH4gd3M_aem_WCbOT8yeBxvOlL-LALqUJw",
+    "is_future_event": true
+  },
+  {
+    "index": 169,
+    "title": "Billy Liar",
+    "start_date": "2025-09-13 08:00:00",
+    "formatted_date": "Sep 13, 2025",
+    "venue": {
+      "city": "Edinburgh",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Bannermans"
+    },
+    "description": "<p>With The Drowns!</p>",
+    "website": "https://tickets-scotland.com/events.html?event_method=viewevent&amp;event_id=b999eb97-cf66-11ef-b281-06736fceb22d",
+    "is_future_event": true
+  },
+  {
+    "index": 170,
+    "title": "Billy Liar",
+    "start_date": "2025-09-28 08:00:00",
+    "formatted_date": "Sep 28, 2025",
+    "venue": {
+      "city": "Edinburgh",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "O2 Academy Edinburgh"
+    },
+    "description": "<p>Lost Evenings 8 with Frank Turner and Arab Strap!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 171,
+    "title": "Billy Liar",
+    "start_date": "2025-10-01 08:00:00",
+    "formatted_date": "Oct 01, 2025",
+    "venue": {
+      "city": "Bradford",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Underground"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 172,
+    "title": "Billy Liar",
+    "start_date": "2025-10-02 08:00:00",
+    "formatted_date": "Oct 02, 2025",
+    "venue": {
+      "city": "Blackpool",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Waterloo Music Bar"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 173,
+    "title": "Billy Liar",
+    "start_date": "2025-10-03 08:00:00",
+    "formatted_date": "Oct 03, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Water Rats"
+    },
+    "description": "<p>With Role Models!</p>",
+    "website": "https://wegottickets.com/event/657534?fbclid=IwQ0xDSwLcXfZleHRuA2FlbQIxMAABHqiuH2NM4d2eHemQLj6fVwndgpNFNXNpXxL2HiIQcAuUMv95gQNGU1jmhsOL_aem_bILZbZlZeW8rWnJhNswP6g",
+    "is_future_event": true
+  },
+  {
+    "index": 174,
+    "title": "The Bollweevils",
+    "start_date": "2025-11-15 08:00:00",
+    "formatted_date": "Nov 15, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "House of Blues Chicago"
+    },
+    "description": "<p>Lucky Boys Confusion!</p>",
+    "website": null,
+    "is_future_event": true
+  }
+]

@@ -369,10 +369,96 @@
               .getElementById("band-releases")
               .appendChild(releaseElement);
           });
+
+          // Load tour dates after band info is loaded
+          loadTourDates(band.bandName);
         })
         .catch((error) => console.error("Error:", error));
     })
     .catch((error) => console.error("Error:", error));
+
+  // Function to load tour dates
+  async function loadTourDates(currentBandName) {
+    try {
+      const showsData = await fetch("shows.json").then(response => response.json());
+      const bandsDiv = document.getElementById("bands");
+
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      // Filter shows data for the current band and future events
+      const bandEvents = showsData.filter(event => {
+        const eventTitle = event.title.toLowerCase();
+        const eventDate = new Date(event.start_date);
+        return eventTitle.includes(currentBandName.toLowerCase()) && eventDate >= today;
+      });
+
+      const fragment = document.createDocumentFragment();
+
+      if (bandEvents.length > 0) {
+        const bandSection = document.createElement("div");
+        bandSection.className = "band-section";
+
+        const tourDatesList = document.createElement("ul");
+        tourDatesList.style.listStyleType = "none";
+        tourDatesList.style.marginBottom = "50px";
+
+        bandEvents.forEach(event => {
+          const li = document.createElement("li");
+          li.className = "li-separator";
+          li.style.backgroundColor = "whitesmoke";
+          const eventDate = new Date(event.start_date);
+          const formattedDate = eventDate.toLocaleString("en-US", {
+            month: "short",
+            day: "2-digit",
+            year: "numeric",
+          });
+          if (event.venue.country === "United States") {
+            li.textContent = `${formattedDate} - ${event.venue.city}, ${event.venue.stateprovince} - ${event.venue.venue}`;
+          } else {
+            li.textContent = `${formattedDate} - ${event.venue.city}, ${event.venue.country} - ${event.venue.venue}`;
+          }
+          if (event.description) {
+            const description = document.createElement("p");
+            description.innerHTML = event.description;
+            description.style.marginLeft = "0px";
+            description.style.fontStyle = "italic";
+            li.appendChild(description);
+          }
+          if (event.website) {
+            const a = document.createElement("a");
+            a.href = event.website;
+            a.textContent = "Buy Tickets";
+            a.className = "ticket-link";
+            a.target = "_blank";
+            li.appendChild(a);
+          }
+          tourDatesList.appendChild(li);
+        });
+        bandSection.appendChild(tourDatesList);
+        fragment.appendChild(bandSection);
+      } else {
+        const noEvents = document.createElement("p");
+        noEvents.textContent = "No upcoming tour dates.";
+        noEvents.classList.add("no-events");
+        fragment.appendChild(noEvents);
+      }
+      
+      bandsDiv.appendChild(fragment);
+
+    } catch (error) {
+      console.error("Error loading tour dates:", error);
+      const noEvents = document.createElement("p");
+      noEvents.textContent = "Error loading tour dates.";
+      noEvents.classList.add("no-events");
+      document.getElementById("bands").appendChild(noEvents);
+    }
+
+    const loadingElement = document.getElementById("loading");
+    if (loadingElement) {
+      loadingElement.style.display = "none";
+    }
+  }
 </script>
 <script>
 // Step 1: Get the bio text
@@ -403,134 +489,5 @@ if (bioElement) { // Ensure the element exists
   });
 </script>
 <script>
-  async function decodeHtml(html) {
-    const txt = document.createElement("textarea");
-    txt.innerHTML = html;
-    return txt.value;
-  }
-
-  async function fetchAllPages(url) {
-    const firstPageResponse = await fetch(`${url}?page=1`);
-    const firstPageData = await firstPageResponse.json();
-    const totalPages = firstPageData.total_pages;
-
-    const pagePromises = [];
-    for (let i = 1; i <= totalPages; i++) {
-      pagePromises.push(fetch(`${url}?page=${i}`).then(response => response.json()));
-    }
-
-    const allPagesData = await Promise.all(pagePromises);
-    return allPagesData.flatMap(data => data.events);
-  }
-
-  (async function () {
-    try {
-      const [apiData, bandsData] = await Promise.all([
-        fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
-        fetch("bands.json").then(response => response.json()),
-      ]);
-
-      const bandsDiv = document.getElementById("bands");
-
-      const currentBandElement = document.getElementById("band-name");
-      if (!currentBandElement) {
-        throw new Error("Current band name element not found");
-      }
-      const currentBandName = currentBandElement.textContent.trim().toLowerCase();
-
-      const today = new Date();
-      today.setHours(0, 0, 0, 0);
-
-      const fragment = document.createDocumentFragment();
-      const band = bandsData.find(band => band.bandName.toLowerCase() === currentBandName);
-
-      if (band) {
-        const decodeCache = new Map();
-        const decode = async (html) => {
-          if (!decodeCache.has(html)) {
-            decodeCache.set(html, await decodeHtml(html));
-          }
-          return decodeCache.get(html);
-        };
-
-        const bandEvents = await Promise.all(apiData.map(async event => {
-          const decodedEventTitle = (await decode(event.title)).toLowerCase();
-          if (decodedEventTitle.includes(currentBandName) && new Date(event.start_date) >= today) {
-            return event;
-          }
-        })).then(events => events.filter(event => event !== undefined));
-
-        if (bandEvents.length > 0) {
-          const bandSection = document.createElement("div");
-          bandSection.className = "band-section";
-
-          const bandName = document.createElement("h2");
-          bandName.textContent = band.bandName;
-
-          const tourDatesList = document.createElement("ul");
-          tourDatesList.style.listStyleType = "none";
-          tourDatesList.style.marginBottom = "50px";
-
-          for (const event of bandEvents) {
-            const li = document.createElement("li");
-            li.className = "li-separator";
-            li.style.backgroundColor = "whitesmoke";
-            const eventDate = new Date(event.start_date);
-            const formattedDate = eventDate.toLocaleString("en-US", {
-              month: "short",
-              day: "2-digit",
-              year: "numeric",
-            });
-            if (event.venue.country === "United States") {
-                li.textContent = `${formattedDate} - ${await decodeHtml(
-                event.venue.city
-              )}, ${await decodeHtml(event.venue.stateprovince)} - ${await decodeHtml(
-                event.venue.venue
-              )}`;
-              }
-              else {
-                li.textContent = `${formattedDate} - ${await decodeHtml(
-                event.venue.city
-              )}, ${await decodeHtml(event.venue.country)} - ${await decodeHtml(
-                event.venue.venue
-              )}`;
-              }
-            if (event.description) {
-              const description = document.createElement("p");
-              description.innerHTML = await decode(event.description);
-              description.style.marginLeft = "0px";
-              description.style.fontStyle = "italic";
-              li.appendChild(description);
-            }
-            if (event.website) {
-              const a = document.createElement("a");
-              a.href = event.website;
-              a.textContent = "Buy Tickets";
-              a.className = "ticket-link";
-              a.target = "_blank";
-              li.appendChild(a);
-            }
-            tourDatesList.appendChild(li);
-          }
-          bandSection.appendChild(tourDatesList);
-          fragment.appendChild(bandSection);
-        } else {
-          const noEvents = document.createElement("p");
-          noEvents.textContent = "No upcoming tour dates.";
-          noEvents.classList.add("no-events");
-          fragment.appendChild(noEvents);
-        }
-      }
-      bandsDiv.appendChild(fragment);
-
-    } catch (error) {
-      console.error("Error:", error);
-    }
-
-    const loadingElement = document.getElementById("loading");
-    if (loadingElement) {
-      loadingElement.style.display = "none";
-    }
-  })();
 </script>
   </html>

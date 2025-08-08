@@ -212,6 +212,8 @@
       return txt.value;
     }
 
+  // Comment out Azure Table Storage function for potential future use
+  /*
   async function fetchAzureTableData() {
   const accountName = "spacejockey";
   const sasToken = "sv=2019-02-02&st=2025-04-10T15%3A19%3A17Z&se=2040-01-23T16%3A34%3A00Z&sp=r&sig=Y7IIrelezmc9gkR%2F6hPZg0ek1ww1sjtIp46TmhLvl3M%3D&tn=rstourdates"; // Generate a Shared Access Signature (SAS) token
@@ -248,7 +250,10 @@
     return [];
   }
 }
+  */
   
+    // Comment out paginated API fetch function for potential future use
+    /*
     async function fetchAllPages(url) {
       const firstPageResponse = await fetch(`${url}?page=1`);
       const firstPageData = await firstPageResponse.json();
@@ -269,21 +274,21 @@
   
       return allEvents;
     }
+    */
   
     (async function () {
   try {
-    const [apiData, azureData, bandsData] = await Promise.all([
-      fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
-      fetchAzureTableData(),
+    const [showsData, bandsData] = await Promise.all([
+      // Use local shows.json file instead of API calls
+      fetch("shows.json").then((response) => response.json()),
+      // Comment out API calls for potential future use
+      // fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
+      // fetchAzureTableData(),
       fetch("bands.json").then((response) => response.json()),
     ]);
 
-    // Combine and sort the data by start_date
-    const combinedData = [...apiData, ...azureData].sort((a, b) => {
-      const dateA = new Date(a.start_date);
-      const dateB = new Date(b.start_date);
-      return dateA - dateB; // Ascending order
-    });
+    // Use shows.json data directly (already sorted)
+    const combinedData = showsData;
 
     console.log("Sorted Combined Data:", combinedData);
 
