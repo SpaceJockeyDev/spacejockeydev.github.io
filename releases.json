@@ -3610,25 +3610,6 @@
         }
     },
     {
-        "bandName": "Elway",
-        "album": "Laugh Track",
-        "displayAlbum": "Laugh Track",
-        "releaseNumber": "259",
-        "releaseDate": "2025-05-01",
-        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/laugh-track-single.jpg",
-        "description": "\"Laugh Track\" is the first single from Elway's upcoming <i>Nobody's Going To Heaven</i> LP, and even though these soy boys are REALLY frustrated with the current timeline, the new songs are secretly triumphant and affirmative.  And to make damn sure the message gets through to the listener, they enlisted Colorado's Blasting Room Studios (Hot Water Music, Broadway Calls, Propagandhi, etc.) to turn this shit up to 11.  A minimalist rendition of fan favorite \"Better Whenever\" is on the B-side, and yes, that is a piano accompaniment you're hearing.  But what does it all mean?!  More new Elway music coming in 2025!",
-        "trackList":[
-            "01. Laugh Track",
-            "02. Better Whenever (At Ten)"
-        ],
-        "links":{
-            "spotify": "https://open.spotify.com/album/2q40kAvBLchwPgpBoqYgN3?si=JUazb0-CSE23aFc-KobJ9g",
-            "appleMusic": "https://music.apple.com/us/album/laugh-track-single/1806699726",
-            "bandcamp": "https://elwaytheband.bandcamp.com/album/laugh-track-single",
-            "store": null
-        }
-    },
-    {
         "bandName": "The Methadones",
         "album": "Love On Layaway",
         "displayAlbum": "Love On Layaway",
@@ -3667,6 +3648,25 @@
         }
     },
     {
+        "bandName": "Elway",
+        "album": "Laugh Track",
+        "displayAlbum": "Laugh Track",
+        "releaseNumber": "259",
+        "releaseDate": "2025-05-01",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/laugh-track-single.jpg",
+        "description": "\"Laugh Track\" is the first single from Elway's upcoming <i>Nobody's Going To Heaven</i> LP, and even though these soy boys are REALLY frustrated with the current timeline, the new songs are secretly triumphant and affirmative.  And to make damn sure the message gets through to the listener, they enlisted Colorado's Blasting Room Studios (Hot Water Music, Broadway Calls, Propagandhi, etc.) to turn this shit up to 11.  A minimalist rendition of fan favorite \"Better Whenever\" is on the B-side, and yes, that is a piano accompaniment you're hearing.  But what does it all mean?!  More new Elway music coming in 2025!",
+        "trackList":[
+            "01. Laugh Track",
+            "02. Better Whenever (At Ten)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/2q40kAvBLchwPgpBoqYgN3?si=JUazb0-CSE23aFc-KobJ9g",
+            "appleMusic": "https://music.apple.com/us/album/laugh-track-single/1806699726",
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/laugh-track-single",
+            "store": null
+        }
+    },
+    {
         "bandName": "Various Artists",
         "album": "Red Scare Across Canada",
         "displayAlbum": "Red Scare Across Canada: 2025",
@@ -3685,6 +3685,60 @@
             "appleMusic": "https://music.apple.com/us/album/red-scare-across-canada-2025-ep/1824525547",
             "bandcamp": "https://redscareindustries.bandcamp.com/album/red-scare-across-canada-2025",
             "store": null
+        }
+    },
+    {
+        "bandName": "Sam Russo",
+        "album": "Hold You Hard",
+        "displayAlbum": "Hold You Hard",
+        "releaseNumber": "262",
+        "releaseDate": "2025-08-15",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/HYH-front-final-3000x3000.jpg",
+        "description": "Sam Russo is known as a Brit-Folk solo artist, but lately it's been different.  The past couple years he's been playing shows with a full band.  Loud, punk rock sets with galloping drums and distorted guitars.  Just the way we like it here at Red Scare.  Sam and his band were having such a good time raisin' a racket, that he enlisted the gents for this next full length album.  <i>Hold You Hard</i> is fulla secrets though: Side A is the aforementioned full rock band installment, and Side B has Russo in his traditional solo incarnation.  It's a little experimental and a little risky, but Sam ain't scared of taking chances with this batch of songs.  In fact, he's all in and already has three tours of North America booked in support of this new material.  The Englishman has done a lot of recent traveling that has inspired this storytelling, and after releasing three Russo albums, we're excited for the fourth chapter in his journey.",
+        "trackList":[
+            "01. Gator Lodge",
+            "02. Bruises and Sunburn",
+            "03. Graveyard",
+            "04. Santa Monica Waves",
+            "05. Whinny Whinny",
+            "06. The Muckleshoot Casino",
+            "07. Lifeguard Tower",
+            "08. Bait Machine",
+            "09. Padlocks and Germs Burns",
+            "10.  Unsolved Mysteries"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0n0fYy39cZj3lmsL3z3WzV",
+            "appleMusic": "https://itunes.apple.com/album/id/1824526283",
+            "bandcamp": " https://samrusso.bandcamp.com/album/hold-you-hard",
+            "store": "https://redscare.storenvy.com/products/36947369-sam-russo-hold-you-hard-lp-cccp-262-1"
+        }
+    },
+    {
+        "bandName": "Tired Radio",
+        "album": "Hope in the Haze",
+        "displayAlbum": "Hope in the Haze",
+        "releaseNumber": "263",
+        "releaseDate": "2025-09-19",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/hopeinhaze.jpg",
+        "description": "<i>Hope in the Haze</i> is Tired Radio's debut album for Red Scare, and like many comrades that came before, this band is poised to make a great leap forward.  They blast out raspy emo-punk anthems and draw comparisons to label alum MakeWar and Sincere Engineer.  Ah, but are these young New Yorkers handsome and marketable?  YES INDEED.  We're so confident in these 10 songs we didn't even bother putting the band name or the album title on the front of the record.  That takes some real stones, folks.  Hype around the Brooklyn quartet has been simmering to a boil, and now Tired Radio have a new album just in time to meet the moment.",
+        "trackList":[
+            "01. Seem OK",
+            "02. D.R.E.A.M. (Depression Ruins Everything Around Me)",
+            "03. On & On",
+            "04. Your Great Escape",
+            "05. When You Say My Name",
+            "06. Hope in the Haze",
+            "07. Records and Regrets",
+            "08. Midnight: Miserable (Everyone I Love Is Gonna Die)",
+            "09. Fade Away...",
+            "10. Mountains // Molehills"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://tiredradio.bandcamp.com/album/hope-in-the-haze",
+            "store": "https://redscare.storenvy.com/products/36957120-tired-radio-hope-in-the-haze-lp-cccp-263-1"
         }
     }
 ]
