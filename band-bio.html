@@ -377,6 +377,13 @@
     })
     .catch((error) => console.error("Error:", error));
 
+  // Function to decode HTML entities
+  function decodeHtmlEntities(text) {
+    const textArea = document.createElement('textarea');
+    textArea.innerHTML = text;
+    return textArea.value;
+  }
+
   // Function to load tour dates
   async function loadTourDates(currentBandName) {
     try {
@@ -413,10 +420,14 @@
             day: "2-digit",
             year: "numeric",
           });
+          
+          // Decode HTML entities in venue name
+          const decodedVenue = decodeHtmlEntities(event.venue.venue);
+          
           if (event.venue.country === "United States") {
-            li.textContent = `${formattedDate} - ${event.venue.city}, ${event.venue.stateprovince} - ${event.venue.venue}`;
+            li.textContent = `${formattedDate} - ${event.venue.city}, ${event.venue.stateprovince} - ${decodedVenue}`;
           } else {
-            li.textContent = `${formattedDate} - ${event.venue.city}, ${event.venue.country} - ${event.venue.venue}`;
+            li.textContent = `${formattedDate} - ${event.venue.city}, ${event.venue.country} - ${decodedVenue}`;
           }
           if (event.description) {
             const description = document.createElement("p");
