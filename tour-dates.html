@@ -401,6 +401,32 @@
 
         bandsDiv.appendChild(fragment);
 
+        // Check URL for band parameter and set dropdown selection
+        const urlParams = new URLSearchParams(window.location.search);
+        const bandParam = urlParams.get("band");
+        if (bandParam) {
+          // Find matching option in dropdown
+          const options = dropdown.options;
+          for (let i = 0; i < options.length; i++) {
+            if (options[i].value.toLowerCase() === bandParam.toLowerCase()) {
+              dropdown.selectedIndex = i;
+              // Trigger the filter
+              const selectedBand = bandParam.toLowerCase();
+              const bandSections = document.getElementsByClassName("band-section");
+              Array.from(bandSections).forEach((bandSection) => {
+                const bandName = bandSection
+                  .getElementsByClassName("band-name")[0]
+                  .textContent.toLowerCase();
+                bandSection.style.display =
+                  bandName === selectedBand || selectedBand === "all"
+                    ? "block"
+                    : "none";
+              });
+              break;
+            }
+          }
+        }
+
         dropdown.addEventListener("change", function () {
           const selectedBand = this.value.toLowerCase();
           const bandSections = document.getElementsByClassName("band-section");
@@ -413,6 +439,15 @@
                 ? "block"
                 : "none";
           });
+
+          // Update URL with selected band
+          const url = new URL(window.location);
+          if (selectedBand === "all") {
+            url.searchParams.delete("band");
+          } else {
+            url.searchParams.set("band", this.value);
+          }
+          window.history.replaceState({}, "", url);
         });
 
         document.getElementById("loading").style.display = "none";
