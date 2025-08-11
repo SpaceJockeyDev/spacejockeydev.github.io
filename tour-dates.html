@@ -287,8 +287,10 @@
           fetch("bands.json").then((response) => response.json()),
         ]);
 
-        // Use shows.json data directly (already sorted)
-        const combinedData = showsData;
+        // Sort shows by date to ensure proper chronological order
+        const combinedData = showsData.sort((a, b) => {
+          return new Date(a.start_date) - new Date(b.start_date);
+        });
 
         console.log("Sorted Combined Data:", combinedData);
 
@@ -329,6 +331,11 @@
               decodeHtml(band.bandName).toLowerCase() ===
                 decodeHtml(event.title).toLowerCase() &&
               new Date(event.start_date) >= today
+          );
+
+          // Sort band events by date to ensure proper chronological order
+          bandEvents.sort(
+            (a, b) => new Date(a.start_date) - new Date(b.start_date)
           );
 
           if (bandEvents.length > 0) {
@@ -412,7 +419,8 @@
               dropdown.selectedIndex = i;
               // Trigger the filter
               const selectedBand = bandParam.toLowerCase();
-              const bandSections = document.getElementsByClassName("band-section");
+              const bandSections =
+                document.getElementsByClassName("band-section");
               Array.from(bandSections).forEach((bandSection) => {
                 const bandName = bandSection
                   .getElementsByClassName("band-name")[0]

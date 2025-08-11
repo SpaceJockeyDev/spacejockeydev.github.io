@@ -400,6 +400,9 @@
         return eventTitle.includes(currentBandName.toLowerCase()) && eventDate >= today;
       });
 
+      // Sort events by date (earliest first)
+      bandEvents.sort((a, b) => new Date(a.start_date) - new Date(b.start_date));
+
       const fragment = document.createDocumentFragment();
 
       if (bandEvents.length > 0) {
