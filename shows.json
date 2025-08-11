@@ -2608,5 +2608,80 @@
     "description": "<p>Lucky Boys Confusion!</p>",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 175,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2025",
+    "venue": {
+      "city": "Brighton",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Prince Albert"
+    },
+    "description": "<p>With Catbite!</p>",
+    "website": "https://www.loutpromotions.co.uk/events/3b211ff8-f9be-4b2f-b73c-48fc0314db50",
+    "is_future_event": true
+  },
+  {
+    "index": 176,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2025",
+    "venue": {
+      "city": "Bournemouth",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "The Bear Cave"
+    },
+    "description": "<p>With Catbite!</p>",
+    "website": "https://www.seetickets.com/event/catbite/bear-cave/3473169",
+    "is_future_event": true
+  },
+  {
+    "index": 177,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-23 08:00:00",
+    "formatted_date": "Oct 23, 2025",
+    "venue": {
+      "city": "Newport",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Le Pub"
+    },
+    "description": "<p>With Catbite!</p>",
+    "website": "https://www.seetickets.com/event/catbite/le-pub/3471030",
+    "is_future_event": true
+  },
+  {
+    "index": 178,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "New Cross Inn"
+    },
+    "description": "<p>With Catbite, A Wilhelm Scream, and MakeWar!</p>",
+    "website": "https://pit.live/events/a-wilhelm-scream",
+    "is_future_event": true
+  },
+  {
+    "index": 179,
+    "title": "MakeWar",
+    "start_date": "2025-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "New Cross Inn"
+    },
+    "description": "<p>With Catbite, A Wilhelm Scream, and Broadway Calls!</p>",
+    "website": "https://pit.live/events/a-wilhelm-scream",
+    "is_future_event": true
   }
 ]
