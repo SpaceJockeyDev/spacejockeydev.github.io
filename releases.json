@@ -3101,6 +3101,34 @@
         }
     },
     {
+        "bandName": "Heart & Lung",
+        "album": "You Wanna Know The Truth?",
+        "displayAlbum": "You Wanna Know The Truth?",
+        "releaseNumber": "232",
+        "releaseDate": "2017-02-19",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/YWKTT_Original.jpg",
+        "description": "Debut album from Cleveland's wildest party punks.  Originally released in 2017, now brought to you by Red Scare, so it's gotta be good!  New album coming in 2021...",
+        "trackList":[
+            "01. Telecaster",
+            "02. Wasted",
+            "03. Hit Song No. 4",
+            "04. Hey Man",
+            "05. 1954",
+            "06. You Wanna Know the Truth?",
+            "07. Recession",
+            "08. Don't Need You",
+            "09. North Coast Metropolis",
+            "10. Ingenue",
+            "11. The Sound"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0lxvJAHE2rwhI1v8MsIUqh?si=k1rnLOVERFCrOW6G6899lw",
+            "appleMusic": "https://music.apple.com/us/song/you-wanna-know-the-truth/1534968096",
+            "bandcamp": "https://heartandlung.bandcamp.com/album/you-wanna-know-the-truth",
+            "store": null
+        }
+    },
+    {
         "bandName": "Fleau",
         "album": "Fleau",
         "displayAlbum": "Fleau",
