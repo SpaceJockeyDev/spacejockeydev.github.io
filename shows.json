@@ -2743,5 +2743,20 @@
     "description": "<p>(Ty Vaughn Solo) FREE SHOW with Seth Roberts, Scott Russo(Unwritten Law), Adam Nigh, and J Hawk & Friends!</p>",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 184,
+    "title": "Tired Radio",
+    "start_date": "2025-10-12 08:00:00",
+    "formatted_date": "Oct 12, 2025",
+    "venue": {
+      "city": "Baltimore",
+      "stateprovince": "MD",
+      "country": "United States",
+      "venue": "The Depot"
+    },
+    "description": "<p>Hope in the Haze record release show!</p>",
+    "website": null,
+    "is_future_event": true
   }
 ]
