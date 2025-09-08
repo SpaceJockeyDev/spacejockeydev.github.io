@@ -1135,7 +1135,7 @@
       "country": "United States",
       "venue": "804 Mart"
     },
-    "description": null,
+    "description": "<p>Hope In The Haze record release show!</p>",
     "website": null,
     "is_future_event": true
   },
@@ -2755,7 +2755,7 @@
       "country": "United States",
       "venue": "The Depot"
     },
-    "description": "<p>Hope in the Haze record release show!</p>",
+    "description": "<p>Hope In The Haze record release show!</p>",
     "website": null,
     "is_future_event": true
   }
