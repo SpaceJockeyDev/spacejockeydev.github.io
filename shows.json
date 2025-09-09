@@ -2758,5 +2758,35 @@
     "description": "<p>Hope In The Haze record release show!</p>",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 185,
+    "title": "The Bollweevils",
+    "start_date": "2025-09-20 08:00:00",
+    "formatted_date": "Sep 20, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Liar's Club"
+    },
+    "description": "<p>Liarpaloozer 2025!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 186,
+    "title": "The Bollweevils",
+    "start_date": "2025-10-26 08:00:00",
+    "formatted_date": "Oct 26, 2025",
+    "venue": {
+      "city": "Murrieta",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Solaris Brewery"
+    },
+    "description": "<p>With The Freeze, Whatever..., Fantasy Lane, and The Penetrators!</p>",
+    "website": "https://www.ticketweb.com/event/the-freeze-whatever-the-bollweevils-solaris-beer-blending-tickets/13937604?fbclid=PAZnRzaAMtNvlleHRuA2FlbQIxMQABp1jN2zJpkqGDxGeI56g7T8tsVLTj8BNsxdh8fZ3BiDCpFIT2pYyK7foKuUuF_aem_WpfjxRyiGruhY5yxklNxkQ",
+    "is_future_event": true
   }
 ]
