@@ -2788,5 +2788,20 @@
     "description": "<p>With The Freeze, Whatever..., Fantasy Lane, and The Penetrators!</p>",
     "website": "https://www.ticketweb.com/event/the-freeze-whatever-the-bollweevils-solaris-beer-blending-tickets/13937604?fbclid=PAZnRzaAMtNvlleHRuA2FlbQIxMQABp1jN2zJpkqGDxGeI56g7T8tsVLTj8BNsxdh8fZ3BiDCpFIT2pYyK7foKuUuF_aem_WpfjxRyiGruhY5yxklNxkQ",
     "is_future_event": true
+  },
+  {
+    "index": 187,
+    "title": "Elway",
+    "start_date": "2025-11-07 08:00:00",
+    "formatted_date": "Nov 07, 2025",
+    "venue": {
+      "city": "Denver",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Reggies Rock Club"
+    },
+    "description": "<p>Gila Teen and Hooper!</p>",
+    "website": null,
+    "is_future_event": true
   }
 ]
