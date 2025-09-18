@@ -3768,5 +3768,33 @@
             "bandcamp": "https://tiredradio.bandcamp.com/album/hope-in-the-haze",
             "store": "https://redscare.storenvy.com/products/36957120-tired-radio-hope-in-the-haze-lp-cccp-263-1"
         }
+    },
+    {
+        "bandName": "Elway",
+        "album": "Nobody’s Going To Heaven",
+        "displayAlbum": "Nobody’s Going To Heaven",
+        "releaseNumber": "264",
+        "releaseDate": "2025-10-01",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/RSI-20th-3000.jpg",
+        "description": "Elway is an indie-punk act that has been consistently lauded for poetic and clever lyrics, but on this latest record, singer Tim is fresh outta fucks to give and his patience with Earthlings has run out.  Sounds like these emo nerds finally grew up to be proper punk rockers!  But don't expect purple mohawks and slogans from Elway, these guys go deeper and get downright brutal with their assessment of America and capitalism.  Elway fans will gobble that stuff up, but we're still gonna need you guys to buy the record.  Bah, who are we kidding, you dirtballs ain't contributing to any sorta economy, so I guess we've done our part in the fight against The Man.  Speaking of indomitable, omnipresent institutions, the band got so fired up about the project that they conscripted The Man over at The Blasting Room (Propagandhi, Broadway Calls, Hot Water Music) to mix and master these eleven songs.  This album is bursting with melody and scrutiny, and Elway has aimed this catchy, cathartic think-piece directly at these troubled times.",
+        "trackList":[
+            "01. Turner Joy",
+            "02. Years Of Lead",
+            "03. Laugh Track",
+            "04. The Cost!  The Price!",
+            "05. Down The Lane And Far Away",
+            "06. Superpositions",
+            "07. Look At What We've Done",
+            "08. Unspilled Blood",
+            "09. Nobody's Going To Heaven",
+            "10. The Rot",
+            "11. Living Epilogue"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://elwaytheband.bandcamp.com/album/nobodys-going-to-heaven",
+            "store": "https://redscare.storenvy.com/products/36967390-elway-nobody-s-going-to-heaven-lp-cccp-264-1"
+        }
     }
 ]
