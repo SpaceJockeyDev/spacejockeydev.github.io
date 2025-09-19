@@ -135,6 +135,7 @@
         white-space: nowrap;
         font-family: "Helv";
         font-size: clamp(12px, 2vw, 14px);
+        
       }
       #pagination {
         display: flex;
@@ -196,6 +197,11 @@
         }
         .release img {
           width: 100%; /* Adjust as needed, but should not exceed 100% */
+        }
+
+        .release p {
+          white-space: normal; /* Allow text wrapping on mobile */
+          text-align: center; /* Center the text */
         }
 
         body::before {
@@ -384,9 +390,7 @@
           infoDiv.appendChild(
             createElement("p", null, {
               textContent:
-                release.album.length > 20
-                  ? release.displayAlbum.slice(0, 20) + "...."
-                  : release.displayAlbum,
+                release.displayAlbum,
             })
           );
 
