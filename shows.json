@@ -2848,5 +2848,20 @@
     "description": "<p>With Sam Russo!</p>",
     "website": "https://dice.fm/partner/tickets/event/av76ad?dice_id=7335919&dice_channel=web&dice_tags=organic&dice_campaign=Alex%27s%20Bar&dice_feature=mio_marketing&_branch_match_id=1504848948139823881&utm_source=web&utm_campaign=Alex%27s%20Bar&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdKSUwzTTU0skwxMrGvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQApdpHbOwAAAA%3D%3D",
     "is_future_event": true
+  },
+  {
+    "index": 191,
+    "title": "Heart & Lung",
+    "start_date": "2025-10-16 08:00:00",
+    "formatted_date": "Oct 16, 2025",
+    "venue": {
+      "city": "Lakewood",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Mahall's"
+    },
+    "description": "<p>With Brendan Kelly, Sam Russo, and Good Friend!</p>",
+    "website": "https://dice.fm/partner/dice/event/yombvp-brendan-kelly-16th-oct-mahalls-lakewood-tickets?dice_id=6545764&amp%3Bdice_channel=web&amp%3Bdice_tags=organic&amp%3Bdice_campaign=DICE&amp%3Bdice_feature=mio_marketing&amp%3B_branch_match_id=1471214867754828139&amp%3Butm_source=web&amp%3Butm_campaign=DICE&amp%3Butm_medium=mio_marketing&amp%3B_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdPNU%2BzsEhLMjcztbCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDx0UhHOwAAAA%3D%3D",
+    "is_future_event": true
   }
 ]
