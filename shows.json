@@ -2815,7 +2815,7 @@
       "country": "United States",
       "venue": "Color Club Ballroom"
     },
-    "description": "<p>No Wristbands! We Drink for Free presents</p>",
+    "description": "<p>No Wristbands! We Drink for Free presents!</p>",
     "website": "https://dice.fm/event/mx5xyw-brendan-kelly-blake-cateris-24th-nov-color-club-chicago-tickets",
     "is_future_event": true
   },
@@ -2862,6 +2862,66 @@
     },
     "description": "<p>With Brendan Kelly, Sam Russo, and Good Friend!</p>",
     "website": "https://dice.fm/partner/dice/event/yombvp-brendan-kelly-16th-oct-mahalls-lakewood-tickets?dice_id=6545764&amp%3Bdice_channel=web&amp%3Bdice_tags=organic&amp%3Bdice_campaign=DICE&amp%3Bdice_feature=mio_marketing&amp%3B_branch_match_id=1471214867754828139&amp%3Butm_source=web&amp%3Butm_campaign=DICE&amp%3Butm_medium=mio_marketing&amp%3B_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdPNU%2BzsEhLMjcztbCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDx0UhHOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 192,
+    "title": "The Brokedowns",
+    "start_date": "2025-11-11 08:00:00",
+    "formatted_date": "Nov 11, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Burlington Bar"
+    },
+    "description": "<p>“Let’s Tip The Landlord” Record Release Party!</p>",
+    "website": "https://www.ticketweb.com/event/the-brokedowns-two-houses-burlington-bar-tickets/14616533?pl=mp",
+    "is_future_event": true
+  },
+  {
+    "index": 193,
+    "title": "The Brokedowns",
+    "start_date": "2025-11-21 08:00:00",
+    "formatted_date": "Nov 21, 2025",
+    "venue": {
+      "city": "McHenry",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Siren Records"
+    },
+    "description": "<p>In-store performance!</p>",
+    "website": "https://sirenrecordsmchenry.com",
+    "is_future_event": true
+  },
+  {
+    "index": 194,
+    "title": "The Brokedowns",
+    "start_date": "2026-1-10 08:00:00",
+    "formatted_date": "Jan 10, 2026",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Gamma Ray Bar"
+    },
+    "description": null,
+    "website": "https://gammaray.bar/shows/",
+    "is_future_event": true
+  },
+  {
+    "index": 195,
+    "title": "The Brokedowns",
+    "start_date": "2026-5-16 08:00:00",
+    "formatted_date": "May 16, 2026",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "QC",
+      "country": "Canada",
+      "venue": "Pouzza Fest"
+    },
+    "description": null,
+    "website": "https://pouzzafest.com/",
     "is_future_event": true
   }
 ]
