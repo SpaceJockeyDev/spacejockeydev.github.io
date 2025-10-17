@@ -3791,10 +3791,40 @@
             "11. Living Epilogue"
         ],
         "links":{
-            "spotify": null,
-            "appleMusic": null,
+            "spotify": "https://open.spotify.com/album/5dhZcOc4JRFWHUkwCfau0a?si=gHpYUqJbRKyrshl9thoBeQ",
+            "appleMusic": "https://music.apple.com/us/album/nobodys-going-to-heaven/1839491921",
             "bandcamp": "https://elwaytheband.bandcamp.com/album/nobodys-going-to-heaven",
             "store": "https://redscare.storenvy.com/products/36967390-elway-nobody-s-going-to-heaven-lp-cccp-264-1"
+        }
+    },
+    {
+        "bandName": "The Brokedowns",
+        "album": "Let's Tip The Landlord",
+        "displayAlbum": "Let's Tip The Landlord",
+        "releaseNumber": "267",
+        "releaseDate": "2025-10-01",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/CCCP267_Cover.jpg",
+        "description": "The Brokedowns are the coolest punk band in Chicagoland and they're back with 13 new songs of fury and satire.  The quartet has steadily grown in popularity and so has their appetite for mockery.  We asked them about the record, and they explained the first track is a musical tribute to QAnon moms taking over the school board.  Quite the tone-setter.  While not a concept album, there is a thematic protagonist: Alpha Dog Serum X.  No, Serum X is not a panacea to a world gone mad, it's a fictional miracle drug endorsed by all the coolest billionaires and influencers.  Safe to say, if dorks like Elon and Logan Paul heard this music, they would not get the joke.  The Brokedowns fuse heavy rhythms with singalong melodies, and they use those tools like hammer and tongs to blast away at our societal ills.  It may sound grim, but no one has more fun with our stupid culture than The Brokedowns, so you may as well get in on the roast.",
+        "trackList":[
+            "01. Vanity Plates",
+            "02. Infinite Flex",
+            "03. Date Night in the Hague",
+            "04. In Praise of the Pedestal",
+            "05. Let's Tip the Landlord",
+            "06. Summer Games",
+            "07. Strategic Humiliation",
+            "08. Who Uses Time Anymore",
+            "09. The Power of Love",
+            "10. Bioavailable Fail Compilation",
+            "11. Sirhan Lohan",
+            "12. Live Laugh Love Death Cult",
+            "13. Crisis Actors Guild"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://thebrokedowns.bandcamp.com/album/lets-tip-the-landlord",
+            "store": "https://redscare.storenvy.com/products/36976767-the-brokedowns-let-s-tip-the-landlord-lp-cccp-267-1"
         }
     }
 ]
