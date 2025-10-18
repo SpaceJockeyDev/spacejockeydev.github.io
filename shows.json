@@ -2923,5 +2923,125 @@
     "description": null,
     "website": "https://pouzzafest.com/",
     "is_future_event": true
+  },
+  {
+    "index": 196,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2025",
+    "venue": {
+      "city": "Louisville",
+      "stateprovince": "KY",
+      "country": "United States",
+      "venue": "Mag Bar"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 197,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-10-23 08:00:00",
+    "formatted_date": "Oct 24, 2025",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 198,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-10-27 08:00:00",
+    "formatted_date": "Oct 27, 2025",
+    "venue": {
+      "city": "Nashville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "Drkmttr Collective"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 199,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-10-31 08:00:00",
+    "formatted_date": "Oct 31, 2025",
+    "venue": {
+      "city": "West Dundee",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Pittstop"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 200,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-11-08 08:00:00",
+    "formatted_date": "Nov 08, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "The Paper Machete at The Green Mill"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 201,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-11-21 08:00:00",
+    "formatted_date": "Nov 21, 2025",
+    "venue": {
+      "city": "Kenosha",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "The Port"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 202,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-11-22 08:00:00",
+    "formatted_date": "Nov 22, 2025",
+    "venue": {
+      "city": "McHenry, IL",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Siren Records"
+    },
+    "description": "<p>With The Brokedowns!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 203,
+    "title": "Won't Stay Dead",
+    "start_date": "2025-12-19 08:00:00",
+    "formatted_date": "Dec 19, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Liar's Club"
+    },
+    "description": "<p>“Vindication” record release party!</p>",
+    "website": null,
+    "is_future_event": true
   }
 ]
