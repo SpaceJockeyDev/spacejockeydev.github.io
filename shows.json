@@ -3073,5 +3073,260 @@
     "description": "<p>With Banquets, Heavy Lag, and Original Sharks!</p>",
     "website": "https://dice.fm/event/bbna7v-banquets-tired-radio-heavy-lag-original-sharks-12th-dec-gold-sounds-new-york-tickets",
     "is_future_event": true
+  },
+  {
+    "index": 206,
+    "title": "Billy Liar",
+    "start_date": "2025-12-02 08:00:00",
+    "formatted_date": "Dec 02, 2025",
+    "venue": {
+      "city": "Hannover",
+      "stateprovince": "NI",
+      "country": "Germany",
+      "venue": "Stumpf"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 207,
+    "title": "Billy Liar",
+    "start_date": "2025-12-03 08:00:00",
+    "formatted_date": "Dec 03, 2025",
+    "venue": {
+      "city": "Essen",
+      "stateprovince": "BE",
+      "country": "Germany",
+      "venue": "Don't Panic"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 208,
+    "title": "Billy Liar",
+    "start_date": "2025-12-04 08:00:00",
+    "formatted_date": "Dec 04, 2025",
+    "venue": {
+      "city": "Saarbrucken",
+      "stateprovince": "BE",
+      "country": "Germany",
+      "venue": "Stube 8"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 209,
+    "title": "Billy Liar",
+    "start_date": "2025-12-05 08:00:00",
+    "formatted_date": "Dec 05, 2025",
+    "venue": {
+      "city": "Eggenthal",
+      "stateprovince": "HE",
+      "country": "Germany",
+      "venue": "Rotten Cat"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 210,
+    "title": "Billy Liar",
+    "start_date": "2025-12-06 08:00:00",
+    "formatted_date": "Dec 06, 2025",
+    "venue": {
+      "city": "Aulendorf",
+      "stateprovince": "BY",
+      "country": "Germany",
+      "venue": "irREAL"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 211,
+    "title": "Billy Liar",
+    "start_date": "2025-12-07 08:00:00",
+    "formatted_date": "Dec 07, 2025",
+    "venue": {
+      "city": "Wien",
+      "stateprovince": "BY",
+      "country": "Austria",
+      "venue": "Chelsea"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 212,
+    "title": "Billy Liar",
+    "start_date": "2025-12-08 08:00:00",
+    "formatted_date": "Dec 08, 2025",
+    "venue": {
+      "city": "Bamberg",
+      "stateprovince": "BY",
+      "country": "Germany",
+      "venue": "Live Club"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 213,
+    "title": "Billy Liar",
+    "start_date": "2025-12-09 08:00:00",
+    "formatted_date": "Dec 09, 2025",
+    "venue": {
+      "city": "Plzen",
+      "stateprovince": "BY",
+      "country": "Czech Republic",
+      "venue": "Divadlo Pod Lampou"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 214,
+    "title": "Billy Liar",
+    "start_date": "2025-12-10 08:00:00",
+    "formatted_date": "Dec 10, 2025",
+    "venue": {
+      "city": "Chemnitz",
+      "stateprovince": "BY",
+      "country": "Germany",
+      "venue": "AJZ"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 215,
+    "title": "Billy Liar",
+    "start_date": "2025-12-11 08:00:00",
+    "formatted_date": "Dec 11, 2025",
+    "venue": {
+      "city": "Hamburg",
+      "stateprovince": "BE",
+      "country": "Germany",
+      "venue": "Indra Music Club"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 216,
+    "title": "Billy Liar",
+    "start_date": "2025-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2025",
+    "venue": {
+      "city": "Munster",
+      "stateprovince": "BE",
+      "country": "Germany",
+      "venue": "Heile Welt"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 217,
+    "title": "Billy Liar",
+    "start_date": "2025-12-13 08:00:00",
+    "formatted_date": "Dec 13, 2025",
+    "venue": {
+      "city": "Dinslaken",
+      "stateprovince": "BE",
+      "country": "Germany",
+      "venue": "Kutscherstube"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 218,
+    "title": "Billy Liar",
+    "start_date": "2025-12-14 08:00:00",
+    "formatted_date": "Dec 14, 2025",
+    "venue": {
+      "city": "Malle",
+      "stateprovince": "BE",
+      "country": "Belgium ",
+      "venue": "Klub K"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 219,
+    "title": "Billy Liar",
+    "start_date": "2025-12-16 08:00:00",
+    "formatted_date": "Dec 16, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Duke's Of Highgate"
+    },
+    "description": "<p>With Lenny Lashley's Gang of One!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 220,
+    "title": "Billy Liar",
+    "start_date": "2026-01-23 08:00:00",
+    "formatted_date": "Jan 23, 2026",
+    "venue": {
+      "city": "Edinburgh",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Bannermans"
+    },
+    "description": "<p>With TV Smith(The Adverts)!</p>",
+    "website": "https://tickets-scotland.com/tvsm9",
+    "is_future_event": true
+  },
+  {
+    "index": 221,
+    "title": "Billy Liar",
+    "start_date": "2026-01-24 08:00:00",
+    "formatted_date": "Jan 24, 2026",
+    "venue": {
+      "city": "Glasgow",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "Audio"
+    },
+    "description": "<p>With TV Smith(The Adverts)!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 222,
+    "title": "Billy Liar",
+    "start_date": "2026-01-25 08:00:00",
+    "formatted_date": "Jan 25, 2026",
+    "venue": {
+      "city": "Forfar",
+      "stateprovince": "UK",
+      "country": "United Kingdom",
+      "venue": "10 Bar"
+    },
+    "description": "<p>With TV Smith(The Adverts)!</p>",
+    "website": null,
+    "is_future_event": true
   }
 ]
