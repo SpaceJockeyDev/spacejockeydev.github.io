@@ -3043,5 +3043,35 @@
     "description": "<p>“Vindication” record release party!</p>",
     "website": "https://www.liarsclubstore.com/product/friday-december-19th-won-t-stay-dead-the-reganomics-boybrain/MZORJL2Z34CVF4VJLTFWLVTS?cs=true&cst=custom",
     "is_future_event": true
+  },
+  {
+    "index": 204,
+    "title": "Tired Radio",
+    "start_date": "2025-12-06 08:00:00",
+    "formatted_date": "Dec 06, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Metro"
+    },
+    "description": "<p>War On Xmas with The Lawrence Arms and The Flatliners!</p>",
+    "website": "https://www.etix.com/ticket/p/63132920/?partner_id=100&_gl=1*5j6tt4*_ga*MTg0MzkxNTU2OC4xNzYzNDgzMDk4*_ga_68TT1Q537T*czE3NjM0ODMwOTgkbzEkZzAkdDE3NjM0ODMxMDIkajU2JGwwJGgxNTkyMzk4NzQw*_ga_DSG080VB8M*czE3NjM0ODMwOTgkbzEkZzAkdDE3NjM0ODMxMDIkajU2JGwwJGgyNzQ1MDQyNDc.*_ga_Z3MV4KFJMN*czE3NjM0ODMwOTgkbzEkZzAkdDE3NjM0ODMxMDIkajU2JGwwJGg2ODk0NjcwMzI.*_ga_MCR6RT8ZB7*czE3NjM0ODMwOTgkbzEkZzAkdDE3NjM0ODMxMDIkajU2JGwwJGgw&_ga=2.19544184.15995677.1763483098-1843915568.1763483098",
+    "is_future_event": true
+  },
+  {
+    "index": 205,
+    "title": "Tired Radio",
+    "start_date": "2025-12-12 08:00:00",
+    "formatted_date": "Dec 07, 2025",
+    "venue": {
+      "city": "Brooklyn",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "Gold Sounds"
+    },
+    "description": "<p>With Banquets, Heavy Lag, and Original Sharks!</p>",
+    "website": "https://dice.fm/event/bbna7v-banquets-tired-radio-heavy-lag-original-sharks-12th-dec-gold-sounds-new-york-tickets",
+    "is_future_event": true
   }
 ]
