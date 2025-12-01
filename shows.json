@@ -3343,5 +3343,110 @@
     "description": "<p>With Codefendants and Skuff Micksun!</p>",
     "website": "https://www.ticketweb.com/event/codefendants-heart-lung-skuff-grog-shop-tickets/14625213?pl=grogshop&REFID=clientsitewp",
     "is_future_event": true
+  },
+  {
+    "index": 224,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-12-06 08:00:00",
+    "formatted_date": "Dec 06, 2025",
+    "venue": {
+      "city": "Quentin",
+      "stateprovince": "Hauts-de-France",
+      "country": "France",
+      "venue": "La Manufacture"
+    },
+    "description": null,
+    "website": "https://billetterie.saint-quentin.fr/spectacle?id_spectacle=3432",
+    "is_future_event": true
+  },
+  {
+    "index": 225,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2025",
+    "venue": {
+      "city": "Nancy",
+      "stateprovince": "Grand Est",
+      "country": "France",
+      "venue": "MJC Lillebonne"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 226,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-12-13 08:00:00",
+    "formatted_date": "Dec 13, 2025",
+    "venue": {
+      "city": "Esprels",
+      "stateprovince": "Auvergne-Rhône-Alpes",
+      "country": "France",
+      "venue": "Salle Des Fêtes"
+    },
+    "description": null,
+    "website": "https://www.billetweb.fr/punk-day-13-12-2025-concert-caritatif-esprels-70-110-zik-orga-simpsons-pub",
+    "is_future_event": true
+  },
+  {
+    "index": 227,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-12-14 08:00:00",
+    "formatted_date": "Dec 14, 2025",
+    "venue": {
+      "city": "Neuchatel",
+      "stateprovince": "Neuchatel",
+      "country": "Switzerland",
+      "venue": "Manoir 2000"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 228,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-12-21 08:00:00",
+    "formatted_date": "Dec 21, 2025",
+    "venue": {
+      "city": "Taize-Aizie",
+      "stateprovince": "Lombardia",
+      "country": "France",
+      "venue": "Bar Les Forges"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 229,
+    "title": "Brendan Kelly",
+    "start_date": "2025-12-19 08:00:00",
+    "formatted_date": "Dec 19, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Liar's Club"
+    },
+    "description": "<p>Performing as Robin Graves! “Vindication” record release party!</p>",
+    "website": "https://www.liarsclubstore.com/product/friday-december-19th-won-t-stay-dead-the-reganomics-boybrain/MZORJL2Z34CVF4VJLTFWLVTS?cs=true&cst=custom",
+    "is_future_event": true
+  },
+  {
+    "index": 230,
+    "title": "The Reaganomics",
+    "start_date": "2025-12-19 08:00:00",
+    "formatted_date": "Dec 19, 2025",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Liar's Club"
+    },
+    "description": "<p>“Vindication” record release party!</p>",
+    "website": "https://www.liarsclubstore.com/product/friday-december-19th-won-t-stay-dead-the-reganomics-boybrain/MZORJL2Z34CVF4VJLTFWLVTS?cs=true&cst=custom",
+    "is_future_event": true
   }
 ]
