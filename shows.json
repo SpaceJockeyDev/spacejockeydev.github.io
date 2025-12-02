@@ -3448,5 +3448,185 @@
     "description": "<p>“Vindication” record release party!</p>",
     "website": "https://www.liarsclubstore.com/product/friday-december-19th-won-t-stay-dead-the-reganomics-boybrain/MZORJL2Z34CVF4VJLTFWLVTS?cs=true&cst=custom",
     "is_future_event": true
+  },
+  {
+    "index": 231,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-10 08:00:00",
+    "formatted_date": "Feb 10, 2026",
+    "venue": {
+      "city": "Pensacola",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Handlebar"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://thehandlebar850.com/hb-events/02-10-26-Teenage-Bottlerocket-Authority-Zero-Billy-Liar",
+    "is_future_event": true
+  },
+  {
+    "index": 232,
+    "title": "Billy Liar",
+    "start_date": "2026-02-10 08:00:00",
+    "formatted_date": "Feb 10, 2026",
+    "venue": {
+      "city": "Pensacola",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Handlebar"
+    },
+    "description": "<p>With Teenage Bottlerocket and Authority Zero!</p>",
+    "website": "https://thehandlebar850.com/hb-events/02-10-26-Teenage-Bottlerocket-Authority-Zero-Billy-Liar",
+    "is_future_event": true
+  },
+  {
+    "index": 233,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-11 08:00:00",
+    "formatted_date": "Feb 11, 2026",
+    "venue": {
+      "city": "Orlando",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Conduit"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-authority-zero-and-conduit-tickets/14724123",
+    "is_future_event": true
+  },
+  {
+    "index": 234,
+    "title": "Billy Liar",
+    "start_date": "2026-02-11 08:00:00",
+    "formatted_date": "Feb 11, 2026",
+    "venue": {
+      "city": "Orlando",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Conduit"
+    },
+    "description": "<p>With Teenage Bottlerocket and Authority Zero!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-authority-zero-and-conduit-tickets/14724123",
+    "is_future_event": true
+  },
+  {
+    "index": 235,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-12 08:00:00",
+    "formatted_date": "Feb 12, 2026",
+    "venue": {
+      "city": "Tampa",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Brass Mug"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://elevatedbooking.bigcartel.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 236,
+    "title": "Billy Liar",
+    "start_date": "2026-02-12 08:00:00",
+    "formatted_date": "Feb 12, 2026",
+    "venue": {
+      "city": "Tampa",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Brass Mug"
+    },
+    "description": "<p>With Teenage Bottlerocket and Authority Zero!</p>",
+    "website": "https://elevatedbooking.bigcartel.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 237,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-13 08:00:00",
+    "formatted_date": "Feb 13, 2026",
+    "venue": {
+      "city": "Jacksonville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Jack Rabbits"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.etix.com/ticket/p/82775391/teenage-bottlerocketauthority-zerobilly-liar-jacksonville-jack-rabbits-live",
+    "is_future_event": true
+  },
+  {
+    "index": 238,
+    "title": "Billy Liar",
+    "start_date": "2026-02-13 08:00:00",
+    "formatted_date": "Feb 13, 2026",
+    "venue": {
+      "city": "Jacksonville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Jack Rabbits"
+    },
+    "description": "<p>With Teenage Bottlerocket and Authority Zero!</p>",
+    "website": "https://www.etix.com/ticket/p/82775391/teenage-bottlerocketauthority-zerobilly-liar-jacksonville-jack-rabbits-live",
+    "is_future_event": true
+  },
+  {
+    "index": 239,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-14 08:00:00",
+    "formatted_date": "Feb 14, 2026",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "The Loft"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.ticketmaster.com/event/0E006381CF16A412",
+    "is_future_event": true
+  },
+  {
+    "index": 240,
+    "title": "Billy Liar",
+    "start_date": "2026-02-14 08:00:00",
+    "formatted_date": "Feb 14, 2026",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "The Loft"
+    },
+    "description": "<p>With Teenage Bottlerocket and Authority Zero!</p>",
+    "website": "https://www.ticketmaster.com/event/0E006381CF16A412",
+    "is_future_event": true
+  },
+  {
+    "index": 241,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-15 08:00:00",
+    "formatted_date": "Feb 15, 2026",
+    "venue": {
+      "city": "Nashville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "Eastside Bowl"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.eventim.us/event/teenage-bottlerocket/673068",
+    "is_future_event": true
+  },
+  {
+    "index": 242,
+    "title": "Billy Liar",
+    "start_date": "2026-02-15 08:00:00",
+    "formatted_date": "Feb 15, 2026",
+    "venue": {
+      "city": "Nashville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "Eastside Bowl"
+    },
+    "description": "<p>With Teenage Bottlerocket and Authority Zero!</p>",
+    "website": "https://www.eventim.us/event/teenage-bottlerocket/673068",
+    "is_future_event": true
   }
 ]
