@@ -3628,5 +3628,20 @@
     "description": "<p>With Teenage Bottlerocket and Authority Zero!</p>",
     "website": "https://www.eventim.us/event/teenage-bottlerocket/673068",
     "is_future_event": true
+  },
+  {
+    "index": 243,
+    "title": "Garrett Dale",
+    "start_date": "2025-12-21 08:00:00",
+    "formatted_date": "Dec 21, 2025",
+    "venue": {
+      "city": "Edmonton",
+      "stateprovince": "AB",
+      "country": "Canada",
+      "venue": "The Buckingham"
+    },
+    "description": "<p>Chhixmas with Chixdiggit and Reform!</p>",
+    "website": "https://www.ticketweb.ca/event/chixmas-featuring-chixdiggit-the-buckingham-tickets/14726493",
+    "is_future_event": true
   }
 ]
