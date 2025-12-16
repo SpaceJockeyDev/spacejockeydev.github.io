@@ -19,12 +19,12 @@ permalink: /release-info/
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     />
-    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     />
-    <link rel="icon" href="assets/fist.ico" />
+    <link rel="icon" href="/assets/fist.ico" />
     <style>
       .album-container {
         display: flex;
@@ -67,9 +67,9 @@ permalink: /release-info/
         color: #f80d0d;
       }
       body {
-        background-image: url("assets/PNGs/Skyline_Cropped.png"),
-          url("assets/PNGs/Hands_Cropped.png"),
-          url("assets/PNGs/Circle_Full.png");
+        background-image: url("/assets/PNGs/Skyline_Cropped.png"),
+          url("/assets/PNGs/Hands_Cropped.png"),
+          url("/assets/PNGs/Circle_Full.png");
         background-position: right, left, left 120px;
         background-size: 15%, 40%, 20%;
         background-repeat: repeat-y, repeat-y, no-repeat;
@@ -81,9 +81,9 @@ permalink: /release-info/
           font-size: 2.3em; /* Adjust this value as needed */
         }
         body {
-          background-image: url("assets/PNGs/Skyline_Cropped.png"),
-            url("assets/PNGs/Hands_Cropped.png"),
-            url("assets/PNGs/Circle_Full.png");
+          background-image: url("/assets/PNGs/Skyline_Cropped.png"),
+            url("/assets/PNGs/Hands_Cropped.png"),
+            url("/assets/PNGs/Circle_Full.png");
           background-position: right, left, left 120px;
           background-size: 15%, 40%, 20%;
           background-repeat: repeat-y, repeat-y, no-repeat;
@@ -150,7 +150,7 @@ permalink: /release-info/
       const albumName = decodeURIComponent(urlParams.get("album")).replace(/-/g, " ");
 
       // Fetch the album data from releases.json
-      fetch("releases.json")
+      fetch("/releases.json")
         .then((response) => response.json())
         .then((albums) => {
   // Find the album with the correct name
@@ -170,7 +170,7 @@ permalink: /release-info/
   }
 
           // Fetch the band data from bands.json
-          fetch("bands.json")
+          fetch("/bands.json")
             .then((response) => response.json())
             .then((bands) => {
               // Find the band with the correct name
@@ -258,12 +258,12 @@ permalink: /release-info/
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script>
     $(function () {
-      $("#navbar-container").load("navigation.html");
+      $("#navbar-container").load("/navigation.html");
     });
   </script>
   <script>
     $(function () {
-      $("#footer").load("footer.html");
+      $("#footer").load("/footer.html");
     });
   </script>
 </html>

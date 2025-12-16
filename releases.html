@@ -19,12 +19,12 @@ permalink: /releases/
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     />
-    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     />
-    <link rel="icon" href="assets/fist.ico" />
+    <link rel="icon" href="/assets/fist.ico" />
     <title>Releases - Red Scare Industries</title>
     <meta
       name="description"
@@ -134,9 +134,9 @@ permalink: /releases/
         border-bottom: 2px solid #000;
       }
       body {
-        background-image: url("assets/PNGs/Skyline_Cropped.png"),
-          url("assets/PNGs/Hands_Cropped.png"),
-          url("assets/PNGs/Circle_Full.png");
+        background-image: url("/assets/PNGs/Skyline_Cropped.png"),
+          url("/assets/PNGs/Hands_Cropped.png"),
+          url("/assets/PNGs/Circle_Full.png");
         background-position: right, left, left 120px;
         background-size: 15%, 40%, 20%;
         background-repeat: repeat-y, repeat-y, no-repeat;
@@ -156,9 +156,9 @@ permalink: /releases/
           z-index: -1;
           top: 0;
           left: 0;
-          background-image: url("assets/PNGs/Skyline_Full.png"),
-            url("assets/PNGs/Hands_Cropped.png"),
-            url("assets/PNGs/Circle_Full.png");
+          background-image: url("/assets/PNGs/Skyline_Full.png"),
+            url("/assets/PNGs/Hands_Cropped.png"),
+            url("/assets/PNGs/Circle_Full.png");
           background-position: right, left, left 120px;
           background-size: 15%, 50%, 60%;
           background-repeat: repeat-y, repeat-y, no-repeat;
@@ -276,7 +276,7 @@ permalink: /releases/
     }
 
     function displayReleases() {
-      fetch("releases.json")
+      fetch("/releases.json")
         .then((response) => response.json())
         .then((albums) => {
           const sortSelect = document.getElementById("sort-select");
@@ -329,12 +329,12 @@ permalink: /releases/
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script>
     $(function () {
-      $("#navbar-container").load("navigation.html");
+      $("#navbar-container").load("/navigation.html");
     });
   </script>
   <script>
     $(function () {
-      $("#footer").load("footer.html");
+      $("#footer").load("/footer.html");
     });
   </script>
 </html>

@@ -364,7 +364,7 @@ permalink: /
   <script>
     async function fetchReleases() {
       try {
-        const response = await fetch("releases.json");
+        const response = await fetch("/releases.json");
         const releases = await response.json();
         releases.reverse(); // Reverse the order of releases
 

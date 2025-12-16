@@ -24,12 +24,12 @@ permalink: /tour-dates/
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     />
-    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     />
-    <link rel="icon" href="assets/fist.ico" />
+    <link rel="icon" href="/assets/fist.ico" />
     <title>Tour Dates - Red Scare Industries</title>
     <meta
       name="description"
@@ -283,7 +283,7 @@ permalink: /tour-dates/
       try {
         const [showsData, bandsData] = await Promise.all([
           // Use local shows.json file instead of API calls
-          fetch("shows.json").then((response) => response.json()),
+          fetch("/shows.json").then((response) => response.json()),
           // Comment out API calls for potential future use
           // fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
           // fetchAzureTableData(),

@@ -16,9 +16,9 @@ permalink: /bands/
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <link rel="icon" href="assets/fist.ico">
+    <link rel="icon" href="/assets/fist.ico">
     <title>Bands - Red Scare Industries</title>
     <meta name="description" content="This page shows all artists who have released music on Red Scare Industries.">
     <style>
@@ -64,7 +64,7 @@ permalink: /bands/
         transform: scale(1.05);
     }
     body {
-        background-image: url("assets/PNGs/Skyline_Cropped.png"), url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+        background-image: url("/assets/PNGs/Skyline_Cropped.png"), url("/assets/PNGs/Hands_Cropped.png"), url("/assets/PNGs/Circle_Full.png");
         background-position: right, left, left 120px;
         background-size: 15%, 40%, 20%;
         background-repeat: repeat-y, repeat-y, no-repeat;
@@ -83,9 +83,9 @@ permalink: /bands/
     z-index: -1;
     top: 0;
     left: 0;
-    background-image: url("assets/PNGs/Skyline_Full.png"),
-      url("assets/PNGs/Hands_Cropped.png"),
-      url("assets/PNGs/Circle_Full.png");
+    background-image: url("/assets/PNGs/Skyline_Full.png"),
+      url("/assets/PNGs/Hands_Cropped.png"),
+      url("/assets/PNGs/Circle_Full.png");
     background-position: right, left, left 120px;
     background-size: 15%, 50%, 60%;
     background-repeat: repeat-y, repeat-y, no-repeat;
@@ -124,7 +124,7 @@ permalink: /bands/
 
 <script>
     window.onload = function() {
-        fetch('bands.json')
+        fetch('/bands.json')
             .then(response => response.json())
             .then(bands => {
                 const bandRowElement = document.getElementById('bands-row');
@@ -189,12 +189,12 @@ permalink: /bands/
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
         $(function () {
-          $("#navbar-container").load("navigation.html");
+          $("#navbar-container").load("/navigation.html");
         });
       </script>
     <script>
         $(function(){
-            $("#footer").load("footer.html");
+            $("#footer").load("/footer.html");
         });
     </script>
 

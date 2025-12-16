@@ -18,12 +18,12 @@ permalink: /band-bio/
     rel="stylesheet"
     href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
   />
-  <link rel="stylesheet" type="text/css" href="styles.css" />
+  <link rel="stylesheet" type="text/css" href="/styles.css" />
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   />
-  <link rel="icon" href="assets/fist.ico" />
+  <link rel="icon" href="/assets/fist.ico" />
   <style>
     .ticket-link {
         display: block;
@@ -138,8 +138,8 @@ permalink: /band-bio/
       background-color: whitesmoke;
     }
     body {
-      background-image: url("assets/PNGs/Skyline_Cropped.png"),
-        url("assets/PNGs/Hands_Cropped.png"), url("assets/PNGs/Circle_Full.png");
+      background-image: url("/assets/PNGs/Skyline_Cropped.png"),
+        url("/assets/PNGs/Hands_Cropped.png"), url("/assets/PNGs/Circle_Full.png");
       background-position: right, left, left 120px;
       background-size: 15%, 40%, 20%;
       background-repeat: repeat-y, repeat-y, no-repeat;
@@ -189,9 +189,9 @@ permalink: /band-bio/
         z-index: -1;
         top: 0;
         left: 0;
-        background-image: url("assets/PNGs/Skyline_Full.png"),
-          url("assets/PNGs/Hands_Cropped.png"),
-          url("assets/PNGs/Circle_Full.png");
+        background-image: url("/assets/PNGs/Skyline_Full.png"),
+          url("/assets/PNGs/Hands_Cropped.png"),
+          url("/assets/PNGs/Circle_Full.png");
         background-position: right, left, left 120px;
         background-size: 15%, 50%, 60%;
         background-repeat: repeat-y, repeat-y, no-repeat;
@@ -290,7 +290,7 @@ permalink: /band-bio/
   const urlParams = new URLSearchParams(window.location.search);
   const bandName = decodeURIComponent(urlParams.get("band")).replace(/-/g, " ");
 
-  fetch("bands.json")
+  fetch("/bands.json")
     .then((response) => response.json())
     .then((bands) => {
   const band = bands.find((band) => band.bandName === bandName);
@@ -307,7 +307,7 @@ permalink: /band-bio/
     return; // Stop further processing
   }
 
-      fetch("releases.json")
+      fetch("/releases.json")
         .then((response) => response.json())
         .then((releases) => {
           // Filter the releases that include the band's name in bandName or songTitles
@@ -390,7 +390,7 @@ permalink: /band-bio/
   // Function to load tour dates
   async function loadTourDates(currentBandName) {
     try {
-      const showsData = await fetch("shows.json").then(response => response.json());
+      const showsData = await fetch("/shows.json").then(response => response.json());
       const bandsDiv = document.getElementById("bands");
 
       const today = new Date();
@@ -497,12 +497,12 @@ if (bioElement) { // Ensure the element exists
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script>
   $(function () {
-    $("#navbar-container").load("navigation.html");
+    $("#navbar-container").load("/navigation.html");
   });
 </script>
 <script>
   $(function () {
-    $("#footer").load("footer.html");
+    $("#footer").load("/footer.html");
   });
 </script>
 <script>
