@@ -3643,5 +3643,335 @@
     "description": "<p>Chixmas with Chixdiggit and Reform!</p>",
     "website": "https://www.ticketweb.ca/event/chixmas-featuring-chixdiggit-the-buckingham-tickets/14726493",
     "is_future_event": true
+  },
+  {
+    "index": 244,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-25 08:00:00",
+    "formatted_date": "Mar 25, 2026",
+    "venue": {
+      "city": "Colorado Springs",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Black Sheep"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-sam-black-sheep-tickets/14001824?pl=blacksheep",
+    "is_future_event": true
+  },
+  {
+    "index": 245,
+    "title": "Sam Russo",
+    "start_date": "2026-03-25 08:00:00",
+    "formatted_date": "Mar 25, 2026",
+    "venue": {
+      "city": "Colorado Springs",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Black Sheep"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-sam-black-sheep-tickets/14001824?pl=blacksheep",
+    "is_future_event": true
+  },
+  {
+    "index": 246,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-26 08:00:00",
+    "formatted_date": "Mar 26, 2026",
+    "venue": {
+      "city": "Fort Collins",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Sound Bar"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://link.dice.fm/q97f018ec53b",
+    "is_future_event": true
+  },
+  {
+    "index": 247,
+    "title": "Sam Russo",
+    "start_date": "2026-03-26 08:00:00",
+    "formatted_date": "Mar 26, 2026",
+    "venue": {
+      "city": "Fort Collins",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Sound Bar"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://link.dice.fm/q97f018ec53b",
+    "is_future_event": true
+  },
+  {
+    "index": 248,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-27 08:00:00",
+    "formatted_date": "Mar 27, 2026",
+    "venue": {
+      "city": "Casper",
+      "stateprovince": "WY",
+      "country": "United States",
+      "venue": "Oil City Beer Co."
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/1977785218830?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 249,
+    "title": "Sam Russo",
+    "start_date": "2026-03-27 08:00:00",
+    "formatted_date": "Mar 27, 2026",
+    "venue": {
+      "city": "Casper",
+      "stateprovince": "WY",
+      "country": "United States",
+      "venue": "Oil City Beer Co."
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/1977785218830?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 250,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-28 08:00:00",
+    "formatted_date": "Mar 28, 2026",
+    "venue": {
+      "city": "Denver",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Federal Theatre"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://thefederaltheatre.holdmyticket.com/tickets/455957",
+    "is_future_event": true
+  },
+  {
+    "index": 251,
+    "title": "Sam Russo",
+    "start_date": "2026-03-28 08:00:00",
+    "formatted_date": "Mar 28, 2026",
+    "venue": {
+      "city": "Denver",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Federal Theatre"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://thefederaltheatre.holdmyticket.com/tickets/455957",
+    "is_future_event": true
+  },
+  {
+    "index": 252,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-29 08:00:00",
+    "formatted_date": "Mar 29, 2026",
+    "venue": {
+      "city": "Laramie",
+      "stateprovince": "WY",
+      "country": "United States",
+      "venue": "Gryphon Theatre"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-tickets-1977627348636",
+    "is_future_event": true
+  },
+  {
+    "index": 253,
+    "title": "Sam Russo",
+    "start_date": "2026-03-29 08:00:00",
+    "formatted_date": "Mar 29, 2026",
+    "venue": {
+      "city": "Laramie",
+      "stateprovince": "WY",
+      "country": "United States",
+      "venue": "Gryphon Theatre"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-tickets-1977627348636",
+    "is_future_event": true
+  },
+  {
+    "index": 254,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-30 08:00:00",
+    "formatted_date": "Mar 30, 2026",
+    "venue": {
+      "city": "Omaha",
+      "stateprovince": "NE",
+      "country": "United States",
+      "venue": "Waiting Room"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.etix.com/ticket/p/46229959/",
+    "is_future_event": true
+  },
+  {
+    "index": 255,
+    "title": "Sam Russo",
+    "start_date": "2026-03-30 08:00:00",
+    "formatted_date": "Mar 30, 2026",
+    "venue": {
+      "city": "Omaha",
+      "stateprovince": "NE",
+      "country": "United States",
+      "venue": "Waiting Room"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.etix.com/ticket/p/46229959/",
+    "is_future_event": true
+  },
+  {
+    "index": 256,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-31 08:00:00",
+    "formatted_date": "Mar 31, 2026",
+    "venue": {
+      "city": "Minneapolis",
+      "stateprovince": "MN",
+      "country": "United States",
+      "venue": "Green Room"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-w-the-dopamines-green-room-mpls-tickets/14001124",
+    "is_future_event": true
+  },
+  {
+    "index": 257,
+    "title": "Sam Russo",
+    "start_date": "2026-03-31 08:00:00",
+    "formatted_date": "Mar 31, 2026",
+    "venue": {
+      "city": "Minneapolis",
+      "stateprovince": "MN",
+      "country": "United States",
+      "venue": "Green Room"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-w-the-dopamines-green-room-mpls-tickets/14001124",
+    "is_future_event": true
+  },
+  {
+    "index": 258,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-01 08:00:00",
+    "formatted_date": "Apr 01, 2026",
+    "venue": {
+      "city": "Green Bay",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Green Bay Distillery"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-the-dopamines-sam-russo-tour-april-1st-2026-tickets-1977527035597?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 259,
+    "title": "Sam Russo",
+    "start_date": "2026-04-01 08:00:00",
+    "formatted_date": "Apr 01, 2026",
+    "venue": {
+      "city": "Green Bay",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Green Bay Distillery"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-the-dopamines-sam-russo-tour-april-1st-2026-tickets-1977527035597?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 260,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-02 08:00:00",
+    "formatted_date": "Apr 02, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Reggie's"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-reggies-rock-club-tickets/13990904",
+    "is_future_event": true
+  },
+  {
+    "index": 261,
+    "title": "Sam Russo",
+    "start_date": "2026-04-02 08:00:00",
+    "formatted_date": "Apr 02, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Reggie's"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-reggies-rock-club-tickets/13990904",
+    "is_future_event": true
+  },
+  {
+    "index": 262,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-03 08:00:00",
+    "formatted_date": "Apr 03, 2026",
+    "venue": {
+      "city": "Cincinnati",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Bogart's"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.ticketmaster.com/event/1600638AE6CECD4C",
+    "is_future_event": true
+  },
+  {
+    "index": 263,
+    "title": "Sam Russo",
+    "start_date": "2026-04-03 08:00:00",
+    "formatted_date": "Apr 03, 2026",
+    "venue": {
+      "city": "Cincinnati",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Bogart's"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.ticketmaster.com/event/1600638AE6CECD4C",
+    "is_future_event": true
+  },
+  {
+    "index": 264,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-04 08:00:00",
+    "formatted_date": "Apr 04, 2026",
+    "venue": {
+      "city": "St. Louis",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "Blueberry Hill"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.etix.com/ticket/p/57120366/teenage-bottlerocket-stlouis-blueberry-hill-duck-room",
+    "is_future_event": true
+  },
+  {
+    "index": 265,
+    "title": "Sam Russo",
+    "start_date": "2026-04-04 08:00:00",
+    "formatted_date": "Apr 04, 2026",
+    "venue": {
+      "city": "St. Louis",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "Blueberry Hill"
+    },
+    "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+    "website": "https://www.etix.com/ticket/p/57120366/teenage-bottlerocket-stlouis-blueberry-hill-duck-room",
+    "is_future_event": true
   }
 ]
