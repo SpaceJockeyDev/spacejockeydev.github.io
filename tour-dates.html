@@ -200,12 +200,12 @@ permalink: /tour-dates/
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script>
     $(function () {
-      $("#navbar-container").load("navigation.html");
+      $("#navbar-container").load("/navigation.html");
     });
   </script>
   <script>
     $(function () {
-      $("#footer").load("footer.html");
+      $("#footer").load("/footer.html");
     });
   </script>
   <script>
@@ -287,7 +287,7 @@ permalink: /tour-dates/
           // Comment out API calls for potential future use
           // fetchAllPages("https://api.redscare.net/wp-json/tribe/events/v1/events"),
           // fetchAzureTableData(),
-          fetch("bands.json").then((response) => response.json()),
+          fetch("/bands.json").then((response) => response.json()),
         ]);
 
         // Sort shows by date to ensure proper chronological order
