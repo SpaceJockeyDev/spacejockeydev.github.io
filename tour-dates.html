@@ -307,12 +307,17 @@ permalink: /tour-dates/
         allOption.textContent = "All Bands";
         dropdown.appendChild(allOption);
 
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
         bandsData.forEach((band) => {
+          // Only add bands that have upcoming shows
           if (
             combinedData.some(
               (event) =>
                 decodeHtml(event.title).toLowerCase() ===
-                decodeHtml(band.bandName).toLowerCase()
+                decodeHtml(band.bandName).toLowerCase() &&
+                new Date(event.start_date) >= today
             )
           ) {
             const option = document.createElement("option");
@@ -321,9 +326,6 @@ permalink: /tour-dates/
             dropdown.appendChild(option);
           }
         });
-
-        const today = new Date();
-        today.setHours(0, 0, 0, 0);
 
         const fragment = document.createDocumentFragment();
         let eventsFound = false;
