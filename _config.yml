@@ -1,0 +1,14 @@
+# Jekyll Configuration for GitHub Pages
+# This enables clean URLs without .html extensions
+
+# Site settings
+title: Red Scare Industries
+description: Red Scare Industries - Punk Rock Label
+
+# Permalink settings - removes .html from URLs
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - CNAME

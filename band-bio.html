@@ -1,3 +1,6 @@
+---
+permalink: /band-bio/
+---
 <!DOCTYPE html>
 <head>
   <!-- Google tag (gtag.js) -->
@@ -360,7 +363,7 @@
               release.album.replace(/ /g, "-")
             );
             releaseElement.innerHTML = `
-            <a href="release-info.html?album=${albumLink}">
+            <a href="/release-info?album=${albumLink}">
                 <img src="${release.coverArt}" alt="${release.album} Cover Art">
                             <p class="release-name">${release.displayAlbum}</p>
                         </a>

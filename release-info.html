@@ -1,3 +1,6 @@
+---
+permalink: /release-info/
+---
 <!DOCTYPE html>
 <html>
   <head>
@@ -197,7 +200,7 @@
                     <h2 class="band-name">${
                       album.bandName === "Various Artists"
                         ? album.bandName
-                        : `<a href="band-bio.html?band=${encodeURIComponent(album.bandName.replace(/\s/g, "-"))}">${album.bandName}</a>`
+                        : `<a href="/band-bio?band=${encodeURIComponent(album.bandName.replace(/\s/g, "-"))}">${album.bandName}</a>`
                     }</h2>
                     <p class="album-title">${album.displayAlbum}</p>
                     <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate.substring(0, 4)}</p>
