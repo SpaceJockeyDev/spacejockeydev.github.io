@@ -300,7 +300,7 @@ permalink: /releases/
               album.album.replace(/ /g, "-")
             );
             const clickableElement = document.createElement("a");
-            clickableElement.href = `release-info.html?album=${albumLink}`;
+            clickableElement.href = `/release-info?album=${albumLink}`;
             clickableElement.innerHTML = `
   <img class="album-cover" src="${album.coverArt}" alt="${album.album} Cover Art">
   <div class="band-album-background">

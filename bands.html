@@ -142,7 +142,7 @@ permalink: /bands/
                     // Create the band link
                     const bandLinkElement = document.createElement('a');
                     const bandLink = encodeURIComponent(band.bandName.replace(/ /g, '-'));
-                    bandLinkElement.href = `band-bio.html?band=${bandLink}`;
+                    bandLinkElement.href = `/band-bio?band=${bandLink}`;
 
                     // Create the band name element
                     const bandNameElement = document.createElement('h2');
