@@ -3973,5 +3973,35 @@
     "description": "<p>With Teenage Bottlerocket and the Dopamines!</p>",
     "website": "https://www.etix.com/ticket/p/57120366/teenage-bottlerocket-stlouis-blueberry-hill-duck-room",
     "is_future_event": true
+  },
+  {
+    "index": 266,
+    "title": "Broadway Calls",
+    "start_date": "2026-04-17 08:00:00",
+    "formatted_date": "Apr 17, 2026",
+    "venue": {
+      "city": "Vancouver",
+      "stateprovince": "BC",
+      "country": "Canada",
+      "venue": "The Commodore Ballroom"
+    },
+    "description": "<p>With Goldfinger and Sullvn!</p>",
+    "website": "https://www.ticketmaster.ca/event/1100638BB0896CF7",
+    "is_future_event": true
+  },
+  {
+    "index": 267,
+    "title": "Broadway Calls",
+    "start_date": "2026-04-18 08:00:00",
+    "formatted_date": "Apr 18, 2026",
+    "venue": {
+      "city": "Seattle",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "The Showbox"
+    },
+    "description": "<p>With Goldfinger and Sullvn!</p>",
+    "website": "https://www.axs.com/events/1253308/goldfinger-tickets?skin=showboxpresents",
+    "is_future_event": true
   }
 ]
