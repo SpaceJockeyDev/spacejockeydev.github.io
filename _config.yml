@@ -12,3 +12,12 @@ permalink: pretty
 exclude:
   - README.md
   - CNAME
+  
+# Don't use Liquid processing in these files
+# This prevents Jekyll from interpreting JavaScript template literals
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      render_with_liquid: false
