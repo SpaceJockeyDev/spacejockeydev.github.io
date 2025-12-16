@@ -3739,8 +3739,8 @@
             "13. Drag"
         ],
         "links":{
-            "spotify": null,
-            "appleMusic": null,
+            "spotify": "https://open.spotify.com/album/32x0KWVUdV0hREVYzwiRRT?si=h3Y2iGetT0CRJdpVqiT79Q",
+            "appleMusic": "https://music.apple.com/us/album/vindication/1851311200",
             "bandcamp": "https://wontstaydead.bandcamp.com/album/vindication",
             "store": "https://redscare.storenvy.com/products/36987069-won-t-stay-dead-vindication-lp-cccp-265-1"
         }
