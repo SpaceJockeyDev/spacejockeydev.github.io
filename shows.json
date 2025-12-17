@@ -4003,5 +4003,50 @@
     "description": "<p>With Goldfinger and Sullvn!</p>",
     "website": "https://www.axs.com/events/1253308/goldfinger-tickets?skin=showboxpresents",
     "is_future_event": true
+  },
+  {
+    "index": 268,
+    "title": "Brendan Kelly",
+    "start_date": "2026-04-02 08:00:00",
+    "formatted_date": "Apr 02, 2026",
+    "venue": {
+      "city": "London",
+      "stateprovince": "OR",
+      "country": "United Kingdom",
+      "venue": "New Cross Inn"
+    },
+    "description": "<p>With Dead To Me!</p>",
+    "website": "https://dice.fm/event/k6ngao-dead-to-me-brendan-kelly-2nd-apr-new-cross-inn-london-tickets?pid=530cb286&_branch_match_id=1519365783389704943&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c8xMrJItTQ3TE01MbYvyEyxNTU2SE4ysjBTqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAXYqZ6kgAAAA%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 269,
+    "title": "Brendan Kelly",
+    "start_date": "2026-04-03 08:00:00",
+    "formatted_date": "Apr 03, 2026",
+    "venue": {
+      "city": "Bristol",
+      "stateprovince": "OR",
+      "country": "United Kingdom",
+      "venue": "Rough Trade Bristol"
+    },
+    "description": "<p>With Dead To Me!</p>",
+    "website": "https://dice.fm/event/mx875w-dead-to-me-3rd-apr-rough-trade-bristol-bristol-tickets?pid=530cb286&_branch_match_id=&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q9NtEgzsEwyTUw2TrYvyEyxNTU2SE4ysjBTqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUApQE%2BsUgAAAA%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 270,
+    "title": "Brendan Kelly",
+    "start_date": "2026-04-04 08:00:00",
+    "formatted_date": "Apr 04, 2026",
+    "venue": {
+      "city": "Manchester",
+      "stateprovince": "OR",
+      "country": "United Kingdom",
+      "venue": "Manchester Punk Fest"
+    },
+    "description": "<p>Manchester Punk Fest!</p>",
+    "website": "https://www.manchesterpunkfestival.co.uk/tickets/",
+    "is_future_event": true
   }
 ]
