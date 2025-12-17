@@ -373,7 +373,7 @@ permalink: /
         releases.slice(0, 4).forEach((release) => {
           const releaseDiv = createElement("div", "release");
           const releaseLink = createElement("a", null, {
-            href: `release-info.html?album=${encodeURIComponent(
+            href: `/release-info?album=${encodeURIComponent(
               release.album.replace(/\s+/g, "-")
             )}`,
           });
