@@ -4048,5 +4048,35 @@
     "description": "<p>Manchester Punk Fest!</p>",
     "website": "https://manchesterpunkfestival.seetickets.com/event/manchester-punk-festival/manchester/3402503",
     "is_future_event": true
+  },
+  {
+    "index": 271,
+    "title": "Sincere Engineer",
+    "start_date": "2026-01-20 08:00:00",
+    "formatted_date": "Jan 20, 2026",
+    "venue": {
+      "city": "Birmingham",
+      "stateprovince": "AL",
+      "country": "United States",
+      "venue": "TrimTab Brewing"
+    },
+    "description": "<p>With The Handsome Scoundrels and oh.pake!</p>",
+    "website": "https://www.trimtabbrewing.com/event-details-registration/sincere-engineer-1",
+    "is_future_event": true
+  },
+  {
+    "index": 272,
+    "title": "Sincere Engineer",
+    "start_date": "2026-01-21 08:00:00",
+    "formatted_date": "Jan 21, 2026",
+    "venue": {
+      "city": "Pensacola",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Handlebar"
+    },
+    "description": "<p>With The Handsome Scoundrels!</p>",
+    "website": "https://www.eventim.us/event/Sincere-Engineer/668489",
+    "is_future_event": true
   }
 ]

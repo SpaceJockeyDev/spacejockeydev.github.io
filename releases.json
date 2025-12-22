@@ -3716,36 +3716,6 @@
         }
     },
     {
-        "bandName": "Won't Stay Dead",
-        "album": "Vindication",
-        "displayAlbum": "Vindication",
-        "releaseNumber": "265",
-        "releaseDate": "2025-12-12",
-        "coverArt": "https://prod-cdn-01.storenvy.com/product_photos/106769881/file_ef6770db6c_original.jpg?_gl=1*dgpog3*_gcl_au*MTQzODM4ODYxNy4xNzYzNjU1ODkw*_ga*MTg2Njk3MDIyNS4xNzYzNjU1ODkw*_ga_YJMGGF7ZYK*czE3NjM2NTU4ODkkbzEkZzEkdDE3NjM2NTU4OTQkajU1JGwwJGg1MjkxNTMwNzA.",
-        "description": "\"Vindication\" is the Red Scare debut from Chicago's Won't Stay Dead, and it's 13 songs of horror punk that comes a-crawling from the same graveyard as Alkaline Trio, The Misfits, My Chemical Romance, The Damned, and more.  Hard-working punks led by dual vocalists, Saffron and Violet, whose devilish melodies stab like a two-pronged pitchfork.  Songs like \"Wicked Plans\" and \"Hack to the Bone\" are both barely 80 seconds in length and proof that these dark rockers are out for swift revenge.  WSD have already raised a lot of hell in a short time—playing big shows and getting cool festival offers.  When it comes to new bands, Red Scare doesn't miss, and we expect Won't Stay Dead to spread their witchy ways all across the punk scene... (insert sinister laughter)",
-        "trackList":[
-            "01. River's Edge",              
-            "02. Wicked Plans",
-            "03. Inferno",                      
-            "04. Come By Tonight",
-            "05. Boys Will Be Boys",
-            "06. Empty Room",
-            "07. Pull the Trigger",
-            "08. Hack to the Bone",
-            "09. Impact",
-            "10. Lay Beside Her",
-            "11. You Don't Even Exist",
-            "12. Let It Go",
-            "13. Drag"
-        ],
-        "links":{
-            "spotify": "https://open.spotify.com/album/32x0KWVUdV0hREVYzwiRRT?si=h3Y2iGetT0CRJdpVqiT79Q",
-            "appleMusic": "https://music.apple.com/us/album/vindication/1851311200",
-            "bandcamp": "https://wontstaydead.bandcamp.com/album/vindication",
-            "store": "https://redscare.storenvy.com/products/36987069-won-t-stay-dead-vindication-lp-cccp-265-1"
-        }
-    },
-    {
         "bandName": "Sam Russo",
         "album": "Hold You Hard",
         "displayAlbum": "Hold You Hard",
@@ -3825,6 +3795,36 @@
             "appleMusic": "https://music.apple.com/us/album/nobodys-going-to-heaven/1839491921",
             "bandcamp": "https://elwaytheband.bandcamp.com/album/nobodys-going-to-heaven",
             "store": "https://redscare.storenvy.com/products/36967390-elway-nobody-s-going-to-heaven-lp-cccp-264-1"
+        }
+    },
+    {
+        "bandName": "Won't Stay Dead",
+        "album": "Vindication",
+        "displayAlbum": "Vindication",
+        "releaseNumber": "265",
+        "releaseDate": "2025-12-12",
+        "coverArt": "https://prod-cdn-01.storenvy.com/product_photos/106769881/file_ef6770db6c_original.jpg?_gl=1*dgpog3*_gcl_au*MTQzODM4ODYxNy4xNzYzNjU1ODkw*_ga*MTg2Njk3MDIyNS4xNzYzNjU1ODkw*_ga_YJMGGF7ZYK*czE3NjM2NTU4ODkkbzEkZzEkdDE3NjM2NTU4OTQkajU1JGwwJGg1MjkxNTMwNzA.",
+        "description": "\"Vindication\" is the Red Scare debut from Chicago's Won't Stay Dead, and it's 13 songs of horror punk that comes a-crawling from the same graveyard as Alkaline Trio, The Misfits, My Chemical Romance, The Damned, and more.  Hard-working punks led by dual vocalists, Saffron and Violet, whose devilish melodies stab like a two-pronged pitchfork.  Songs like \"Wicked Plans\" and \"Hack to the Bone\" are both barely 80 seconds in length and proof that these dark rockers are out for swift revenge.  WSD have already raised a lot of hell in a short time—playing big shows and getting cool festival offers.  When it comes to new bands, Red Scare doesn't miss, and we expect Won't Stay Dead to spread their witchy ways all across the punk scene... (insert sinister laughter)",
+        "trackList":[
+            "01. River's Edge",              
+            "02. Wicked Plans",
+            "03. Inferno",                      
+            "04. Come By Tonight",
+            "05. Boys Will Be Boys",
+            "06. Empty Room",
+            "07. Pull the Trigger",
+            "08. Hack to the Bone",
+            "09. Impact",
+            "10. Lay Beside Her",
+            "11. You Don't Even Exist",
+            "12. Let It Go",
+            "13. Drag"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/32x0KWVUdV0hREVYzwiRRT?si=h3Y2iGetT0CRJdpVqiT79Q",
+            "appleMusic": "https://music.apple.com/us/album/vindication/1851311200",
+            "bandcamp": "https://wontstaydead.bandcamp.com/album/vindication",
+            "store": "https://redscare.storenvy.com/products/36987069-won-t-stay-dead-vindication-lp-cccp-265-1"
         }
     },
     {
