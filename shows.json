@@ -4078,5 +4078,170 @@
     "description": "<p>With The Handsome Scoundrels!</p>",
     "website": "https://www.eventim.us/event/Sincere-Engineer/668489",
     "is_future_event": true
+  },
+  {
+    "index": 273,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-01-23 08:00:00",
+    "formatted_date": "Jan 23, 2026",
+    "venue": {
+      "city": "Thionville",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "le Lab"
+    },
+    "description": "",
+    "website": "https://www.helloasso.com/associations/le-collectif-du-bruit/evenements/guerilla-poubelle-jem2000-la-solution-lab-thionville",
+    "is_future_event": true
+  },
+  {
+    "index": 274,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-01-24 08:00:00",
+    "formatted_date": "Jan 24, 2026",
+    "venue": {
+      "city": "St Dié",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Entracte 2"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 275,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-01-25 08:00:00",
+    "formatted_date": "Jan 25, 2026",
+    "venue": {
+      "city": "Modave",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "les 2 Ours"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 276,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-02-27 08:00:00",
+    "formatted_date": "Feb 27, 2026",
+    "venue": {
+      "city": "Angoulême",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "VnB"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 277,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-02-28 08:00:00",
+    "formatted_date": "Feb 28, 2026",
+    "venue": {
+      "city": "Troyes",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "la Chapelle Argence"
+    },
+    "description": "",
+    "website": "https://www.helloasso.com/associations/guimasaya/evenements/fucking-valentine",
+    "is_future_event": true
+  },
+  {
+    "index": 278,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-03-05 08:00:00",
+    "formatted_date": "Mar 05, 2026",
+    "venue": {
+      "city": "Valfrejus",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Rock'n Beer"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 279,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-03-06 08:00:00",
+    "formatted_date": "Mar 06, 2026",
+    "venue": {
+      "city": "Amberieu",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Triplettes Social Club"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 280,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-03-07 08:00:00",
+    "formatted_date": "Mar 07, 2026",
+    "venue": {
+      "city": "Moûtiers",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Art factory"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 281,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-03-08 08:00:00",
+    "formatted_date": "Mar 08, 2026",
+    "venue": {
+      "city": "Flumet",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le shamrock"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 282,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-04-03 08:00:00",
+    "formatted_date": "Apr 03, 2026",
+    "venue": {
+      "city": "Corbeilles",
+      "stateprovince": "",
+      "country": "France",
+      "venue": ""
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 283,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-04-04 08:00:00",
+    "formatted_date": "Apr 04, 2026",
+    "venue": {
+      "city": "Chavroches",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Salle polyvalente"
+    },
+    "description": "",
+    "website": "https://www.helloasso.com/associations/liberterre/evenements/guerilla-poubelle-stup-d",
+    "is_future_event": true
   }
 ]
