@@ -4273,5 +4273,35 @@
     "description": "<p>With The Effigies and The Evictions!</p>",
     "website": "https://dice.fm/event/mx5yar-the-effigies-the-bollweevils-the-evictions-21st-feb-cobra-lounge-chicago-tickets?pid=5997f9b0&_branch_match_id=1519365783389704943&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U8yTTI3MTEztkwyTLYvyEyxNbW0NE%2BzTDJQqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAJ5%2FDe0gAAAA%3D",
     "is_future_event": true
+  },
+  {
+    "index": 286,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-01-29 08:00:00",
+    "formatted_date": "Jan 29, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Burlington Bar"
+    },
+    "description": "<p>With Laura Jane Grace and Boy Brain!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 287,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-01-29 08:00:00",
+    "formatted_date": "Jan 29, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Burlington Bar"
+    },
+    "description": "<p>With Won't Stay Dead and Boy Brain!</p>",
+    "website": null,
+    "is_future_event": true
   }
 ]
