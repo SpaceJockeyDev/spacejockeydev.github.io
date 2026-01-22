@@ -4288,5 +4288,35 @@
     "description": "<p>With Won't Stay Dead and Boy Brain!</p>",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 288,
+    "title": "Broadway Calls",
+    "start_date": "2026-02-26 08:00:00",
+    "formatted_date": "Feb 26, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "OR",
+      "country": "United States",
+      "venue": "Dante's"
+    },
+    "description": "With A Wilhelm Scream, Death By Stereo, and Doomsday!",
+    "website": "https://www.ticketweb.com/event/a-wilhelm-scream-with-death-dantes-tickets/14664693?pl=dante",
+    "is_future_event": true
+  },
+  {
+    "index": 289,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-02-15 08:00:00",
+    "formatted_date": "Feb 15, 2026",
+    "venue": {
+      "city": "West Dundee",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Rookies Rochaus"
+    },
+    "description": "With Horace Pinker, Space Age Zeros, and Jojo and the Clackers!",
+    "website": null,
+    "is_future_event": true
   }
 ]
