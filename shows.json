@@ -4318,5 +4318,35 @@
     "description": "With Horace Pinker, Space Age Zeros, and Jojo and the Clackers!",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 290,
+    "title": "Direct Hit!",
+    "start_date": "2026-04-24 08:00:00",
+    "formatted_date": "Apr 24, 2026",
+    "venue": {
+      "city": "New York City",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "The Meadows"
+    },
+    "description": "With Against All Authority and the Doomstompers!",
+    "website": "https://kydlabs.com/e/EV64ec4503-ec1f-45a7-8a3e-7a1c52f8f7fe",
+    "is_future_event": true
+  },
+  {
+    "index": 291,
+    "title": "Direct Hit!",
+    "start_date": "2026-04-25 08:00:00",
+    "formatted_date": "Apr 25, 2026",
+    "venue": {
+      "city": "Cambridge",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Middle East - Downstairs"
+    },
+    "description": "<p>With Against All Authority and Hell Beach!</p>",
+    "website": "https://www.ticketweb.com/event/against-all-authority-direct-middle-east-downstairs-tickets/14103284?pl=mideastclub",
+    "is_future_event": true
   }
 ]
