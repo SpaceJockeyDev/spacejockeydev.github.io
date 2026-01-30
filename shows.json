@@ -4348,5 +4348,110 @@
     "description": "<p>With Against All Authority and Hell Beach!</p>",
     "website": "https://www.ticketweb.com/event/against-all-authority-direct-middle-east-downstairs-tickets/14103284?pl=mideastclub",
     "is_future_event": true
+  },
+  {
+    "index": 292,
+    "title": "Direct Hit!",
+    "start_date": "2026-05-16 08:00:00",
+    "formatted_date": "May 16, 2026",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "QC",
+      "country": "Canada",
+      "venue": "Pouzza Fest"
+    },
+    "description": null,
+    "website": "https://pouzzafest.com/en/tickets/",
+    "is_future_event": true
+  },
+  {
+    "index": 293,
+    "title": "Brendan Kelly",
+    "start_date": "2026-03-12 08:00:00",
+    "formatted_date": "Mar 12, 2026",
+    "venue": {
+      "city": "St. Louis",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "The Sinkhole"
+    },
+    "description": "Road to War On Easter with Tightwire and The Handsome Scoundrels!",
+    "website": "https://www.etix.com/ticket/p/44932945/brendan-kelly-from-the-lawrence-arms-the-falcon-saint-louis-the-sinkhole",
+    "is_future_event": true
+  },
+  {
+    "index": 294,
+    "title": "Tightwire",
+    "start_date": "2026-03-12 08:00:00",
+    "formatted_date": "Mar 12, 2026",
+    "venue": {
+      "city": "St. Louis",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "The Sinkhole"
+    },
+    "description": "Road to War On Easter with Brendan Kelly and The Handsome Scoundrels!",
+    "website": "https://www.etix.com/ticket/p/44932945/brendan-kelly-from-the-lawrence-arms-the-falcon-saint-louis-the-sinkhole",
+    "is_future_event": true
+  },
+  {
+    "index": 295,
+    "title": "Brendan Kelly",
+    "start_date": "2026-03-13 08:00:00",
+    "formatted_date": "Mar 13, 2026",
+    "venue": {
+      "city": "Nashville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "The Cobra"
+    },
+    "description": "Road to War On Easter with Tightwire and The Handsome Scoundrels!",
+    "website": "https://cobranashville.com/event/special-event-brendan-kelly-from-the-lawrence-arms-the-falcon-tightwire-the-handsome-scoundrels/",
+    "is_future_event": true
+  },
+  {
+    "index": 296,
+    "title": "Tightwire",
+    "start_date": "2026-03-13 08:00:00",
+    "formatted_date": "Mar 13, 2026",
+    "venue": {
+      "city": "Nashville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "The Cobra"
+    },
+    "description": "Road to War On Easter with Brendan Kelly and The Handsome Scoundrels!",
+    "website": "https://cobranashville.com/event/special-event-brendan-kelly-from-the-lawrence-arms-the-falcon-tightwire-the-handsome-scoundrels/",
+    "is_future_event": true
+  },
+  {
+    "index": 297,
+    "title": "Brendan Kelly",
+    "start_date": "2026-03-14 08:00:00",
+    "formatted_date": "Mar 14, 2026",
+    "venue": {
+      "city": "Birmingham",
+      "stateprovince": "AL",
+      "country": "United States",
+      "venue": "TrimTab Brewing"
+    },
+    "description": "War On Easter with Tightwire, The Handsome Scoundrels, Penny Circus, and The Engough Alreadys!",
+    "website": "https://www.trimtabbrewing.com/calendar",
+    "is_future_event": true
+  },
+  {
+    "index": 298,
+    "title": "Tightwire",
+    "start_date": "2026-03-14 08:00:00",
+    "formatted_date": "Mar 14, 2026",
+    "venue": {
+      "city": "Birmingham",
+      "stateprovince": "AL",
+      "country": "United States",
+      "venue": "TrimTab Brewing"
+    },
+    "description": "War On Easter with Brendan Kelly, The Handsome Scoundrels, Penny Circus, and The Engough Alreadys!",
+    "website": "https://www.trimtabbrewing.com/calendar",
+    "is_future_event": true
   }
 ]
