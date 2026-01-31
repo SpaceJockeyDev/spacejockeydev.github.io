@@ -4483,5 +4483,20 @@
     "description": "With Family Dinner and Gazee!",
     "website": "https://dice.fm/event/ww5n2v-family-dinner-tired-radio-and-gazee-27th-feb-ortliebs-philadelphia-tickets?lng=en",
     "is_future_event": true
+  },
+  {
+    "index": 301,
+    "title": "Billy Liar",
+    "start_date": "2026-05-14 08:00:00",
+    "formatted_date": "May 14, 2026",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "QC",
+      "country": "Canada",
+      "venue": "Pouzza Fest"
+    },
+    "description": null,
+    "website": "https://pouzzafest.com/en/tickets/",
+    "is_future_event": true
   }
 ]
