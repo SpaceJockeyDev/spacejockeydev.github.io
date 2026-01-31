@@ -4453,5 +4453,35 @@
     "description": "War On Easter with Brendan Kelly, The Handsome Scoundrels, Penny Circus, and The Engough Alreadys!",
     "website": "https://www.trimtabbrewing.com/calendar",
     "is_future_event": true
+  },
+  {
+    "index": 299,
+    "title": "Billy Liar",
+    "start_date": "2026-05-04 08:00:00",
+    "formatted_date": "May 4, 2026",
+    "venue": {
+      "city": "Manchester",
+      "stateprovince": "ENG",
+      "country": "United Kingdom",
+      "venue": "Manchester Punk Fest"
+    },
+    "description": null,
+    "website": "https://manchesterpunkfestival.seetickets.com/event/manchester-punk-festival/manchester/3402503",
+    "is_future_event": true
+  },
+  {
+    "index": 300,
+    "title": "Billy Liar",
+    "start_date": "2026-02-27 08:00:00",
+    "formatted_date": "Feb 27, 2026",
+    "venue": {
+      "city": "Philadelphia",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "Ortlieb's"
+    },
+    "description": "With Family Dinner and Gazee!",
+    "website": "https://dice.fm/event/ww5n2v-family-dinner-tired-radio-and-gazee-27th-feb-ortliebs-philadelphia-tickets?lng=en",
+    "is_future_event": true
   }
 ]
