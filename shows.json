@@ -4498,5 +4498,20 @@
     "description": null,
     "website": "https://pouzzafest.com/en/tickets/",
     "is_future_event": true
+  },
+  {
+    "index": 302,
+    "title": "Sack",
+    "start_date": "2026-02-21 08:00:00",
+    "formatted_date": "Feb 21, 2026",
+    "venue": {
+      "city": "Denver",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "The Federal Theatre"
+    },
+    "description": "<p>Bruzzy's Birthday Bonanza with MF Ruckus, Cobranoid, and Cleaner!</p>",
+    "website": "https://thefederaltheatre.holdmyticket.com/tickets/454360",
+    "is_future_event": true
   }
 ]
