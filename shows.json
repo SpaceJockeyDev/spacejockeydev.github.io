@@ -4513,5 +4513,50 @@
     "description": "<p>Bruzzy's Birthday Bonanza with MF Ruckus, Cobranoid, and Cleaner!</p>",
     "website": "https://thefederaltheatre.holdmyticket.com/tickets/454360",
     "is_future_event": true
+  },
+  {
+    "index": 303,
+    "title": "American Steel",
+    "start_date": "2026-03-18 08:00:00",
+    "formatted_date": "Mar 18, 2026",
+    "venue": {
+      "city": "Sacramento",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Old Ironsides"
+    },
+    "description": "<p>With Sweet Gloom and Bastards of Young!</p>",
+    "website": "https://wl.eventim.us/event/american-steel/677810?afflky=OldIronsides",
+    "is_future_event": true
+  },
+  {
+    "index": 304,
+    "title": "American Steel",
+    "start_date": "2026-03-20 08:00:00",
+    "formatted_date": "Mar 20, 2026",
+    "venue": {
+      "city": "San Pedro",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Sardine"
+    },
+    "description": "<p>With Sweet Gloom and Jen Pop!</p>",
+    "website": "https://recessops.com/collections/tickets/products/3-20-26-american-steel-sweet-gloom-jen-pop-20-adv-25-dos-aa",
+    "is_future_event": true
+  },
+  {
+    "index": 305,
+    "title": "American Steel",
+    "start_date": "2026-03-21 08:00:00",
+    "formatted_date": "Mar 21, 2026",
+    "venue": {
+      "city": "San Francisco",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Bottom of the Hill"
+    },
+    "description": "<p>With Sweet Gloom and Jen Pop!</p>",
+    "website": "https://www.bottomofthehill.com/20260321.html",
+    "is_future_event": true
   }
 ]
