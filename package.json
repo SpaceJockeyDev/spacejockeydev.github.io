@@ -1,0 +1,11 @@
+{
+  "name": "spacejockeydev-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-shows": "node scripts/update-shows.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
