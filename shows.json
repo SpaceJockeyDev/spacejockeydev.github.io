@@ -4558,5 +4558,170 @@
     "description": "<p>With Sweet Gloom and Jen Pop!</p>",
     "website": "https://www.bottomofthehill.com/20260321.html",
     "is_future_event": true
+  },
+  {
+    "index": 306,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-21 08:00:00",
+    "formatted_date": "Apr 21, 2026",
+    "venue": {
+      "city": "Salt Lake City",
+      "stateprovince": "UT",
+      "country": "United States",
+      "venue": "Aces High Saloon"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://www.24tix.com/event/10539908319",
+    "is_future_event": true
+  },
+  {
+    "index": 307,
+    "title": "Tightwire",
+    "start_date": "2026-04-21 08:00:00",
+    "formatted_date": "Apr 21, 2026",
+    "venue": {
+      "city": "Salt Lake City",
+      "stateprovince": "UT",
+      "country": "United States",
+      "venue": "Aces High Saloon"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.24tix.com/event/10539908319",
+    "is_future_event": true
+  },
+  {
+    "index": 308,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-22 08:00:00",
+    "formatted_date": "Apr 22, 2026",
+    "venue": {
+      "city": "Boise",
+      "stateprovince": "ID",
+      "country": "United States",
+      "venue": "Shrine Social Club"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://link.dice.fm/e0aa1e6d17bd",
+    "is_future_event": true
+  },
+  {
+    "index": 309,
+    "title": "Tightwire",
+    "start_date": "2026-04-22 08:00:00",
+    "formatted_date": "Apr 22, 2026",
+    "venue": {
+      "city": "Boise",
+      "stateprovince": "ID",
+      "country": "United States",
+      "venue": "Shrine Social Club"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://link.dice.fm/e0aa1e6d17bd",
+    "is_future_event": true
+  },
+  {
+    "index": 310,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-23 08:00:00",
+    "formatted_date": "Apr 23, 2026",
+    "venue": {
+      "city": "Spokane",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Big Dipper"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://monumentalshows.com/event/458107",
+    "is_future_event": true
+  },
+  {
+    "index": 311,
+    "title": "Tightwire",
+    "start_date": "2026-04-23 08:00:00",
+    "formatted_date": "Apr 23, 2026",
+    "venue": {
+      "city": "Spokane",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Big Dipper"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://monumentalshows.com/event/458107",
+    "is_future_event": true
+  },
+  {
+    "index": 312,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-24 08:00:00",
+    "formatted_date": "Apr 24, 2026",
+    "venue": {
+      "city": "Tacoma",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Airport Tavern"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=679402",
+    "is_future_event": true
+  },
+  {
+    "index": 313,
+    "title": "Tightwire",
+    "start_date": "2026-04-24 08:00:00",
+    "formatted_date": "Apr 24, 2026",
+    "venue": {
+      "city": "Tacoma",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Airport Tavern"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=679402",
+    "is_future_event": true
+  },
+  {
+    "index": 314,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-25 08:00:00",
+    "formatted_date": "Apr 25, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "OR",
+      "country": "United States",
+      "venue": "Dante's"
+    },
+    "description": "<p>With Tightwire and Broadway Calls!</p>",
+    "website": "https://www.axs.com/events/1253308/goldfinger-tickets?skin=showboxpresents",
+    "is_future_event": true
+  },
+  {
+    "index": 315,
+    "title": "Tightwire",
+    "start_date": "2026-04-25 08:00:00",
+    "formatted_date": "Apr 25, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "OR",
+      "country": "United States",
+      "venue": "Dante's"
+    },
+    "description": "<p>With Teenage Bottlerocket and Broadway Calls!</p>",
+    "website": "https://www.axs.com/events/1253308/goldfinger-tickets?skin=showboxpresents",
+    "is_future_event": true
+  },
+  {
+    "index": 316,
+    "title": "Broadway Calls",
+    "start_date": "2026-04-25 08:00:00",
+    "formatted_date": "Apr 25, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "OR",
+      "country": "United States",
+      "venue": "Dante's"
+    },
+    "description": "<p>With Teenage Bottlerocket and Tightwire!</p>",
+    "website": "https://www.axs.com/events/1253308/goldfinger-tickets?skin=showboxpresents",
+    "is_future_event": true
   }
 ]
