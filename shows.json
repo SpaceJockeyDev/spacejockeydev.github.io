@@ -5068,6 +5068,21 @@
         "description":  null,
         "website":  "https://link.seated.com/9ab1eb1b-c8c8-44b2-830e-670d87501bb1",
         "is_future_event":  true
+    },
+    {
+        "index":  339,
+        "title":  "Druglords of the Avenues",
+        "start_date":  "2026-04-03 08:00:00",
+        "formatted_date":  "Apr 03, 2026",
+        "venue":  {
+                      "city":  "Albany",
+                      "stateprovince":  "CA",
+                      "country":  "United States",
+                      "venue":  "Ivy Room"
+                  },
+        "description":  "ALbum release show with Huntington Lions, George Crustanza, Guns For Sick Children, Hellbound Pound, and Raze!",
+        "website":  "https://www.ivyroom.com/shows#/events/167435",
+        "is_future_event":  true
     }
 ]
 
