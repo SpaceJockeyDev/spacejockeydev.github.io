@@ -4471,7 +4471,7 @@
     },
     {
         "index":  300,
-        "title":  "Billy Liar",
+        "title":  "Tired Radio",
         "start_date":  "2026-02-27 08:00:00",
         "formatted_date":  "Feb 27, 2026",
         "venue":  {
@@ -5080,8 +5080,38 @@
                       "country":  "United States",
                       "venue":  "Ivy Room"
                   },
-        "description":  "ALbum release show with Huntington Lions, George Crustanza, Guns For Sick Children, Hellbound Pound, and Raze!",
+        "description":  "Album release show with Huntington Lions, George Crustanza, Guns For Sick Children, Hellbound Pound, and Raze!",
         "website":  "https://www.ivyroom.com/shows#/events/167435",
+        "is_future_event":  true
+    },
+    {
+        "index":  340,
+        "title":  "Elway",
+        "start_date":  "2026-02-14 08:00:00",
+        "formatted_date":  "Feb 14, 2026",
+        "venue":  {
+                      "city":  "Denver",
+                      "stateprovince":  "CO",
+                      "country":  "United States",
+                      "venue":  "Ratiobeer Works Overland"
+                  },
+        "description":  "Ratio Goes to Eleven!",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  341,
+        "title":  "The Reaganomics",
+        "start_date":  "2026-04-25 08:00:00",
+        "formatted_date":  "Apr 25, 2026",
+        "venue":  {
+                      "city":  "Joliet",
+                      "stateprovince":  "IL",
+                      "country":  "United States",
+                      "venue":  "The Forge"
+                  },
+        "description":  "With The Feds and Prison City Brigade!",
+        "website":  null,
         "is_future_event":  true
     }
 ]
