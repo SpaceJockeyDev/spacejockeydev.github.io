@@ -4130,10 +4130,10 @@
         "start_date":  "2026-02-27 08:00:00",
         "formatted_date":  "Feb 27, 2026",
         "venue":  {
-                      "city":  "Angoul+�me",
+                      "city":  "Tergnier",
                       "stateprovince":  "",
                       "country":  "France",
-                      "venue":  "VnB"
+                      "venue":  "Salle Bouly"
                   },
         "description":  "",
         "website":  null,
@@ -4148,7 +4148,7 @@
                       "city":  "Troyes",
                       "stateprovince":  "",
                       "country":  "France",
-                      "venue":  "la Chapelle Argence"
+                      "venue":  "La Chapelle Argence"
                   },
         "description":  "",
         "website":  "https://www.helloasso.com/associations/guimasaya/evenements/fucking-valentine",
@@ -4181,7 +4181,7 @@
                       "venue":  "Triplettes Social Club"
                   },
         "description":  "",
-        "website":  null,
+        "website":  "http://ypl.me/P6Y",
         "is_future_event":  true
     },
     {
@@ -4190,13 +4190,13 @@
         "start_date":  "2026-03-07 08:00:00",
         "formatted_date":  "Mar 07, 2026",
         "venue":  {
-                      "city":  "Mo++tiers",
+                      "city":  "Moutiers",
                       "stateprovince":  "",
                       "country":  "France",
                       "venue":  "Art factory"
                   },
         "description":  "",
-        "website":  null,
+        "website":  "https://my.weezevent.com/concert-guerilla-poubelle-et-calimucho",
         "is_future_event":  true
     },
     {
@@ -4220,7 +4220,7 @@
         "start_date":  "2026-04-03 08:00:00",
         "formatted_date":  "Apr 03, 2026",
         "venue":  {
-                      "city":  "Corbeilles",
+                      "city":  "Corbeil-Essonnes",
                       "stateprovince":  "",
                       "country":  "France",
                       "venue":  ""
@@ -5112,6 +5112,126 @@
                   },
         "description":  "With The Feds and Prison City Brigade!",
         "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  342,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-04-05 08:00:00",
+        "formatted_date":  "Apr 05, 2026",
+        "venue":  {
+                      "city":  "Reims",
+                      "stateprovince":  "",
+                      "country":  "France",
+                      "venue":  "Bropkick Bar"
+                  },
+        "description":  "",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  343,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-04-11 08:00:00",
+        "formatted_date":  "Apr 11, 2026",
+        "venue":  {
+                      "city":  "Toulouse",
+                      "stateprovince":  "",
+                      "country":  "France",
+                      "venue":  "Le Chorus"
+                  },
+        "description":  "",
+        "website":  "https://www.billetweb.fr/guerilla-poubelle-a-toulouse",
+        "is_future_event":  true
+    },
+    {
+        "index":  344,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-04-18 08:00:00",
+        "formatted_date":  "Apr 18, 2026",
+        "venue":  {
+                      "city":  "Marly",
+                      "stateprovince":  "",
+                      "country":  "France",
+                      "venue":  "Crump'fest"
+                  },
+        "description":  "",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  345,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-04-27 08:00:00",
+        "formatted_date":  "Apr 27, 2026",
+        "venue":  {
+                      "city":  "Viry-Noureuil",
+                      "stateprovince":  "",
+                      "country":  "France",
+                      "venue":  "Ka Kaverne"
+                  },
+        "description":  "",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  346,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-04-28 08:00:00",
+        "formatted_date":  "Apr 28, 2026",
+        "venue":  {
+                      "city":  "Dijon",
+                      "stateprovince":  "",
+                      "country":  "France",
+                      "venue":  "Deep Inside"
+                  },
+        "description":  "",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  347,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-04-29 08:00:00",
+        "formatted_date":  "Apr 29, 2026",
+        "venue":  {
+                      "city":  "St-Symphorien d'Ozon",
+                      "stateprovince":  "",
+                      "country":  "France",
+                      "venue":  "Over 18 Motors"
+                  },
+        "description":  "",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  348,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-05-03 08:00:00",
+        "formatted_date":  "May 03, 2026",
+        "venue":  {
+                      "city":  "Bruxelles",
+                      "stateprovince":  "",
+                      "country":  "Belgium",
+                      "venue":  "La Mule"
+                  },
+        "description":  "",
+        "website":  "https://passpass.be/fr/events/1127/sunday-tea-party-guerilla-poubelle-jet8-ok-hockey",
+        "is_future_event":  true
+    },
+    {
+        "index":  349,
+        "title":  "Guerilla Poubelle",
+        "start_date":  "2026-05-08 08:00:00",
+        "formatted_date":  "May 08, 2026",
+        "venue":  {
+                      "city":  "Le Cateau Cambresis",
+                      "stateprovince":  "",
+                      "country":  "France",
+                      "venue":  "Zikenstock Fest"
+                  },
+        "description":  "",
+        "website":  "https://www.helloasso.com/associations/festival-zikenstock/evenements/festival-zikenstock-22",
         "is_future_event":  true
     }
 ]
