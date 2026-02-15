@@ -5233,6 +5233,36 @@
         "description":  "",
         "website":  "https://www.helloasso.com/associations/festival-zikenstock/evenements/festival-zikenstock-22",
         "is_future_event":  true
+    },
+    {
+        "index":  350,
+        "title":  "Good Friend",
+        "start_date":  "2026-04-25 08:00:00",
+        "formatted_date":  "Apr 25, 2026",
+        "venue":  {
+                      "city":  "Coleraine",
+                      "stateprovince":  "Derry",
+                      "country":  "Northern Ireland",
+                      "venue":  "The Singin' Thistle"
+                  },
+        "description":  "The Giants Wake #1 with Broncos!",
+        "website":  "https://www.eventbrite.com/e/the-giants-wake-01-tickets-1983045674996",
+        "is_future_event":  true
+    },
+    {
+        "index":  351,
+        "title":  "Arms Aloft",
+        "start_date":  "2026-03-15 08:00:00",
+        "formatted_date":  "Mar 15, 2026",
+        "venue":  {
+                      "city":  "Eau Claire",
+                      "stateprovince":  "Wisconsin",
+                      "country":  "United States",
+                      "venue":  "The Plus"
+                  },
+        "description":  "We Make Better Possible Rally!",
+        "website":  null,
+        "is_future_event":  true
     }
 ]
 
