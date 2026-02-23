@@ -5263,6 +5263,51 @@
         "description":  "We Make Better Possible Rally!",
         "website":  null,
         "is_future_event":  true
+    },
+    {
+        "index":  352,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-04-12 08:00:00",
+        "formatted_date":  "Apr 12, 2026",
+        "venue":  {
+                      "city":  "Lancaster",
+                      "stateprovince":  "Pennsylvania",
+                      "country":  "United States",
+                      "venue":  "Zoetropolis"
+                  },
+        "description":  "With Headzo and the Worries!",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  353,
+        "title":  "Won't Stay Dead",
+        "start_date":  "2026-03-14 08:00:00",
+        "formatted_date":  "Mar 14, 2026",
+        "venue":  {
+                      "city":  "Chicago",
+                      "stateprovince":  "Illinois",
+                      "country":  "United States",
+                      "venue":  "Reggie's Rock Club"
+                  },
+        "description":  "With Flatfoot 56, Downtown Struts, and Liberty & Justice!",
+        "website":  "https://www.ticketweb.com/event/flatfoot-56-the-downtown-struts-reggies-rock-club-tickets/14078514",
+        "is_future_event":  true
+    },
+    {
+        "index":  354,
+        "title":  "The Reaganomics",
+        "start_date":  "2026-04-11 08:00:00",
+        "formatted_date":  "Apr 11, 2026",
+        "venue":  {
+                      "city":  "Chicago",
+                      "stateprovince":  "Illinois",
+                      "country":  "United States",
+                      "venue":  "Reggie's Music Joint"
+                  },
+        "description":  "With The Dollyrots, Keep Flying, and The Run Around!",
+        "website":  "https://www.ticketweb.com/event/the-dollyrots-keep-flying-the-reggies-music-joint-tickets/14004554",
+        "is_future_event":  true
     }
 ]
 
