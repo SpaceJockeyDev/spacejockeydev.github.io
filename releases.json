@@ -3856,5 +3856,24 @@
             "bandcamp": "https://thebrokedowns.bandcamp.com/album/lets-tip-the-landlord",
             "store": "https://redscare.storenvy.com/products/36976767-the-brokedowns-let-s-tip-the-landlord-lp-cccp-267-1"
         }
+    },
+    {
+        "bandName": "American Steel",
+        "album": "Rotting",
+        "displayAlbum": "Rotting",
+        "releaseNumber": "270",
+        "releaseDate": "2025-10-01",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/RottingCover.jpg",
+        "description": "We got so excited about working with American Steel that we had drop a \"Digital 45\" teaser to fan the flames.  (That's also a nod to their hometown of Oakland—very famous for fires.)  In addition to their blistering \"Rotting\" single from 1998, we somehow convinced the band to go into the studio and add a B-side.  As massive fans, a NEW AmSteel song is a major coup for us, and we know you'll appreciate this bonus track too.",
+        "trackList":[
+            "01. Rotting",
+            "02. Long Day (Acoustic)"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://americansteel.bandcamp.com/album/rotting",
+            "store": null
+        }
     }
 ]

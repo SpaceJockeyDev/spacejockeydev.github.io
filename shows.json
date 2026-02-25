@@ -4488,7 +4488,7 @@
         "index":  301,
         "title":  "Billy Liar",
         "start_date":  "2026-05-14 08:00:00",
-        "formatted_date":  "May 14, 2026",
+        "formatted_date":  "May 16, 2026",
         "venue":  {
                       "city":  "Montreal",
                       "stateprovince":  "QC",
@@ -5307,6 +5307,111 @@
                   },
         "description":  "With The Dollyrots, Keep Flying, and The Run Around!",
         "website":  "https://www.ticketweb.com/event/the-dollyrots-keep-flying-the-reggies-music-joint-tickets/14004554",
+        "is_future_event":  true
+    },
+    {
+        "index":  355,
+        "title":  "Won't Stay Dead",
+        "start_date":  "2026-03-06 08:00:00",
+        "formatted_date":  "Mar 06, 2026",
+        "venue":  {
+                      "city":  "Kenosha",
+                      "stateprovince":  "Wisconsin",
+                      "country":  "United States",
+                      "venue":  "The Final Girl"
+                  },
+        "description":  "With mulva, Anti-Everything, and Counterfeit Goods!",
+        "website":  "https://www.ticketweb.com/event/the-dollyrots-keep-flying-the-reggies-music-joint-tickets/14004554",
+        "is_future_event":  true
+    },
+    {
+        "index":  356,
+        "title":  "Won't Stay Dead",
+        "start_date":  "2026-03-07 08:00:00",
+        "formatted_date":  "Mar 07, 2026",
+        "venue":  {
+                      "city":  "Milwaukee",
+                      "stateprovince":  "Wisconsin",
+                      "country":  "United States",
+                      "venue":  "Last Rites"
+                  },    
+        "description":  "With Mulva, BAD YEAR, and Arizona the State!",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  357,
+        "title":  "Won't Stay Dead",
+        "start_date":  "2026-05-15 08:00:00",
+        "formatted_date":  "May 15, 2026",
+        "venue":  {
+                      "city":  "Montreal",
+                      "stateprovince":  "Quebec",
+                      "country":  "Canada",
+                      "venue":  "Pouzza Fest"
+                  },
+        "description":  null,
+        "website":  "https://pouzzafest.com/en/tickets/",
+        "is_future_event":  true
+    },
+    {
+        "index":  357,
+        "title":  "The Brokedowns",
+        "start_date":  "2026-05-16 08:00:00",
+        "formatted_date":  "May 16, 2026",
+        "venue":  {
+                      "city":  "Montreal",
+                      "stateprovince":  "Quebec",
+                      "country":  "Canada",
+                      "venue":  "Pouzza Fest"
+                  },
+        "description":  null,
+        "website":  "https://pouzzafest.com/en/tickets/",
+        "is_future_event":  true
+    },
+    {
+        "index":  357,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-05-16 08:00:00",
+        "formatted_date":  "May 16, 2026",
+        "venue":  {
+                      "city":  "Montreal",
+                      "stateprovince":  "Quebec",
+                      "country":  "Canada",
+                      "venue":  "Pouzza Fest"
+                  },
+        "description":  null,
+        "website":  "https://pouzzafest.com/en/tickets/",
+        "is_future_event":  true
+    },
+    {
+        "index":  357,
+        "title":  "Elway",
+        "start_date":  "2026-05-16 08:00:00",
+        "formatted_date":  "May 16, 2026",
+        "venue":  {
+                      "city":  "Montreal",
+                      "stateprovince":  "Quebec",
+                      "country":  "Canada",
+                      "venue":  "Pouzza Fest"
+                  },
+        "description":  null,
+        "website":  "https://pouzzafest.com/en/tickets/",
+        "is_future_event":  true
+    },
+    {
+        "index":  357,
+        "title":  "Tired Radio",
+        "start_date":  "2026-05-17 08:00:00",
+        "formatted_date":  "May 17, 2026",
+        "venue":  {
+                      "city":  "Montreal",
+                      "stateprovince":  "Quebec",
+                      "country":  "Canada",
+                      "venue":  "Pouzza Fest"
+                  },
+        "description":  null,
+        "website":  "https://pouzzafest.com/en/tickets/",
         "is_future_event":  true
     }
 ]
