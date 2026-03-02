@@ -5428,6 +5428,51 @@
         "description":  "<p>With Dead To Me and Brendan Kelly!</p>",
         "website":  "https://dice.fm/event/mx875w-dead-to-me-3rd-apr-rough-trade-bristol-bristol-tickets?pid=530cb286\u0026_branch_match_id=\u0026utm_medium=partners_api\u0026_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q9NtEgzsEwyTUw2TrYvyEyxNTU2SE4ysjBTqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUApQE%2BsUgAAAA%3D",
         "is_future_event":  true
+    },
+    {
+        "index":  358,
+        "title":  "Billy Liar",
+        "start_date":  "2026-04-04 08:00:00",
+        "formatted_date":  "Apr 04, 2026",
+        "venue":  {
+                      "city":  "London",
+                      "stateprovince":  "OR",
+                      "country":  "United Kingdom",
+                      "venue":  "The Garage"
+                  },
+        "description":  "<p>With Dead To Me and Brendan Kelly!</p>",
+        "website":  "https://dice.fm/event/1x8l5w-dead-to-me-4th-apr-the-garage-london-tickets?pid=530cb286\u0026_branch_match_id=\u0026utm_medium=partners_api\u0026_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q9NtEgzsEwyTUw2TrYvyEyxNTU2SE4ysjBTqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUApQE%2BsUgAAAA%3D",
+        "is_future_event":  true
+    },
+    {
+        "index":  359,
+        "title":  "Won't Stay Dead",
+        "start_date":  "2026-04-11 08:00:00",
+        "formatted_date":  "Apr 11, 2026",
+        "venue":  {
+                      "city":  "Chicago",
+                      "stateprovince":  "IL",
+                      "country":  "United States",
+                      "venue":  "The Paper Machete at The Green Mill"
+                  },
+        "description":  null,
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  360,
+        "title":  "The Menzingers",
+        "start_date":  "2026-05-13 08:00:00",
+        "formatted_date":  "May 13, 2026",
+        "venue":  {
+                      "city":  "Toronto",
+                      "stateprovince":  "ON",
+                      "country":  "Canada",
+                      "venue":  "The Bovine Sex Club"
+                  },
+        "description":  null,
+        "website":  null,
+        "is_future_event":  true
     }
 ]
 
