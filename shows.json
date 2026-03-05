@@ -3925,7 +3925,7 @@
                       "country":  "United States",
                       "venue":  "Bogart's"
                   },
-        "description":  "<p>With Sam Russo and the Dopamines!</p>",
+        "description":  "<p>With Sam Russo, the Dopamines, and Heart & Lung!</p>",
         "website":  "https://www.ticketmaster.com/event/1600638AE6CECD4C",
         "is_future_event":  true
     },
@@ -3940,7 +3940,7 @@
                       "country":  "United States",
                       "venue":  "Bogart's"
                   },
-        "description":  "<p>With Teenage Bottlerocket and the Dopamines!</p>",
+        "description":  "<p>With Teenage Bottlerocket, the Dopamines, and Heart & Lung!</p>",
         "website":  "https://www.ticketmaster.com/event/1600638AE6CECD4C",
         "is_future_event":  true
     },
@@ -5472,6 +5472,21 @@
                   },
         "description":  null,
         "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  262,
+        "title":  "Heart & Lung",
+        "start_date":  "2026-04-03 08:00:00",
+        "formatted_date":  "Apr 03, 2026",
+        "venue":  {
+                      "city":  "Cincinnati",
+                      "stateprovince":  "OH",
+                      "country":  "United States",
+                      "venue":  "Bogart's"
+                  },
+        "description":  "<p>With Teenage Bottlerocket, Sam Russo, and the Dopamines!</p>",
+        "website":  "https://www.ticketmaster.com/event/1600638AE6CECD4C",
         "is_future_event":  true
     }
 ]
