@@ -5488,6 +5488,21 @@
         "description":  "<p>With Teenage Bottlerocket, Sam Russo, and the Dopamines!</p>",
         "website":  "https://www.ticketmaster.com/event/1600638AE6CECD4C",
         "is_future_event":  true
+    },
+    {
+        "index":  263,
+        "title":  "Garrett Dale",
+        "start_date":  "2026-05-08 08:00:00",
+        "formatted_date":  "May 08, 2026",
+        "venue":  {
+                      "city":  "Chicago",
+                      "stateprovince":  "IL",
+                      "country":  "United States",
+                      "venue":  "GMan Tavern"
+                  },
+        "description":  "<p>With Jarde Hart and GB!</p>",
+        "website":  "https://www.etix.com/ticket/p/96782141/",
+        "is_future_event":  true
     }
 ]
 
