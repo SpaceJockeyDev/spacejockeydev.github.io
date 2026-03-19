@@ -5488,6 +5488,66 @@
         "description":  "<p>With Jared Hart and GB!</p>",
         "website":  "https://www.etix.com/ticket/p/96782141/",
         "is_future_event":  true
+    },
+    {
+        "index":  264,
+        "title":  "Druglords of the Avenues",
+        "start_date":  "2026-04-30 08:00:00",
+        "formatted_date":  "Apr 30, 2026",
+        "venue":  {
+                      "city":  "Ventura",
+                      "stateprovince":  "CA",
+                      "country":  "United States",
+                      "venue":  "Ventura Music Hall"
+                  },
+        "description":  "<p>With Manic Hispanic!</p>",
+        "website":  "https://www.tixr.com/groups/venturamusichall/events/manic-hispanic-180325",
+        "is_future_event":  true
+    },
+    {
+        "index":  265,
+        "title":  "Druglords of the Avenues",
+        "start_date":  "2026-05-01 08:00:00",
+        "formatted_date":  "May 01, 2026",
+        "venue":  {
+                      "city":  "Garden Grove",
+                      "stateprovince":  "CA",
+                      "country":  "United States",
+                      "venue":  "Garden Amphitheatre"
+                  },
+        "description":  "<p>With Manic Hispanic and The Dickies!</p>",
+        "website":  "https://www.ticketweb.com/event/manic-hispanic-the-dickies-druglords-garden-amphitheatre-tickets/13999654?pl=lfagroup&REFID=clientsitewp&_gl=1*gmi8ny*_ga*MjEwNTAyMTI0Ni4xNzczOTM0NTU0*_ga_7MWVZM2G4E*czE3NzM5MzQ1NTQkbzEkZzAkdDE3NzM5MzQ1NTQkajYwJGwwJGgxNzU2MzgyOTk4",
+        "is_future_event":  true
+    },
+    {
+        "index":  266,
+        "title":  "Druglords of the Avenues",
+        "start_date":  "2026-05-02 08:00:00",
+        "formatted_date":  "May 02, 2026",
+        "venue":  {
+                      "city":  "Bakersfield",
+                      "stateprovince":  "CA",
+                      "country":  "United States",
+                      "venue":  "Pyrenees Cafe"
+                  },
+        "description":  "<p>With Manic Hispanic!</p>",
+        "website":  "https://moonshineme.net/v1/event_details.aspx?EuNiqId=67e5e73e-e2ca-44fe-b6b3-01734b3931d9",
+        "is_future_event":  true
+    },
+    {
+        "index":  267,
+        "title":  "Druglords of the Avenues",
+        "start_date":  "2026-05-03 08:00:00",
+        "formatted_date":  "May 03, 2026",
+        "venue":  {
+                      "city":  "Albany",
+                      "stateprovince":  "CA",
+                      "country":  "United States",
+                      "venue":  "Ivy Room"
+                  },
+        "description":  "<p>With Manic Hispanic!</p>",
+        "website":  "https://tickets.venuepilot.com/e/manic-hispanic-2026-05-03-ivy-room-albany-b8104b",
+        "is_future_event":  true
     }
 ]
 
