@@ -5548,6 +5548,306 @@
         "description":  "<p>With Manic Hispanic!</p>",
         "website":  "https://tickets.venuepilot.com/e/manic-hispanic-2026-05-03-ivy-room-albany-b8104b",
         "is_future_event":  true
+    },
+    {
+        "index":  268,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-20 08:00:00",
+        "formatted_date":  "Jun 20, 2026",
+        "venue":  {
+                      "city":  "Providence",
+                      "stateprovince":  "RI",
+                      "country":  "United States",
+                      "venue":  "Alchemy"
+                  },
+        "description":  "<p>With The Holy Mess!</p>",
+        "website":  "https://dice.fm/partner/tickets/event/q2wbgx-teenage-bottlerocket-the-holy-mess-20th-jun-alchemy-providence-tickets?dice_id=8747200&dice_channel=web&dice_tags=organic&dice_campaign=Chestnut+Street+Enterprises+dba+Alchemy&dice_feature=mio_marketing&_branch_match_id=1563553823666514945&utm_source=web&utm_campaign=Chestnut+Street+Enterprises+dba+Alchemy&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9OSzazSE4xMUhKtLSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBDHzLMOwAAAA%3D%3D",
+        "is_future_event":  true
+    },
+    {
+        "index":  269,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-06-20 08:00:00",
+        "formatted_date":  "Jun 20, 2026",
+        "venue":  {
+                      "city":  "Providence",
+                      "stateprovince":  "RI",
+                      "country":  "United States",
+                      "venue":  "Alchemy"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  "https://dice.fm/partner/tickets/event/q2wbgx-teenage-bottlerocket-the-holy-mess-20th-jun-alchemy-providence-tickets?dice_id=8747200&dice_channel=web&dice_tags=organic&dice_campaign=Chestnut+Street+Enterprises+dba+Alchemy&dice_feature=mio_marketing&_branch_match_id=1563553823666514945&utm_source=web&utm_campaign=Chestnut+Street+Enterprises+dba+Alchemy&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9OSzazSE4xMUhKtLSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBDHzLMOwAAAA%3D%3D",
+        "is_future_event":  true
+    },
+    {
+        "index":  270,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-18 08:00:00",
+        "formatted_date":  "Jun 18, 2026",
+        "venue":  {
+                      "city":  "Virginia Beach",
+                      "stateprovince":  "VA",
+                      "country":  "United States",
+                      "venue":  "Bunker Brew Pub"
+                  },
+        "description":  "<p>With The Holy Mess and Keep Flying!</p>",
+        "website":  "https://www.eventbrite.com/e/teenage-bottlerocket-the-holy-mess-keep-flying-at-the-bunker-vb-tickets-1985529078924",
+        "is_future_event":  true
+    },
+    {
+        "index":  271,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-06-18 08:00:00",
+        "formatted_date":  "Jun 18, 2026",
+        "venue":  {
+                      "city":  "Virginia Beach",
+                      "stateprovince":  "VA",
+                      "country":  "United States",
+                      "venue":  "Bunker Brew Pub"
+                  },
+        "description":  "<p>With Teenage Bottlerocket and Keep Flying!</p>",
+        "website":  "https://www.eventbrite.com/e/teenage-bottlerocket-the-holy-mess-keep-flying-at-the-bunker-vb-tickets-1985529078924",
+        "is_future_event":  true
+    },
+    {
+        "index":  272,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-21 08:00:00",
+        "formatted_date":  "Jun 21, 2026",
+        "venue":  {
+                      "city":  "Lowell",
+                      "stateprovince":  "MA",
+                      "country":  "United States",
+                      "venue":  "Taffeta Music Hall"
+                  },
+        "description":  "<p>With The Holy Mess!</p>",
+        "website":  "https://www.taffetamusic.com/shows/teenage-bottlerocket-21-jun#tickets",
+        "is_future_event":  true
+    },
+    {
+        "index":  273,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-06-21 08:00:00",
+        "formatted_date":  "Jun 21, 2026",
+        "venue":  {
+                      "city":  "Lowell",
+                      "stateprovince":  "MA",
+                      "country":  "United States",
+                      "venue":  "Taffeta Music Hall"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  "https://www.taffetamusic.com/shows/teenage-bottlerocket-21-jun#tickets",
+        "is_future_event":  true
+    },
+    {
+        "index":  274,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-22 08:00:00",
+        "formatted_date":  "Jun 22, 2026",
+        "venue":  {
+                      "city":  "New York City",
+                      "stateprovince":  "NY",
+                      "country":  "United States",
+                      "venue":  "TV Eye"
+                  },
+        "description":  "<p>With The Holy Mess!</p>",
+        "website":  "https://wl.eventim.us/event/teenage-bottlerocket-the-holy-mess/685233?afflky=TVEye",
+        "is_future_event":  true
+    },
+    {
+        "index":  275,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-06-22 08:00:00",
+        "formatted_date":  "Jun 22, 2026",
+        "venue":  {
+                      "city":  "New York City",
+                      "stateprovince":  "NY",
+                      "country":  "United States",
+                      "venue":  "TV Eye"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  "https://wl.eventim.us/event/teenage-bottlerocket-the-holy-mess/685233?afflky=TVEye",
+        "is_future_event":  true
+    },
+    {
+        "index":  276,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-23 08:00:00",
+        "formatted_date":  "Jun 23, 2026",
+        "venue":  {
+                      "city":  "Pittsburgh",
+                      "stateprovince":  "PA",
+                      "country":  "United States",
+                      "venue":  "The Funhouse at Mr. Smalls"
+                  },
+        "description":  "<p>With The Holy Mess!</p>",
+        "website":  "https://www.ticketmaster.com/event/16006470EB6DC7A7",
+        "is_future_event":  true
+    },
+    {
+        "index":  277,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-06-23 08:00:00",
+        "formatted_date":  "Jun 23, 2026",
+        "venue":  {
+                      "city":  "Pittsburgh",
+                      "stateprovince":  "PA",
+                      "country":  "United States",
+                      "venue":  "The Funhouse at Mr. Smalls"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  "https://www.ticketmaster.com/event/16006470EB6DC7A7",
+        "is_future_event":  true
+    },
+    {
+        "index":  278,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-24 08:00:00",
+        "formatted_date":  "Jun 24, 2026",
+        "venue":  {
+                      "city":  "Columbus",
+                      "stateprovince":  "OH",
+                      "country":  "United States",
+                      "venue":  "Ace of Cups"
+                  },
+        "description":  "<p>With The Holy Mess!</p>",
+        "website":  "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=685190",
+        "is_future_event":  true
+    },
+    {
+        "index":  279,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-06-24 08:00:00",
+        "formatted_date":  "Jun 24, 2026",
+        "venue":  {
+                      "city":  "Columbus",
+                      "stateprovince":  "OH",
+                      "country":  "United States",
+                      "venue":  "Ace of Cups"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=685190",
+        "is_future_event":  true
+    },
+    {
+        "index":  280,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-25 08:00:00",
+        "formatted_date":  "Jun 25, 2026",
+        "venue":  {
+                      "city":  "Cleveland",
+                      "stateprovince":  "OH",
+                      "country":  "United States",
+                      "venue":  "The Grog Shop"
+                  },
+        "description":  "<p>With Sludgeworth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  281,
+        "title":  "Sludgeworth",
+        "start_date":  "2026-06-25 08:00:00",
+        "formatted_date":  "Jun 25, 2026",
+        "venue":  {
+                      "city":  "Cleveland",
+                      "stateprovince":  "OH",
+                      "country":  "United States",
+                      "venue":  "The Grog Shop"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  282,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-25 08:00:00",
+        "formatted_date":  "Jun 25, 2026",
+        "venue":  {
+                      "city":  "Detroit",
+                      "stateprovince":  "MI",
+                      "country":  "United States",
+                      "venue":  "The Sanctuary"
+                  },
+        "description":  "<p>With Sludgeworth!</p>",
+        "website":  "https://www.ticketweb.com/event/teenage-bottlerocket-the-sanctuary-detroit-tickets/14790963?pl=sanctuary",
+        "is_future_event":  true
+    },
+    {
+        "index":  283,
+        "title":  "Sludgeworth",
+        "start_date":  "2026-06-25 08:00:00",
+        "formatted_date":  "Jun 25, 2026",
+        "venue":  {
+                      "city":  "Detroit",
+                      "stateprovince":  "MI",
+                      "country":  "United States",
+                      "venue":  "The Sanctuary"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  "https://www.ticketweb.com/event/teenage-bottlerocket-the-sanctuary-detroit-tickets/14790963?pl=sanctuary",
+        "is_future_event":  true
+    },
+    {
+        "index":  284,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-26 08:00:00",
+        "formatted_date":  "Jun 26, 2026",
+        "venue":  {
+                      "city":  "Logansport",
+                      "stateprovince":  "IN",
+                      "country":  "United States",
+                      "venue":  "Bonus Pints"
+                  },
+        "description":  "<p>Punk Til I Die FREE concert series with Sludgeworth and more!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  285,
+        "title":  "Sludgeworth",
+        "start_date":  "2026-06-26 08:00:00",
+        "formatted_date":  "Jun 26, 2026",
+        "venue":  {
+                      "city":  "Logansport",
+                      "stateprovince":  "IN",
+                      "country":  "United States",
+                      "venue":  "Bonus Pints"
+                  },
+        "description":  "<p>Punk Til I Die FREE concert series with Teenage Bottlerocket and more!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  286,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-06-19 08:00:00",
+        "formatted_date":  "Jun 19, 2026",
+        "venue":  {
+                      "city":  "Philadelphia",
+                      "stateprovince":  "PA",
+                      "country":  "United States",
+                      "venue":  "First Unitarian Church"
+                  },
+        "description":  "<p>With The Holy Mess!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  287,
+        "title":  "The Holy Mess",
+        "start_date":  "2026-06-19 08:00:00",
+        "formatted_date":  "Jun 19, 2026",
+        "venue":  {
+                      "city":  "Philadelphia",
+                      "stateprovince":  "PA",
+                      "country":  "United States",
+                      "venue":  "First Unitarian Church"
+                  },
+        "description":  "<p>With Teenage Bottlerocket!</p>",
+        "website":  null,
+        "is_future_event":  true
     }
 ]
 
