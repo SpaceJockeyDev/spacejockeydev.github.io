@@ -3770,6 +3770,25 @@
         }
     },
     {
+        "bandName": "American Steel",
+        "album": "Rotting",
+        "displayAlbum": "Rotting",
+        "releaseNumber": "270",
+        "releaseDate": "2025-10-01",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/RottingCover.jpg",
+        "description": "We got so excited about working with American Steel that we had drop a \"Digital 45\" teaser to fan the flames.  (That's also a nod to their hometown of Oakland—very famous for fires.)  In addition to their blistering \"Rotting\" single from 1998, we somehow convinced the band to go into the studio and add a B-side.  As massive fans, a NEW AmSteel song is a major coup for us, and we know you'll appreciate this bonus track too.",
+        "trackList":[
+            "01. Rotting",
+            "02. Long Day (Acoustic)"
+        ],
+        "links":{
+            "spotify": "https://open.spotify.com/album/0eyuXOenUdSizM7mYcQH7P?si=baJlXmjIRdC43sEszyr5Tw",
+            "appleMusic": "https://music.apple.com/us/album/rotting-single/1877971775",
+            "bandcamp": "https://americansteel.bandcamp.com/album/rotting",
+            "store": null
+        }
+    },
+    {
         "bandName": "Elway",
         "album": "Nobody’s Going To Heaven",
         "displayAlbum": "Nobody’s Going To Heaven",
@@ -3859,21 +3878,36 @@
     },
     {
         "bandName": "American Steel",
-        "album": "Rotting",
-        "displayAlbum": "Rotting",
-        "releaseNumber": "270",
-        "releaseDate": "2025-10-01",
-        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/RottingCover.jpg",
-        "description": "We got so excited about working with American Steel that we had drop a \"Digital 45\" teaser to fan the flames.  (That's also a nod to their hometown of Oakland—very famous for fires.)  In addition to their blistering \"Rotting\" single from 1998, we somehow convinced the band to go into the studio and add a B-side.  As massive fans, a NEW AmSteel song is a major coup for us, and we know you'll appreciate this bonus track too.",
+        "album": "American Steel",
+        "displayAlbum": "American Steel",
+        "releaseNumber": "266",
+        "releaseDate": "1998-10-01",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/AmSteelCover.jpg",
+        "description": "American Steel is the last great band to come out of Berkeley's 924 Gilman scene.  Forged in the same fires as Operation Ivy, Crimpshrine, and Rancid, these soulful punks have at long last decided to unearth their self-titled album from 1998.  AmSteel evolved into one of the most artful and sophisticated punk bands around, but this quartet began as a truly raw and wrathful DIY outfit, and we're grateful for the opportunity to share this 17-song hidden gem.  We have been begging the band to release this material since Red Scare first began.  Literally pestering them for twenty years.  Listen to this dynamic debut and you will understand why.",
         "trackList":[
             "01. Rotting",
-            "02. Long Day (Acoustic)"
+            "02. Long Day",
+            "03. Fargo",
+            "04. Cheer Up",
+            "05. Standstill",
+            "06. Huckleberry Flynn",
+            "07. Crashing Down",
+            "08. It's Too Bloody Anyway",
+            "09. Close Enough Away",
+            "10. Trust",
+            "11. Passerby",
+            "12. Three Cheers",
+            "13. Beatdown",
+            "14. Latchkey Kid",
+            "15. Decycling",
+            "16. Sloppy Fucking Drunk",
+            "17. Landmine Lullabye"
         ],
         "links":{
-            "spotify": null,
-            "appleMusic": null,
-            "bandcamp": "https://americansteel.bandcamp.com/album/rotting",
-            "store": null
+            "spotify": "https://open.spotify.com/album/4HafcFejM3NJsqV3k4mAhJ?si=CIUARNY1SNetMlflnbneSQ",
+            "appleMusic": "https://music.apple.com/us/album/american-steel/1874081905",
+            "bandcamp": "https://americansteel.bandcamp.com/album/american-steel",
+            "store": "https://redscare.storenvy.com/products/37009317-american-steel-american-steel-lp-cccp-266-1"
         }
     }
 ]
