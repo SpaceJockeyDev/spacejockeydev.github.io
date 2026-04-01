@@ -5878,5 +5878,21 @@
         "description":  "<p>With Dave Hause and The Mermaid!</p>",
         "website":  "https://etix.prf.hn/click/camref:1100lAmXu/pubref:2500~108127717~~onaqfvagbja_jro~$%7Buser_id%7D/destination:https%3A%2F%2Fwww.etix.com%2Fticket%2Fp%2F66860389%2Fdave-hause-and-the-mermaid-american-steel-portland-mississippi-studios",
         "is_future_event":  true
+    },
+    {
+        "index":  289,
+        "title":  "The Reaganomics",
+        "start_date":  "2026-04-25 08:00:00",
+        "formatted_date":  "Apr 25, 2026",
+        "venue":  {
+                      "city":  "Joliet",
+                      "stateprovince":  "IL",
+                      "country":  "United States",
+                      "venue":  "The Forge"
+                  },
+        "description":  "<p>With Prison City Birgade, SMFC, and The Feds!</p>",
+        "website":  null,
+        "is_future_event":  true
+
     }
 ]     
