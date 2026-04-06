@@ -5085,21 +5085,6 @@
         "is_future_event":  true
     },
     {
-        "index":  341,
-        "title":  "The Reaganomics",
-        "start_date":  "2026-04-25 08:00:00",
-        "formatted_date":  "Apr 25, 2026",
-        "venue":  {
-                      "city":  "Joliet",
-                      "stateprovince":  "IL",
-                      "country":  "United States",
-                      "venue":  "The Forge"
-                  },
-        "description":  "With The Feds and Prison City Brigade!",
-        "website":  null,
-        "is_future_event":  true
-    },
-    {
         "index":  342,
         "title":  "Guerilla Poubelle",
         "start_date":  "2026-04-05 08:00:00",
@@ -5831,7 +5816,7 @@
                       "venue":  "First Unitarian Church"
                   },
         "description":  "<p>With The Holy Mess!</p>",
-        "website":  null,
+        "website":  "https://dice.fm/partner/tickets/event/7dke7b-teenage-bottlerocket-punk-rock-in-philly-19th-jun-first-unitarian-church-of-philadelphia-philadelphia-tickets?dice_id=8787412&dice_channel=web&dice_tags=organic&dice_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&dice_feature=mio_marketing&_branch_match_id=1569716232210880812&utm_source=web&utm_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9LSjJKM7JMszQ3srCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCkVoBaOwAAAA%3D%3D",
         "is_future_event":  true
     },
     {
@@ -5846,7 +5831,7 @@
                       "venue":  "First Unitarian Church"
                   },
         "description":  "<p>With Teenage Bottlerocket!</p>",
-        "website":  null,
+        "website":  "https://dice.fm/partner/tickets/event/7dke7b-teenage-bottlerocket-punk-rock-in-philly-19th-jun-first-unitarian-church-of-philadelphia-philadelphia-tickets?dice_id=8787412&dice_channel=web&dice_tags=organic&dice_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&dice_feature=mio_marketing&_branch_match_id=1569716232210880812&utm_source=web&utm_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9LSjJKM7JMszQ3srCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCkVoBaOwAAAA%3D%3D",
         "is_future_event":  true
     },
     {
