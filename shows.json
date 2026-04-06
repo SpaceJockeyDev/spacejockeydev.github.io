@@ -5878,6 +5878,20 @@
         "description":  "<p>With Prison City Birgade, SMFC, and The Feds!</p>",
         "website":  null,
         "is_future_event":  true
-
+    },
+    {
+        "index":  290,
+        "title":  "Tired Radio",
+        "start_date":  "2026-05-14 08:00:00",
+        "formatted_date":  "May 14, 2026",
+        "venue":  {
+                      "city":  "Boston",
+                      "stateprovince":  "MA",
+                      "country":  "United States",
+                      "venue":  "O'Brien's Pub"
+                  },
+        "description":  "<p>With Five Hundred Bucks, Little Low, and Oh The Humanity!</p>",
+        "website":  "https://obrienspubboston.com/show/tired-radio-five-hundred-bucks-little-low-oh-the-humanity/?media_link=1",
+        "is_future_event":  true
     }
 ]     
