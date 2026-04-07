@@ -5920,8 +5920,24 @@
                       "country":  "United States",
                       "venue":  "Bar 404"
                   },
+        "description":  "<p>With The Sleights, Trauma Czars and Tezca!</p>",
+        "website":  "https://www.eventbrite.com/e/tightwire-and-special-guests-the-sleights-trauma-czars-and-tezca-tickets-1985696656152?aff=oddtdtcreator",
+        "is_future_event":  true
+    },
+    {
+        "index":  293,
+        "title":  "Tightwire",
+        "start_date":  "2026-04-26 08:00:00",
+        "formatted_date":  "Apr 26, 2026",
+        "venue":  {
+                      "city":  "Seattle",
+                      "stateprovince":  "WA",
+                      "country":  "United States",
+                      "venue":  "Black Lodge"
+                  },
         "description":  null,
         "website":  null,
         "is_future_event":  true
+
     }
 ]     
