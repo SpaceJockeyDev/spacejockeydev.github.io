@@ -6403,5 +6403,20 @@
         "description":  "<p>With Stay Inside and Smug LLC!</p>",
         "website":  "https://wl.eventim.us/event/sincere-engineer-the-probable-claws-tour/684628?afflky=KickstandProductions",
         "is_future_event":  true
+    },
+    {
+        "index":  428,
+        "title":  "The Brokedowns",
+        "start_date":  "2026-04-17 08:00:00",
+        "formatted_date":  "Apr 17, 2026",
+        "venue":  {
+                      "city":  "Chicago",
+                      "stateprovince":  "IL",
+                      "country":  "United States",
+                      "venue":  "Beat Kitchen"
+                  },
+        "description":  "<p>With off With Their Heads, Toys That Kill, and Panel!</p>",
+        "website":  "https://wl.eventim.us/event/off-with-their-heads/676770?afflky=BKBGManagementCo",
+        "is_future_event":  true
     }
 ]     
