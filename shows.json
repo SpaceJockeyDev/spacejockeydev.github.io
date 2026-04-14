@@ -6515,10 +6515,10 @@
         "start_date":  "2026-06-19 08:00:00",
         "formatted_date":  "Jun 19, 2026",
         "venue":  {
-                      "city":  "Trinkteufel",
-                      "stateprovince":  "NI",
+                      "city":  "Berlin",
+                      "stateprovince":  "BE",
                       "country":  "Germany",
-                      "venue":  "Berlin"
+                      "venue":  "Trinkteufel"
                   },
         "description":  "<p>With Second Youth!</p>",
         "website":  null,
@@ -6538,6 +6538,5 @@
         "description":  "<p>With Second Youth!</p>",
         "website":  null,
         "is_future_event":  true
-
     }
 ]     
