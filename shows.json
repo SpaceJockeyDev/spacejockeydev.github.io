@@ -6415,8 +6415,129 @@
                       "country":  "United States",
                       "venue":  "Beat Kitchen"
                   },
-        "description":  "<p>With off With Their Heads, Toys That Kill, and Panel!</p>",
+        "description":  "<p>With Off With Their Heads, Toys That Kill, and Panel!</p>",
         "website":  "https://wl.eventim.us/event/off-with-their-heads/676770?afflky=BKBGManagementCo",
         "is_future_event":  true
+    },
+    {
+        "index":  429,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-12 08:00:00",
+        "formatted_date":  "Jun 12, 2026",
+        "venue":  {
+                      "city":  "Kassel",
+                      "stateprovince":  "HE",
+                      "country":  "Germany",
+                      "venue":  "Sandershaus"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  430,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-14 08:00:00",
+        "formatted_date":  "Jun 14, 2026",
+        "venue":  {
+                      "city":  "Hamburg",
+                      "stateprovince":  "HH",
+                      "country":  "Germany",
+                      "venue":  "Hafenklang"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  431,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-15 08:00:00",
+        "formatted_date":  "Jun 15, 2026",
+        "venue":  {
+                      "city":  "Hannover",
+                      "stateprovince":  "NI",
+                      "country":  "Germany",
+                      "venue":  "Time/Less Prints Show Room Show"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  432,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-16 08:00:00",
+        "formatted_date":  "Jun 16, 2026",
+        "venue":  {
+                      "city":  "Braunschweig",
+                      "stateprovince":  "NI",
+                      "country":  "Germany",
+                      "venue":  "Klave Bar"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  433,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-17 08:00:00",
+        "formatted_date":  "Jun 17, 2026",
+        "venue":  {
+                      "city":  "Leipzig",
+                      "stateprovince":  "SN",
+                      "country":  "Germany",
+                      "venue":  "STO"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  434,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-18 08:00:00",
+        "formatted_date":  "Jun 18, 2026",
+        "venue":  {
+                      "city":  "Wolfsburg",
+                      "stateprovince":  "NI",
+                      "country":  "Germany",
+                      "venue":  "Jugendhaus OST"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  435,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-19 08:00:00",
+        "formatted_date":  "Jun 19, 2026",
+        "venue":  {
+                      "city":  "Trinkteufel",
+                      "stateprovince":  "NI",
+                      "country":  "Germany",
+                      "venue":  "Berlin"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+    },
+    {
+        "index":  436,
+        "title":  "Tired Radio",
+        "start_date":  "2026-06-20 08:00:00",
+        "formatted_date":  "Jun 20, 2026",
+        "venue":  {
+                      "city":  "Dresden",
+                      "stateprovince":  "SN",
+                      "country":  "Germany",
+                      "venue":  "Farewell Youth Fest"
+                  },
+        "description":  "<p>With Second Youth!</p>",
+        "website":  null,
+        "is_future_event":  true
+
     }
 ]     
