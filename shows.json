@@ -6538,5 +6538,185 @@
         "description":  "<p>With Second Youth!</p>",
         "website":  null,
         "is_future_event":  true
+    },
+    {
+        "index":  437,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-07-20 08:00:00",
+        "formatted_date":  "Jul 20, 2026",
+        "venue":  {
+                      "city":  "Fargo",
+                      "stateprovince":  "ND",
+                      "country":  "United States",
+                      "venue":  "The Aquarium"
+                  },
+        "description":  "<p>With Tightwire and The Drowns!</p>",
+        "website":  "https://tickpick.app/e/tbrfargo",
+        "is_future_event":  true
+    },
+    {
+        "index":  438,
+        "title":  "Tightwire",
+        "start_date":  "2026-07-20 08:00:00",
+        "formatted_date":  "Jul 20, 2026",
+        "venue":  {
+                      "city":  "Fargo",
+                      "stateprovince":  "ND",
+                      "country":  "United States",
+                      "venue":  "The Aquarium"
+                  },
+        "description":  "<p>With Teenage Bottlerocket and The Drowns!</p>",
+        "website":  "https://tickpick.app/e/tbrfargo",
+        "is_future_event":  true
+    },
+    {
+        "index":  439,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-07-21 08:00:00",
+        "formatted_date":  "Jul 21, 2026",
+        "venue":  {
+                      "city":  "Sioux Falls",
+                      "stateprovince":  "SD",
+                      "country":  "United States",
+                      "venue":  "ICON"
+                  },
+        "description":  "<p>With Tightwire and The Drowns!</p>",
+        "website":  "https://tickpick.app/e/tbrsf",
+        "is_future_event":  true
+    },
+    {
+        "index":  440,
+        "title":  "Tightwire",
+        "start_date":  "2026-07-21 08:00:00",
+        "formatted_date":  "Jul 21, 2026",
+        "venue":  {
+                      "city":  "Sioux Falls",
+                      "stateprovince":  "SD",
+                      "country":  "United States",
+                      "venue":  "ICON"
+                  },
+        "description":  "<p>With Teenage Bottlerocket and The Drowns!</p>",
+        "website":  "https://tickpick.app/e/tbrsf",
+        "is_future_event":  true
+    },
+    {
+        "index":  441,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-07-22 08:00:00",
+        "formatted_date":  "Jul 22, 2026",
+        "venue":  {
+                      "city":  "Rapid City",
+                      "stateprovince":  "SD",
+                      "country":  "United States",
+                      "venue":  "Aby's"
+                  },
+        "description":  "<p>With Tightwire and The Drowns!</p>",
+        "website":  "https://tickpick.app/e/tbrrapid",
+        "is_future_event":  true
+    },
+    {
+        "index":  442,
+        "title":  "Tightwire",
+        "start_date":  "2026-07-22 08:00:00",
+        "formatted_date":  "Jul 22, 2026",
+        "venue":  {
+                      "city":  "Rapid City",
+                      "stateprovince":  "SD",
+                      "country":  "United States",
+                      "venue":  "Aby's"
+                  },
+        "description":  "<p>With Teenage Bottlerocket and The Drowns!</p>",
+        "website":  "https://tickpick.app/e/tbrrapid",
+        "is_future_event":  true
+    },
+    {
+        "index":  443,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-07-23 08:00:00",
+        "formatted_date":  "Jul 23, 2026",
+        "venue":  {
+                      "city":  "Billings",
+                      "stateprovince":  "MT",
+                      "country":  "United States",
+                      "venue":  "Craft Local"
+                  },
+        "description":  "<p>With Tightwire and The Drowns!</p>",
+        "website":  "https://www.eventbrite.com/e/teenage-bottlerocket-wthe-drowns-tightwire-tickets-1987274176558?aff=oddtdtcreator",
+        "is_future_event":  true
+    },
+    {
+        "index":  444,
+        "title":  "Tightwire",
+        "start_date":  "2026-07-23 08:00:00",
+        "formatted_date":  "Jul 23, 2026",
+        "venue":  {
+                      "city":  "Billings",
+                      "stateprovince":  "MT",
+                      "country":  "United States",
+                      "venue":  "Craft Local"
+                  },
+        "description":  "<p>With Teenage Bottlerocket and The Drowns!</p>",
+        "website":  "https://www.eventbrite.com/e/teenage-bottlerocket-wthe-drowns-tightwire-tickets-1987274176558?aff=oddtdtcreator",
+        "is_future_event":  true
+    },
+    {
+        "index":  445,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-07-24 08:00:00",
+        "formatted_date":  "Jul 24, 2026",
+        "venue":  {
+                      "city":  "Glenrock",
+                      "stateprovince":  "WY",
+                      "country":  "United States",
+                      "venue":  "Glenrock Town Square"
+                  },
+        "description":  "<p>With Tightwire and The Drowns!</p>",
+        "website":  "https://www.facebook.com/events/1314488397162940",
+        "is_future_event":  true
+    },
+    {
+        "index":  446,
+        "title":  "Tightwire",
+        "start_date":  "2026-07-24 08:00:00",
+        "formatted_date":  "Jul 24, 2026",
+        "venue":  {
+                      "city":  "Glenrock",
+                      "stateprovince":  "WY",
+                      "country":  "United States",
+                      "venue":  "Glenrock Town Square"
+                  },
+        "description":  "<p>With Teenage Bottlerocket and The Drowns!</p>",
+        "website":  "https://www.facebook.com/events/1314488397162940",
+        "is_future_event":  true
+    },
+    {
+        "index":  447,
+        "title":  "Teenage Bottlerocket",
+        "start_date":  "2026-07-25 08:00:00",
+        "formatted_date":  "Jul 25, 2026",
+        "venue":  {
+                      "city":  "Boulder",
+                      "stateprovince":  "CO",
+                      "country":  "United States",
+                      "venue":  "Fox Theatre"
+                  },
+        "description":  "<p>With Tightwire and The Drowns!</p>",
+        "website":  "https://www.axs.com/events/1405895/?skin=foxtheatre",
+        "is_future_event":  true
+    },
+    {
+        "index":  448,
+        "title":  "Tightwire",
+        "start_date":  "2026-07-25 08:00:00",
+        "formatted_date":  "Jul 25, 2026",
+        "venue":  {
+                      "city":  "Boulder",
+                      "stateprovince":  "CO",
+                      "country":  "United States",
+                      "venue":  "Fox Theatre"
+                  },
+        "description":  "<p>With Teenage Bottlerocket and The Drowns!</p>",
+        "website":  "https://www.axs.com/events/1405895/?skin=foxtheatre",
+        "is_future_event":  true
     }
 ]     
