@@ -5430,21 +5430,6 @@
         "is_future_event":  true
     },
     {
-        "index":  363,
-        "title":  "The Menzingers",
-        "start_date":  "2026-05-13 08:00:00",
-        "formatted_date":  "May 13, 2026",
-        "venue":  {
-                      "city":  "Toronto",
-                      "stateprovince":  "ON",
-                      "country":  "Canada",
-                      "venue":  "The Bovine Sex Club"
-                  },
-        "description":  null,
-        "website":  null,
-        "is_future_event":  true
-    },
-    {
         "index":  364,
         "title":  "Heart & Lung",
         "start_date":  "2026-04-03 08:00:00",
