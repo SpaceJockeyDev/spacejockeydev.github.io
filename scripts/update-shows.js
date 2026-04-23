@@ -226,13 +226,41 @@ const run = async () => {
     throw new Error("No events were found. Check the selector or page availability.");
   }
 
-  const shows = events
+  // Read existing shows
+  let existingShows = [];
+  try {
+    const fileContent = await fs.readFile(OUTPUT_PATH, "utf8");
+    existingShows = JSON.parse(fileContent);
+  } catch (error) {
+    console.log("No existing shows.json found, creating new file.");
+  }
+
+  // Build new shows
+  const newShows = events
     .map((event, index) => buildShow(index + 1, event))
     .filter(Boolean);
 
-  await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(shows, null, 2)}\n`, "utf8");
+  // Deduplicate: only check against existing Menzingers shows
+  // Keep other artists' shows and add new Menzingers shows that don't already exist
+  const showKey = (show) => 
+    `${show.start_date}|${show.venue.venue}|${show.venue.city}`;
+  
+  const existingMenzingersShows = existingShows.filter(show => show.title === ARTIST_NAME);
+  const existingMenzingersKeys = new Set(existingMenzingersShows.map(showKey));
+  const uniqueNewShows = newShows.filter(show => !existingMenzingersKeys.has(showKey(show)));
+  
+  // Keep non-Menzingers shows and combine with deduplicated Menzingers shows
+  const nonMenzingersShows = existingShows.filter(show => show.title !== ARTIST_NAME);
+  
+  // Combine: keep non-Menzingers shows, existing Menzingers shows, and new Menzingers shows
+  const allShows = [...nonMenzingersShows, ...existingMenzingersShows, ...uniqueNewShows].map((show, index) => ({
+    ...show,
+    index: index + 1,
+  }));
 
-  console.log(`Updated ${OUTPUT_PATH} with ${shows.length} shows.`);
+  await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(allShows, null, 2)}\n`, "utf8");
+
+  console.log(`Updated ${OUTPUT_PATH} with ${allShows.length} total shows (added ${uniqueNewShows.length} new shows).`);
 };
 
 run().catch((error) => {
