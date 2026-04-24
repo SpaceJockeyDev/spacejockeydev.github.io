@@ -6820,7 +6820,7 @@
       "country": "United States",
       "venue": "MKeUltra"
     },
-    "description": "<p>With Tired Radio and Direct Hit!</p>",
+    "description": "<p>With Tired Radio!</p>",
     "website": "https://checkout.square.site/merchant/ML6YYZWYYKAHE/checkout/KDVDZXTAKJUA32PSUAECSXLL",
     "is_future_event": true
   },
@@ -6835,7 +6835,7 @@
       "country": "United States",
       "venue": "MKeUltra"
     },
-    "description": "<p>With Elway and Direct Hit!</p>",
+    "description": "<p>With Elway!</p>",
     "website": "https://checkout.square.site/merchant/ML6YYZWYYKAHE/checkout/KDVDZXTAKJUA32PSUAECSXLL",
     "is_future_event": true
   },
@@ -7137,21 +7137,6 @@
     },
     "description": "<p>With Elway!</p>",
     "website": "https://wl.eventim.us/event/elway-and-tired-radio-the-morale-is-high-tour/688747?afflky=KickstandProductions",
-    "is_future_event": true
-  },
-  {
-    "index": 477,
-    "title": "Direct Hit!",
-    "start_date": "2026-07-02 08:00:00",
-    "formatted_date": "Jul 02, 2026",
-    "venue": {
-      "city": "Milwaukee",
-      "stateprovince": "WI",
-      "country": "United States",
-      "venue": "MKeUltra"
-    },
-    "description": "<p>With Elway and Tired Radio!</p>",
-    "website": "https://checkout.square.site/merchant/ML6YYZWYYKAHE/checkout/KDVDZXTAKJUA32PSUAECSXLL",
     "is_future_event": true
   }
 ]
