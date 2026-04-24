@@ -6808,5 +6808,350 @@
     "description": null,
     "website": "https://link.seated.com/38674611-0316-4ed8-b7c8-03e34786f277",
     "is_future_event": true
+  },
+  {
+    "index": 455,
+    "title": "Elway",
+    "start_date": "2026-07-02 08:00:00",
+    "formatted_date": "Jul 02, 2026",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "MKeUltra"
+    },
+    "description": "<p>With Tired Radio and Direct Hit!</p>",
+    "website": "https://checkout.square.site/merchant/ML6YYZWYYKAHE/checkout/KDVDZXTAKJUA32PSUAECSXLL",
+    "is_future_event": true
+  },
+  {
+    "index": 456,
+    "title": "Tired Radio",
+    "start_date": "2026-07-02 08:00:00",
+    "formatted_date": "Jul 02, 2026",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "MKeUltra"
+    },
+    "description": "<p>With Elway and Direct Hit!</p>",
+    "website": "https://checkout.square.site/merchant/ML6YYZWYYKAHE/checkout/KDVDZXTAKJUA32PSUAECSXLL",
+    "is_future_event": true
+  },
+  {
+    "index": 457,
+    "title": "Elway",
+    "start_date": "2026-07-03 08:00:00",
+    "formatted_date": "Jul 03, 2026",
+    "venue": {
+      "city": "Detroit",
+      "stateprovince": "MI",
+      "country": "United States",
+      "venue": "Parts & Labor"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://products.spothopperapp.com/checkout?spotId=344191&externalProductId=2862509",
+    "is_future_event": true
+  },
+  {
+    "index": 458,
+    "title": "Tired Radio",
+    "start_date": "2026-07-03 08:00:00",
+    "formatted_date": "Jul 03, 2026",
+    "venue": {
+      "city": "Detroit",
+      "stateprovince": "MI",
+      "country": "United States",
+      "venue": "Parts & Labor"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://products.spothopperapp.com/checkout?spotId=344191&externalProductId=2862509",
+    "is_future_event": true
+  },
+  {
+    "index": 459,
+    "title": "Elway",
+    "start_date": "2026-07-04 08:00:00",
+    "formatted_date": "Jul 04, 2026",
+    "venue": {
+      "city": "Indianapolis",
+      "stateprovince": "IN",
+      "country": "United States",
+      "venue": "Melody Inn"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 460,
+    "title": "Tired Radio",
+    "start_date": "2026-07-04 08:00:00",
+    "formatted_date": "Jul 04, 2026",
+    "venue": {
+      "city": "Indianapolis",
+      "stateprovince": "IN",
+      "country": "United States",
+      "venue": "Melody Inn"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 461,
+    "title": "Elway",
+    "start_date": "2026-07-05 08:00:00",
+    "formatted_date": "Jul 05, 2026",
+    "venue": {
+      "city": "Pittsburgh",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "222 Ormsby"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 462,
+    "title": "Tired Radio",
+    "start_date": "2026-07-05 08:00:00",
+    "formatted_date": "Jul 05, 2026",
+    "venue": {
+      "city": "Pittsburgh",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "222 Ormsby"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 463,
+    "title": "Elway",
+    "start_date": "2026-07-06 08:00:00",
+    "formatted_date": "Jul 06, 2026",
+    "venue": {
+      "city": "Providence",
+      "stateprovince": "RI",
+      "country": "United States",
+      "venue": "Alchemy"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://link.dice.fm/j8dbb8ccbd92",
+    "is_future_event": true
+  },
+  {
+    "index": 464,
+    "title": "Tired Radio",
+    "start_date": "2026-07-06 08:00:00",
+    "formatted_date": "Jul 06, 2026",
+    "venue": {
+      "city": "Providence",
+      "stateprovince": "RI",
+      "country": "United States",
+      "venue": "Alchemy"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://link.dice.fm/j8dbb8ccbd92",
+    "is_future_event": true
+  },
+  {
+    "index": 465,
+    "title": "Elway",
+    "start_date": "2026-07-07 08:00:00",
+    "formatted_date": "Jul 07, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "ME",
+      "country": "United States",
+      "venue": "Geno's"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://www.genosrockclub.com/event-details/elway-tired-radio-borderlines-beers-brosnan",
+    "is_future_event": true
+  },
+  {
+    "index": 466,
+    "title": "Tired Radio",
+    "start_date": "2026-07-07 08:00:00",
+    "formatted_date": "Jul 07, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "ME",
+      "country": "United States",
+      "venue": "Geno's"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://www.genosrockclub.com/event-details/elway-tired-radio-borderlines-beers-brosnan",
+    "is_future_event": true
+  },
+  {
+    "index": 467,
+    "title": "Elway",
+    "start_date": "2026-07-08 08:00:00",
+    "formatted_date": "Jul 08, 2026",
+    "venue": {
+      "city": "Boston",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Faces Brewing"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://www.facesbrewing.com/events/p/elway",
+    "is_future_event": true
+  },
+  {
+    "index": 468,
+    "title": "Tired Radio",
+    "start_date": "2026-07-08 08:00:00",
+    "formatted_date": "Jul 08, 2026",
+    "venue": {
+      "city": "Boston",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Faces Brewing"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://www.facesbrewing.com/events/p/elway",
+    "is_future_event": true
+  },
+  {
+    "index": 469,
+    "title": "Elway",
+    "start_date": "2026-07-09 08:00:00",
+    "formatted_date": "Jul 09, 2026",
+    "venue": {
+      "city": "Brooklyn",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "The Wood Shop"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://kyd.to/PLA3Mspd",
+    "is_future_event": true
+  },
+  {
+    "index": 470,
+    "title": "Tired Radio",
+    "start_date": "2026-07-09 08:00:00",
+    "formatted_date": "Jul 09, 2026",
+    "venue": {
+      "city": "Brooklyn",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "The Wood Shop"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://kyd.to/PLA3Mspd",
+    "is_future_event": true
+  },
+  {
+    "index": 471,
+    "title": "Elway",
+    "start_date": "2026-07-10 08:00:00",
+    "formatted_date": "Jul 10, 2026",
+    "venue": {
+      "city": "Philadelphia",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "Philly Style Pizza"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://www.handstamp.com/e/elway-tired-radio-support-cliycnp5",
+    "is_future_event": true
+  },
+  {
+    "index": 472,
+    "title": "Tired Radio",
+    "start_date": "2026-07-10 08:00:00",
+    "formatted_date": "Jul 10, 2026",
+    "venue": {
+      "city": "Philadelphia",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "Philly Style Pizza"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://www.handstamp.com/e/elway-tired-radio-support-cliycnp5",
+    "is_future_event": true
+  },
+  {
+    "index": 473,
+    "title": "Elway",
+    "start_date": "2026-07-11 08:00:00",
+    "formatted_date": "Jul 11, 2026",
+    "venue": {
+      "city": "Cleveland",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Mahall's"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://link.dice.fm/w42614361ab1",
+    "is_future_event": true
+  },
+  {
+    "index": 474,
+    "title": "Tired Radio",
+    "start_date": "2026-07-11 08:00:00",
+    "formatted_date": "Jul 11, 2026",
+    "venue": {
+      "city": "Cleveland",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Mahall's"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://link.dice.fm/w42614361ab1",
+    "is_future_event": true
+  },
+  {
+    "index": 475,
+    "title": "Elway",
+    "start_date": "2026-07-12 08:00:00",
+    "formatted_date": "Jul 12, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Beat Kitchen"
+    },
+    "description": "<p>With Tired Radio!</p>",
+    "website": "https://wl.eventim.us/event/elway-and-tired-radio-the-morale-is-high-tour/688747?afflky=KickstandProductions",
+    "is_future_event": true
+  },
+  {
+    "index": 476,
+    "title": "Tired Radio",
+    "start_date": "2026-07-12 08:00:00",
+    "formatted_date": "Jul 12, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Beat Kitchen"
+    },
+    "description": "<p>With Elway!</p>",
+    "website": "https://wl.eventim.us/event/elway-and-tired-radio-the-morale-is-high-tour/688747?afflky=KickstandProductions",
+    "is_future_event": true
+  },
+  {
+    "index": 477,
+    "title": "Direct Hit!",
+    "start_date": "2026-07-02 08:00:00",
+    "formatted_date": "Jul 02, 2026",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "MKeUltra"
+    },
+    "description": "<p>With Elway and Tired Radio!</p>",
+    "website": "https://checkout.square.site/merchant/ML6YYZWYYKAHE/checkout/KDVDZXTAKJUA32PSUAECSXLL",
+    "is_future_event": true
   }
 ]
