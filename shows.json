@@ -7138,5 +7138,35 @@
     "description": "<p>With Elway!</p>",
     "website": "https://wl.eventim.us/event/elway-and-tired-radio-the-morale-is-high-tour/688747?afflky=KickstandProductions",
     "is_future_event": true
+  },
+  {
+    "index": 477,
+    "title": "American Steel",
+    "start_date": "2026-10-01 08:00:00",
+    "formatted_date": "Oct 01, 2026",
+    "venue": {
+      "city": "Vancouver",
+      "stateprovince": "BC",
+      "country": "Canada",
+      "venue": "Green Auto"
+    },
+    "description": "<p>With Dave Hause and The Mermaid and Dead End Drive-In!</p>",
+    "website": "https://gigpit.ca/shows/event:o7fRp_qkLUU?region=1",
+    "is_future_event": true
+  },
+  {
+    "index": 478,
+    "title": "American Steel",
+    "start_date": "2026-10-02 08:00:00",
+    "formatted_date": "Oct 02, 2026",
+    "venue": {
+      "city": "Seattle",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Sunset Tavern"
+    },
+    "description": "<p>With Dave Hause and The Mermaid!</p>",
+    "website": "https://dice.fm/partner/tickets/event/eom5yo-tractor-tavern-presents-dave-hause-the-mermaid-x-american-steel-w-tim-hause-night-1-2nd-oct-the-sunset-tavern-seattle-tickets?dice_id=8986412&dice_channel=web&dice_tags=organic&dice_campaign=Bars+We+Like%2C+Inc+dba+Sunset+Tavern&dice_feature=mio_marketing&pid=530cb286&_branch_match_id=1569716232210880812&utm_source=web&utm_campaign=Bars+We+Like%2C+Inc+dba+Sunset+Tavern&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Y9KNTFOSU22NDcxsbAvyEyxNTU2SE4ysjBTqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAvf%2BJGEgAAAA%3D",
+    "is_future_event": true
   }
 ]
