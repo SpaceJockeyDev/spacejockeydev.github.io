@@ -7168,5 +7168,140 @@
     "description": "<p>With Dave Hause and The Mermaid!</p>",
     "website": "https://dice.fm/partner/tickets/event/eom5yo-tractor-tavern-presents-dave-hause-the-mermaid-x-american-steel-w-tim-hause-night-1-2nd-oct-the-sunset-tavern-seattle-tickets?dice_id=8986412&dice_channel=web&dice_tags=organic&dice_campaign=Bars+We+Like%2C+Inc+dba+Sunset+Tavern&dice_feature=mio_marketing&pid=530cb286&_branch_match_id=1569716232210880812&utm_source=web&utm_campaign=Bars+We+Like%2C+Inc+dba+Sunset+Tavern&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Y9KNTFOSU22NDcxsbAvyEyxNTU2SE4ysjBTqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAvf%2BJGEgAAAA%3D",
     "is_future_event": true
+  },
+  {
+    "index": 479,
+    "title": "Sack",
+    "start_date": "2026-06-04 08:00:00",
+    "formatted_date": "Jun 04, 2026",
+    "venue": {
+      "city": "Tempe",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Marquee Theatre Tempe"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.ticketmaster.com/event/1900647B9B0C5261",
+    "is_future_event": true
+  },
+  {
+    "index": 480,
+    "title": "Sack",
+    "start_date": "2026-06-05 08:00:00",
+    "formatted_date": "Jun 05, 2026",
+    "venue": {
+      "city": "Tucson",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "191 Toole"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.ticketmaster.com/event/1900648EED6CA233",
+    "is_future_event": true
+  },
+  {
+    "index": 481,
+    "title": "Sack",
+    "start_date": "2026-06-06 08:00:00",
+    "formatted_date": "Jun 06, 2026",
+    "venue": {
+      "city": "Arenas Valley",
+      "stateprovince": "NM",
+      "country": "United States",
+      "venue": "Whiskey Creek Zócalo"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.whiskeycreekzocalo.com/event-details-registration/voodoo-glow-skulls-nekromantix-w-special-guests",
+    "is_future_event": true
+  },
+  {
+    "index": 482,
+    "title": "Sack",
+    "start_date": "2026-06-07 08:00:00",
+    "formatted_date": "Jun 07, 2026",
+    "venue": {
+      "city": "Albuquerque",
+      "stateprovince": "NM",
+      "country": "United States",
+      "venue": "Backstage at Revel"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.etix.com/ticket/p/39122782/nekromantix-voodoo-glow-skulls-albuquerque-backstage-at-revel",
+    "is_future_event": true
+  },
+  {
+    "index": 483,
+    "title": "Sack",
+    "start_date": "2026-06-09 08:00:00",
+    "formatted_date": "Jun 09, 2026",
+    "venue": {
+      "city": "Dallas",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Trees"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.prekindle.com/event/79244-voodoo-glow-skulls-nekromatix-with-tba-dallas",
+    "is_future_event": true
+  },
+  {
+    "index": 484,
+    "title": "Sack",
+    "start_date": "2026-06-10 08:00:00",
+    "formatted_date": "Jun 10, 2026",
+    "venue": {
+      "city": "Austin",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "The Far Out Lounge & Stage"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.tickettailor.com/events/thefaroutloungestage/2122645",
+    "is_future_event": true
+  },
+  {
+    "index": 485,
+    "title": "Sack",
+    "start_date": "2026-06-11 08:00:00",
+    "formatted_date": "Jun 11, 2026",
+    "venue": {
+      "city": "Corpus Christi",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "House of Rock"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.etix.com/ticket/p/43432094/voodoo-glow-skulls-nekromantix-corpus-christi-house-of-rock",
+    "is_future_event": true
+  },
+  {
+    "index": 486,
+    "title": "Sack",
+    "start_date": "2026-06-12 08:00:00",
+    "formatted_date": "Jun 12, 2026",
+    "venue": {
+      "city": "Houston",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Bad Astronaut Brewing Co."
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://www.prekindle.com/promo/id/-2852527949171869342",
+    "is_future_event": true
+  },
+  {
+    "index": 487,
+    "title": "Sack",
+    "start_date": "2026-06-13 08:00:00",
+    "formatted_date": "Jun 13, 2026",
+    "venue": {
+      "city": "San Antonio",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Sam's Burger Joint"
+    },
+    "description": "<p>With Nekromantix and Voodoo Glow Skulls!</p>",
+    "website": "https://wl.eventim.us/event/nekromantik-and-voodoo-glow-skulls/688171?afflky=SamsBurgerJointSanAntonio",
+    "is_future_event": true
   }
 ]
