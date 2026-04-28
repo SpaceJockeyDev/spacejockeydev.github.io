@@ -7395,10 +7395,70 @@
     "is_future_event": true 
    },
   {
-    "index": 494,
-    "title": "Elway",
-    "start_date": "2026-10-24 08:00:00",
-    "formatted_date": "Oct 24, 2026",
+  "index": 494,
+  "title": "Elway",
+  "start_date": "2026-10-24 08:00:00",
+  "formatted_date": "Oct 24, 2026",
+  "venue": {
+    "city": "Gainesville",
+    "stateprovince": "FL",
+    "country": "United States",
+    "venue": "The Fest"
+  },
+  "description": "<p>Acoustic set!</p>",
+  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+  "is_future_event": true 
+  },
+  {
+  "index": 495,
+  "title": "The Copyrights",
+  "start_date": "2026-10-25 08:00:00",
+  "formatted_date": "Oct 25, 2026",
+  "venue": {
+    "city": "Gainesville",
+    "stateprovince": "FL",
+    "country": "United States",
+    "venue": "The Fest"
+  },
+  "description": null,
+  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+    "is_future_event": true 
+  },
+  {
+  "index": 496,
+  "title": "Tightwire",
+  "start_date": "2026-10-24 08:00:00",
+  "formatted_date": "Oct 24, 2026",
+  "venue": {
+    "city": "Gainesville",
+    "stateprovince": "FL",
+    "country": "United States",
+    "venue": "The Fest"
+  },
+  "description": "<p>Acoustic set!</p>",
+  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+    "is_future_event": true 
+  },
+  {
+  "index": 497,
+  "title": "MakeWar",
+  "start_date": "2026-10-25 08:00:00",
+  "formatted_date": "Oct 25, 2026",
+  "venue": {
+    "city": "Gainesville",
+    "stateprovince": "FL",
+    "country": "United States",
+    "venue": "The Fest"
+  },
+  "description": "<p>Acoustic set!</p>",
+  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+    "is_future_event": true 
+  },
+  {
+    "index": 498,
+    "title": "Tired Radio",
+    "start_date": "2026-10-25 08:00:00",
+    "formatted_date": "Oct 25, 2026",
     "venue": {
       "city": "Gainesville",
       "stateprovince": "FL",
@@ -7408,12 +7468,12 @@
     "description": "<p>Acoustic set!</p>",
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
     "is_future_event": true 
-   },
-   {
-    "index": 495,
-    "title": "The Copyrights",
-    "start_date": "2026-10-25 08:00:00",
-    "formatted_date": "Oct 25, 2026",
+  },
+  {
+    "index": 499,
+    "title": "Tired Radio",
+    "start_date": "2026-10-23 08:00:00",
+    "formatted_date": "Oct 23, 2026",
     "venue": {
       "city": "Gainesville",
       "stateprovince": "FL",
@@ -7422,66 +7482,66 @@
     },
     "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-     "is_future_event": true 
-   },
-   {
-    "index": 496,
-    "title": "Tightwire",
-    "start_date": "2026-10-24 08:00:00",
-    "formatted_date": "Oct 24, 2026",
+      "is_future_event": true
+  },
+  {
+    "index": 500,
+    "title": "Sludgeworth",
+    "start_date": "2026-08-29 08:00:00",
+    "formatted_date": "Aug 29, 2026",
     "venue": {
-      "city": "Gainesville",
-      "stateprovince": "FL",
+      "city": "Chicago",
+      "stateprovince": "IL",
       "country": "United States",
-      "venue": "The Fest"
+      "venue": "Cobra Lounge"
     },
-    "description": "<p>Acoustic set!</p>",
-    "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-     "is_future_event": true 
-   },
-   {
-    "index": 497,
-    "title": "MakeWar",
-    "start_date": "2026-10-25 08:00:00",
-    "formatted_date": "Oct 25, 2026",
+    "description": "<p>With The Copyrights and Feral Tact!</p>",
+    "website": "https://dice.fm/partner/tickets/event/wwd5dx-sludgeworth-the-copyrights-feral-tact-29th-aug-cobra-lounge-chicago-tickets",
+    "is_future_event": true 
+  },
+  {
+    "index": 501,
+    "title": "The Copyrights",
+    "start_date": "2026-08-29 08:00:00",
+    "formatted_date": "Aug 29, 2026",
     "venue": {
-      "city": "Gainesville",
-      "stateprovince": "FL",
+      "city": "Chicago",
+      "stateprovince": "IL",
       "country": "United States",
-      "venue": "The Fest"
+      "venue": "Cobra Lounge"
     },
-    "description": "<p>Acoustic set!</p>",
-    "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-     "is_future_event": true 
-   },
-    {
-      "index": 498,
-      "title": "Tired Radio",
-      "start_date": "2026-10-25 08:00:00",
-      "formatted_date": "Oct 25, 2026",
-      "venue": {
-        "city": "Gainesville",
-        "stateprovince": "FL",
-        "country": "United States",
-        "venue": "The Fest"
-      },
-      "description": "<p>Acoustic set!</p>",
-      "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-      "is_future_event": true 
+    "description": "<p>With Sludgeworth and Feral Tact!</p>",
+    "website": "https://dice.fm/partner/tickets/event/wwd5dx-sludgeworth-the-copyrights-feral-tact-29th-aug-cobra-lounge-chicago-tickets",
+    "is_future_event": true 
+  },
+  {
+    "index": 502,
+    "title": "Sludgeworth",
+    "start_date": "2026-08-30 08:00:00",
+    "formatted_date": "Aug 30, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Cobra Lounge"
     },
-    {
-      "index": 499,
-      "title": "Tired Radio",
-      "start_date": "2026-10-23 08:00:00",
-      "formatted_date": "Oct 23, 2026",
-      "venue": {
-        "city": "Gainesville",
-        "stateprovince": "FL",
-        "country": "United States",
-        "venue": "The Fest"
-      },
-      "description": null,
-      "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-       "is_future_event": true
-    }
+    "description": "<p>With The Brokedowns and Josh Caterer(Smoking Popes)!</p>",
+    "website": "https://dice.fm/partner/tickets/event/2w676p-sludgeworth-the-brokedowns-josh-caterer-30th-aug-cobra-lounge-chicago-tickets",
+    "is_future_event": true 
+  },
+  {
+  "index": 503,
+  "title": "The Brokedowns",
+  "start_date": "2026-08-30 08:00:00",
+  "formatted_date": "Aug 30, 2026",
+  "venue": {
+    "city": "Chicago",
+    "stateprovince": "IL",
+    "country": "United States",
+    "venue": "Cobra Lounge"
+  },
+  "description": "<p>With Sludgeworth and Josh Caterer(Smoking Popes)!</p>",
+  "website": "https://dice.fm/partner/tickets/event/2w676p-sludgeworth-the-brokedowns-josh-caterer-30th-aug-cobra-lounge-chicago-tickets",
+  "is_future_event": true 
+  }
 ]
