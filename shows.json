@@ -7558,5 +7558,215 @@
     "description": "<p>With Sunliner and Black Surf!</p>",
     "website": "https://www.songkick.com/concerts/43159882-sunliner-at-boom",
     "is_future_event": true
-  }
+  },
+  {
+    "index": 505,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-14 08:00:00",
+    "formatted_date": "Jan 14, 2027",
+    "venue": {
+      "city": "Antwerp",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "Kavka Oudaan"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://dave-hause-antwerp.eventsquare.store/2varpdowxzns",
+    "is_future_event": true
+  },
+  {
+    "index": 506,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-15 08:00:00",
+    "formatted_date": "Jan 15, 2027",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Scala"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.alttickets.com/dave-hause-tickets",
+    "is_future_event": true
+  },
+  {
+    "index": 507,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-16 08:00:00",
+    "formatted_date": "Jan 16, 2027",
+    "venue": {
+      "city": "Manchester",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Gorilla"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.alttickets.com/dave-hause-tickets",
+    "is_future_event": true
+  },
+  {
+    "index": 508,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-17 08:00:00",
+    "formatted_date": "Jan 17, 2027",
+    "venue": {
+      "city": "Glasgow",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Oran Mor"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.ticketmaster.co.uk/event/360064940491B886",
+    "is_future_event": true
+  },
+  {
+    "index": 509,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-19 08:00:00",
+    "formatted_date": "Jan 19, 2027",
+    "venue": {
+      "city": "Bristol",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Thekla"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.alttickets.com/dave-hause-tickets",
+    "is_future_event": true
+  },
+  {
+    "index": 510,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-21 08:00:00",
+    "formatted_date": "Jan 21, 2027",
+    "venue": {
+      "city": "Utrecht",
+      "stateprovince": "",
+      "country": "Netherlands",
+      "venue": "De Helling"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://dehelling.stager.co/shop/default/events/111631996",
+    "is_future_event": true
+  },
+  {
+    "index": 511,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-22 08:00:00",
+    "formatted_date": "Jan 22, 2027",
+    "venue": {
+      "city": "Hamburg",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Gruenspan"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.eventim.de/artist/dave-hause/",
+    "is_future_event": true
+  },
+  {
+    "index": 512,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-23 08:00:00",
+    "formatted_date": "Jan 23, 2027",
+    "venue": {
+      "city": "Berlin",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Frannz Club"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.eventim.de/artist/dave-hause/",
+    "is_future_event": true
+  },
+  {
+    "index": 513,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-24 08:00:00",
+    "formatted_date": "Jan 24, 2027",
+    "venue": {
+      "city": "Leipzig",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Naumanns"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.eventim.de/artist/dave-hause/",
+    "is_future_event": true
+  },
+  {
+    "index": 514,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-27 08:00:00",
+    "formatted_date": "Jan 27, 2027",
+    "venue": {
+      "city": "Vienna",
+      "stateprovince": "",
+      "country": "Austria",
+      "venue": "WUK"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.oeticket.com/event/21572231",
+    "is_future_event": true
+  },
+  {
+    "index": 515,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-28 08:00:00",
+    "formatted_date": "Jan 28, 2027",
+    "venue": {
+      "city": "Munich",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Technikum"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.eventim.de/artist/dave-hause/",
+    "is_future_event": true
+  },
+  {
+    "index": 516,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-29 08:00:00",
+    "formatted_date": "Jan 29, 2027",
+    "venue": {
+      "city": "Frankfurt",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Das Bett"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.eventim.de/artist/dave-hause/",
+    "is_future_event": true
+  },
+  {
+    "index": 517,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-30 08:00:00",
+    "formatted_date": "Jan 30, 2027",
+    "venue": {
+      "city": "Cologne",
+      "stateprovince": "",
+      "country": "Germany",
+      "venue": "Die Kantine"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": "https://www.eventim.de/artist/dave-hause/",
+    "is_future_event": true
+  },
+  {
+    "index": 518,
+    "title": "Sincere Engineer",
+    "start_date": "2027-01-26 08:00:00",
+    "formatted_date": "Jan 26, 2027",
+    "venue": {
+      "city": "Prague",
+      "stateprovince": "",
+      "country": "Czech Republic",
+      "venue": "Klub 007 Strahov"
+    },
+    "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
+    "website": null,
+    "is_future_event": true
+   }
 ]
