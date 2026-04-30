@@ -76,7 +76,7 @@
   },
   {
     "index": 6,
-    "title": "Teenage Bottlerocket",
+    "title": "Broadway Calls",
     "start_date": "2025-08-12 08:00:00",
     "formatted_date": "Aug 12, 2025",
     "venue": {
@@ -85,27 +85,12 @@
       "country": "Canada",
       "venue": "Sidestage"
     },
-    "description": "<p>With Broadway Calls!</p>",
+    "description": "<p>With Teenage Bottlerocket!</p>",
     "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-broadway-sidestage-tickets/14491653?pl=sidestage",
     "is_future_event": true
   },
   {
     "index": 7,
-    "title": "Broadway Calls",
-    "start_date": "2025-08-12 08:00:00",
-    "formatted_date": "Aug 12, 2025",
-    "venue": {
-      "city": "Winnipeg",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Sidestage"
-    },
-    "description": "<p>With Teenage Bottlerocket!</p>",
-    "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-broadway-sidestage-tickets/14491653?pl=sidestage",
-    "is_future_event": true
-  },
-  {
-    "index": 8,
     "title": "Brendan Kelly",
     "start_date": "2025-08-13 08:00:00",
     "formatted_date": "Aug 13, 2025",
@@ -116,12 +101,27 @@
       "venue": "Paddy&#8217;s"
     },
     "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://redscaretillsonburg.eventbrite.ca/",
+    "is_future_event": true
+  },
+  {
+    "index": 8,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-13 08:00:00",
+    "formatted_date": "Aug 13, 2025",
+    "venue": {
+      "city": "Tillsonburg",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Paddy&#8217;s"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
     "website": "https://redscaretillsonburg.eventbrite.ca/",
     "is_future_event": true
   },
   {
     "index": 9,
-    "title": "Guerilla Poubelle",
+    "title": "Sam Russo",
     "start_date": "2025-08-13 08:00:00",
     "formatted_date": "Aug 13, 2025",
     "venue": {
@@ -130,42 +130,12 @@
       "country": "Canada",
       "venue": "Paddy&#8217;s"
     },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
     "website": "https://redscaretillsonburg.eventbrite.ca/",
     "is_future_event": true
   },
   {
     "index": 10,
-    "title": "Sam Russo",
-    "start_date": "2025-08-13 08:00:00",
-    "formatted_date": "Aug 13, 2025",
-    "venue": {
-      "city": "Tillsonburg",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Paddy&#8217;s"
-    },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
-    "website": "https://redscaretillsonburg.eventbrite.ca/",
-    "is_future_event": true
-  },
-  {
-    "index": 11,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-08-13 08:00:00",
-    "formatted_date": "Aug 13, 2025",
-    "venue": {
-      "city": "Saskatoon",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Black Cat Tavern"
-    },
-    "description": "<p>With Broadway Calls!</p>",
-    "website": "https://show.ps/l/b64e8e2b/",
-    "is_future_event": true
-  },
-  {
-    "index": 12,
     "title": "Broadway Calls",
     "start_date": "2025-08-13 08:00:00",
     "formatted_date": "Aug 13, 2025",
@@ -180,7 +150,7 @@
     "is_future_event": true
   },
   {
-    "index": 13,
+    "index": 11,
     "title": "Guerilla Poubelle",
     "start_date": "2025-08-14 08:00:00",
     "formatted_date": "Aug 14, 2025",
@@ -191,72 +161,57 @@
       "venue": "Sonic Hall"
     },
     "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://tixr.com/e/141413",
+    "is_future_event": true
+  },
+  {
+    "index": 12,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Guelph",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sonic Hall"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://tixr.com/e/141413",
+    "is_future_event": true
+  },
+  {
+    "index": 13,
+    "title": "Sam Russo",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Guelph",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sonic Hall"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
     "website": "https://tixr.com/e/141413",
     "is_future_event": true
   },
   {
     "index": 14,
-    "title": "Brendan Kelly",
+    "title": "Broadway Calls",
     "start_date": "2025-08-14 08:00:00",
     "formatted_date": "Aug 14, 2025",
     "venue": {
-      "city": "Guelph",
+      "city": "Edmonton",
       "stateprovince": "",
       "country": "Canada",
-      "venue": "Sonic Hall"
+      "venue": "The Starlite Room"
     },
-    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
-    "website": "https://tixr.com/e/141413",
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottle-rocket-the-starlite-room-tickets/13759074?pl=ConcertWorks",
     "is_future_event": true
   },
   {
     "index": 15,
     "title": "Sam Russo",
-    "start_date": "2025-08-14 08:00:00",
-    "formatted_date": "Aug 14, 2025",
-    "venue": {
-      "city": "Guelph",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Sonic Hall"
-    },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
-    "website": "https://tixr.com/e/141413",
-    "is_future_event": true
-  },
-  {
-    "index": 16,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-08-14 08:00:00",
-    "formatted_date": "Aug 14, 2025",
-    "venue": {
-      "city": "Edmonton",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "The Starlite Room"
-    },
-    "description": "<p>With Broadway Calls!</p>",
-    "website": "https://www.ticketweb.ca/event/teenage-bottle-rocket-the-starlite-room-tickets/13759074?pl=ConcertWorks",
-    "is_future_event": true
-  },
-  {
-    "index": 17,
-    "title": "Broadway Calls",
-    "start_date": "2025-08-14 08:00:00",
-    "formatted_date": "Aug 14, 2025",
-    "venue": {
-      "city": "Edmonton",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "The Starlite Room"
-    },
-    "description": "<p>With Teenage Bottlerocket!</p>",
-    "website": "https://www.ticketweb.ca/event/teenage-bottle-rocket-the-starlite-room-tickets/13759074?pl=ConcertWorks",
-    "is_future_event": true
-  },
-  {
-    "index": 18,
-    "title": "Sam Russo",
     "start_date": "2025-08-15 08:00:00",
     "formatted_date": "Aug 15, 2025",
     "venue": {
@@ -267,100 +222,85 @@
     },
     "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
     "website": "https://www.showclix.com/tickets/BKATWB",
+    "is_future_event": true
+  },
+  {
+    "index": 16,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Toronto",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Horseshoe"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://www.showclix.com/tickets/BKATWB",
+    "is_future_event": true
+  },
+  {
+    "index": 17,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Toronto",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Horseshoe"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://www.showclix.com/tickets/BKATWB",
+    "is_future_event": true
+  },
+  {
+    "index": 18,
+    "title": "Broadway Calls",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Calgary",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Dickens"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.ca/e/1373876153559?aff=oddtdtcreator",
     "is_future_event": true
   },
   {
     "index": 19,
     "title": "Guerilla Poubelle",
-    "start_date": "2025-08-15 08:00:00",
-    "formatted_date": "Aug 15, 2025",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
     "venue": {
-      "city": "Toronto",
+      "city": "Montreal",
       "stateprovince": "",
       "country": "Canada",
-      "venue": "Horseshoe"
+      "venue": "Piranah Bar"
     },
     "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
-    "website": "https://www.showclix.com/tickets/BKATWB",
+    "website": "https://aftontickets.com/GuerillaPoubelle",
     "is_future_event": true
   },
   {
     "index": 20,
     "title": "Brendan Kelly",
-    "start_date": "2025-08-15 08:00:00",
-    "formatted_date": "Aug 15, 2025",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
     "venue": {
-      "city": "Toronto",
+      "city": "Montreal",
       "stateprovince": "",
       "country": "Canada",
-      "venue": "Horseshoe"
+      "venue": "Piranah Bar"
     },
     "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
-    "website": "https://www.showclix.com/tickets/BKATWB",
+    "website": "https://aftontickets.com/GuerillaPoubelle",
     "is_future_event": true
   },
   {
     "index": 21,
-    "title": "Broadway Calls",
-    "start_date": "2025-08-15 08:00:00",
-    "formatted_date": "Aug 15, 2025",
-    "venue": {
-      "city": "Calgary",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Dickens"
-    },
-    "description": "<p>With Teenage Bottlerocket!</p>",
-    "website": "https://www.eventbrite.ca/e/1373876153559?aff=oddtdtcreator",
-    "is_future_event": true
-  },
-  {
-    "index": 22,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-08-15 08:00:00",
-    "formatted_date": "Aug 15, 2025",
-    "venue": {
-      "city": "Calgary",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Dickens"
-    },
-    "description": "<p>With Broadway Calls!</p>",
-    "website": "https://www.eventbrite.ca/e/1373876153559?aff=oddtdtcreator",
-    "is_future_event": true
-  },
-  {
-    "index": 23,
-    "title": "Guerilla Poubelle",
-    "start_date": "2025-08-16 08:00:00",
-    "formatted_date": "Aug 16, 2025",
-    "venue": {
-      "city": "Montreal",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Piranah Bar"
-    },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
-    "website": "https://aftontickets.com/GuerillaPoubelle",
-    "is_future_event": true
-  },
-  {
-    "index": 24,
-    "title": "Brendan Kelly",
-    "start_date": "2025-08-16 08:00:00",
-    "formatted_date": "Aug 16, 2025",
-    "venue": {
-      "city": "Montreal",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Piranah Bar"
-    },
-    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
-    "website": "https://aftontickets.com/GuerillaPoubelle",
-    "is_future_event": true
-  },
-  {
-    "index": 25,
     "title": "Sam Russo",
     "start_date": "2025-08-16 08:00:00",
     "formatted_date": "Aug 16, 2025",
@@ -375,22 +315,7 @@
     "is_future_event": true
   },
   {
-    "index": 26,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-08-16 08:00:00",
-    "formatted_date": "Aug 16, 2025",
-    "venue": {
-      "city": "Kelowna",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Jackknife"
-    },
-    "description": "<p>With Broadway Calls!</p>",
-    "website": "https://www.eventbrite.ca/e/teenage-bottlerocket-w-broadway-calls-kelowna-bc-tickets-1378179113829?aff=oddtdtcreator",
-    "is_future_event": true
-  },
-  {
-    "index": 27,
+    "index": 22,
     "title": "Broadway Calls",
     "start_date": "2025-08-16 08:00:00",
     "formatted_date": "Aug 16, 2025",
@@ -405,7 +330,7 @@
     "is_future_event": true
   },
   {
-    "index": 28,
+    "index": 23,
     "title": "Heart &#038; Lung",
     "start_date": "2025-08-16 08:00:00",
     "formatted_date": "Aug 16, 2025",
@@ -420,7 +345,7 @@
     "is_future_event": true
   },
   {
-    "index": 29,
+    "index": 24,
     "title": "Sam Russo",
     "start_date": "2025-08-17 08:00:00",
     "formatted_date": "Aug 17, 2025",
@@ -435,7 +360,7 @@
     "is_future_event": true
   },
   {
-    "index": 30,
+    "index": 25,
     "title": "Guerilla Poubelle",
     "start_date": "2025-08-17 08:00:00",
     "formatted_date": "Aug 17, 2025",
@@ -450,7 +375,7 @@
     "is_future_event": true
   },
   {
-    "index": 31,
+    "index": 26,
     "title": "Brendan Kelly",
     "start_date": "2025-08-17 08:00:00",
     "formatted_date": "Aug 17, 2025",
@@ -465,22 +390,7 @@
     "is_future_event": true
   },
   {
-    "index": 32,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-08-17 08:00:00",
-    "formatted_date": "Aug 17, 2025",
-    "venue": {
-      "city": "Vancouver",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Rickshaw Theatre"
-    },
-    "description": "<p>With Broadway Calls!</p>",
-    "website": "https://tbr-vancouver.eventbrite.ca/",
-    "is_future_event": true
-  },
-  {
-    "index": 33,
+    "index": 27,
     "title": "Broadway Calls",
     "start_date": "2025-08-17 08:00:00",
     "formatted_date": "Aug 17, 2025",
@@ -495,7 +405,7 @@
     "is_future_event": true
   },
   {
-    "index": 34,
+    "index": 28,
     "title": "Brendan Kelly",
     "start_date": "2025-08-18 08:00:00",
     "formatted_date": "Aug 18, 2025",
@@ -507,130 +417,130 @@
     },
     "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
     "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "is_future_event": true
+  },
+  {
+    "index": 29,
+    "title": "Sam Russo",
+    "start_date": "2025-08-18 08:00:00",
+    "formatted_date": "Aug 18, 2025",
+    "venue": {
+      "city": "Jonquiere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Cote-Cour"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "is_future_event": true
+  },
+  {
+    "index": 30,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-18 08:00:00",
+    "formatted_date": "Aug 18, 2025",
+    "venue": {
+      "city": "Jonquiere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Cote-Cour"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "is_future_event": true
+  },
+  {
+    "index": 31,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-19 08:00:00",
+    "formatted_date": "Aug 19, 2025",
+    "venue": {
+      "city": "Sherbrooke",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Le Murdoch"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/mur250819001",
+    "is_future_event": true
+  },
+  {
+    "index": 32,
+    "title": "Guerilla Poubelle",
+    "start_date": "2025-08-19 08:00:00",
+    "formatted_date": "Aug 19, 2025",
+    "venue": {
+      "city": "Sherbrooke",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Le Murdoch"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/mur250819001",
+    "is_future_event": true
+  },
+  {
+    "index": 33,
+    "title": "Sam Russo",
+    "start_date": "2025-08-19 08:00:00",
+    "formatted_date": "Aug 19, 2025",
+    "venue": {
+      "city": "Sherbrooke",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Le Murdoch"
+    },
+    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/mur250819001",
+    "is_future_event": true
+  },
+  {
+    "index": 34,
+    "title": "Brendan Kelly",
+    "start_date": "2025-08-20 08:00:00",
+    "formatted_date": "Aug 20, 2025",
+    "venue": {
+      "city": "Trois Riviere",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Rock Cafe Le Stage"
+    },
+    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
+    "website": "https://lepointdevente.com/billets/4rl250820001",
     "is_future_event": true
   },
   {
     "index": 35,
     "title": "Sam Russo",
-    "start_date": "2025-08-18 08:00:00",
-    "formatted_date": "Aug 18, 2025",
+    "start_date": "2025-08-20 08:00:00",
+    "formatted_date": "Aug 20, 2025",
     "venue": {
-      "city": "Jonquiere",
+      "city": "Trois Riviere",
       "stateprovince": "",
       "country": "Canada",
-      "venue": "Cote-Cour"
+      "venue": "Rock Cafe Le Stage"
     },
     "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
-    "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "website": "https://lepointdevente.com/billets/4rl250820001",
     "is_future_event": true
   },
   {
     "index": 36,
     "title": "Guerilla Poubelle",
-    "start_date": "2025-08-18 08:00:00",
-    "formatted_date": "Aug 18, 2025",
+    "start_date": "2025-08-20 08:00:00",
+    "formatted_date": "Aug 20, 2025",
     "venue": {
-      "city": "Jonquiere",
+      "city": "Trois Riviere",
       "stateprovince": "",
       "country": "Canada",
-      "venue": "Cote-Cour"
+      "venue": "Rock Cafe Le Stage"
     },
     "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
-    "website": "https://cotecour.tuxedobillet.com/C%C3%B4t%C3%A9%20Cour/guerilla",
+    "website": "https://lepointdevente.com/billets/4rl250820001",
     "is_future_event": true
   },
   {
     "index": 37,
-    "title": "Brendan Kelly",
-    "start_date": "2025-08-19 08:00:00",
-    "formatted_date": "Aug 19, 2025",
-    "venue": {
-      "city": "Sherbrooke",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Le Murdoch"
-    },
-    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
-    "website": "https://lepointdevente.com/billets/mur250819001",
-    "is_future_event": true
-  },
-  {
-    "index": 38,
-    "title": "Guerilla Poubelle",
-    "start_date": "2025-08-19 08:00:00",
-    "formatted_date": "Aug 19, 2025",
-    "venue": {
-      "city": "Sherbrooke",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Le Murdoch"
-    },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
-    "website": "https://lepointdevente.com/billets/mur250819001",
-    "is_future_event": true
-  },
-  {
-    "index": 39,
-    "title": "Sam Russo",
-    "start_date": "2025-08-19 08:00:00",
-    "formatted_date": "Aug 19, 2025",
-    "venue": {
-      "city": "Sherbrooke",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Le Murdoch"
-    },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
-    "website": "https://lepointdevente.com/billets/mur250819001",
-    "is_future_event": true
-  },
-  {
-    "index": 40,
-    "title": "Brendan Kelly",
-    "start_date": "2025-08-20 08:00:00",
-    "formatted_date": "Aug 20, 2025",
-    "venue": {
-      "city": "Trois Riviere",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Rock Cafe Le Stage"
-    },
-    "description": "<p>(and the Wandering Birds) With Guerilla Poubelle, Sam Russo, and In the Meantime!</p>",
-    "website": "https://lepointdevente.com/billets/4rl250820001",
-    "is_future_event": true
-  },
-  {
-    "index": 41,
-    "title": "Sam Russo",
-    "start_date": "2025-08-20 08:00:00",
-    "formatted_date": "Aug 20, 2025",
-    "venue": {
-      "city": "Trois Riviere",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Rock Cafe Le Stage"
-    },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Guerilla Poubelle, and In the Meantime!</p>",
-    "website": "https://lepointdevente.com/billets/4rl250820001",
-    "is_future_event": true
-  },
-  {
-    "index": 42,
-    "title": "Guerilla Poubelle",
-    "start_date": "2025-08-20 08:00:00",
-    "formatted_date": "Aug 20, 2025",
-    "venue": {
-      "city": "Trois Riviere",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Rock Cafe Le Stage"
-    },
-    "description": "<p>With Brendan Kelly and the Wandering Birds, Sam Russo, and In the Meantime!</p>",
-    "website": "https://lepointdevente.com/billets/4rl250820001",
-    "is_future_event": true
-  },
-  {
-    "index": 43,
     "title": "The Bollweevils",
     "start_date": "2025-08-22 08:00:00",
     "formatted_date": "Aug 22, 2025",
@@ -645,7 +555,7 @@
     "is_future_event": true
   },
   {
-    "index": 44,
+    "index": 38,
     "title": "The Brokedowns",
     "start_date": "2025-08-22 08:00:00",
     "formatted_date": "Aug 22, 2025",
@@ -660,7 +570,7 @@
     "is_future_event": true
   },
   {
-    "index": 45,
+    "index": 39,
     "title": "Sam Russo",
     "start_date": "2025-08-29 08:00:00",
     "formatted_date": "Aug 29, 2025",
@@ -675,7 +585,7 @@
     "is_future_event": true
   },
   {
-    "index": 46,
+    "index": 40,
     "title": "The Methadones",
     "start_date": "2025-08-30 08:00:00",
     "formatted_date": "Aug 30, 2025",
@@ -690,7 +600,7 @@
     "is_future_event": true
   },
   {
-    "index": 47,
+    "index": 41,
     "title": "Sam Russo",
     "start_date": "2025-08-30 08:00:00",
     "formatted_date": "Aug 30, 2025",
@@ -705,7 +615,7 @@
     "is_future_event": true
   },
   {
-    "index": 48,
+    "index": 42,
     "title": "Brendan Kelly",
     "start_date": "2025-08-30 08:00:00",
     "formatted_date": "Aug 30, 2025",
@@ -720,7 +630,7 @@
     "is_future_event": true
   },
   {
-    "index": 49,
+    "index": 43,
     "title": "Garrett Dale",
     "start_date": "2025-08-30 08:00:00",
     "formatted_date": "Aug 30, 2025",
@@ -735,7 +645,7 @@
     "is_future_event": true
   },
   {
-    "index": 50,
+    "index": 44,
     "title": "Sludgeworth",
     "start_date": "2025-09-05 08:00:00",
     "formatted_date": "Sep 05, 2025",
@@ -750,7 +660,7 @@
     "is_future_event": true
   },
   {
-    "index": 51,
+    "index": 45,
     "title": "The Brokedowns",
     "start_date": "2025-09-05 08:00:00",
     "formatted_date": "Sep 05, 2025",
@@ -765,7 +675,7 @@
     "is_future_event": true
   },
   {
-    "index": 52,
+    "index": 46,
     "title": "Tightwire",
     "start_date": "2025-09-05 08:00:00",
     "formatted_date": "Sep 05, 2025",
@@ -780,7 +690,7 @@
     "is_future_event": true
   },
   {
-    "index": 53,
+    "index": 47,
     "title": "The Reaganomics",
     "start_date": "2025-09-05 08:00:00",
     "formatted_date": "Sep 05, 2025",
@@ -795,7 +705,7 @@
     "is_future_event": true
   },
   {
-    "index": 54,
+    "index": 48,
     "title": "The Reaganomics",
     "start_date": "2025-09-07 08:00:00",
     "formatted_date": "Sep 07, 2025",
@@ -810,7 +720,7 @@
     "is_future_event": true
   },
   {
-    "index": 55,
+    "index": 49,
     "title": "Tired Radio",
     "start_date": "2025-09-15 08:00:00",
     "formatted_date": "Sep 15, 2025",
@@ -825,7 +735,7 @@
     "is_future_event": true
   },
   {
-    "index": 56,
+    "index": 50,
     "title": "Sincere Engineer",
     "start_date": "2025-09-17 08:00:00",
     "formatted_date": "Sep 17, 2025",
@@ -840,7 +750,7 @@
     "is_future_event": true
   },
   {
-    "index": 57,
+    "index": 51,
     "title": "Sincere Engineer",
     "start_date": "2025-09-18 08:00:00",
     "formatted_date": "Sep 18, 2025",
@@ -855,7 +765,7 @@
     "is_future_event": true
   },
   {
-    "index": 58,
+    "index": 52,
     "title": "Sincere Engineer",
     "start_date": "2025-09-22 08:00:00",
     "formatted_date": "Sep 22, 2025",
@@ -870,22 +780,7 @@
     "is_future_event": true
   },
   {
-    "index": 59,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-09-23 08:00:00",
-    "formatted_date": "Sep 23, 2025",
-    "venue": {
-      "city": "London",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Palasad SocialBowl"
-    },
-    "description": "<p>With We Were Sharks!</p>",
-    "website": "https://www.showpass.com/teenage-bottlerocket-socialbowl/",
-    "is_future_event": true
-  },
-  {
-    "index": 60,
+    "index": 53,
     "title": "Sincere Engineer",
     "start_date": "2025-09-23 08:00:00",
     "formatted_date": "Sep 23, 2025",
@@ -900,37 +795,7 @@
     "is_future_event": true
   },
   {
-    "index": 61,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-09-24 08:00:00",
-    "formatted_date": "Sep 24, 2025",
-    "venue": {
-      "city": "Toronto",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Hard Luck Bar"
-    },
-    "description": "<p>With We Were Sharks!</p>",
-    "website": "https://www.showclix.com/tickets/TBR",
-    "is_future_event": true
-  },
-  {
-    "index": 62,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-09-25 08:00:00",
-    "formatted_date": "Sep 25, 2025",
-    "venue": {
-      "city": "Kingston",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "The Mansion"
-    },
-    "description": "<p>With We Were Sharks!</p>",
-    "website": "https://fannatickets.com/event/sep-25-teenage-bottlerocket-and-we-were-sharks-at-the-mansion-kingston-565/register",
-    "is_future_event": true
-  },
-  {
-    "index": 63,
+    "index": 54,
     "title": "Sincere Engineer",
     "start_date": "2025-09-25 08:00:00",
     "formatted_date": "Sep 25, 2025",
@@ -945,7 +810,7 @@
     "is_future_event": true
   },
   {
-    "index": 64,
+    "index": 55,
     "title": "Teenage Bottlrocket",
     "start_date": "2025-09-26 08:00:00",
     "formatted_date": "Sep 26, 2025",
@@ -960,22 +825,7 @@
     "is_future_event": true
   },
   {
-    "index": 65,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-09-26 08:00:00",
-    "formatted_date": "Sep 26, 2025",
-    "venue": {
-      "city": "Montreal",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "Les Foufounes"
-    },
-    "description": "<p>With We Were Sharks!</p>",
-    "website": "https://www.universe.com/events/teenage-bottlerocket-tickets-ZPTV1H",
-    "is_future_event": true
-  },
-  {
-    "index": 66,
+    "index": 56,
     "title": "Sincere Engineer",
     "start_date": "2025-09-26 08:00:00",
     "formatted_date": "Sep 26, 2025",
@@ -990,37 +840,7 @@
     "is_future_event": true
   },
   {
-    "index": 67,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-09-27 08:00:00",
-    "formatted_date": "Sep 27, 2025",
-    "venue": {
-      "city": "Quebec City",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "L&#8217;Anti"
-    },
-    "description": "<p>With We Were Sharks!</p>",
-    "website": "https://lepointdevente.com/billets/d7p250927001",
-    "is_future_event": true
-  },
-  {
-    "index": 68,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-09-28 08:00:00",
-    "formatted_date": "Sep 28, 2025",
-    "venue": {
-      "city": "Ottawa",
-      "stateprovince": "",
-      "country": "Canada",
-      "venue": "The 27 Club"
-    },
-    "description": "<p>With We Were Sharks!</p>",
-    "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-the-dopamines-the-27-club-tickets/14490963?pl=spectrasonic&amp;refid=TBR",
-    "is_future_event": true
-  },
-  {
-    "index": 69,
+    "index": 57,
     "title": "Sincere Engineer",
     "start_date": "2025-10-05 08:00:00",
     "formatted_date": "Oct 05, 2025",
@@ -1035,7 +855,7 @@
     "is_future_event": true
   },
   {
-    "index": 70,
+    "index": 58,
     "title": "Sincere Engineer",
     "start_date": "2025-10-09 08:00:00",
     "formatted_date": "Oct 09, 2025",
@@ -1050,7 +870,7 @@
     "is_future_event": true
   },
   {
-    "index": 71,
+    "index": 59,
     "title": "Tired Radio",
     "start_date": "2025-10-09 08:00:00",
     "formatted_date": "Oct 09, 2025",
@@ -1065,7 +885,7 @@
     "is_future_event": true
   },
   {
-    "index": 72,
+    "index": 60,
     "title": "Sincere Engineer",
     "start_date": "2025-10-10 08:00:00",
     "formatted_date": "Oct 10, 2025",
@@ -1080,7 +900,7 @@
     "is_future_event": true
   },
   {
-    "index": 73,
+    "index": 61,
     "title": "Tired Radio",
     "start_date": "2025-10-10 08:00:00",
     "formatted_date": "Oct 10, 2025",
@@ -1095,7 +915,7 @@
     "is_future_event": true
   },
   {
-    "index": 74,
+    "index": 62,
     "title": "Sincere Engineer",
     "start_date": "2025-10-11 08:00:00",
     "formatted_date": "Oct 11, 2025",
@@ -1110,7 +930,7 @@
     "is_future_event": true
   },
   {
-    "index": 75,
+    "index": 63,
     "title": "Tired Radio",
     "start_date": "2025-10-11 08:00:00",
     "formatted_date": "Oct 11, 2025",
@@ -1125,7 +945,7 @@
     "is_future_event": true
   },
   {
-    "index": 76,
+    "index": 64,
     "title": "Sincere Engineer",
     "start_date": "2025-10-12 08:00:00",
     "formatted_date": "Oct 12, 2025",
@@ -1140,7 +960,7 @@
     "is_future_event": true
   },
   {
-    "index": 77,
+    "index": 65,
     "title": "Sincere Engineer",
     "start_date": "2025-10-14 08:00:00",
     "formatted_date": "Oct 14, 2025",
@@ -1155,7 +975,7 @@
     "is_future_event": true
   },
   {
-    "index": 78,
+    "index": 66,
     "title": "Brendan Kelly",
     "start_date": "2025-10-15 08:00:00",
     "formatted_date": "Oct 15, 2025",
@@ -1170,7 +990,7 @@
     "is_future_event": true
   },
   {
-    "index": 79,
+    "index": 67,
     "title": "Sam Russo",
     "start_date": "2025-10-15 08:00:00",
     "formatted_date": "Oct 15, 2025",
@@ -1185,7 +1005,7 @@
     "is_future_event": true
   },
   {
-    "index": 80,
+    "index": 68,
     "title": "Good Friend",
     "start_date": "2025-10-15 08:00:00",
     "formatted_date": "Oct 15, 2025",
@@ -1200,7 +1020,7 @@
     "is_future_event": true
   },
   {
-    "index": 81,
+    "index": 69,
     "title": "Sincere Engineer",
     "start_date": "2025-10-15 08:00:00",
     "formatted_date": "Oct 15, 2025",
@@ -1215,7 +1035,7 @@
     "is_future_event": true
   },
   {
-    "index": 82,
+    "index": 70,
     "title": "Brendan Kelly",
     "start_date": "2025-10-16 08:00:00",
     "formatted_date": "Oct 16, 2025",
@@ -1230,7 +1050,7 @@
     "is_future_event": true
   },
   {
-    "index": 83,
+    "index": 71,
     "title": "Sam Russo",
     "start_date": "2025-10-16 08:00:00",
     "formatted_date": "Oct 16, 2025",
@@ -1245,7 +1065,7 @@
     "is_future_event": true
   },
   {
-    "index": 84,
+    "index": 72,
     "title": "Good Friend",
     "start_date": "2025-10-16 08:00:00",
     "formatted_date": "Oct 16, 2025",
@@ -1260,7 +1080,7 @@
     "is_future_event": true
   },
   {
-    "index": 85,
+    "index": 73,
     "title": "Sincere Engineer",
     "start_date": "2025-10-16 08:00:00",
     "formatted_date": "Oct 16, 2025",
@@ -1275,7 +1095,7 @@
     "is_future_event": true
   },
   {
-    "index": 86,
+    "index": 74,
     "title": "Brendan Kelly",
     "start_date": "2025-10-17 08:00:00",
     "formatted_date": "Oct 17, 2025",
@@ -1290,7 +1110,7 @@
     "is_future_event": true
   },
   {
-    "index": 87,
+    "index": 75,
     "title": "Sam Russo",
     "start_date": "2025-10-17 08:00:00",
     "formatted_date": "Oct 17, 2025",
@@ -1305,7 +1125,7 @@
     "is_future_event": true
   },
   {
-    "index": 88,
+    "index": 76,
     "title": "Good Friend",
     "start_date": "2025-10-17 08:00:00",
     "formatted_date": "Oct 17, 2025",
@@ -1320,7 +1140,7 @@
     "is_future_event": true
   },
   {
-    "index": 89,
+    "index": 77,
     "title": "Broadway Calls",
     "start_date": "2025-10-18 08:00:00",
     "formatted_date": "Oct 18, 2025",
@@ -1335,7 +1155,7 @@
     "is_future_event": true
   },
   {
-    "index": 90,
+    "index": 78,
     "title": "MakeWar",
     "start_date": "2025-10-18 08:00:00",
     "formatted_date": "Oct 18, 2025",
@@ -1350,7 +1170,7 @@
     "is_future_event": true
   },
   {
-    "index": 91,
+    "index": 79,
     "title": "Sincere Engineer",
     "start_date": "2025-10-18 08:00:00",
     "formatted_date": "Oct 18, 2025",
@@ -1365,7 +1185,7 @@
     "is_future_event": true
   },
   {
-    "index": 92,
+    "index": 80,
     "title": "Brendan Kelly",
     "start_date": "2025-10-18 08:00:00",
     "formatted_date": "Oct 18, 2025",
@@ -1380,7 +1200,7 @@
     "is_future_event": true
   },
   {
-    "index": 93,
+    "index": 81,
     "title": "Sam Russo",
     "start_date": "2025-10-18 08:00:00",
     "formatted_date": "Oct 18, 2025",
@@ -1395,7 +1215,7 @@
     "is_future_event": true
   },
   {
-    "index": 94,
+    "index": 82,
     "title": "Good Friend",
     "start_date": "2025-10-18 08:00:00",
     "formatted_date": "Oct 18, 2025",
@@ -1410,187 +1230,187 @@
     "is_future_event": true
   },
   {
+    "index": 83,
+    "title": "MakeWar",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Haarlem",
+      "stateprovince": "",
+      "country": "Netherlands",
+      "venue": "Patronaat"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
+    "is_future_event": true
+  },
+  {
+    "index": 84,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Brussels",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "AB"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
+    "is_future_event": true
+  },
+  {
+    "index": 85,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Brussels",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "AB"
+    },
+    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
+    "is_future_event": true
+  },
+  {
+    "index": 86,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "Canal Club"
+    },
+    "description": "<p>With Sam Russo and Good Friend!</p>",
+    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
+    "is_future_event": true
+  },
+  {
+    "index": 87,
+    "title": "Sam Russo",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "Canal Club"
+    },
+    "description": "<p>With Brendan Kelly and Good Friend!</p>",
+    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
+    "is_future_event": true
+  },
+  {
+    "index": 88,
+    "title": "Good Friend",
+    "start_date": "2025-10-19 08:00:00",
+    "formatted_date": "Oct 19, 2025",
+    "venue": {
+      "city": "Richmond",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "Canal Club"
+    },
+    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
+    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
+    "is_future_event": true
+  },
+  {
+    "index": 89,
+    "title": "Broadway Calls",
+    "start_date": "2025-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2025",
+    "venue": {
+      "city": "Haarlem",
+      "stateprovince": "",
+      "country": "Netherlands",
+      "venue": "Patronaat"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
+    "is_future_event": true
+  },
+  {
+    "index": 90,
+    "title": "Sincere Engineer",
+    "start_date": "2025-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2025",
+    "venue": {
+      "city": "Haarlem",
+      "stateprovince": "",
+      "country": "Netherlands",
+      "venue": "Patronaat"
+    },
+    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
+    "is_future_event": true
+  },
+  {
+    "index": 91,
+    "title": "MakeWar",
+    "start_date": "2025-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2025",
+    "venue": {
+      "city": "Brussels",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "AB"
+    },
+    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
+    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
+    "is_future_event": true
+  },
+  {
+    "index": 92,
+    "title": "Brendan Kelly",
+    "start_date": "2025-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2025",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Smith&#8217;s Olde Bar"
+    },
+    "description": "<p>With Sam Russo and Good Friend!</p>",
+    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
+    "is_future_event": true
+  },
+  {
+    "index": 93,
+    "title": "Sam Russo",
+    "start_date": "2025-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2025",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Smith&#8217;s Olde Bar"
+    },
+    "description": "<p>With Brendan Kelly and Good Friend!</p>",
+    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
+    "is_future_event": true
+  },
+  {
+    "index": 94,
+    "title": "Good Friend",
+    "start_date": "2025-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2025",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Smith&#8217;s Olde Bar"
+    },
+    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
+    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
+    "is_future_event": true
+  },
+  {
     "index": 95,
-    "title": "MakeWar",
-    "start_date": "2025-10-19 08:00:00",
-    "formatted_date": "Oct 19, 2025",
-    "venue": {
-      "city": "Haarlem",
-      "stateprovince": "",
-      "country": "Netherlands",
-      "venue": "Patronaat"
-    },
-    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
-    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
-    "is_future_event": true
-  },
-  {
-    "index": 96,
-    "title": "Broadway Calls",
-    "start_date": "2025-10-19 08:00:00",
-    "formatted_date": "Oct 19, 2025",
-    "venue": {
-      "city": "Brussels",
-      "stateprovince": "",
-      "country": "Belgium",
-      "venue": "AB"
-    },
-    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
-    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
-    "is_future_event": true
-  },
-  {
-    "index": 97,
-    "title": "Sincere Engineer",
-    "start_date": "2025-10-19 08:00:00",
-    "formatted_date": "Oct 19, 2025",
-    "venue": {
-      "city": "Brussels",
-      "stateprovince": "",
-      "country": "Belgium",
-      "venue": "AB"
-    },
-    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
-    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
-    "is_future_event": true
-  },
-  {
-    "index": 98,
-    "title": "Brendan Kelly",
-    "start_date": "2025-10-19 08:00:00",
-    "formatted_date": "Oct 19, 2025",
-    "venue": {
-      "city": "Richmond",
-      "stateprovince": "VA",
-      "country": "United States",
-      "venue": "Canal Club"
-    },
-    "description": "<p>With Sam Russo and Good Friend!</p>",
-    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
-    "is_future_event": true
-  },
-  {
-    "index": 99,
-    "title": "Sam Russo",
-    "start_date": "2025-10-19 08:00:00",
-    "formatted_date": "Oct 19, 2025",
-    "venue": {
-      "city": "Richmond",
-      "stateprovince": "VA",
-      "country": "United States",
-      "venue": "Canal Club"
-    },
-    "description": "<p>With Brendan Kelly and Good Friend!</p>",
-    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
-    "is_future_event": true
-  },
-  {
-    "index": 100,
-    "title": "Good Friend",
-    "start_date": "2025-10-19 08:00:00",
-    "formatted_date": "Oct 19, 2025",
-    "venue": {
-      "city": "Richmond",
-      "stateprovince": "VA",
-      "country": "United States",
-      "venue": "Canal Club"
-    },
-    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
-    "website": "https://www.seetickets.us/event/brendan-kelly/657143",
-    "is_future_event": true
-  },
-  {
-    "index": 101,
-    "title": "Broadway Calls",
-    "start_date": "2025-10-20 08:00:00",
-    "formatted_date": "Oct 20, 2025",
-    "venue": {
-      "city": "Haarlem",
-      "stateprovince": "",
-      "country": "Netherlands",
-      "venue": "Patronaat"
-    },
-    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
-    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
-    "is_future_event": true
-  },
-  {
-    "index": 102,
-    "title": "Sincere Engineer",
-    "start_date": "2025-10-20 08:00:00",
-    "formatted_date": "Oct 20, 2025",
-    "venue": {
-      "city": "Haarlem",
-      "stateprovince": "",
-      "country": "Netherlands",
-      "venue": "Patronaat"
-    },
-    "description": "<p>(SOLO) Common Thread Tour with Hot Water Music and more!</p>",
-    "website": "https://www.ticketmaster.nl/artist/common-thread-tour-tickets/1381253",
-    "is_future_event": true
-  },
-  {
-    "index": 103,
-    "title": "MakeWar",
-    "start_date": "2025-10-20 08:00:00",
-    "formatted_date": "Oct 20, 2025",
-    "venue": {
-      "city": "Brussels",
-      "stateprovince": "",
-      "country": "Belgium",
-      "venue": "AB"
-    },
-    "description": "<p>Common Thread Tour with Hot Water Music and more!</p>",
-    "website": "https://www.abconcerts.be/en/agenda/common-thread-tour/a10Qw000000rVbxIAE",
-    "is_future_event": true
-  },
-  {
-    "index": 104,
-    "title": "Brendan Kelly",
-    "start_date": "2025-10-21 08:00:00",
-    "formatted_date": "Oct 21, 2025",
-    "venue": {
-      "city": "Atlanta",
-      "stateprovince": "GA",
-      "country": "United States",
-      "venue": "Smith&#8217;s Olde Bar"
-    },
-    "description": "<p>With Sam Russo and Good Friend!</p>",
-    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
-    "is_future_event": true
-  },
-  {
-    "index": 105,
-    "title": "Sam Russo",
-    "start_date": "2025-10-21 08:00:00",
-    "formatted_date": "Oct 21, 2025",
-    "venue": {
-      "city": "Atlanta",
-      "stateprovince": "GA",
-      "country": "United States",
-      "venue": "Smith&#8217;s Olde Bar"
-    },
-    "description": "<p>With Brendan Kelly and Good Friend!</p>",
-    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
-    "is_future_event": true
-  },
-  {
-    "index": 106,
-    "title": "Good Friend",
-    "start_date": "2025-10-21 08:00:00",
-    "formatted_date": "Oct 21, 2025",
-    "venue": {
-      "city": "Atlanta",
-      "stateprovince": "GA",
-      "country": "United States",
-      "venue": "Smith&#8217;s Olde Bar"
-    },
-    "description": "<p>With Brendan Kelly and Sam Russo!</p>",
-    "website": "https://smithsoldebar.freshtix.com/events/brendan-kelly-sobatl",
-    "is_future_event": true
-  },
-  {
-    "index": 107,
     "title": "Brendan Kelly",
     "start_date": "2025-10-22 08:00:00",
     "formatted_date": "Oct 22, 2025",
@@ -1605,7 +1425,7 @@
     "is_future_event": true
   },
   {
-    "index": 108,
+    "index": 96,
     "title": "Good Friend",
     "start_date": "2025-10-22 08:00:00",
     "formatted_date": "Oct 22, 2025",
@@ -1620,7 +1440,7 @@
     "is_future_event": true
   },
   {
-    "index": 109,
+    "index": 97,
     "title": "Sam Russo",
     "start_date": "2025-10-22 08:00:00",
     "formatted_date": "Oct 22, 2025",
@@ -1635,7 +1455,7 @@
     "is_future_event": true
   },
   {
-    "index": 110,
+    "index": 98,
     "title": "Sincere Engineer",
     "start_date": "2025-10-22 08:00:00",
     "formatted_date": "Oct 22, 2025",
@@ -1650,7 +1470,7 @@
     "is_future_event": true
   },
   {
-    "index": 111,
+    "index": 99,
     "title": "Brendan Kelly",
     "start_date": "2025-10-23 08:00:00",
     "formatted_date": "Oct 23, 2025",
@@ -1665,7 +1485,7 @@
     "is_future_event": true
   },
   {
-    "index": 112,
+    "index": 100,
     "title": "Sam Russo",
     "start_date": "2025-10-23 08:00:00",
     "formatted_date": "Oct 23, 2025",
@@ -1680,7 +1500,7 @@
     "is_future_event": true
   },
   {
-    "index": 113,
+    "index": 101,
     "title": "Good Friend",
     "start_date": "2025-10-23 08:00:00",
     "formatted_date": "Oct 23, 2025",
@@ -1695,7 +1515,7 @@
     "is_future_event": true
   },
   {
-    "index": 114,
+    "index": 102,
     "title": "Sincere Engineer",
     "start_date": "2025-10-23 08:00:00",
     "formatted_date": "Oct 23, 2025",
@@ -1710,7 +1530,7 @@
     "is_future_event": true
   },
   {
-    "index": 115,
+    "index": 103,
     "title": "The Holy Mess",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1725,7 +1545,7 @@
     "is_future_event": true
   },
   {
-    "index": 116,
+    "index": 104,
     "title": "Good Friend",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1740,7 +1560,7 @@
     "is_future_event": true
   },
   {
-    "index": 117,
+    "index": 105,
     "title": "Brendan Kelly",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1755,7 +1575,7 @@
     "is_future_event": true
   },
   {
-    "index": 118,
+    "index": 106,
     "title": "Heart & Lung",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1770,7 +1590,7 @@
     "is_future_event": true
   },
   {
-    "index": 119,
+    "index": 107,
     "title": "Sam Russo",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1785,7 +1605,7 @@
     "is_future_event": true
   },
   {
-    "index": 120,
+    "index": 108,
     "title": "Direct Hit!",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1800,7 +1620,7 @@
     "is_future_event": true
   },
   {
-    "index": 121,
+    "index": 109,
     "title": "Elway",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1815,7 +1635,7 @@
     "is_future_event": true
   },
   {
-    "index": 122,
+    "index": 110,
     "title": "The Bollweevils",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1830,7 +1650,7 @@
     "is_future_event": true
   },
   {
-    "index": 123,
+    "index": 111,
     "title": "Sincere Engineer",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -1845,7 +1665,7 @@
     "is_future_event": true
   },
   {
-    "index": 124,
+    "index": 112,
     "title": "Sincere Engineer",
     "start_date": "2025-10-25 08:00:00",
     "formatted_date": "Oct 25, 2025",
@@ -1860,7 +1680,7 @@
     "is_future_event": true
   },
   {
-    "index": 125,
+    "index": 113,
     "title": "Broadway Calls",
     "start_date": "2025-10-25 08:00:00",
     "formatted_date": "Oct 25, 2025",
@@ -1875,7 +1695,7 @@
     "is_future_event": true
   },
   {
-    "index": 126,
+    "index": 114,
     "title": "MakeWar",
     "start_date": "2025-10-25 08:00:00",
     "formatted_date": "Oct 25, 2025",
@@ -1890,7 +1710,7 @@
     "is_future_event": true
   },
   {
-    "index": 127,
+    "index": 115,
     "title": "Sincere Engineer",
     "start_date": "2025-10-26 08:00:00",
     "formatted_date": "Oct 26, 2025",
@@ -1905,7 +1725,7 @@
     "is_future_event": true
   },
   {
-    "index": 128,
+    "index": 116,
     "title": "Broadway Calls",
     "start_date": "2025-10-26 08:00:00",
     "formatted_date": "Oct 26, 2025",
@@ -1920,7 +1740,7 @@
     "is_future_event": true
   },
   {
-    "index": 129,
+    "index": 117,
     "title": "MakeWar",
     "start_date": "2025-10-26 08:00:00",
     "formatted_date": "Oct 26, 2025",
@@ -1935,7 +1755,7 @@
     "is_future_event": true
   },
   {
-    "index": 130,
+    "index": 118,
     "title": "Tired Radio",
     "start_date": "2025-10-26 08:00:00",
     "formatted_date": "Oct 26, 2025",
@@ -1950,7 +1770,7 @@
     "is_future_event": true
   },
   {
-    "index": 131,
+    "index": 119,
     "title": "The Copyrights",
     "start_date": "2025-11-01 08:00:00",
     "formatted_date": "Nov 01, 2025",
@@ -1965,7 +1785,7 @@
     "is_future_event": true
   },
   {
-    "index": 132,
+    "index": 120,
     "title": "The Copyrights",
     "start_date": "2025-11-02 08:00:00",
     "formatted_date": "Nov 02, 2025",
@@ -1980,7 +1800,7 @@
     "is_future_event": true
   },
   {
-    "index": 133,
+    "index": 121,
     "title": "The Copyrights",
     "start_date": "2025-11-04 08:00:00",
     "formatted_date": "Nov 04, 2025",
@@ -1995,7 +1815,7 @@
     "is_future_event": true
   },
   {
-    "index": 134,
+    "index": 122,
     "title": "The Copyrights",
     "start_date": "2025-11-05 08:00:00",
     "formatted_date": "Nov 05, 2025",
@@ -2010,7 +1830,7 @@
     "is_future_event": true
   },
   {
-    "index": 135,
+    "index": 123,
     "title": "The Copyrights",
     "start_date": "2025-11-06 08:00:00",
     "formatted_date": "Nov 06, 2025",
@@ -2025,7 +1845,7 @@
     "is_future_event": true
   },
   {
-    "index": 136,
+    "index": 124,
     "title": "The Copyrights",
     "start_date": "2025-11-07 08:00:00",
     "formatted_date": "Nov 07, 2025",
@@ -2040,7 +1860,7 @@
     "is_future_event": true
   },
   {
-    "index": 137,
+    "index": 125,
     "title": "The Copyrights",
     "start_date": "2025-11-08 08:00:00",
     "formatted_date": "Nov 08, 2025",
@@ -2055,22 +1875,7 @@
     "is_future_event": true
   },
   {
-    "index": 138,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-13 08:00:00",
-    "formatted_date": "Nov 13, 2025",
-    "venue": {
-      "city": "Albuquerque",
-      "stateprovince": "NM",
-      "country": "United States",
-      "venue": "Launchpad"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://holdmyticket.com/event/450975",
-    "is_future_event": true
-  },
-  {
-    "index": 139,
+    "index": 126,
     "title": "Sam Russo",
     "start_date": "2025-11-13 08:00:00",
     "formatted_date": "Nov 13, 2025",
@@ -2085,22 +1890,7 @@
     "is_future_event": true
   },
   {
-    "index": 140,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-14 08:00:00",
-    "formatted_date": "Nov 14, 2025",
-    "venue": {
-      "city": "Tucson",
-      "stateprovince": "AZ",
-      "country": "United States",
-      "venue": "Congress Hall"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://link.dice.fm/i8b824742dbb",
-    "is_future_event": true
-  },
-  {
-    "index": 141,
+    "index": 127,
     "title": "Sam Russo",
     "start_date": "2025-11-14 08:00:00",
     "formatted_date": "Nov 14, 2025",
@@ -2115,22 +1905,7 @@
     "is_future_event": true
   },
   {
-    "index": 142,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-15 08:00:00",
-    "formatted_date": "Nov 15, 2025",
-    "venue": {
-      "city": "Tempe",
-      "stateprovince": "AZ",
-      "country": "United States",
-      "venue": "Yucca Tap Room"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-yucca-tap-room-tickets/13890404",
-    "is_future_event": true
-  },
-  {
-    "index": 143,
+    "index": 128,
     "title": "Sam Russo",
     "start_date": "2025-11-15 08:00:00",
     "formatted_date": "Nov 15, 2025",
@@ -2145,22 +1920,7 @@
     "is_future_event": true
   },
   {
-    "index": 144,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-16 08:00:00",
-    "formatted_date": "Nov 16, 2025",
-    "venue": {
-      "city": "San Diego",
-      "stateprovince": "CA",
-      "country": "United States",
-      "venue": "Brick By Brick"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-special-guests-brick-by-brick-tickets/13888364?pl=brickbybrick",
-    "is_future_event": true
-  },
-  {
-    "index": 145,
+    "index": 129,
     "title": "Sam Russo",
     "start_date": "2025-11-16 08:00:00",
     "formatted_date": "Nov 16, 2025",
@@ -2175,22 +1935,7 @@
     "is_future_event": true
   },
   {
-    "index": 146,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-18 08:00:00",
-    "formatted_date": "Nov 18, 2025",
-    "venue": {
-      "city": "Las Vegas",
-      "stateprovince": "NV",
-      "country": "United States",
-      "venue": "The Usual Place"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://www.eventbrite.com/e/1508230109859/preview/",
-    "is_future_event": true
-  },
-  {
-    "index": 147,
+    "index": 130,
     "title": "Sam Russo",
     "start_date": "2025-11-18 08:00:00",
     "formatted_date": "Nov 18, 2025",
@@ -2205,22 +1950,7 @@
     "is_future_event": true
   },
   {
-    "index": 148,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-19 08:00:00",
-    "formatted_date": "Nov 19, 2025",
-    "venue": {
-      "city": "Riverside",
-      "stateprovince": "CA",
-      "country": "United States",
-      "venue": "Romano&#8217;s Concert Lounge"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-w-fea-sam-russo-tickets-1510817569019?aff=oddtdtcreator",
-    "is_future_event": true
-  },
-  {
-    "index": 149,
+    "index": 131,
     "title": "Sam Russo",
     "start_date": "2025-11-19 08:00:00",
     "formatted_date": "Nov 19, 2025",
@@ -2235,22 +1965,7 @@
     "is_future_event": true
   },
   {
-    "index": 150,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-20 08:00:00",
-    "formatted_date": "Nov 20, 2025",
-    "venue": {
-      "city": "San Francisco",
-      "stateprovince": "CA",
-      "country": "United States",
-      "venue": "Bottom of the Hill"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "http://www.bottomofthehill.com/stubmatic/event20251120.html",
-    "is_future_event": true
-  },
-  {
-    "index": 151,
+    "index": 132,
     "title": "Sam Russo",
     "start_date": "2025-11-20 08:00:00",
     "formatted_date": "Nov 20, 2025",
@@ -2265,22 +1980,7 @@
     "is_future_event": true
   },
   {
-    "index": 152,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-21 08:00:00",
-    "formatted_date": "Nov 21, 2025",
-    "venue": {
-      "city": "Sacramento",
-      "stateprovince": "CA",
-      "country": "United States",
-      "venue": "Goldfield Trading Post"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://www.eventim.us/event/teenage-bottlerocket/658376",
-    "is_future_event": true
-  },
-  {
-    "index": 153,
+    "index": 133,
     "title": "Sam Russo",
     "start_date": "2025-11-21 08:00:00",
     "formatted_date": "Nov 21, 2025",
@@ -2295,22 +1995,7 @@
     "is_future_event": true
   },
   {
-    "index": 154,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-22 08:00:00",
-    "formatted_date": "Nov 22, 2025",
-    "venue": {
-      "city": "San Jose",
-      "stateprovince": "CA",
-      "country": "United States",
-      "venue": "The Ritz"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-the-ritz-tickets/13898734",
-    "is_future_event": true
-  },
-  {
-    "index": 155,
+    "index": 134,
     "title": "Sam Russo",
     "start_date": "2025-11-22 08:00:00",
     "formatted_date": "Nov 22, 2025",
@@ -2325,22 +2010,7 @@
     "is_future_event": true
   },
   {
-    "index": 156,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-23 08:00:00",
-    "formatted_date": "Nov 23, 2025",
-    "venue": {
-      "city": "Reno",
-      "stateprovince": "NV",
-      "country": "United States",
-      "venue": "Virginia St. Brewhouse"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-fea-sam-virginia-street-brewhouse-tickets/13888884",
-    "is_future_event": true
-  },
-  {
-    "index": 157,
+    "index": 135,
     "title": "Sam Russo",
     "start_date": "2025-11-23 08:00:00",
     "formatted_date": "Nov 23, 2025",
@@ -2355,142 +2025,7 @@
     "is_future_event": true
   },
   {
-    "index": 158,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-10 08:00:00",
-    "formatted_date": "Dec 10, 2025",
-    "venue": {
-      "city": "Corpus Christi",
-      "stateprovince": "TX",
-      "country": "United States",
-      "venue": "House of Rock"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://www.etix.com/ticket/p/56425516/teenage-bottlerocket-corpus-christi-house-of-rock",
-    "is_future_event": true
-  },
-  {
-    "index": 159,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-11 08:00:00",
-    "formatted_date": "Dec 11, 2025",
-    "venue": {
-      "city": "Houston",
-      "stateprovince": "TX",
-      "country": "United States",
-      "venue": "White Oak"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://www.ticketmaster.com/event/3A0062F2D89357BF",
-    "is_future_event": true
-  },
-  {
-    "index": 160,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-12 08:00:00",
-    "formatted_date": "Dec 12, 2025",
-    "venue": {
-      "city": "San Antonio",
-      "stateprovince": "TX",
-      "country": "United States",
-      "venue": "Paper Tiger"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://wl.eventim.us/event/teenage-bottlerocket/658565?afflky=PaperTiger",
-    "is_future_event": true
-  },
-  {
-    "index": 161,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-14 08:00:00",
-    "formatted_date": "Dec 14, 2025",
-    "venue": {
-      "city": "Oklahoma City",
-      "stateprovince": "OK",
-      "country": "United States",
-      "venue": "Resonant Head"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://www.prekindle.com/event/16323-teenage-bottlerocket-oklahoma-city",
-    "is_future_event": true
-  },
-  {
-    "index": 162,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-16 08:00:00",
-    "formatted_date": "Dec 16, 2025",
-    "venue": {
-      "city": "Kansas City",
-      "stateprovince": "MO",
-      "country": "United States",
-      "venue": "recordBar"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://link.dice.fm/q85d52f0a5af",
-    "is_future_event": true
-  },
-  {
-    "index": 163,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-17 08:00:00",
-    "formatted_date": "Dec 17, 2025",
-    "venue": {
-      "city": "Columbia",
-      "stateprovince": "MO",
-      "country": "United States",
-      "venue": "Rose Music Hall"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://www.ticketmaster.com/event/060062F1C3AC485F",
-    "is_future_event": true
-  },
-  {
-    "index": 164,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-18 08:00:00",
-    "formatted_date": "Dec 18, 2025",
-    "venue": {
-      "city": "Davenport",
-      "stateprovince": "IA",
-      "country": "United States",
-      "venue": "Raccoon Motel"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://link.dice.fm/R5eb82ed7b0f",
-    "is_future_event": true
-  },
-  {
-    "index": 165,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-19 08:00:00",
-    "formatted_date": "Dec 19, 2025",
-    "venue": {
-      "city": "Milwaukee",
-      "stateprovince": "WI",
-      "country": "United States",
-      "venue": "Skank Hall"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-boris-the-shank-hall-tickets/13894864?pl=shank",
-    "is_future_event": true
-  },
-  {
-    "index": 166,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-12-20 08:00:00",
-    "formatted_date": "Dec 20, 2025",
-    "venue": {
-      "city": "West Dundee",
-      "stateprovince": "IL",
-      "country": "United States",
-      "venue": "Rochaus"
-    },
-    "description": "<p>With Fea and Rodeo Boys!</p>",
-    "website": "https://eventim.us/event/teenage-bottlerocket/658760",
-    "is_future_event": true
-  },
-  {
-    "index": 167,
+    "index": 136,
     "title": "Billy Liar",
     "start_date": "2025-09-11 08:00:00",
     "formatted_date": "Sep 11, 2025",
@@ -2505,7 +2040,7 @@
     "is_future_event": true
   },
   {
-    "index": 168,
+    "index": 137,
     "title": "Billy Liar",
     "start_date": "2025-09-13 08:00:00",
     "formatted_date": "Sep 13, 2025",
@@ -2520,7 +2055,7 @@
     "is_future_event": true
   },
   {
-    "index": 169,
+    "index": 138,
     "title": "Billy Liar",
     "start_date": "2025-09-28 08:00:00",
     "formatted_date": "Sep 28, 2025",
@@ -2535,7 +2070,7 @@
     "is_future_event": true
   },
   {
-    "index": 170,
+    "index": 139,
     "title": "Billy Liar",
     "start_date": "2025-10-01 08:00:00",
     "formatted_date": "Oct 01, 2025",
@@ -2550,7 +2085,7 @@
     "is_future_event": true
   },
   {
-    "index": 171,
+    "index": 140,
     "title": "Billy Liar",
     "start_date": "2025-10-02 08:00:00",
     "formatted_date": "Oct 02, 2025",
@@ -2565,7 +2100,7 @@
     "is_future_event": true
   },
   {
-    "index": 172,
+    "index": 141,
     "title": "Billy Liar",
     "start_date": "2025-10-03 08:00:00",
     "formatted_date": "Oct 03, 2025",
@@ -2580,7 +2115,7 @@
     "is_future_event": true
   },
   {
-    "index": 173,
+    "index": 142,
     "title": "The Bollweevils",
     "start_date": "2025-11-15 08:00:00",
     "formatted_date": "Nov 15, 2025",
@@ -2595,7 +2130,7 @@
     "is_future_event": true
   },
   {
-    "index": 174,
+    "index": 143,
     "title": "Broadway Calls",
     "start_date": "2025-10-21 08:00:00",
     "formatted_date": "Oct 21, 2025",
@@ -2610,7 +2145,7 @@
     "is_future_event": true
   },
   {
-    "index": 175,
+    "index": 144,
     "title": "Broadway Calls",
     "start_date": "2025-10-22 08:00:00",
     "formatted_date": "Oct 22, 2025",
@@ -2625,7 +2160,7 @@
     "is_future_event": true
   },
   {
-    "index": 176,
+    "index": 145,
     "title": "Broadway Calls",
     "start_date": "2025-10-23 08:00:00",
     "formatted_date": "Oct 23, 2025",
@@ -2640,7 +2175,7 @@
     "is_future_event": true
   },
   {
-    "index": 177,
+    "index": 146,
     "title": "Broadway Calls",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -2655,7 +2190,7 @@
     "is_future_event": true
   },
   {
-    "index": 178,
+    "index": 147,
     "title": "MakeWar",
     "start_date": "2025-10-24 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -2670,7 +2205,7 @@
     "is_future_event": true
   },
   {
-    "index": 179,
+    "index": 148,
     "title": "Heart & Lung",
     "start_date": "2025-09-25 08:00:00",
     "formatted_date": "Sep 25, 2025",
@@ -2685,7 +2220,7 @@
     "is_future_event": true
   },
   {
-    "index": 180,
+    "index": 149,
     "title": "Heart & Lung",
     "start_date": "2025-10-17 08:00:00",
     "formatted_date": "Oct 17, 2025",
@@ -2700,7 +2235,7 @@
     "is_future_event": true
   },
   {
-    "index": 181,
+    "index": 150,
     "title": "Broadway Calls",
     "start_date": "2025-12-06 08:00:00",
     "formatted_date": "Dec 06, 2025",
@@ -2715,7 +2250,7 @@
     "is_future_event": true
   },
   {
-    "index": 182,
+    "index": 151,
     "title": "Broadway Calls",
     "start_date": "2025-10-04 08:00:00",
     "formatted_date": "Oct 04, 2025",
@@ -2730,7 +2265,7 @@
     "is_future_event": true
   },
   {
-    "index": 183,
+    "index": 152,
     "title": "Tired Radio",
     "start_date": "2025-10-12 08:00:00",
     "formatted_date": "Oct 12, 2025",
@@ -2745,7 +2280,7 @@
     "is_future_event": true
   },
   {
-    "index": 184,
+    "index": 153,
     "title": "The Bollweevils",
     "start_date": "2025-09-21 08:00:00",
     "formatted_date": "Sep 21, 2025",
@@ -2760,7 +2295,7 @@
     "is_future_event": true
   },
   {
-    "index": 185,
+    "index": 154,
     "title": "The Bollweevils",
     "start_date": "2025-10-26 08:00:00",
     "formatted_date": "Oct 26, 2025",
@@ -2775,7 +2310,7 @@
     "is_future_event": true
   },
   {
-    "index": 186,
+    "index": 155,
     "title": "Elway",
     "start_date": "2025-11-07 08:00:00",
     "formatted_date": "Nov 07, 2025",
@@ -2790,7 +2325,7 @@
     "is_future_event": true
   },
   {
-    "index": 187,
+    "index": 156,
     "title": "Brendan Kelly",
     "start_date": "2025-11-24 08:00:00",
     "formatted_date": "Nov 24, 2025",
@@ -2805,7 +2340,7 @@
     "is_future_event": true
   },
   {
-    "index": 188,
+    "index": 157,
     "title": "Sam Russo",
     "start_date": "2025-11-17 08:00:00",
     "formatted_date": "Nov 17, 2025",
@@ -2820,22 +2355,7 @@
     "is_future_event": true
   },
   {
-    "index": 189,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2025-11-17 08:00:00",
-    "formatted_date": "Nov 17, 2025",
-    "venue": {
-      "city": "Long Beach",
-      "stateprovince": "CA",
-      "country": "United States",
-      "venue": "Alex's Bar"
-    },
-    "description": "<p>With Sam Russo!</p>",
-    "website": "https://dice.fm/partner/tickets/event/av76ad?dice_id=7335919&dice_channel=web&dice_tags=organic&dice_campaign=Alex%27s%20Bar&dice_feature=mio_marketing&_branch_match_id=1504848948139823881&utm_source=web&utm_campaign=Alex%27s%20Bar&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdKSUwzTTU0skwxMrGvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQApdpHbOwAAAA%3D%3D",
-    "is_future_event": true
-  },
-  {
-    "index": 190,
+    "index": 158,
     "title": "Heart & Lung",
     "start_date": "2025-10-16 08:00:00",
     "formatted_date": "Oct 16, 2025",
@@ -2850,7 +2370,7 @@
     "is_future_event": true
   },
   {
-    "index": 191,
+    "index": 159,
     "title": "The Brokedowns",
     "start_date": "2025-11-21 08:00:00",
     "formatted_date": "Nov 21, 2025",
@@ -2865,7 +2385,7 @@
     "is_future_event": true
   },
   {
-    "index": 192,
+    "index": 160,
     "title": "The Brokedowns",
     "start_date": "2025-11-21 08:00:00",
     "formatted_date": "Nov 21, 2025",
@@ -2880,7 +2400,7 @@
     "is_future_event": true
   },
   {
-    "index": 193,
+    "index": 161,
     "title": "The Brokedowns",
     "start_date": "2026-01-10 08:00:00",
     "formatted_date": "Jan 10, 2026",
@@ -2895,7 +2415,7 @@
     "is_future_event": true
   },
   {
-    "index": 194,
+    "index": 162,
     "title": "Won't Stay Dead",
     "start_date": "2025-10-22 08:00:00",
     "formatted_date": "Oct 22, 2025",
@@ -2910,7 +2430,7 @@
     "is_future_event": true
   },
   {
-    "index": 195,
+    "index": 163,
     "title": "Won't Stay Dead",
     "start_date": "2025-10-23 08:00:00",
     "formatted_date": "Oct 24, 2025",
@@ -2925,7 +2445,7 @@
     "is_future_event": true
   },
   {
-    "index": 196,
+    "index": 164,
     "title": "Won't Stay Dead",
     "start_date": "2025-10-27 08:00:00",
     "formatted_date": "Oct 27, 2025",
@@ -2940,7 +2460,7 @@
     "is_future_event": true
   },
   {
-    "index": 197,
+    "index": 165,
     "title": "Won't Stay Dead",
     "start_date": "2025-10-31 08:00:00",
     "formatted_date": "Oct 31, 2025",
@@ -2955,7 +2475,7 @@
     "is_future_event": true
   },
   {
-    "index": 198,
+    "index": 166,
     "title": "Won't Stay Dead",
     "start_date": "2025-11-08 08:00:00",
     "formatted_date": "Nov 08, 2025",
@@ -2970,7 +2490,7 @@
     "is_future_event": true
   },
   {
-    "index": 199,
+    "index": 167,
     "title": "Won't Stay Dead",
     "start_date": "2025-11-21 08:00:00",
     "formatted_date": "Nov 21, 2025",
@@ -2985,7 +2505,7 @@
     "is_future_event": true
   },
   {
-    "index": 200,
+    "index": 168,
     "title": "Won't Stay Dead",
     "start_date": "2025-11-22 08:00:00",
     "formatted_date": "Nov 22, 2025",
@@ -3000,7 +2520,7 @@
     "is_future_event": true
   },
   {
-    "index": 201,
+    "index": 169,
     "title": "Won't Stay Dead",
     "start_date": "2025-12-19 08:00:00",
     "formatted_date": "Dec 19, 2025",
@@ -3015,7 +2535,7 @@
     "is_future_event": true
   },
   {
-    "index": 202,
+    "index": 170,
     "title": "Tired Radio",
     "start_date": "2025-12-06 08:00:00",
     "formatted_date": "Dec 06, 2025",
@@ -3030,7 +2550,7 @@
     "is_future_event": true
   },
   {
-    "index": 203,
+    "index": 171,
     "title": "Tired Radio",
     "start_date": "2025-12-12 08:00:00",
     "formatted_date": "Dec 07, 2025",
@@ -3045,7 +2565,7 @@
     "is_future_event": true
   },
   {
-    "index": 204,
+    "index": 172,
     "title": "Billy Liar",
     "start_date": "2025-12-02 08:00:00",
     "formatted_date": "Dec 02, 2025",
@@ -3060,7 +2580,7 @@
     "is_future_event": true
   },
   {
-    "index": 205,
+    "index": 173,
     "title": "Billy Liar",
     "start_date": "2025-12-03 08:00:00",
     "formatted_date": "Dec 03, 2025",
@@ -3075,7 +2595,7 @@
     "is_future_event": true
   },
   {
-    "index": 206,
+    "index": 174,
     "title": "Billy Liar",
     "start_date": "2025-12-04 08:00:00",
     "formatted_date": "Dec 04, 2025",
@@ -3090,7 +2610,7 @@
     "is_future_event": true
   },
   {
-    "index": 207,
+    "index": 175,
     "title": "Billy Liar",
     "start_date": "2025-12-05 08:00:00",
     "formatted_date": "Dec 05, 2025",
@@ -3105,7 +2625,7 @@
     "is_future_event": true
   },
   {
-    "index": 208,
+    "index": 176,
     "title": "Billy Liar",
     "start_date": "2025-12-06 08:00:00",
     "formatted_date": "Dec 06, 2025",
@@ -3120,7 +2640,7 @@
     "is_future_event": true
   },
   {
-    "index": 209,
+    "index": 177,
     "title": "Billy Liar",
     "start_date": "2025-12-07 08:00:00",
     "formatted_date": "Dec 07, 2025",
@@ -3135,7 +2655,7 @@
     "is_future_event": true
   },
   {
-    "index": 210,
+    "index": 178,
     "title": "Billy Liar",
     "start_date": "2025-12-08 08:00:00",
     "formatted_date": "Dec 08, 2025",
@@ -3150,7 +2670,7 @@
     "is_future_event": true
   },
   {
-    "index": 211,
+    "index": 179,
     "title": "Billy Liar",
     "start_date": "2025-12-09 08:00:00",
     "formatted_date": "Dec 09, 2025",
@@ -3165,7 +2685,7 @@
     "is_future_event": true
   },
   {
-    "index": 212,
+    "index": 180,
     "title": "Billy Liar",
     "start_date": "2025-12-10 08:00:00",
     "formatted_date": "Dec 10, 2025",
@@ -3180,7 +2700,7 @@
     "is_future_event": true
   },
   {
-    "index": 213,
+    "index": 181,
     "title": "Billy Liar",
     "start_date": "2025-12-11 08:00:00",
     "formatted_date": "Dec 11, 2025",
@@ -3195,7 +2715,7 @@
     "is_future_event": true
   },
   {
-    "index": 214,
+    "index": 182,
     "title": "Billy Liar",
     "start_date": "2025-12-12 08:00:00",
     "formatted_date": "Dec 12, 2025",
@@ -3210,7 +2730,7 @@
     "is_future_event": true
   },
   {
-    "index": 215,
+    "index": 183,
     "title": "Billy Liar",
     "start_date": "2025-12-13 08:00:00",
     "formatted_date": "Dec 13, 2025",
@@ -3225,7 +2745,7 @@
     "is_future_event": true
   },
   {
-    "index": 216,
+    "index": 184,
     "title": "Billy Liar",
     "start_date": "2025-12-14 08:00:00",
     "formatted_date": "Dec 14, 2025",
@@ -3240,7 +2760,7 @@
     "is_future_event": true
   },
   {
-    "index": 217,
+    "index": 185,
     "title": "Billy Liar",
     "start_date": "2025-12-16 08:00:00",
     "formatted_date": "Dec 16, 2025",
@@ -3255,7 +2775,7 @@
     "is_future_event": true
   },
   {
-    "index": 218,
+    "index": 186,
     "title": "Billy Liar",
     "start_date": "2026-01-23 08:00:00",
     "formatted_date": "Jan 23, 2026",
@@ -3270,7 +2790,7 @@
     "is_future_event": true
   },
   {
-    "index": 219,
+    "index": 187,
     "title": "Billy Liar",
     "start_date": "2026-01-24 08:00:00",
     "formatted_date": "Jan 24, 2026",
@@ -3285,7 +2805,7 @@
     "is_future_event": true
   },
   {
-    "index": 220,
+    "index": 188,
     "title": "Billy Liar",
     "start_date": "2026-01-25 08:00:00",
     "formatted_date": "Jan 25, 2026",
@@ -3300,7 +2820,7 @@
     "is_future_event": true
   },
   {
-    "index": 221,
+    "index": 189,
     "title": "Heart & Lung",
     "start_date": "2025-12-07 08:00:00",
     "formatted_date": "Dec 07, 2025",
@@ -3315,7 +2835,7 @@
     "is_future_event": true
   },
   {
-    "index": 222,
+    "index": 190,
     "title": "Guerilla Poubelle",
     "start_date": "2025-12-06 08:00:00",
     "formatted_date": "Dec 06, 2025",
@@ -3330,7 +2850,7 @@
     "is_future_event": true
   },
   {
-    "index": 223,
+    "index": 191,
     "title": "Guerilla Poubelle",
     "start_date": "2025-12-12 08:00:00",
     "formatted_date": "Dec 12, 2025",
@@ -3345,7 +2865,7 @@
     "is_future_event": true
   },
   {
-    "index": 224,
+    "index": 192,
     "title": "Guerilla Poubelle",
     "start_date": "2025-12-13 08:00:00",
     "formatted_date": "Dec 13, 2025",
@@ -3360,7 +2880,7 @@
     "is_future_event": true
   },
   {
-    "index": 225,
+    "index": 193,
     "title": "Guerilla Poubelle",
     "start_date": "2025-12-14 08:00:00",
     "formatted_date": "Dec 14, 2025",
@@ -3375,7 +2895,7 @@
     "is_future_event": true
   },
   {
-    "index": 226,
+    "index": 194,
     "title": "Guerilla Poubelle",
     "start_date": "2025-12-21 08:00:00",
     "formatted_date": "Dec 21, 2025",
@@ -3390,7 +2910,7 @@
     "is_future_event": true
   },
   {
-    "index": 227,
+    "index": 195,
     "title": "Brendan Kelly",
     "start_date": "2025-12-19 08:00:00",
     "formatted_date": "Dec 19, 2025",
@@ -3405,7 +2925,7 @@
     "is_future_event": true
   },
   {
-    "index": 228,
+    "index": 196,
     "title": "The Reaganomics",
     "start_date": "2025-12-19 08:00:00",
     "formatted_date": "Dec 19, 2025",
@@ -3420,22 +2940,7 @@
     "is_future_event": true
   },
   {
-    "index": 229,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-02-10 08:00:00",
-    "formatted_date": "Feb 10, 2026",
-    "venue": {
-      "city": "Pensacola",
-      "stateprovince": "FL",
-      "country": "United States",
-      "venue": "The Handlebar"
-    },
-    "description": "<p>With Authority Zero and Billy Liar!</p>",
-    "website": "https://thehandlebar850.com/hb-events/02-10-26-Teenage-Bottlerocket-Authority-Zero-Billy-Liar",
-    "is_future_event": true
-  },
-  {
-    "index": 230,
+    "index": 197,
     "title": "Billy Liar",
     "start_date": "2026-02-10 08:00:00",
     "formatted_date": "Feb 10, 2026",
@@ -3450,22 +2955,7 @@
     "is_future_event": true
   },
   {
-    "index": 231,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-02-11 08:00:00",
-    "formatted_date": "Feb 11, 2026",
-    "venue": {
-      "city": "Orlando",
-      "stateprovince": "FL",
-      "country": "United States",
-      "venue": "Conduit"
-    },
-    "description": "<p>With Authority Zero and Billy Liar!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-authority-zero-and-conduit-tickets/14724123",
-    "is_future_event": true
-  },
-  {
-    "index": 232,
+    "index": 198,
     "title": "Billy Liar",
     "start_date": "2026-02-11 08:00:00",
     "formatted_date": "Feb 11, 2026",
@@ -3480,22 +2970,7 @@
     "is_future_event": true
   },
   {
-    "index": 233,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-02-12 08:00:00",
-    "formatted_date": "Feb 12, 2026",
-    "venue": {
-      "city": "Tampa",
-      "stateprovince": "FL",
-      "country": "United States",
-      "venue": "Brass Mug"
-    },
-    "description": "<p>With Authority Zero and Billy Liar!</p>",
-    "website": "https://elevatedbooking.bigcartel.com/",
-    "is_future_event": true
-  },
-  {
-    "index": 234,
+    "index": 199,
     "title": "Billy Liar",
     "start_date": "2026-02-12 08:00:00",
     "formatted_date": "Feb 12, 2026",
@@ -3510,22 +2985,7 @@
     "is_future_event": true
   },
   {
-    "index": 235,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-02-13 08:00:00",
-    "formatted_date": "Feb 13, 2026",
-    "venue": {
-      "city": "Jacksonville",
-      "stateprovince": "FL",
-      "country": "United States",
-      "venue": "Jack Rabbits"
-    },
-    "description": "<p>With Authority Zero and Billy Liar!</p>",
-    "website": "https://www.etix.com/ticket/p/82775391/teenage-bottlerocketauthority-zerobilly-liar-jacksonville-jack-rabbits-live",
-    "is_future_event": true
-  },
-  {
-    "index": 236,
+    "index": 200,
     "title": "Billy Liar",
     "start_date": "2026-02-13 08:00:00",
     "formatted_date": "Feb 13, 2026",
@@ -3540,22 +3000,7 @@
     "is_future_event": true
   },
   {
-    "index": 237,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-02-14 08:00:00",
-    "formatted_date": "Feb 14, 2026",
-    "venue": {
-      "city": "Atlanta",
-      "stateprovince": "GA",
-      "country": "United States",
-      "venue": "The Loft"
-    },
-    "description": "<p>With Authority Zero and Billy Liar!</p>",
-    "website": "https://www.ticketmaster.com/event/0E006381CF16A412",
-    "is_future_event": true
-  },
-  {
-    "index": 238,
+    "index": 201,
     "title": "Billy Liar",
     "start_date": "2026-02-14 08:00:00",
     "formatted_date": "Feb 14, 2026",
@@ -3570,22 +3015,7 @@
     "is_future_event": true
   },
   {
-    "index": 239,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-02-15 08:00:00",
-    "formatted_date": "Feb 15, 2026",
-    "venue": {
-      "city": "Nashville",
-      "stateprovince": "TN",
-      "country": "United States",
-      "venue": "Eastside Bowl"
-    },
-    "description": "<p>With Authority Zero and Billy Liar!</p>",
-    "website": "https://www.eventim.us/event/teenage-bottlerocket/673068",
-    "is_future_event": true
-  },
-  {
-    "index": 240,
+    "index": 202,
     "title": "Billy Liar",
     "start_date": "2026-02-15 08:00:00",
     "formatted_date": "Feb 15, 2026",
@@ -3600,7 +3030,7 @@
     "is_future_event": true
   },
   {
-    "index": 241,
+    "index": 203,
     "title": "Garrett Dale",
     "start_date": "2025-12-21 08:00:00",
     "formatted_date": "Dec 21, 2025",
@@ -3615,22 +3045,7 @@
     "is_future_event": true
   },
   {
-    "index": 242,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-03-25 08:00:00",
-    "formatted_date": "Mar 25, 2026",
-    "venue": {
-      "city": "Colorado Springs",
-      "stateprovince": "CO",
-      "country": "United States",
-      "venue": "Black Sheep"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-sam-black-sheep-tickets/14001824?pl=blacksheep",
-    "is_future_event": true
-  },
-  {
-    "index": 243,
+    "index": 204,
     "title": "Sam Russo",
     "start_date": "2026-03-25 08:00:00",
     "formatted_date": "Mar 25, 2026",
@@ -3645,22 +3060,7 @@
     "is_future_event": true
   },
   {
-    "index": 244,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-03-26 08:00:00",
-    "formatted_date": "Mar 26, 2026",
-    "venue": {
-      "city": "Fort Collins",
-      "stateprovince": "CO",
-      "country": "United States",
-      "venue": "Sound Bar"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://link.dice.fm/q97f018ec53b",
-    "is_future_event": true
-  },
-  {
-    "index": 245,
+    "index": 205,
     "title": "Sam Russo",
     "start_date": "2026-03-26 08:00:00",
     "formatted_date": "Mar 26, 2026",
@@ -3675,22 +3075,7 @@
     "is_future_event": true
   },
   {
-    "index": 246,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-03-27 08:00:00",
-    "formatted_date": "Mar 27, 2026",
-    "venue": {
-      "city": "Casper",
-      "stateprovince": "WY",
-      "country": "United States",
-      "venue": "Oil City Beer Co."
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.eventbrite.com/e/1977785218830?aff=oddtdtcreator",
-    "is_future_event": true
-  },
-  {
-    "index": 247,
+    "index": 206,
     "title": "Sam Russo",
     "start_date": "2026-03-27 08:00:00",
     "formatted_date": "Mar 27, 2026",
@@ -3705,22 +3090,7 @@
     "is_future_event": true
   },
   {
-    "index": 248,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-03-28 08:00:00",
-    "formatted_date": "Mar 28, 2026",
-    "venue": {
-      "city": "Denver",
-      "stateprovince": "CO",
-      "country": "United States",
-      "venue": "Federal Theatre"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://thefederaltheatre.holdmyticket.com/tickets/455957",
-    "is_future_event": true
-  },
-  {
-    "index": 249,
+    "index": 207,
     "title": "Sam Russo",
     "start_date": "2026-03-28 08:00:00",
     "formatted_date": "Mar 28, 2026",
@@ -3735,22 +3105,7 @@
     "is_future_event": true
   },
   {
-    "index": 250,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-03-29 08:00:00",
-    "formatted_date": "Mar 29, 2026",
-    "venue": {
-      "city": "Laramie",
-      "stateprovince": "WY",
-      "country": "United States",
-      "venue": "Gryphon Theatre"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-tickets-1977627348636",
-    "is_future_event": true
-  },
-  {
-    "index": 251,
+    "index": 208,
     "title": "Sam Russo",
     "start_date": "2026-03-29 08:00:00",
     "formatted_date": "Mar 29, 2026",
@@ -3765,22 +3120,7 @@
     "is_future_event": true
   },
   {
-    "index": 252,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-03-30 08:00:00",
-    "formatted_date": "Mar 30, 2026",
-    "venue": {
-      "city": "Omaha",
-      "stateprovince": "NE",
-      "country": "United States",
-      "venue": "Waiting Room"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.etix.com/ticket/p/46229959/",
-    "is_future_event": true
-  },
-  {
-    "index": 253,
+    "index": 209,
     "title": "Sam Russo",
     "start_date": "2026-03-30 08:00:00",
     "formatted_date": "Mar 30, 2026",
@@ -3795,22 +3135,7 @@
     "is_future_event": true
   },
   {
-    "index": 254,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-03-31 08:00:00",
-    "formatted_date": "Mar 31, 2026",
-    "venue": {
-      "city": "Minneapolis",
-      "stateprovince": "MN",
-      "country": "United States",
-      "venue": "Green Room"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-w-the-dopamines-green-room-mpls-tickets/14001124",
-    "is_future_event": true
-  },
-  {
-    "index": 255,
+    "index": 210,
     "title": "Sam Russo",
     "start_date": "2026-03-31 08:00:00",
     "formatted_date": "Mar 31, 2026",
@@ -3825,22 +3150,7 @@
     "is_future_event": true
   },
   {
-    "index": 256,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-01 08:00:00",
-    "formatted_date": "Apr 01, 2026",
-    "venue": {
-      "city": "Green Bay",
-      "stateprovince": "WI",
-      "country": "United States",
-      "venue": "Green Bay Distillery"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-the-dopamines-sam-russo-tour-april-1st-2026-tickets-1977527035597?aff=oddtdtcreator",
-    "is_future_event": true
-  },
-  {
-    "index": 257,
+    "index": 211,
     "title": "Sam Russo",
     "start_date": "2026-04-01 08:00:00",
     "formatted_date": "Apr 01, 2026",
@@ -3855,22 +3165,7 @@
     "is_future_event": true
   },
   {
-    "index": 258,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-02 08:00:00",
-    "formatted_date": "Apr 02, 2026",
-    "venue": {
-      "city": "Chicago",
-      "stateprovince": "IL",
-      "country": "United States",
-      "venue": "Reggie's"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-reggies-rock-club-tickets/13990904",
-    "is_future_event": true
-  },
-  {
-    "index": 259,
+    "index": 212,
     "title": "Sam Russo",
     "start_date": "2026-04-02 08:00:00",
     "formatted_date": "Apr 02, 2026",
@@ -3885,22 +3180,7 @@
     "is_future_event": true
   },
   {
-    "index": 260,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-03 08:00:00",
-    "formatted_date": "Apr 03, 2026",
-    "venue": {
-      "city": "Cincinnati",
-      "stateprovince": "OH",
-      "country": "United States",
-      "venue": "Bogart's"
-    },
-    "description": "<p>With Sam Russo, the Dopamines, and Heart & Lung!</p>",
-    "website": "https://www.ticketmaster.com/event/1600638AE6CECD4C",
-    "is_future_event": true
-  },
-  {
-    "index": 261,
+    "index": 213,
     "title": "Sam Russo",
     "start_date": "2026-04-03 08:00:00",
     "formatted_date": "Apr 03, 2026",
@@ -3915,22 +3195,7 @@
     "is_future_event": true
   },
   {
-    "index": 262,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-04 08:00:00",
-    "formatted_date": "Apr 04, 2026",
-    "venue": {
-      "city": "St. Louis",
-      "stateprovince": "MO",
-      "country": "United States",
-      "venue": "Blueberry Hill"
-    },
-    "description": "<p>With Sam Russo and the Dopamines!</p>",
-    "website": "https://www.etix.com/ticket/p/57120366/teenage-bottlerocket-stlouis-blueberry-hill-duck-room",
-    "is_future_event": true
-  },
-  {
-    "index": 263,
+    "index": 214,
     "title": "Sam Russo",
     "start_date": "2026-04-04 08:00:00",
     "formatted_date": "Apr 04, 2026",
@@ -3945,7 +3210,7 @@
     "is_future_event": true
   },
   {
-    "index": 264,
+    "index": 215,
     "title": "Broadway Calls",
     "start_date": "2026-04-17 08:00:00",
     "formatted_date": "Apr 17, 2026",
@@ -3960,7 +3225,7 @@
     "is_future_event": true
   },
   {
-    "index": 265,
+    "index": 216,
     "title": "Broadway Calls",
     "start_date": "2026-04-18 08:00:00",
     "formatted_date": "Apr 18, 2026",
@@ -3975,7 +3240,7 @@
     "is_future_event": true
   },
   {
-    "index": 266,
+    "index": 217,
     "title": "Brendan Kelly",
     "start_date": "2026-04-02 08:00:00",
     "formatted_date": "Apr 02, 2026",
@@ -3990,7 +3255,7 @@
     "is_future_event": true
   },
   {
-    "index": 267,
+    "index": 218,
     "title": "Brendan Kelly",
     "start_date": "2026-04-03 08:00:00",
     "formatted_date": "Apr 03, 2026",
@@ -4005,7 +3270,7 @@
     "is_future_event": true
   },
   {
-    "index": 268,
+    "index": 219,
     "title": "Brendan Kelly",
     "start_date": "2026-04-04 08:00:00",
     "formatted_date": "Apr 04, 2026",
@@ -4020,7 +3285,7 @@
     "is_future_event": true
   },
   {
-    "index": 269,
+    "index": 220,
     "title": "Sincere Engineer",
     "start_date": "2026-01-20 08:00:00",
     "formatted_date": "Jan 20, 2026",
@@ -4035,7 +3300,7 @@
     "is_future_event": true
   },
   {
-    "index": 270,
+    "index": 221,
     "title": "Sincere Engineer",
     "start_date": "2026-01-21 08:00:00",
     "formatted_date": "Jan 21, 2026",
@@ -4050,7 +3315,7 @@
     "is_future_event": true
   },
   {
-    "index": 271,
+    "index": 222,
     "title": "Guerilla Poubelle",
     "start_date": "2026-01-23 08:00:00",
     "formatted_date": "Jan 23, 2026",
@@ -4065,7 +3330,7 @@
     "is_future_event": true
   },
   {
-    "index": 272,
+    "index": 223,
     "title": "Guerilla Poubelle",
     "start_date": "2026-01-24 08:00:00",
     "formatted_date": "Jan 24, 2026",
@@ -4080,7 +3345,7 @@
     "is_future_event": true
   },
   {
-    "index": 273,
+    "index": 224,
     "title": "Guerilla Poubelle",
     "start_date": "2026-01-25 08:00:00",
     "formatted_date": "Jan 25, 2026",
@@ -4095,7 +3360,7 @@
     "is_future_event": true
   },
   {
-    "index": 274,
+    "index": 225,
     "title": "Guerilla Poubelle",
     "start_date": "2026-02-27 08:00:00",
     "formatted_date": "Feb 27, 2026",
@@ -4110,7 +3375,7 @@
     "is_future_event": true
   },
   {
-    "index": 275,
+    "index": 226,
     "title": "Guerilla Poubelle",
     "start_date": "2026-02-28 08:00:00",
     "formatted_date": "Feb 28, 2026",
@@ -4125,7 +3390,7 @@
     "is_future_event": true
   },
   {
-    "index": 276,
+    "index": 227,
     "title": "Guerilla Poubelle",
     "start_date": "2026-03-05 08:00:00",
     "formatted_date": "Mar 05, 2026",
@@ -4140,7 +3405,7 @@
     "is_future_event": true
   },
   {
-    "index": 277,
+    "index": 228,
     "title": "Guerilla Poubelle",
     "start_date": "2026-03-06 08:00:00",
     "formatted_date": "Mar 06, 2026",
@@ -4155,7 +3420,7 @@
     "is_future_event": true
   },
   {
-    "index": 278,
+    "index": 229,
     "title": "Guerilla Poubelle",
     "start_date": "2026-03-07 08:00:00",
     "formatted_date": "Mar 07, 2026",
@@ -4170,7 +3435,7 @@
     "is_future_event": true
   },
   {
-    "index": 279,
+    "index": 230,
     "title": "Guerilla Poubelle",
     "start_date": "2026-03-08 08:00:00",
     "formatted_date": "Mar 08, 2026",
@@ -4185,7 +3450,7 @@
     "is_future_event": true
   },
   {
-    "index": 280,
+    "index": 231,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-03 08:00:00",
     "formatted_date": "Apr 03, 2026",
@@ -4200,7 +3465,7 @@
     "is_future_event": true
   },
   {
-    "index": 281,
+    "index": 232,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-04 08:00:00",
     "formatted_date": "Apr 04, 2026",
@@ -4215,7 +3480,7 @@
     "is_future_event": true
   },
   {
-    "index": 282,
+    "index": 233,
     "title": "The Bollweevils",
     "start_date": "2026-02-21 08:00:00",
     "formatted_date": "Feb 21, 2026",
@@ -4230,7 +3495,7 @@
     "is_future_event": true
   },
   {
-    "index": 283,
+    "index": 234,
     "title": "Won't Stay Dead",
     "start_date": "2026-01-29 08:00:00",
     "formatted_date": "Jan 29, 2026",
@@ -4245,7 +3510,7 @@
     "is_future_event": true
   },
   {
-    "index": 284,
+    "index": 235,
     "title": "Laura Jane Grace",
     "start_date": "2026-01-29 08:00:00",
     "formatted_date": "Jan 29, 2026",
@@ -4260,7 +3525,7 @@
     "is_future_event": true
   },
   {
-    "index": 285,
+    "index": 236,
     "title": "Broadway Calls",
     "start_date": "2026-02-26 08:00:00",
     "formatted_date": "Feb 26, 2026",
@@ -4275,7 +3540,7 @@
     "is_future_event": true
   },
   {
-    "index": 286,
+    "index": 237,
     "title": "Won't Stay Dead",
     "start_date": "2026-02-15 08:00:00",
     "formatted_date": "Feb 15, 2026",
@@ -4290,7 +3555,7 @@
     "is_future_event": true
   },
   {
-    "index": 287,
+    "index": 238,
     "title": "Direct Hit!",
     "start_date": "2026-04-24 08:00:00",
     "formatted_date": "Apr 24, 2026",
@@ -4305,7 +3570,7 @@
     "is_future_event": true
   },
   {
-    "index": 288,
+    "index": 239,
     "title": "Direct Hit!",
     "start_date": "2026-04-25 08:00:00",
     "formatted_date": "Apr 25, 2026",
@@ -4320,7 +3585,7 @@
     "is_future_event": true
   },
   {
-    "index": 289,
+    "index": 240,
     "title": "Direct Hit!",
     "start_date": "2026-05-16 08:00:00",
     "formatted_date": "May 16, 2026",
@@ -4335,7 +3600,7 @@
     "is_future_event": true
   },
   {
-    "index": 290,
+    "index": 241,
     "title": "Brendan Kelly",
     "start_date": "2026-03-12 08:00:00",
     "formatted_date": "Mar 12, 2026",
@@ -4350,7 +3615,7 @@
     "is_future_event": true
   },
   {
-    "index": 291,
+    "index": 242,
     "title": "Tightwire",
     "start_date": "2026-03-12 08:00:00",
     "formatted_date": "Mar 12, 2026",
@@ -4365,7 +3630,7 @@
     "is_future_event": true
   },
   {
-    "index": 292,
+    "index": 243,
     "title": "Brendan Kelly",
     "start_date": "2026-03-13 08:00:00",
     "formatted_date": "Mar 13, 2026",
@@ -4380,7 +3645,7 @@
     "is_future_event": true
   },
   {
-    "index": 293,
+    "index": 244,
     "title": "Tightwire",
     "start_date": "2026-03-13 08:00:00",
     "formatted_date": "Mar 13, 2026",
@@ -4395,7 +3660,7 @@
     "is_future_event": true
   },
   {
-    "index": 294,
+    "index": 245,
     "title": "Brendan Kelly",
     "start_date": "2026-03-14 08:00:00",
     "formatted_date": "Mar 14, 2026",
@@ -4410,7 +3675,7 @@
     "is_future_event": true
   },
   {
-    "index": 295,
+    "index": 246,
     "title": "Tightwire",
     "start_date": "2026-03-14 08:00:00",
     "formatted_date": "Mar 14, 2026",
@@ -4425,7 +3690,7 @@
     "is_future_event": true
   },
   {
-    "index": 296,
+    "index": 247,
     "title": "Billy Liar",
     "start_date": "2026-04-04 08:00:00",
     "formatted_date": "Apr 04, 2026",
@@ -4440,7 +3705,7 @@
     "is_future_event": true
   },
   {
-    "index": 297,
+    "index": 248,
     "title": "Tired Radio",
     "start_date": "2026-02-27 08:00:00",
     "formatted_date": "Feb 27, 2026",
@@ -4455,7 +3720,7 @@
     "is_future_event": true
   },
   {
-    "index": 298,
+    "index": 249,
     "title": "Billy Liar",
     "start_date": "2026-05-16 08:00:00",
     "formatted_date": "May 16, 2026",
@@ -4470,7 +3735,7 @@
     "is_future_event": true
   },
   {
-    "index": 299,
+    "index": 250,
     "title": "Sack",
     "start_date": "2026-02-21 08:00:00",
     "formatted_date": "Feb 21, 2026",
@@ -4485,7 +3750,7 @@
     "is_future_event": true
   },
   {
-    "index": 300,
+    "index": 251,
     "title": "American Steel",
     "start_date": "2026-03-18 08:00:00",
     "formatted_date": "Mar 18, 2026",
@@ -4500,7 +3765,7 @@
     "is_future_event": true
   },
   {
-    "index": 301,
+    "index": 252,
     "title": "American Steel",
     "start_date": "2026-03-20 08:00:00",
     "formatted_date": "Mar 20, 2026",
@@ -4515,7 +3780,7 @@
     "is_future_event": true
   },
   {
-    "index": 302,
+    "index": 253,
     "title": "American Steel",
     "start_date": "2026-03-21 08:00:00",
     "formatted_date": "Mar 21, 2026",
@@ -4530,22 +3795,7 @@
     "is_future_event": true
   },
   {
-    "index": 303,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-21 08:00:00",
-    "formatted_date": "Apr 21, 2026",
-    "venue": {
-      "city": "Salt Lake City",
-      "stateprovince": "UT",
-      "country": "United States",
-      "venue": "Aces High Saloon"
-    },
-    "description": "<p>With Tightwire!</p>",
-    "website": "https://www.24tix.com/event/10539908319",
-    "is_future_event": true
-  },
-  {
-    "index": 304,
+    "index": 254,
     "title": "Tightwire",
     "start_date": "2026-04-21 08:00:00",
     "formatted_date": "Apr 21, 2026",
@@ -4560,22 +3810,7 @@
     "is_future_event": true
   },
   {
-    "index": 305,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-22 08:00:00",
-    "formatted_date": "Apr 22, 2026",
-    "venue": {
-      "city": "Boise",
-      "stateprovince": "ID",
-      "country": "United States",
-      "venue": "Shrine Social Club"
-    },
-    "description": "<p>With Tightwire!</p>",
-    "website": "https://link.dice.fm/e0aa1e6d17bd",
-    "is_future_event": true
-  },
-  {
-    "index": 306,
+    "index": 255,
     "title": "Tightwire",
     "start_date": "2026-04-22 08:00:00",
     "formatted_date": "Apr 22, 2026",
@@ -4590,22 +3825,7 @@
     "is_future_event": true
   },
   {
-    "index": 307,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-23 08:00:00",
-    "formatted_date": "Apr 23, 2026",
-    "venue": {
-      "city": "Spokane",
-      "stateprovince": "WA",
-      "country": "United States",
-      "venue": "Big Dipper"
-    },
-    "description": "<p>With Tightwire!</p>",
-    "website": "https://monumentalshows.com/event/458107",
-    "is_future_event": true
-  },
-  {
-    "index": 308,
+    "index": 256,
     "title": "Tightwire",
     "start_date": "2026-04-23 08:00:00",
     "formatted_date": "Apr 23, 2026",
@@ -4620,22 +3840,7 @@
     "is_future_event": true
   },
   {
-    "index": 309,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-24 08:00:00",
-    "formatted_date": "Apr 24, 2026",
-    "venue": {
-      "city": "Tacoma",
-      "stateprovince": "WA",
-      "country": "United States",
-      "venue": "Airport Tavern"
-    },
-    "description": "<p>With Tightwire!</p>",
-    "website": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=679402",
-    "is_future_event": true
-  },
-  {
-    "index": 310,
+    "index": 257,
     "title": "Tightwire",
     "start_date": "2026-04-24 08:00:00",
     "formatted_date": "Apr 24, 2026",
@@ -4650,22 +3855,7 @@
     "is_future_event": true
   },
   {
-    "index": 311,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-04-25 08:00:00",
-    "formatted_date": "Apr 25, 2026",
-    "venue": {
-      "city": "Portland",
-      "stateprovince": "OR",
-      "country": "United States",
-      "venue": "Dante's"
-    },
-    "description": "<p>With Tightwire and Broadway Calls!</p>",
-    "website": "https://www.axs.com/events/1253308/goldfinger-tickets?skin=showboxpresents",
-    "is_future_event": true
-  },
-  {
-    "index": 312,
+    "index": 258,
     "title": "Tightwire",
     "start_date": "2026-04-25 08:00:00",
     "formatted_date": "Apr 25, 2026",
@@ -4680,7 +3870,7 @@
     "is_future_event": true
   },
   {
-    "index": 313,
+    "index": 259,
     "title": "Broadway Calls",
     "start_date": "2026-04-25 08:00:00",
     "formatted_date": "Apr 25, 2026",
@@ -4695,7 +3885,7 @@
     "is_future_event": true
   },
   {
-    "index": 314,
+    "index": 260,
     "title": "Druglords of the Avenues",
     "start_date": "2026-04-03 08:00:00",
     "formatted_date": "Apr 03, 2026",
@@ -4710,7 +3900,7 @@
     "is_future_event": true
   },
   {
-    "index": 315,
+    "index": 261,
     "title": "Elway",
     "start_date": "2026-02-14 08:00:00",
     "formatted_date": "Feb 14, 2026",
@@ -4725,7 +3915,7 @@
     "is_future_event": true
   },
   {
-    "index": 316,
+    "index": 262,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-05 08:00:00",
     "formatted_date": "Apr 05, 2026",
@@ -4740,7 +3930,7 @@
     "is_future_event": true
   },
   {
-    "index": 317,
+    "index": 263,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-11 08:00:00",
     "formatted_date": "Apr 11, 2026",
@@ -4755,7 +3945,7 @@
     "is_future_event": true
   },
   {
-    "index": 318,
+    "index": 264,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-18 08:00:00",
     "formatted_date": "Apr 18, 2026",
@@ -4770,7 +3960,7 @@
     "is_future_event": true
   },
   {
-    "index": 319,
+    "index": 265,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-27 08:00:00",
     "formatted_date": "Apr 27, 2026",
@@ -4785,7 +3975,7 @@
     "is_future_event": true
   },
   {
-    "index": 320,
+    "index": 266,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-28 08:00:00",
     "formatted_date": "Apr 28, 2026",
@@ -4800,7 +3990,7 @@
     "is_future_event": true
   },
   {
-    "index": 321,
+    "index": 267,
     "title": "Guerilla Poubelle",
     "start_date": "2026-04-29 08:00:00",
     "formatted_date": "Apr 29, 2026",
@@ -4815,7 +4005,7 @@
     "is_future_event": true
   },
   {
-    "index": 322,
+    "index": 268,
     "title": "Guerilla Poubelle",
     "start_date": "2026-05-03 08:00:00",
     "formatted_date": "May 03, 2026",
@@ -4830,7 +4020,7 @@
     "is_future_event": true
   },
   {
-    "index": 323,
+    "index": 269,
     "title": "Guerilla Poubelle",
     "start_date": "2026-05-08 08:00:00",
     "formatted_date": "May 08, 2026",
@@ -4845,7 +4035,7 @@
     "is_future_event": true
   },
   {
-    "index": 324,
+    "index": 270,
     "title": "Good Friend",
     "start_date": "2026-04-25 08:00:00",
     "formatted_date": "Apr 25, 2026",
@@ -4860,7 +4050,7 @@
     "is_future_event": true
   },
   {
-    "index": 325,
+    "index": 271,
     "title": "Arms Aloft",
     "start_date": "2026-03-15 08:00:00",
     "formatted_date": "Mar 15, 2026",
@@ -4875,7 +4065,7 @@
     "is_future_event": true
   },
   {
-    "index": 326,
+    "index": 272,
     "title": "The Holy Mess",
     "start_date": "2026-04-12 08:00:00",
     "formatted_date": "Apr 12, 2026",
@@ -4890,7 +4080,7 @@
     "is_future_event": true
   },
   {
-    "index": 327,
+    "index": 273,
     "title": "Won't Stay Dead",
     "start_date": "2026-03-14 08:00:00",
     "formatted_date": "Mar 14, 2026",
@@ -4905,7 +4095,7 @@
     "is_future_event": true
   },
   {
-    "index": 328,
+    "index": 274,
     "title": "The Reaganomics",
     "start_date": "2026-03-14 08:00:00",
     "formatted_date": "Mar 14, 2026",
@@ -4920,7 +4110,7 @@
     "is_future_event": true
   },
   {
-    "index": 329,
+    "index": 275,
     "title": "Won't Stay Dead",
     "start_date": "2026-03-06 08:00:00",
     "formatted_date": "Mar 06, 2026",
@@ -4935,7 +4125,7 @@
     "is_future_event": true
   },
   {
-    "index": 330,
+    "index": 276,
     "title": "Won't Stay Dead",
     "start_date": "2026-03-07 08:00:00",
     "formatted_date": "Mar 07, 2026",
@@ -4950,7 +4140,7 @@
     "is_future_event": true
   },
   {
-    "index": 331,
+    "index": 277,
     "title": "Won't Stay Dead",
     "start_date": "2026-05-15 08:00:00",
     "formatted_date": "May 15, 2026",
@@ -4965,7 +4155,7 @@
     "is_future_event": true
   },
   {
-    "index": 332,
+    "index": 278,
     "title": "The Brokedowns",
     "start_date": "2026-05-16 08:00:00",
     "formatted_date": "May 16, 2026",
@@ -4980,7 +4170,7 @@
     "is_future_event": true
   },
   {
-    "index": 333,
+    "index": 279,
     "title": "The Holy Mess",
     "start_date": "2026-05-16 08:00:00",
     "formatted_date": "May 16, 2026",
@@ -4995,7 +4185,7 @@
     "is_future_event": true
   },
   {
-    "index": 334,
+    "index": 280,
     "title": "Elway",
     "start_date": "2026-05-16 08:00:00",
     "formatted_date": "May 16, 2026",
@@ -5010,7 +4200,7 @@
     "is_future_event": true
   },
   {
-    "index": 335,
+    "index": 281,
     "title": "Tired Radio",
     "start_date": "2026-05-17 08:00:00",
     "formatted_date": "May 17, 2026",
@@ -5025,7 +4215,7 @@
     "is_future_event": true
   },
   {
-    "index": 336,
+    "index": 282,
     "title": "Billy Liar",
     "start_date": "2026-04-03 08:00:00",
     "formatted_date": "Apr 03, 2026",
@@ -5040,7 +4230,7 @@
     "is_future_event": true
   },
   {
-    "index": 337,
+    "index": 283,
     "title": "Billy Liar",
     "start_date": "2026-04-02 08:00:00",
     "formatted_date": "Apr 02, 2026",
@@ -5055,7 +4245,7 @@
     "is_future_event": true
   },
   {
-    "index": 338,
+    "index": 284,
     "title": "Won't Stay Dead",
     "start_date": "2026-04-11 08:00:00",
     "formatted_date": "Apr 11, 2026",
@@ -5070,7 +4260,7 @@
     "is_future_event": true
   },
   {
-    "index": 339,
+    "index": 285,
     "title": "Heart & Lung",
     "start_date": "2026-04-03 08:00:00",
     "formatted_date": "Apr 03, 2026",
@@ -5085,7 +4275,7 @@
     "is_future_event": true
   },
   {
-    "index": 340,
+    "index": 286,
     "title": "Garrett Dale",
     "start_date": "2026-05-08 08:00:00",
     "formatted_date": "May 08, 2026",
@@ -5100,7 +4290,7 @@
     "is_future_event": true
   },
   {
-    "index": 341,
+    "index": 287,
     "title": "Druglords of the Avenues",
     "start_date": "2026-04-30 08:00:00",
     "formatted_date": "Apr 30, 2026",
@@ -5115,7 +4305,7 @@
     "is_future_event": true
   },
   {
-    "index": 342,
+    "index": 288,
     "title": "Druglords of the Avenues",
     "start_date": "2026-05-01 08:00:00",
     "formatted_date": "May 01, 2026",
@@ -5130,7 +4320,7 @@
     "is_future_event": true
   },
   {
-    "index": 343,
+    "index": 289,
     "title": "Druglords of the Avenues",
     "start_date": "2026-05-02 08:00:00",
     "formatted_date": "May 02, 2026",
@@ -5145,7 +4335,7 @@
     "is_future_event": true
   },
   {
-    "index": 344,
+    "index": 290,
     "title": "Druglords of the Avenues",
     "start_date": "2026-05-03 08:00:00",
     "formatted_date": "May 03, 2026",
@@ -5160,22 +4350,7 @@
     "is_future_event": true
   },
   {
-    "index": 345,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-20 08:00:00",
-    "formatted_date": "Jun 20, 2026",
-    "venue": {
-      "city": "Providence",
-      "stateprovince": "RI",
-      "country": "United States",
-      "venue": "Alchemy"
-    },
-    "description": "<p>With The Holy Mess!</p>",
-    "website": "https://dice.fm/partner/tickets/event/q2wbgx-teenage-bottlerocket-the-holy-mess-20th-jun-alchemy-providence-tickets?dice_id=8747200&dice_channel=web&dice_tags=organic&dice_campaign=Chestnut+Street+Enterprises+dba+Alchemy&dice_feature=mio_marketing&_branch_match_id=1563553823666514945&utm_source=web&utm_campaign=Chestnut+Street+Enterprises+dba+Alchemy&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9OSzazSE4xMUhKtLSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBDHzLMOwAAAA%3D%3D",
-    "is_future_event": true
-  },
-  {
-    "index": 346,
+    "index": 291,
     "title": "The Holy Mess",
     "start_date": "2026-06-20 08:00:00",
     "formatted_date": "Jun 20, 2026",
@@ -5190,22 +4365,7 @@
     "is_future_event": true
   },
   {
-    "index": 347,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-18 08:00:00",
-    "formatted_date": "Jun 18, 2026",
-    "venue": {
-      "city": "Virginia Beach",
-      "stateprovince": "VA",
-      "country": "United States",
-      "venue": "Bunker Brew Pub"
-    },
-    "description": "<p>With The Holy Mess and Keep Flying!</p>",
-    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-the-holy-mess-keep-flying-at-the-bunker-vb-tickets-1985529078924",
-    "is_future_event": true
-  },
-  {
-    "index": 348,
+    "index": 292,
     "title": "The Holy Mess",
     "start_date": "2026-06-18 08:00:00",
     "formatted_date": "Jun 18, 2026",
@@ -5220,22 +4380,7 @@
     "is_future_event": true
   },
   {
-    "index": 349,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-21 08:00:00",
-    "formatted_date": "Jun 21, 2026",
-    "venue": {
-      "city": "Lowell",
-      "stateprovince": "MA",
-      "country": "United States",
-      "venue": "Taffeta Music Hall"
-    },
-    "description": "<p>With The Holy Mess!</p>",
-    "website": "https://www.taffetamusic.com/shows/teenage-bottlerocket-21-jun#tickets",
-    "is_future_event": true
-  },
-  {
-    "index": 350,
+    "index": 293,
     "title": "The Holy Mess",
     "start_date": "2026-06-21 08:00:00",
     "formatted_date": "Jun 21, 2026",
@@ -5250,22 +4395,7 @@
     "is_future_event": true
   },
   {
-    "index": 351,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-22 08:00:00",
-    "formatted_date": "Jun 22, 2026",
-    "venue": {
-      "city": "New York City",
-      "stateprovince": "NY",
-      "country": "United States",
-      "venue": "TV Eye"
-    },
-    "description": "<p>With The Holy Mess!</p>",
-    "website": "https://wl.eventim.us/event/teenage-bottlerocket-the-holy-mess/685233?afflky=TVEye",
-    "is_future_event": true
-  },
-  {
-    "index": 352,
+    "index": 294,
     "title": "The Holy Mess",
     "start_date": "2026-06-22 08:00:00",
     "formatted_date": "Jun 22, 2026",
@@ -5280,22 +4410,7 @@
     "is_future_event": true
   },
   {
-    "index": 353,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-23 08:00:00",
-    "formatted_date": "Jun 23, 2026",
-    "venue": {
-      "city": "Pittsburgh",
-      "stateprovince": "PA",
-      "country": "United States",
-      "venue": "The Funhouse at Mr. Smalls"
-    },
-    "description": "<p>With The Holy Mess!</p>",
-    "website": "https://www.ticketmaster.com/event/16006470EB6DC7A7",
-    "is_future_event": true
-  },
-  {
-    "index": 354,
+    "index": 295,
     "title": "The Holy Mess",
     "start_date": "2026-06-23 08:00:00",
     "formatted_date": "Jun 23, 2026",
@@ -5310,22 +4425,7 @@
     "is_future_event": true
   },
   {
-    "index": 355,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-24 08:00:00",
-    "formatted_date": "Jun 24, 2026",
-    "venue": {
-      "city": "Columbus",
-      "stateprovince": "OH",
-      "country": "United States",
-      "venue": "Ace of Cups"
-    },
-    "description": "<p>With The Holy Mess!</p>",
-    "website": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=685190",
-    "is_future_event": true
-  },
-  {
-    "index": 356,
+    "index": 296,
     "title": "The Holy Mess",
     "start_date": "2026-06-24 08:00:00",
     "formatted_date": "Jun 24, 2026",
@@ -5340,22 +4440,7 @@
     "is_future_event": true
   },
   {
-    "index": 357,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-25 08:00:00",
-    "formatted_date": "Jun 25, 2026",
-    "venue": {
-      "city": "Cleveland",
-      "stateprovince": "OH",
-      "country": "United States",
-      "venue": "The Grog Shop"
-    },
-    "description": "<p>With Sludgeworth!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-sludgeworth-grog-shop-tickets/14789803",
-    "is_future_event": true
-  },
-  {
-    "index": 358,
+    "index": 297,
     "title": "Sludgeworth",
     "start_date": "2026-06-25 08:00:00",
     "formatted_date": "Jun 25, 2026",
@@ -5370,22 +4455,7 @@
     "is_future_event": true
   },
   {
-    "index": 359,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-25 08:00:00",
-    "formatted_date": "Jun 25, 2026",
-    "venue": {
-      "city": "Detroit",
-      "stateprovince": "MI",
-      "country": "United States",
-      "venue": "The Sanctuary"
-    },
-    "description": "<p>With Sludgeworth!</p>",
-    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-sanctuary-detroit-tickets/14790963?pl=sanctuary",
-    "is_future_event": true
-  },
-  {
-    "index": 360,
+    "index": 298,
     "title": "Sludgeworth",
     "start_date": "2026-06-25 08:00:00",
     "formatted_date": "Jun 25, 2026",
@@ -5400,22 +4470,7 @@
     "is_future_event": true
   },
   {
-    "index": 361,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-26 08:00:00",
-    "formatted_date": "Jun 26, 2026",
-    "venue": {
-      "city": "Logansport",
-      "stateprovince": "IN",
-      "country": "United States",
-      "venue": "Bonus Pints"
-    },
-    "description": "<p>Punk Til I Die FREE concert series with Sludgeworth and more!</p>",
-    "website": null,
-    "is_future_event": true
-  },
-  {
-    "index": 362,
+    "index": 299,
     "title": "Sludgeworth",
     "start_date": "2026-06-26 08:00:00",
     "formatted_date": "Jun 26, 2026",
@@ -5430,22 +4485,7 @@
     "is_future_event": true
   },
   {
-    "index": 363,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-06-19 08:00:00",
-    "formatted_date": "Jun 19, 2026",
-    "venue": {
-      "city": "Philadelphia",
-      "stateprovince": "PA",
-      "country": "United States",
-      "venue": "First Unitarian Church"
-    },
-    "description": "<p>With The Holy Mess!</p>",
-    "website": "https://dice.fm/partner/tickets/event/7dke7b-teenage-bottlerocket-punk-rock-in-philly-19th-jun-first-unitarian-church-of-philadelphia-philadelphia-tickets?dice_id=8787412&dice_channel=web&dice_tags=organic&dice_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&dice_feature=mio_marketing&_branch_match_id=1569716232210880812&utm_source=web&utm_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9LSjJKM7JMszQ3srCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCkVoBaOwAAAA%3D%3D",
-    "is_future_event": true
-  },
-  {
-    "index": 364,
+    "index": 300,
     "title": "The Holy Mess",
     "start_date": "2026-06-19 08:00:00",
     "formatted_date": "Jun 19, 2026",
@@ -5460,7 +4500,7 @@
     "is_future_event": true
   },
   {
-    "index": 365,
+    "index": 301,
     "title": "American Steel",
     "start_date": "2026-10-03 08:00:00",
     "formatted_date": "Oct 3, 2026",
@@ -5475,7 +4515,7 @@
     "is_future_event": true
   },
   {
-    "index": 366,
+    "index": 302,
     "title": "American Steel",
     "start_date": "2026-10-04 08:00:00",
     "formatted_date": "Oct 4, 2026",
@@ -5490,7 +4530,7 @@
     "is_future_event": true
   },
   {
-    "index": 367,
+    "index": 303,
     "title": "The Reaganomics",
     "start_date": "2026-04-25 08:00:00",
     "formatted_date": "Apr 25, 2026",
@@ -5505,7 +4545,7 @@
     "is_future_event": true
   },
   {
-    "index": 368,
+    "index": 304,
     "title": "Tired Radio",
     "start_date": "2026-05-14 08:00:00",
     "formatted_date": "May 14, 2026",
@@ -5520,7 +4560,7 @@
     "is_future_event": true
   },
   {
-    "index": 369,
+    "index": 305,
     "title": "Tightwire",
     "start_date": "2026-04-19 08:00:00",
     "formatted_date": "Apr 19, 2026",
@@ -5535,7 +4575,7 @@
     "is_future_event": true
   },
   {
-    "index": 370,
+    "index": 306,
     "title": "Tightwire",
     "start_date": "2026-04-20 08:00:00",
     "formatted_date": "Apr 20, 2026",
@@ -5550,7 +4590,7 @@
     "is_future_event": true
   },
   {
-    "index": 371,
+    "index": 307,
     "title": "Tightwire",
     "start_date": "2026-04-26 08:00:00",
     "formatted_date": "Apr 26, 2026",
@@ -5565,7 +4605,7 @@
     "is_future_event": true
   },
   {
-    "index": 372,
+    "index": 308,
     "title": "Sincere Engineer",
     "start_date": "2026-07-08 08:00:00",
     "formatted_date": "Jul 8, 2026",
@@ -5580,7 +4620,7 @@
     "is_future_event": true
   },
   {
-    "index": 373,
+    "index": 309,
     "title": "Sincere Engineer",
     "start_date": "2026-07-10 08:00:00",
     "formatted_date": "Jul 10, 2026",
@@ -5595,7 +4635,7 @@
     "is_future_event": true
   },
   {
-    "index": 374,
+    "index": 310,
     "title": "Sincere Engineer",
     "start_date": "2026-07-11 08:00:00",
     "formatted_date": "Jul 11, 2026",
@@ -5610,7 +4650,7 @@
     "is_future_event": true
   },
   {
-    "index": 375,
+    "index": 311,
     "title": "Sincere Engineer",
     "start_date": "2026-07-13 08:00:00",
     "formatted_date": "Jul 13, 2026",
@@ -5625,7 +4665,7 @@
     "is_future_event": true
   },
   {
-    "index": 376,
+    "index": 312,
     "title": "Sincere Engineer",
     "start_date": "2026-07-14 08:00:00",
     "formatted_date": "Jul 14, 2026",
@@ -5640,7 +4680,7 @@
     "is_future_event": true
   },
   {
-    "index": 377,
+    "index": 313,
     "title": "Sincere Engineer",
     "start_date": "2026-07-16 08:00:00",
     "formatted_date": "Jul 16, 2026",
@@ -5655,7 +4695,7 @@
     "is_future_event": true
   },
   {
-    "index": 378,
+    "index": 314,
     "title": "Sincere Engineer",
     "start_date": "2026-07-17 08:00:00",
     "formatted_date": "Jul 17, 2026",
@@ -5670,7 +4710,7 @@
     "is_future_event": true
   },
   {
-    "index": 379,
+    "index": 315,
     "title": "Sincere Engineer",
     "start_date": "2026-07-18 08:00:00",
     "formatted_date": "Jul 18, 2026",
@@ -5685,7 +4725,7 @@
     "is_future_event": true
   },
   {
-    "index": 380,
+    "index": 316,
     "title": "Sincere Engineer",
     "start_date": "2026-07-19 08:00:00",
     "formatted_date": "Jul 19, 2026",
@@ -5700,7 +4740,7 @@
     "is_future_event": true
   },
   {
-    "index": 381,
+    "index": 317,
     "title": "Sincere Engineer",
     "start_date": "2026-07-21 08:00:00",
     "formatted_date": "Jul 21, 2026",
@@ -5715,7 +4755,7 @@
     "is_future_event": true
   },
   {
-    "index": 382,
+    "index": 318,
     "title": "Sincere Engineer",
     "start_date": "2026-07-22 08:00:00",
     "formatted_date": "Jul 22, 2026",
@@ -5730,7 +4770,7 @@
     "is_future_event": true
   },
   {
-    "index": 383,
+    "index": 319,
     "title": "Sincere Engineer",
     "start_date": "2026-07-24 08:00:00",
     "formatted_date": "Jul 24, 2026",
@@ -5745,7 +4785,7 @@
     "is_future_event": true
   },
   {
-    "index": 384,
+    "index": 320,
     "title": "Sincere Engineer",
     "start_date": "2026-07-25 08:00:00",
     "formatted_date": "Jul 25, 2026",
@@ -5760,7 +4800,7 @@
     "is_future_event": true
   },
   {
-    "index": 385,
+    "index": 321,
     "title": "Sincere Engineer",
     "start_date": "2026-08-21 08:00:00",
     "formatted_date": "Aug 21, 2026",
@@ -5775,7 +4815,7 @@
     "is_future_event": true
   },
   {
-    "index": 386,
+    "index": 322,
     "title": "Sincere Engineer",
     "start_date": "2026-08-22 08:00:00",
     "formatted_date": "Aug 22, 2026",
@@ -5790,7 +4830,7 @@
     "is_future_event": true
   },
   {
-    "index": 387,
+    "index": 323,
     "title": "Sincere Engineer",
     "start_date": "2026-08-23 08:00:00",
     "formatted_date": "Aug 23, 2026",
@@ -5805,7 +4845,7 @@
     "is_future_event": true
   },
   {
-    "index": 388,
+    "index": 324,
     "title": "Sincere Engineer",
     "start_date": "2026-08-25 08:00:00",
     "formatted_date": "Aug 25, 2026",
@@ -5820,7 +4860,7 @@
     "is_future_event": true
   },
   {
-    "index": 389,
+    "index": 325,
     "title": "Sincere Engineer",
     "start_date": "2026-08-26 08:00:00",
     "formatted_date": "Aug 26, 2026",
@@ -5835,7 +4875,7 @@
     "is_future_event": true
   },
   {
-    "index": 390,
+    "index": 326,
     "title": "Sincere Engineer",
     "start_date": "2026-08-28 08:00:00",
     "formatted_date": "Aug 28, 2026",
@@ -5850,7 +4890,7 @@
     "is_future_event": true
   },
   {
-    "index": 391,
+    "index": 327,
     "title": "Sincere Engineer",
     "start_date": "2026-08-29 08:00:00",
     "formatted_date": "Aug 29, 2026",
@@ -5865,7 +4905,7 @@
     "is_future_event": true
   },
   {
-    "index": 392,
+    "index": 328,
     "title": "Sincere Engineer",
     "start_date": "2026-08-30 08:00:00",
     "formatted_date": "Aug 30, 2026",
@@ -5880,7 +4920,7 @@
     "is_future_event": true
   },
   {
-    "index": 393,
+    "index": 329,
     "title": "Sincere Engineer",
     "start_date": "2026-09-01 08:00:00",
     "formatted_date": "Sep 1, 2026",
@@ -5895,7 +4935,7 @@
     "is_future_event": true
   },
   {
-    "index": 394,
+    "index": 330,
     "title": "Sincere Engineer",
     "start_date": "2026-09-02 08:00:00",
     "formatted_date": "Sep 2, 2026",
@@ -5910,7 +4950,7 @@
     "is_future_event": true
   },
   {
-    "index": 395,
+    "index": 331,
     "title": "Sincere Engineer",
     "start_date": "2026-09-03 08:00:00",
     "formatted_date": "Sep 3, 2026",
@@ -5925,7 +4965,7 @@
     "is_future_event": true
   },
   {
-    "index": 396,
+    "index": 332,
     "title": "Sincere Engineer",
     "start_date": "2026-09-04 08:00:00",
     "formatted_date": "Sep 4, 2026",
@@ -5940,7 +4980,7 @@
     "is_future_event": true
   },
   {
-    "index": 397,
+    "index": 333,
     "title": "Sincere Engineer",
     "start_date": "2026-09-06 08:00:00",
     "formatted_date": "Sep 6, 2026",
@@ -5955,7 +4995,7 @@
     "is_future_event": true
   },
   {
-    "index": 398,
+    "index": 334,
     "title": "Sincere Engineer",
     "start_date": "2026-09-07 08:00:00",
     "formatted_date": "Sep 7, 2026",
@@ -5970,7 +5010,7 @@
     "is_future_event": true
   },
   {
-    "index": 399,
+    "index": 335,
     "title": "Sincere Engineer",
     "start_date": "2026-09-09 08:00:00",
     "formatted_date": "Sep 9, 2026",
@@ -5985,7 +5025,7 @@
     "is_future_event": true
   },
   {
-    "index": 400,
+    "index": 336,
     "title": "Sincere Engineer",
     "start_date": "2026-09-10 08:00:00",
     "formatted_date": "Sep 10, 2026",
@@ -6000,7 +5040,7 @@
     "is_future_event": true
   },
   {
-    "index": 401,
+    "index": 337,
     "title": "Sincere Engineer",
     "start_date": "2026-09-11 08:00:00",
     "formatted_date": "Sep 11, 2026",
@@ -6015,7 +5055,7 @@
     "is_future_event": true
   },
   {
-    "index": 402,
+    "index": 338,
     "title": "Sincere Engineer",
     "start_date": "2026-09-12 08:00:00",
     "formatted_date": "Sep 12, 2026",
@@ -6030,7 +5070,7 @@
     "is_future_event": true
   },
   {
-    "index": 403,
+    "index": 339,
     "title": "The Brokedowns",
     "start_date": "2026-04-17 08:00:00",
     "formatted_date": "Apr 17, 2026",
@@ -6045,7 +5085,7 @@
     "is_future_event": true
   },
   {
-    "index": 404,
+    "index": 340,
     "title": "Tired Radio",
     "start_date": "2026-06-12 08:00:00",
     "formatted_date": "Jun 12, 2026",
@@ -6060,7 +5100,7 @@
     "is_future_event": true
   },
   {
-    "index": 405,
+    "index": 341,
     "title": "Tired Radio",
     "start_date": "2026-06-14 08:00:00",
     "formatted_date": "Jun 14, 2026",
@@ -6075,7 +5115,7 @@
     "is_future_event": true
   },
   {
-    "index": 406,
+    "index": 342,
     "title": "Tired Radio",
     "start_date": "2026-06-15 08:00:00",
     "formatted_date": "Jun 15, 2026",
@@ -6090,7 +5130,7 @@
     "is_future_event": true
   },
   {
-    "index": 407,
+    "index": 343,
     "title": "Tired Radio",
     "start_date": "2026-06-16 08:00:00",
     "formatted_date": "Jun 16, 2026",
@@ -6105,7 +5145,7 @@
     "is_future_event": true
   },
   {
-    "index": 408,
+    "index": 344,
     "title": "Tired Radio",
     "start_date": "2026-06-17 08:00:00",
     "formatted_date": "Jun 17, 2026",
@@ -6120,7 +5160,7 @@
     "is_future_event": true
   },
   {
-    "index": 409,
+    "index": 345,
     "title": "Tired Radio",
     "start_date": "2026-06-18 08:00:00",
     "formatted_date": "Jun 18, 2026",
@@ -6135,7 +5175,7 @@
     "is_future_event": true
   },
   {
-    "index": 410,
+    "index": 346,
     "title": "Tired Radio",
     "start_date": "2026-06-19 08:00:00",
     "formatted_date": "Jun 19, 2026",
@@ -6150,7 +5190,7 @@
     "is_future_event": true
   },
   {
-    "index": 411,
+    "index": 347,
     "title": "Tired Radio",
     "start_date": "2026-06-20 08:00:00",
     "formatted_date": "Jun 20, 2026",
@@ -6165,22 +5205,7 @@
     "is_future_event": true
   },
   {
-    "index": 412,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-07-20 08:00:00",
-    "formatted_date": "Jul 20, 2026",
-    "venue": {
-      "city": "Fargo",
-      "stateprovince": "ND",
-      "country": "United States",
-      "venue": "The Aquarium"
-    },
-    "description": "<p>With Tightwire and The Drowns!</p>",
-    "website": "https://tickpick.app/e/tbrfargo",
-    "is_future_event": true
-  },
-  {
-    "index": 413,
+    "index": 348,
     "title": "Tightwire",
     "start_date": "2026-07-20 08:00:00",
     "formatted_date": "Jul 20, 2026",
@@ -6195,22 +5220,7 @@
     "is_future_event": true
   },
   {
-    "index": 414,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-07-21 08:00:00",
-    "formatted_date": "Jul 21, 2026",
-    "venue": {
-      "city": "Sioux Falls",
-      "stateprovince": "SD",
-      "country": "United States",
-      "venue": "ICON"
-    },
-    "description": "<p>With Tightwire and The Drowns!</p>",
-    "website": "https://tickpick.app/e/tbrsf",
-    "is_future_event": true
-  },
-  {
-    "index": 415,
+    "index": 349,
     "title": "Tightwire",
     "start_date": "2026-07-21 08:00:00",
     "formatted_date": "Jul 21, 2026",
@@ -6225,22 +5235,7 @@
     "is_future_event": true
   },
   {
-    "index": 416,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-07-22 08:00:00",
-    "formatted_date": "Jul 22, 2026",
-    "venue": {
-      "city": "Rapid City",
-      "stateprovince": "SD",
-      "country": "United States",
-      "venue": "Aby's"
-    },
-    "description": "<p>With Tightwire and The Drowns!</p>",
-    "website": "https://tickpick.app/e/tbrrapid",
-    "is_future_event": true
-  },
-  {
-    "index": 417,
+    "index": 350,
     "title": "Tightwire",
     "start_date": "2026-07-22 08:00:00",
     "formatted_date": "Jul 22, 2026",
@@ -6255,22 +5250,7 @@
     "is_future_event": true
   },
   {
-    "index": 418,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-07-23 08:00:00",
-    "formatted_date": "Jul 23, 2026",
-    "venue": {
-      "city": "Billings",
-      "stateprovince": "MT",
-      "country": "United States",
-      "venue": "Craft Local"
-    },
-    "description": "<p>With Tightwire and The Drowns!</p>",
-    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-wthe-drowns-tightwire-tickets-1987274176558?aff=oddtdtcreator",
-    "is_future_event": true
-  },
-  {
-    "index": 419,
+    "index": 351,
     "title": "Tightwire",
     "start_date": "2026-07-23 08:00:00",
     "formatted_date": "Jul 23, 2026",
@@ -6285,22 +5265,7 @@
     "is_future_event": true
   },
   {
-    "index": 420,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-07-24 08:00:00",
-    "formatted_date": "Jul 24, 2026",
-    "venue": {
-      "city": "Glenrock",
-      "stateprovince": "WY",
-      "country": "United States",
-      "venue": "Glenrock Town Square"
-    },
-    "description": "<p>With Tightwire and The Drowns!</p>",
-    "website": "https://www.facebook.com/events/1314488397162940",
-    "is_future_event": true
-  },
-  {
-    "index": 421,
+    "index": 352,
     "title": "Tightwire",
     "start_date": "2026-07-24 08:00:00",
     "formatted_date": "Jul 24, 2026",
@@ -6315,22 +5280,7 @@
     "is_future_event": true
   },
   {
-    "index": 422,
-    "title": "Teenage Bottlerocket",
-    "start_date": "2026-07-25 08:00:00",
-    "formatted_date": "Jul 25, 2026",
-    "venue": {
-      "city": "Boulder",
-      "stateprovince": "CO",
-      "country": "United States",
-      "venue": "Fox Theatre"
-    },
-    "description": "<p>With Tightwire and The Drowns!</p>",
-    "website": "https://www.axs.com/events/1405895/?skin=foxtheatre",
-    "is_future_event": true
-  },
-  {
-    "index": 423,
+    "index": 353,
     "title": "Tightwire",
     "start_date": "2026-07-25 08:00:00",
     "formatted_date": "Jul 25, 2026",
@@ -6345,7 +5295,7 @@
     "is_future_event": true
   },
   {
-    "index": 424,
+    "index": 354,
     "title": "The Menzingers",
     "start_date": "2025-09-27 08:00:00",
     "formatted_date": "Sep 27, 2025",
@@ -6360,7 +5310,7 @@
     "is_future_event": true
   },
   {
-    "index": 425,
+    "index": 355,
     "title": "The Menzingers",
     "start_date": "2026-03-20 08:00:00",
     "formatted_date": "Mar 20, 2026",
@@ -6375,7 +5325,7 @@
     "is_future_event": true
   },
   {
-    "index": 426,
+    "index": 356,
     "title": "The Menzingers",
     "start_date": "2026-03-21 08:00:00",
     "formatted_date": "Mar 21, 2026",
@@ -6390,7 +5340,7 @@
     "is_future_event": true
   },
   {
-    "index": 427,
+    "index": 357,
     "title": "The Menzingers",
     "start_date": "2026-03-22 08:00:00",
     "formatted_date": "Mar 22, 2026",
@@ -6405,7 +5355,7 @@
     "is_future_event": true
   },
   {
-    "index": 428,
+    "index": 358,
     "title": "The Menzingers",
     "start_date": "2026-03-24 08:00:00",
     "formatted_date": "Mar 24, 2026",
@@ -6420,7 +5370,7 @@
     "is_future_event": true
   },
   {
-    "index": 429,
+    "index": 359,
     "title": "The Menzingers",
     "start_date": "2026-03-26 08:00:00",
     "formatted_date": "Mar 26, 2026",
@@ -6435,7 +5385,7 @@
     "is_future_event": true
   },
   {
-    "index": 430,
+    "index": 360,
     "title": "The Menzingers",
     "start_date": "2026-03-27 08:00:00",
     "formatted_date": "Mar 27, 2026",
@@ -6450,7 +5400,7 @@
     "is_future_event": true
   },
   {
-    "index": 431,
+    "index": 361,
     "title": "The Menzingers",
     "start_date": "2026-03-29 08:00:00",
     "formatted_date": "Mar 29, 2026",
@@ -6465,7 +5415,7 @@
     "is_future_event": true
   },
   {
-    "index": 432,
+    "index": 362,
     "title": "The Menzingers",
     "start_date": "2026-03-31 08:00:00",
     "formatted_date": "Mar 31, 2026",
@@ -6480,7 +5430,7 @@
     "is_future_event": true
   },
   {
-    "index": 433,
+    "index": 363,
     "title": "The Menzingers",
     "start_date": "2026-04-01 08:00:00",
     "formatted_date": "Apr 01, 2026",
@@ -6495,7 +5445,7 @@
     "is_future_event": true
   },
   {
-    "index": 434,
+    "index": 364,
     "title": "The Menzingers",
     "start_date": "2026-04-02 08:00:00",
     "formatted_date": "Apr 02, 2026",
@@ -6510,7 +5460,7 @@
     "is_future_event": true
   },
   {
-    "index": 435,
+    "index": 365,
     "title": "The Menzingers",
     "start_date": "2026-04-03 08:00:00",
     "formatted_date": "Apr 03, 2026",
@@ -6525,7 +5475,7 @@
     "is_future_event": true
   },
   {
-    "index": 436,
+    "index": 366,
     "title": "The Menzingers",
     "start_date": "2026-04-04 08:00:00",
     "formatted_date": "Apr 04, 2026",
@@ -6540,7 +5490,7 @@
     "is_future_event": true
   },
   {
-    "index": 437,
+    "index": 367,
     "title": "The Menzingers",
     "start_date": "2026-04-06 08:00:00",
     "formatted_date": "Apr 06, 2026",
@@ -6555,7 +5505,7 @@
     "is_future_event": true
   },
   {
-    "index": 438,
+    "index": 368,
     "title": "The Menzingers",
     "start_date": "2026-04-07 08:00:00",
     "formatted_date": "Apr 07, 2026",
@@ -6570,7 +5520,7 @@
     "is_future_event": true
   },
   {
-    "index": 439,
+    "index": 369,
     "title": "The Menzingers",
     "start_date": "2026-04-09 08:00:00",
     "formatted_date": "Apr 09, 2026",
@@ -6585,7 +5535,7 @@
     "is_future_event": true
   },
   {
-    "index": 440,
+    "index": 370,
     "title": "The Menzingers",
     "start_date": "2026-04-10 08:00:00",
     "formatted_date": "Apr 10, 2026",
@@ -6600,7 +5550,7 @@
     "is_future_event": true
   },
   {
-    "index": 441,
+    "index": 371,
     "title": "The Menzingers",
     "start_date": "2026-04-11 08:00:00",
     "formatted_date": "Apr 11, 2026",
@@ -6615,7 +5565,7 @@
     "is_future_event": true
   },
   {
-    "index": 442,
+    "index": 372,
     "title": "The Menzingers",
     "start_date": "2026-04-12 08:00:00",
     "formatted_date": "Apr 12, 2026",
@@ -6630,7 +5580,7 @@
     "is_future_event": true
   },
   {
-    "index": 443,
+    "index": 373,
     "title": "The Menzingers",
     "start_date": "2026-05-01 08:00:00",
     "formatted_date": "May 01, 2026",
@@ -6645,7 +5595,7 @@
     "is_future_event": true
   },
   {
-    "index": 444,
+    "index": 374,
     "title": "The Menzingers",
     "start_date": "2026-05-23 08:00:00",
     "formatted_date": "May 23, 2026",
@@ -6660,7 +5610,7 @@
     "is_future_event": true
   },
   {
-    "index": 445,
+    "index": 375,
     "title": "The Menzingers",
     "start_date": "2026-05-24 08:00:00",
     "formatted_date": "May 24, 2026",
@@ -6675,7 +5625,7 @@
     "is_future_event": true
   },
   {
-    "index": 446,
+    "index": 376,
     "title": "The Menzingers",
     "start_date": "2026-06-26 08:00:00",
     "formatted_date": "Jun 26, 2026",
@@ -6690,7 +5640,7 @@
     "is_future_event": true
   },
   {
-    "index": 447,
+    "index": 377,
     "title": "The Menzingers",
     "start_date": "2026-06-27 08:00:00",
     "formatted_date": "Jun 27, 2026",
@@ -6705,7 +5655,7 @@
     "is_future_event": true
   },
   {
-    "index": 448,
+    "index": 378,
     "title": "The Menzingers",
     "start_date": "2026-05-07 08:00:00",
     "formatted_date": "May 07, 2026",
@@ -6720,7 +5670,7 @@
     "is_future_event": true
   },
   {
-    "index": 449,
+    "index": 379,
     "title": "The Menzingers",
     "start_date": "2026-05-09 08:00:00",
     "formatted_date": "May 09, 2026",
@@ -6735,7 +5685,7 @@
     "is_future_event": true
   },
   {
-    "index": 450,
+    "index": 380,
     "title": "The Menzingers",
     "start_date": "2026-06-13 08:00:00",
     "formatted_date": "Jun 13, 2026",
@@ -6750,7 +5700,7 @@
     "is_future_event": true
   },
   {
-    "index": 451,
+    "index": 381,
     "title": "The Menzingers",
     "start_date": "2026-06-25 08:00:00",
     "formatted_date": "Jun 25, 2026",
@@ -6765,7 +5715,7 @@
     "is_future_event": true
   },
   {
-    "index": 452,
+    "index": 382,
     "title": "The Menzingers",
     "start_date": "2026-06-28 08:00:00",
     "formatted_date": "Jun 28, 2026",
@@ -6780,7 +5730,7 @@
     "is_future_event": true
   },
   {
-    "index": 453,
+    "index": 383,
     "title": "The Menzingers",
     "start_date": "2026-08-21 08:00:00",
     "formatted_date": "Aug 21, 2026",
@@ -6795,7 +5745,7 @@
     "is_future_event": true
   },
   {
-    "index": 454,
+    "index": 384,
     "title": "The Menzingers",
     "start_date": "2026-09-24 08:00:00",
     "formatted_date": "Sep 24, 2026",
@@ -6810,7 +5760,7 @@
     "is_future_event": true
   },
   {
-    "index": 455,
+    "index": 385,
     "title": "Elway",
     "start_date": "2026-07-02 08:00:00",
     "formatted_date": "Jul 02, 2026",
@@ -6825,7 +5775,7 @@
     "is_future_event": true
   },
   {
-    "index": 456,
+    "index": 386,
     "title": "Tired Radio",
     "start_date": "2026-07-02 08:00:00",
     "formatted_date": "Jul 02, 2026",
@@ -6840,7 +5790,7 @@
     "is_future_event": true
   },
   {
-    "index": 457,
+    "index": 387,
     "title": "Elway",
     "start_date": "2026-07-03 08:00:00",
     "formatted_date": "Jul 03, 2026",
@@ -6855,7 +5805,7 @@
     "is_future_event": true
   },
   {
-    "index": 458,
+    "index": 388,
     "title": "Tired Radio",
     "start_date": "2026-07-03 08:00:00",
     "formatted_date": "Jul 03, 2026",
@@ -6870,7 +5820,7 @@
     "is_future_event": true
   },
   {
-    "index": 459,
+    "index": 389,
     "title": "Elway",
     "start_date": "2026-07-04 08:00:00",
     "formatted_date": "Jul 04, 2026",
@@ -6885,7 +5835,7 @@
     "is_future_event": true
   },
   {
-    "index": 460,
+    "index": 390,
     "title": "Tired Radio",
     "start_date": "2026-07-04 08:00:00",
     "formatted_date": "Jul 04, 2026",
@@ -6900,7 +5850,7 @@
     "is_future_event": true
   },
   {
-    "index": 461,
+    "index": 391,
     "title": "Elway",
     "start_date": "2026-07-05 08:00:00",
     "formatted_date": "Jul 05, 2026",
@@ -6915,7 +5865,7 @@
     "is_future_event": true
   },
   {
-    "index": 462,
+    "index": 392,
     "title": "Tired Radio",
     "start_date": "2026-07-05 08:00:00",
     "formatted_date": "Jul 05, 2026",
@@ -6930,7 +5880,7 @@
     "is_future_event": true
   },
   {
-    "index": 463,
+    "index": 393,
     "title": "Elway",
     "start_date": "2026-07-06 08:00:00",
     "formatted_date": "Jul 06, 2026",
@@ -6945,7 +5895,7 @@
     "is_future_event": true
   },
   {
-    "index": 464,
+    "index": 394,
     "title": "Tired Radio",
     "start_date": "2026-07-06 08:00:00",
     "formatted_date": "Jul 06, 2026",
@@ -6960,7 +5910,7 @@
     "is_future_event": true
   },
   {
-    "index": 465,
+    "index": 395,
     "title": "Elway",
     "start_date": "2026-07-07 08:00:00",
     "formatted_date": "Jul 07, 2026",
@@ -6975,7 +5925,7 @@
     "is_future_event": true
   },
   {
-    "index": 466,
+    "index": 396,
     "title": "Tired Radio",
     "start_date": "2026-07-07 08:00:00",
     "formatted_date": "Jul 07, 2026",
@@ -6990,7 +5940,7 @@
     "is_future_event": true
   },
   {
-    "index": 467,
+    "index": 397,
     "title": "Elway",
     "start_date": "2026-07-08 08:00:00",
     "formatted_date": "Jul 08, 2026",
@@ -7005,7 +5955,7 @@
     "is_future_event": true
   },
   {
-    "index": 468,
+    "index": 398,
     "title": "Tired Radio",
     "start_date": "2026-07-08 08:00:00",
     "formatted_date": "Jul 08, 2026",
@@ -7020,7 +5970,7 @@
     "is_future_event": true
   },
   {
-    "index": 469,
+    "index": 399,
     "title": "Elway",
     "start_date": "2026-07-09 08:00:00",
     "formatted_date": "Jul 09, 2026",
@@ -7035,7 +5985,7 @@
     "is_future_event": true
   },
   {
-    "index": 470,
+    "index": 400,
     "title": "Tired Radio",
     "start_date": "2026-07-09 08:00:00",
     "formatted_date": "Jul 09, 2026",
@@ -7050,7 +6000,7 @@
     "is_future_event": true
   },
   {
-    "index": 471,
+    "index": 401,
     "title": "Elway",
     "start_date": "2026-07-10 08:00:00",
     "formatted_date": "Jul 10, 2026",
@@ -7065,7 +6015,7 @@
     "is_future_event": true
   },
   {
-    "index": 472,
+    "index": 402,
     "title": "Tired Radio",
     "start_date": "2026-07-10 08:00:00",
     "formatted_date": "Jul 10, 2026",
@@ -7080,7 +6030,7 @@
     "is_future_event": true
   },
   {
-    "index": 473,
+    "index": 403,
     "title": "Elway",
     "start_date": "2026-07-11 08:00:00",
     "formatted_date": "Jul 11, 2026",
@@ -7095,7 +6045,7 @@
     "is_future_event": true
   },
   {
-    "index": 474,
+    "index": 404,
     "title": "Tired Radio",
     "start_date": "2026-07-11 08:00:00",
     "formatted_date": "Jul 11, 2026",
@@ -7110,7 +6060,7 @@
     "is_future_event": true
   },
   {
-    "index": 475,
+    "index": 405,
     "title": "Elway",
     "start_date": "2026-07-12 08:00:00",
     "formatted_date": "Jul 12, 2026",
@@ -7125,7 +6075,7 @@
     "is_future_event": true
   },
   {
-    "index": 476,
+    "index": 406,
     "title": "Tired Radio",
     "start_date": "2026-07-12 08:00:00",
     "formatted_date": "Jul 12, 2026",
@@ -7140,7 +6090,7 @@
     "is_future_event": true
   },
   {
-    "index": 477,
+    "index": 407,
     "title": "American Steel",
     "start_date": "2026-10-01 08:00:00",
     "formatted_date": "Oct 01, 2026",
@@ -7155,7 +6105,7 @@
     "is_future_event": true
   },
   {
-    "index": 478,
+    "index": 408,
     "title": "American Steel",
     "start_date": "2026-10-02 08:00:00",
     "formatted_date": "Oct 02, 2026",
@@ -7170,7 +6120,7 @@
     "is_future_event": true
   },
   {
-    "index": 479,
+    "index": 409,
     "title": "Sack",
     "start_date": "2026-06-04 08:00:00",
     "formatted_date": "Jun 04, 2026",
@@ -7185,7 +6135,7 @@
     "is_future_event": true
   },
   {
-    "index": 480,
+    "index": 410,
     "title": "Sack",
     "start_date": "2026-06-05 08:00:00",
     "formatted_date": "Jun 05, 2026",
@@ -7200,7 +6150,7 @@
     "is_future_event": true
   },
   {
-    "index": 481,
+    "index": 411,
     "title": "Sack",
     "start_date": "2026-06-06 08:00:00",
     "formatted_date": "Jun 06, 2026",
@@ -7215,7 +6165,7 @@
     "is_future_event": true
   },
   {
-    "index": 482,
+    "index": 412,
     "title": "Sack",
     "start_date": "2026-06-07 08:00:00",
     "formatted_date": "Jun 07, 2026",
@@ -7230,7 +6180,7 @@
     "is_future_event": true
   },
   {
-    "index": 483,
+    "index": 413,
     "title": "Sack",
     "start_date": "2026-06-09 08:00:00",
     "formatted_date": "Jun 09, 2026",
@@ -7245,7 +6195,7 @@
     "is_future_event": true
   },
   {
-    "index": 484,
+    "index": 414,
     "title": "Sack",
     "start_date": "2026-06-10 08:00:00",
     "formatted_date": "Jun 10, 2026",
@@ -7260,7 +6210,7 @@
     "is_future_event": true
   },
   {
-    "index": 485,
+    "index": 415,
     "title": "Sack",
     "start_date": "2026-06-11 08:00:00",
     "formatted_date": "Jun 11, 2026",
@@ -7275,7 +6225,7 @@
     "is_future_event": true
   },
   {
-    "index": 486,
+    "index": 416,
     "title": "Sack",
     "start_date": "2026-06-12 08:00:00",
     "formatted_date": "Jun 12, 2026",
@@ -7290,7 +6240,7 @@
     "is_future_event": true
   },
   {
-    "index": 487,
+    "index": 417,
     "title": "Sack",
     "start_date": "2026-06-13 08:00:00",
     "formatted_date": "Jun 13, 2026",
@@ -7305,7 +6255,7 @@
     "is_future_event": true
   },
   {
-    "index": 488,
+    "index": 418,
     "title": "Elway",
     "start_date": "2026-10-23 08:00:00",
     "formatted_date": "Oct 23, 2026",
@@ -7315,12 +6265,12 @@
       "country": "United States",
       "venue": "The Fest"
     },
-    "description":null,
+    "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
     "is_future_event": true
   },
   {
-    "index": 489,
+    "index": 419,
     "title": "Brendan Kelly",
     "start_date": "2026-10-23 08:00:00",
     "formatted_date": "Oct 23, 2026",
@@ -7332,10 +6282,10 @@
     },
     "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-     "is_future_event": true
+    "is_future_event": true
   },
   {
-    "index": 490,
+    "index": 420,
     "title": "MakeWar",
     "start_date": "2026-10-23 08:00:00",
     "formatted_date": "Oct 23, 2026",
@@ -7347,10 +6297,10 @@
     },
     "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-     "is_future_event": true
+    "is_future_event": true
   },
   {
-    "index": 491,
+    "index": 421,
     "title": "Tightwire",
     "start_date": "2026-10-23 08:00:00",
     "formatted_date": "Oct 23, 2026",
@@ -7362,10 +6312,10 @@
     },
     "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-     "is_future_event": true
+    "is_future_event": true
   },
   {
-    "index": 492,
+    "index": 422,
     "title": "The Bollweevils",
     "start_date": "2026-10-23 08:00:00",
     "formatted_date": "Oct 23, 2026",
@@ -7377,10 +6327,10 @@
     },
     "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-    "is_future_event": true 
+    "is_future_event": true
   },
   {
-    "index": 493,
+    "index": 423,
     "title": "Won't Stay Dead",
     "start_date": "2026-10-24 08:00:00",
     "formatted_date": "Oct 24, 2026",
@@ -7392,70 +6342,70 @@
     },
     "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-    "is_future_event": true 
-   },
-  {
-  "index": 494,
-  "title": "Elway",
-  "start_date": "2026-10-24 08:00:00",
-  "formatted_date": "Oct 24, 2026",
-  "venue": {
-    "city": "Gainesville",
-    "stateprovince": "FL",
-    "country": "United States",
-    "venue": "The Fest"
-  },
-  "description": "<p>Acoustic set!</p>",
-  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-  "is_future_event": true 
+    "is_future_event": true
   },
   {
-  "index": 495,
-  "title": "The Copyrights",
-  "start_date": "2026-10-25 08:00:00",
-  "formatted_date": "Oct 25, 2026",
-  "venue": {
-    "city": "Gainesville",
-    "stateprovince": "FL",
-    "country": "United States",
-    "venue": "The Fest"
-  },
-  "description": null,
-  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-    "is_future_event": true 
-  },
-  {
-  "index": 496,
-  "title": "Tightwire",
-  "start_date": "2026-10-24 08:00:00",
-  "formatted_date": "Oct 24, 2026",
-  "venue": {
-    "city": "Gainesville",
-    "stateprovince": "FL",
-    "country": "United States",
-    "venue": "The Fest"
-  },
-  "description": "<p>Acoustic set!</p>",
-  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-    "is_future_event": true 
+    "index": 424,
+    "title": "Elway",
+    "start_date": "2026-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Fest"
+    },
+    "description": "<p>Acoustic set!</p>",
+    "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+    "is_future_event": true
   },
   {
-  "index": 497,
-  "title": "MakeWar",
-  "start_date": "2026-10-25 08:00:00",
-  "formatted_date": "Oct 25, 2026",
-  "venue": {
-    "city": "Gainesville",
-    "stateprovince": "FL",
-    "country": "United States",
-    "venue": "The Fest"
-  },
-  "description": "<p>Acoustic set!</p>",
-  "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-    "is_future_event": true 
+    "index": 425,
+    "title": "The Copyrights",
+    "start_date": "2026-10-25 08:00:00",
+    "formatted_date": "Oct 25, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Fest"
+    },
+    "description": null,
+    "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+    "is_future_event": true
   },
   {
-    "index": 498,
+    "index": 426,
+    "title": "Tightwire",
+    "start_date": "2026-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Fest"
+    },
+    "description": "<p>Acoustic set!</p>",
+    "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+    "is_future_event": true
+  },
+  {
+    "index": 427,
+    "title": "MakeWar",
+    "start_date": "2026-10-25 08:00:00",
+    "formatted_date": "Oct 25, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Fest"
+    },
+    "description": "<p>Acoustic set!</p>",
+    "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
+    "is_future_event": true
+  },
+  {
+    "index": 428,
     "title": "Tired Radio",
     "start_date": "2026-10-25 08:00:00",
     "formatted_date": "Oct 25, 2026",
@@ -7467,10 +6417,10 @@
     },
     "description": "<p>Acoustic set!</p>",
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-    "is_future_event": true 
+    "is_future_event": true
   },
   {
-    "index": 499,
+    "index": 429,
     "title": "Tired Radio",
     "start_date": "2026-10-23 08:00:00",
     "formatted_date": "Oct 23, 2026",
@@ -7482,10 +6432,10 @@
     },
     "description": null,
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
-      "is_future_event": true
+    "is_future_event": true
   },
   {
-    "index": 500,
+    "index": 430,
     "title": "Sludgeworth",
     "start_date": "2026-08-29 08:00:00",
     "formatted_date": "Aug 29, 2026",
@@ -7497,10 +6447,10 @@
     },
     "description": "<p>With The Copyrights and Feral Tact!</p>",
     "website": "https://dice.fm/partner/tickets/event/wwd5dx-sludgeworth-the-copyrights-feral-tact-29th-aug-cobra-lounge-chicago-tickets",
-    "is_future_event": true 
+    "is_future_event": true
   },
   {
-    "index": 501,
+    "index": 431,
     "title": "The Copyrights",
     "start_date": "2026-08-29 08:00:00",
     "formatted_date": "Aug 29, 2026",
@@ -7512,10 +6462,10 @@
     },
     "description": "<p>With Sludgeworth and Feral Tact!</p>",
     "website": "https://dice.fm/partner/tickets/event/wwd5dx-sludgeworth-the-copyrights-feral-tact-29th-aug-cobra-lounge-chicago-tickets",
-    "is_future_event": true 
+    "is_future_event": true
   },
   {
-    "index": 502,
+    "index": 432,
     "title": "Sludgeworth",
     "start_date": "2026-08-30 08:00:00",
     "formatted_date": "Aug 30, 2026",
@@ -7527,10 +6477,10 @@
     },
     "description": "<p>With The Brokedowns and Josh Caterer(Smoking Popes)!</p>",
     "website": "https://dice.fm/partner/tickets/event/2w676p-sludgeworth-the-brokedowns-josh-caterer-30th-aug-cobra-lounge-chicago-tickets",
-    "is_future_event": true 
+    "is_future_event": true
   },
   {
-    "index": 503,
+    "index": 433,
     "title": "The Brokedowns",
     "start_date": "2026-08-30 08:00:00",
     "formatted_date": "Aug 30, 2026",
@@ -7542,10 +6492,10 @@
     },
     "description": "<p>With Sludgeworth and Josh Caterer(Smoking Popes)!</p>",
     "website": "https://dice.fm/partner/tickets/event/2w676p-sludgeworth-the-brokedowns-josh-caterer-30th-aug-cobra-lounge-chicago-tickets",
-    "is_future_event": true 
+    "is_future_event": true
   },
   {
-    "index": 504,
+    "index": 434,
     "title": "Sam Russo",
     "start_date": "2026-06-12 08:00:00",
     "formatted_date": "Jun 12, 2026",
@@ -7560,7 +6510,7 @@
     "is_future_event": true
   },
   {
-    "index": 505,
+    "index": 435,
     "title": "Sincere Engineer",
     "start_date": "2027-01-14 08:00:00",
     "formatted_date": "Jan 14, 2027",
@@ -7575,7 +6525,7 @@
     "is_future_event": true
   },
   {
-    "index": 506,
+    "index": 436,
     "title": "Sincere Engineer",
     "start_date": "2027-01-15 08:00:00",
     "formatted_date": "Jan 15, 2027",
@@ -7590,7 +6540,7 @@
     "is_future_event": true
   },
   {
-    "index": 507,
+    "index": 437,
     "title": "Sincere Engineer",
     "start_date": "2027-01-16 08:00:00",
     "formatted_date": "Jan 16, 2027",
@@ -7605,7 +6555,7 @@
     "is_future_event": true
   },
   {
-    "index": 508,
+    "index": 438,
     "title": "Sincere Engineer",
     "start_date": "2027-01-17 08:00:00",
     "formatted_date": "Jan 17, 2027",
@@ -7620,7 +6570,7 @@
     "is_future_event": true
   },
   {
-    "index": 509,
+    "index": 439,
     "title": "Sincere Engineer",
     "start_date": "2027-01-19 08:00:00",
     "formatted_date": "Jan 19, 2027",
@@ -7635,7 +6585,7 @@
     "is_future_event": true
   },
   {
-    "index": 510,
+    "index": 440,
     "title": "Sincere Engineer",
     "start_date": "2027-01-21 08:00:00",
     "formatted_date": "Jan 21, 2027",
@@ -7650,7 +6600,7 @@
     "is_future_event": true
   },
   {
-    "index": 511,
+    "index": 441,
     "title": "Sincere Engineer",
     "start_date": "2027-01-22 08:00:00",
     "formatted_date": "Jan 22, 2027",
@@ -7665,7 +6615,7 @@
     "is_future_event": true
   },
   {
-    "index": 512,
+    "index": 442,
     "title": "Sincere Engineer",
     "start_date": "2027-01-23 08:00:00",
     "formatted_date": "Jan 23, 2027",
@@ -7680,7 +6630,7 @@
     "is_future_event": true
   },
   {
-    "index": 513,
+    "index": 443,
     "title": "Sincere Engineer",
     "start_date": "2027-01-24 08:00:00",
     "formatted_date": "Jan 24, 2027",
@@ -7695,7 +6645,7 @@
     "is_future_event": true
   },
   {
-    "index": 514,
+    "index": 444,
     "title": "Sincere Engineer",
     "start_date": "2027-01-27 08:00:00",
     "formatted_date": "Jan 27, 2027",
@@ -7710,7 +6660,7 @@
     "is_future_event": true
   },
   {
-    "index": 515,
+    "index": 445,
     "title": "Sincere Engineer",
     "start_date": "2027-01-28 08:00:00",
     "formatted_date": "Jan 28, 2027",
@@ -7725,7 +6675,7 @@
     "is_future_event": true
   },
   {
-    "index": 516,
+    "index": 446,
     "title": "Sincere Engineer",
     "start_date": "2027-01-29 08:00:00",
     "formatted_date": "Jan 29, 2027",
@@ -7740,7 +6690,7 @@
     "is_future_event": true
   },
   {
-    "index": 517,
+    "index": 447,
     "title": "Sincere Engineer",
     "start_date": "2027-01-30 08:00:00",
     "formatted_date": "Jan 30, 2027",
@@ -7755,7 +6705,7 @@
     "is_future_event": true
   },
   {
-    "index": 518,
+    "index": 448,
     "title": "Sincere Engineer",
     "start_date": "2027-01-26 08:00:00",
     "formatted_date": "Jan 26, 2027",
@@ -7768,5 +6718,1220 @@
     "description": "<p>SOLO with Dave Hause and the Mermaid!</p>",
     "website": "https://www.mightysounds.cz/en/akce/dave-house-support/",
     "is_future_event": true
-   }
+  },
+  {
+    "index": 449,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-12 08:00:00",
+    "formatted_date": "Aug 12, 2025",
+    "venue": {
+      "city": "Winnipeg",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Sidestage"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-broadway-sidestage-tickets/14491653?pl=sidestage",
+    "is_future_event": true
+  },
+  {
+    "index": 450,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-13 08:00:00",
+    "formatted_date": "Aug 13, 2025",
+    "venue": {
+      "city": "Saskatoon",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Black Cat Tavern"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://show.ps/l/b64e8e2b/",
+    "is_future_event": true
+  },
+  {
+    "index": 451,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2025",
+    "venue": {
+      "city": "Edmonton",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "The Starlite Room"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottle-rocket-the-starlite-room-tickets/13759074?pl=ConcertWorks",
+    "is_future_event": true
+  },
+  {
+    "index": 452,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-15 08:00:00",
+    "formatted_date": "Aug 15, 2025",
+    "venue": {
+      "city": "Calgary",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Dickens"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.eventbrite.ca/e/1373876153559?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 453,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2025",
+    "venue": {
+      "city": "Kelowna",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Jackknife"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://www.eventbrite.ca/e/teenage-bottlerocket-w-broadway-calls-kelowna-bc-tickets-1378179113829?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 454,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-08-17 08:00:00",
+    "formatted_date": "Aug 17, 2025",
+    "venue": {
+      "city": "Vancouver",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Rickshaw Theatre"
+    },
+    "description": "<p>With Broadway Calls!</p>",
+    "website": "https://tbr-vancouver.eventbrite.ca/",
+    "is_future_event": true
+  },
+  {
+    "index": 455,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-23 08:00:00",
+    "formatted_date": "Sep 23, 2025",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Palasad SocialBowl"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.showpass.com/teenage-bottlerocket-socialbowl/",
+    "is_future_event": true
+  },
+  {
+    "index": 456,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-24 08:00:00",
+    "formatted_date": "Sep 24, 2025",
+    "venue": {
+      "city": "Toronto",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Hard Luck Bar"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.showclix.com/tickets/TBR",
+    "is_future_event": true
+  },
+  {
+    "index": 457,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-25 08:00:00",
+    "formatted_date": "Sep 25, 2025",
+    "venue": {
+      "city": "Kingston",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "The Mansion"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://fannatickets.com/event/sep-25-teenage-bottlerocket-and-we-were-sharks-at-the-mansion-kingston-565/register",
+    "is_future_event": true
+  },
+  {
+    "index": 458,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-26 08:00:00",
+    "formatted_date": "Sep 26, 2025",
+    "venue": {
+      "city": "Montreal",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "Les Foufounes"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.universe.com/events/teenage-bottlerocket-tickets-ZPTV1H",
+    "is_future_event": true
+  },
+  {
+    "index": 459,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-27 08:00:00",
+    "formatted_date": "Sep 27, 2025",
+    "venue": {
+      "city": "Quebec City",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "L&#8217;Anti"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://lepointdevente.com/billets/d7p250927001",
+    "is_future_event": true
+  },
+  {
+    "index": 460,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-09-28 08:00:00",
+    "formatted_date": "Sep 28, 2025",
+    "venue": {
+      "city": "Ottawa",
+      "stateprovince": "",
+      "country": "Canada",
+      "venue": "The 27 Club"
+    },
+    "description": "<p>With We Were Sharks!</p>",
+    "website": "https://www.ticketweb.ca/event/teenage-bottlerocket-the-dopamines-the-27-club-tickets/14490963?pl=spectrasonic&amp;refid=TBR",
+    "is_future_event": true
+  },
+  {
+    "index": 461,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-13 08:00:00",
+    "formatted_date": "Nov 13, 2025",
+    "venue": {
+      "city": "Albuquerque",
+      "stateprovince": "NM",
+      "country": "United States",
+      "venue": "Launchpad"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://holdmyticket.com/event/450975",
+    "is_future_event": true
+  },
+  {
+    "index": 462,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-14 08:00:00",
+    "formatted_date": "Nov 14, 2025",
+    "venue": {
+      "city": "Tucson",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Congress Hall"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://link.dice.fm/i8b824742dbb",
+    "is_future_event": true
+  },
+  {
+    "index": 463,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-15 08:00:00",
+    "formatted_date": "Nov 15, 2025",
+    "venue": {
+      "city": "Tempe",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Yucca Tap Room"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-yucca-tap-room-tickets/13890404",
+    "is_future_event": true
+  },
+  {
+    "index": 464,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-16 08:00:00",
+    "formatted_date": "Nov 16, 2025",
+    "venue": {
+      "city": "San Diego",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Brick By Brick"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-special-guests-brick-by-brick-tickets/13888364?pl=brickbybrick",
+    "is_future_event": true
+  },
+  {
+    "index": 465,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-18 08:00:00",
+    "formatted_date": "Nov 18, 2025",
+    "venue": {
+      "city": "Las Vegas",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "The Usual Place"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.eventbrite.com/e/1508230109859/preview/",
+    "is_future_event": true
+  },
+  {
+    "index": 466,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-19 08:00:00",
+    "formatted_date": "Nov 19, 2025",
+    "venue": {
+      "city": "Riverside",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Romano&#8217;s Concert Lounge"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-w-fea-sam-russo-tickets-1510817569019?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 467,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-20 08:00:00",
+    "formatted_date": "Nov 20, 2025",
+    "venue": {
+      "city": "San Francisco",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Bottom of the Hill"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "http://www.bottomofthehill.com/stubmatic/event20251120.html",
+    "is_future_event": true
+  },
+  {
+    "index": 468,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-21 08:00:00",
+    "formatted_date": "Nov 21, 2025",
+    "venue": {
+      "city": "Sacramento",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Goldfield Trading Post"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.eventim.us/event/teenage-bottlerocket/658376",
+    "is_future_event": true
+  },
+  {
+    "index": 469,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-22 08:00:00",
+    "formatted_date": "Nov 22, 2025",
+    "venue": {
+      "city": "San Jose",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Ritz"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-fea-sam-russo-the-ritz-tickets/13898734",
+    "is_future_event": true
+  },
+  {
+    "index": 470,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-23 08:00:00",
+    "formatted_date": "Nov 23, 2025",
+    "venue": {
+      "city": "Reno",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "Virginia St. Brewhouse"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-with-fea-sam-virginia-street-brewhouse-tickets/13888884",
+    "is_future_event": true
+  },
+  {
+    "index": 471,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-10 08:00:00",
+    "formatted_date": "Dec 10, 2025",
+    "venue": {
+      "city": "Corpus Christi",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "House of Rock"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.etix.com/ticket/p/56425516/teenage-bottlerocket-corpus-christi-house-of-rock",
+    "is_future_event": true
+  },
+  {
+    "index": 472,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-11 08:00:00",
+    "formatted_date": "Dec 11, 2025",
+    "venue": {
+      "city": "Houston",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "White Oak"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.ticketmaster.com/event/3A0062F2D89357BF",
+    "is_future_event": true
+  },
+  {
+    "index": 473,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2025",
+    "venue": {
+      "city": "San Antonio",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Paper Tiger"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket/658565?afflky=PaperTiger",
+    "is_future_event": true
+  },
+  {
+    "index": 474,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-14 08:00:00",
+    "formatted_date": "Dec 14, 2025",
+    "venue": {
+      "city": "Oklahoma City",
+      "stateprovince": "OK",
+      "country": "United States",
+      "venue": "Resonant Head"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.prekindle.com/event/16323-teenage-bottlerocket-oklahoma-city",
+    "is_future_event": true
+  },
+  {
+    "index": 475,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-16 08:00:00",
+    "formatted_date": "Dec 16, 2025",
+    "venue": {
+      "city": "Kansas City",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "recordBar"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://link.dice.fm/q85d52f0a5af",
+    "is_future_event": true
+  },
+  {
+    "index": 476,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-17 08:00:00",
+    "formatted_date": "Dec 17, 2025",
+    "venue": {
+      "city": "Columbia",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "Rose Music Hall"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.ticketmaster.com/event/060062F1C3AC485F",
+    "is_future_event": true
+  },
+  {
+    "index": 477,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-18 08:00:00",
+    "formatted_date": "Dec 18, 2025",
+    "venue": {
+      "city": "Davenport",
+      "stateprovince": "IA",
+      "country": "United States",
+      "venue": "Raccoon Motel"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://link.dice.fm/R5eb82ed7b0f",
+    "is_future_event": true
+  },
+  {
+    "index": 478,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-19 08:00:00",
+    "formatted_date": "Dec 19, 2025",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Skank Hall"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-boris-the-shank-hall-tickets/13894864?pl=shank",
+    "is_future_event": true
+  },
+  {
+    "index": 479,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-12-20 08:00:00",
+    "formatted_date": "Dec 20, 2025",
+    "venue": {
+      "city": "West Dundee",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Rochaus"
+    },
+    "description": "<p>With Fea and Rodeo Boys!</p>",
+    "website": "https://eventim.us/event/teenage-bottlerocket/658760",
+    "is_future_event": true
+  },
+  {
+    "index": 480,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2025-11-17 08:00:00",
+    "formatted_date": "Nov 17, 2025",
+    "venue": {
+      "city": "Long Beach",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Alex's Bar"
+    },
+    "description": "<p>With Sam Russo!</p>",
+    "website": "https://dice.fm/partner/tickets/event/av76ad?dice_id=7335919&dice_channel=web&dice_tags=organic&dice_campaign=Alex%27s%20Bar&dice_feature=mio_marketing&_branch_match_id=1504848948139823881&utm_source=web&utm_campaign=Alex%27s%20Bar&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XdKSUwzTTU0skwxMrGvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQApdpHbOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 481,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-10 08:00:00",
+    "formatted_date": "Feb 10, 2026",
+    "venue": {
+      "city": "Pensacola",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Handlebar"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://thehandlebar850.com/hb-events/02-10-26-Teenage-Bottlerocket-Authority-Zero-Billy-Liar",
+    "is_future_event": true
+  },
+  {
+    "index": 482,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-11 08:00:00",
+    "formatted_date": "Feb 11, 2026",
+    "venue": {
+      "city": "Orlando",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Conduit"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-authority-zero-and-conduit-tickets/14724123",
+    "is_future_event": true
+  },
+  {
+    "index": 483,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-12 08:00:00",
+    "formatted_date": "Feb 12, 2026",
+    "venue": {
+      "city": "Tampa",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Brass Mug"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://elevatedbooking.bigcartel.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 484,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-13 08:00:00",
+    "formatted_date": "Feb 13, 2026",
+    "venue": {
+      "city": "Jacksonville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "Jack Rabbits"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.etix.com/ticket/p/82775391/teenage-bottlerocketauthority-zerobilly-liar-jacksonville-jack-rabbits-live",
+    "is_future_event": true
+  },
+  {
+    "index": 485,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-14 08:00:00",
+    "formatted_date": "Feb 14, 2026",
+    "venue": {
+      "city": "Atlanta",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "The Loft"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.ticketmaster.com/event/0E006381CF16A412",
+    "is_future_event": true
+  },
+  {
+    "index": 486,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-02-15 08:00:00",
+    "formatted_date": "Feb 15, 2026",
+    "venue": {
+      "city": "Nashville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "Eastside Bowl"
+    },
+    "description": "<p>With Authority Zero and Billy Liar!</p>",
+    "website": "https://www.eventim.us/event/teenage-bottlerocket/673068",
+    "is_future_event": true
+  },
+  {
+    "index": 487,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-25 08:00:00",
+    "formatted_date": "Mar 25, 2026",
+    "venue": {
+      "city": "Colorado Springs",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Black Sheep"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-sam-black-sheep-tickets/14001824?pl=blacksheep",
+    "is_future_event": true
+  },
+  {
+    "index": 488,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-26 08:00:00",
+    "formatted_date": "Mar 26, 2026",
+    "venue": {
+      "city": "Fort Collins",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Sound Bar"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://link.dice.fm/q97f018ec53b",
+    "is_future_event": true
+  },
+  {
+    "index": 489,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-27 08:00:00",
+    "formatted_date": "Mar 27, 2026",
+    "venue": {
+      "city": "Casper",
+      "stateprovince": "WY",
+      "country": "United States",
+      "venue": "Oil City Beer Co."
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/1977785218830?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 490,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-28 08:00:00",
+    "formatted_date": "Mar 28, 2026",
+    "venue": {
+      "city": "Denver",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Federal Theatre"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://thefederaltheatre.holdmyticket.com/tickets/455957",
+    "is_future_event": true
+  },
+  {
+    "index": 491,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-29 08:00:00",
+    "formatted_date": "Mar 29, 2026",
+    "venue": {
+      "city": "Laramie",
+      "stateprovince": "WY",
+      "country": "United States",
+      "venue": "Gryphon Theatre"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-tickets-1977627348636",
+    "is_future_event": true
+  },
+  {
+    "index": 492,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-30 08:00:00",
+    "formatted_date": "Mar 30, 2026",
+    "venue": {
+      "city": "Omaha",
+      "stateprovince": "NE",
+      "country": "United States",
+      "venue": "Waiting Room"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.etix.com/ticket/p/46229959/",
+    "is_future_event": true
+  },
+  {
+    "index": 493,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-03-31 08:00:00",
+    "formatted_date": "Mar 31, 2026",
+    "venue": {
+      "city": "Minneapolis",
+      "stateprovince": "MN",
+      "country": "United States",
+      "venue": "Green Room"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-w-the-dopamines-green-room-mpls-tickets/14001124",
+    "is_future_event": true
+  },
+  {
+    "index": 494,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-01 08:00:00",
+    "formatted_date": "Apr 01, 2026",
+    "venue": {
+      "city": "Green Bay",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Green Bay Distillery"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-the-dopamines-sam-russo-tour-april-1st-2026-tickets-1977527035597?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 495,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-02 08:00:00",
+    "formatted_date": "Apr 02, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Reggie's"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-dopamines-reggies-rock-club-tickets/13990904",
+    "is_future_event": true
+  },
+  {
+    "index": 496,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-03 08:00:00",
+    "formatted_date": "Apr 03, 2026",
+    "venue": {
+      "city": "Cincinnati",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Bogart's"
+    },
+    "description": "<p>With Sam Russo, the Dopamines, and Heart & Lung!</p>",
+    "website": "https://www.ticketmaster.com/event/1600638AE6CECD4C",
+    "is_future_event": true
+  },
+  {
+    "index": 497,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-04 08:00:00",
+    "formatted_date": "Apr 04, 2026",
+    "venue": {
+      "city": "St. Louis",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "Blueberry Hill"
+    },
+    "description": "<p>With Sam Russo and the Dopamines!</p>",
+    "website": "https://www.etix.com/ticket/p/57120366/teenage-bottlerocket-stlouis-blueberry-hill-duck-room",
+    "is_future_event": true
+  },
+  {
+    "index": 498,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-21 08:00:00",
+    "formatted_date": "Apr 21, 2026",
+    "venue": {
+      "city": "Salt Lake City",
+      "stateprovince": "UT",
+      "country": "United States",
+      "venue": "Aces High Saloon"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://www.24tix.com/event/10539908319",
+    "is_future_event": true
+  },
+  {
+    "index": 499,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-22 08:00:00",
+    "formatted_date": "Apr 22, 2026",
+    "venue": {
+      "city": "Boise",
+      "stateprovince": "ID",
+      "country": "United States",
+      "venue": "Shrine Social Club"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://link.dice.fm/e0aa1e6d17bd",
+    "is_future_event": true
+  },
+  {
+    "index": 500,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-23 08:00:00",
+    "formatted_date": "Apr 23, 2026",
+    "venue": {
+      "city": "Spokane",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Big Dipper"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://monumentalshows.com/event/458107",
+    "is_future_event": true
+  },
+  {
+    "index": 501,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-24 08:00:00",
+    "formatted_date": "Apr 24, 2026",
+    "venue": {
+      "city": "Tacoma",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Airport Tavern"
+    },
+    "description": "<p>With Tightwire!</p>",
+    "website": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=679402",
+    "is_future_event": true
+  },
+  {
+    "index": 502,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-04-25 08:00:00",
+    "formatted_date": "Apr 25, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "OR",
+      "country": "United States",
+      "venue": "Dante's"
+    },
+    "description": "<p>With Tightwire and Broadway Calls!</p>",
+    "website": "https://www.axs.com/events/1253308/goldfinger-tickets?skin=showboxpresents",
+    "is_future_event": true
+  },
+  {
+    "index": 503,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-20 08:00:00",
+    "formatted_date": "Jun 20, 2026",
+    "venue": {
+      "city": "Providence",
+      "stateprovince": "RI",
+      "country": "United States",
+      "venue": "Alchemy"
+    },
+    "description": "<p>With The Holy Mess!</p>",
+    "website": "https://dice.fm/partner/tickets/event/q2wbgx-teenage-bottlerocket-the-holy-mess-20th-jun-alchemy-providence-tickets?dice_id=8747200&dice_channel=web&dice_tags=organic&dice_campaign=Chestnut+Street+Enterprises+dba+Alchemy&dice_feature=mio_marketing&_branch_match_id=1563553823666514945&utm_source=web&utm_campaign=Chestnut+Street+Enterprises+dba+Alchemy&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9OSzazSE4xMUhKtLSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBDHzLMOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 504,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-18 08:00:00",
+    "formatted_date": "Jun 18, 2026",
+    "venue": {
+      "city": "Virginia Beach",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "Bunker Brew Pub"
+    },
+    "description": "<p>With The Holy Mess and Keep Flying!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-the-holy-mess-keep-flying-at-the-bunker-vb-tickets-1985529078924",
+    "is_future_event": true
+  },
+  {
+    "index": 505,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-21 08:00:00",
+    "formatted_date": "Jun 21, 2026",
+    "venue": {
+      "city": "Lowell",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Taffeta Music Hall"
+    },
+    "description": "<p>With The Holy Mess!</p>",
+    "website": "https://www.taffetamusic.com/shows/teenage-bottlerocket-21-jun#tickets",
+    "is_future_event": true
+  },
+  {
+    "index": 506,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-22 08:00:00",
+    "formatted_date": "Jun 22, 2026",
+    "venue": {
+      "city": "New York City",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "TV Eye"
+    },
+    "description": "<p>With The Holy Mess!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket-the-holy-mess/685233?afflky=TVEye",
+    "is_future_event": true
+  },
+  {
+    "index": 507,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-23 08:00:00",
+    "formatted_date": "Jun 23, 2026",
+    "venue": {
+      "city": "Pittsburgh",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "The Funhouse at Mr. Smalls"
+    },
+    "description": "<p>With The Holy Mess!</p>",
+    "website": "https://www.ticketmaster.com/event/16006470EB6DC7A7",
+    "is_future_event": true
+  },
+  {
+    "index": 508,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-24 08:00:00",
+    "formatted_date": "Jun 24, 2026",
+    "venue": {
+      "city": "Columbus",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Ace of Cups"
+    },
+    "description": "<p>With The Holy Mess!</p>",
+    "website": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=685190",
+    "is_future_event": true
+  },
+  {
+    "index": 509,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-25 08:00:00",
+    "formatted_date": "Jun 25, 2026",
+    "venue": {
+      "city": "Cleveland",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "The Grog Shop"
+    },
+    "description": "<p>With Sludgeworth!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-sludgeworth-grog-shop-tickets/14789803",
+    "is_future_event": true
+  },
+  {
+    "index": 510,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-25 08:00:00",
+    "formatted_date": "Jun 25, 2026",
+    "venue": {
+      "city": "Detroit",
+      "stateprovince": "MI",
+      "country": "United States",
+      "venue": "The Sanctuary"
+    },
+    "description": "<p>With Sludgeworth!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-the-sanctuary-detroit-tickets/14790963?pl=sanctuary",
+    "is_future_event": true
+  },
+  {
+    "index": 511,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-26 08:00:00",
+    "formatted_date": "Jun 26, 2026",
+    "venue": {
+      "city": "Logansport",
+      "stateprovince": "IN",
+      "country": "United States",
+      "venue": "Bonus Pints"
+    },
+    "description": "<p>Punk Til I Die FREE concert series with Sludgeworth and more!</p>",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 512,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-19 08:00:00",
+    "formatted_date": "Jun 19, 2026",
+    "venue": {
+      "city": "Philadelphia",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "First Unitarian Church"
+    },
+    "description": "<p>With The Holy Mess!</p>",
+    "website": "https://dice.fm/partner/tickets/event/7dke7b-teenage-bottlerocket-punk-rock-in-philly-19th-jun-first-unitarian-church-of-philadelphia-philadelphia-tickets?dice_id=8787412&dice_channel=web&dice_tags=organic&dice_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&dice_feature=mio_marketing&_branch_match_id=1569716232210880812&utm_source=web&utm_campaign=Joe+McKay+dba+JOEHARDCORE+LLC&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9LSjJKM7JMszQ3srCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCkVoBaOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 513,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-07-20 08:00:00",
+    "formatted_date": "Jul 20, 2026",
+    "venue": {
+      "city": "Fargo",
+      "stateprovince": "ND",
+      "country": "United States",
+      "venue": "The Aquarium"
+    },
+    "description": "<p>With Tightwire and The Drowns!</p>",
+    "website": "https://tickpick.app/e/tbrfargo",
+    "is_future_event": true
+  },
+  {
+    "index": 514,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-07-21 08:00:00",
+    "formatted_date": "Jul 21, 2026",
+    "venue": {
+      "city": "Sioux Falls",
+      "stateprovince": "SD",
+      "country": "United States",
+      "venue": "ICON"
+    },
+    "description": "<p>With Tightwire and The Drowns!</p>",
+    "website": "https://tickpick.app/e/tbrsf",
+    "is_future_event": true
+  },
+  {
+    "index": 515,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-07-22 08:00:00",
+    "formatted_date": "Jul 22, 2026",
+    "venue": {
+      "city": "Rapid City",
+      "stateprovince": "SD",
+      "country": "United States",
+      "venue": "Aby's"
+    },
+    "description": "<p>With Tightwire and The Drowns!</p>",
+    "website": "https://tickpick.app/e/tbrrapid",
+    "is_future_event": true
+  },
+  {
+    "index": 516,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-07-23 08:00:00",
+    "formatted_date": "Jul 23, 2026",
+    "venue": {
+      "city": "Billings",
+      "stateprovince": "MT",
+      "country": "United States",
+      "venue": "Craft Local"
+    },
+    "description": "<p>With Tightwire and The Drowns!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-wthe-drowns-tightwire-tickets-1987274176558?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 517,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-07-24 08:00:00",
+    "formatted_date": "Jul 24, 2026",
+    "venue": {
+      "city": "Glenrock",
+      "stateprovince": "WY",
+      "country": "United States",
+      "venue": "Glenrock Town Square"
+    },
+    "description": "<p>With Tightwire and The Drowns!</p>",
+    "website": "https://www.facebook.com/events/1314488397162940",
+    "is_future_event": true
+  },
+  {
+    "index": 518,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-07-25 08:00:00",
+    "formatted_date": "Jul 25, 2026",
+    "venue": {
+      "city": "Boulder",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Fox Theatre"
+    },
+    "description": "<p>With Tightwire and The Drowns!</p>",
+    "website": "https://www.axs.com/events/1405895/?skin=foxtheatre",
+    "is_future_event": true
+  },
+  {
+    "index": 519,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-22 08:00:00",
+    "formatted_date": "May 22, 2026",
+    "venue": {
+      "city": "Trondheim",
+      "stateprovince": "",
+      "country": "Norway",
+      "venue": "Trondheim Punkfestival 2026"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107592561?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 520,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-23 08:00:00",
+    "formatted_date": "May 23, 2026",
+    "venue": {
+      "city": "Torino",
+      "stateprovince": "",
+      "country": "Italy",
+      "venue": "Spazio 211"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759175?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 521,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-24 08:00:00",
+    "formatted_date": "May 24, 2026",
+    "venue": {
+      "city": "Milano",
+      "stateprovince": "",
+      "country": "Italy",
+      "venue": "Legend 54"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759180?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 522,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-25 08:00:00",
+    "formatted_date": "May 25, 2026",
+    "venue": {
+      "city": "Pisa",
+      "stateprovince": "",
+      "country": "Italy",
+      "venue": "Lumiere"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759193?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 523,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-26 08:00:00",
+    "formatted_date": "May 26, 2026",
+    "venue": {
+      "city": "Roma",
+      "stateprovince": "",
+      "country": "Italy",
+      "venue": "Traffic Live Club"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759198?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 524,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-27 08:00:00",
+    "formatted_date": "May 27, 2026",
+    "venue": {
+      "city": "Marseille",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le Molotov"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759203?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 525,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-28 08:00:00",
+    "formatted_date": "May 28, 2026",
+    "venue": {
+      "city": "Barcelona",
+      "stateprovince": "",
+      "country": "Spain",
+      "venue": "Razzmatazz 3"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759418?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 526,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-29 08:00:00",
+    "formatted_date": "May 29, 2026",
+    "venue": {
+      "city": "Castelló De La Plana",
+      "stateprovince": "",
+      "country": "Spain",
+      "venue": "Pub Terra"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759441?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 527,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-05-30 08:00:00",
+    "formatted_date": "May 30, 2026",
+    "venue": {
+      "city": "Madrid",
+      "stateprovince": "",
+      "country": "Spain",
+      "venue": "sala nazca madrid"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/107759448?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 528,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-18 08:00:00",
+    "formatted_date": "Jun 18, 2026",
+    "venue": {
+      "city": "Virginia Beach",
+      "stateprovince": "VA",
+      "country": "United States",
+      "venue": "The Bunker Brewpub"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/108098927?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 529,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-06-23 08:00:00",
+    "formatted_date": "Jun 23, 2026",
+    "venue": {
+      "city": "Millvale",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "The Funhouse at Mr. Smalls"
+    },
+    "description": null,
+    "website": "https://www.bandsintown.com/t/108037678?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  }
 ]

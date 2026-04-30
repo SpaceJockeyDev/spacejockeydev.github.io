@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "update-shows": "node scripts/update-shows.js"
+    "update-shows": "node scripts/update-shows.js",
+    "update-shows-teenage-bottlerocket": "node scripts/update-teenage-bottlerocket-shows.js"
   },
   "dependencies": {
     "playwright": "^1.49.0"
