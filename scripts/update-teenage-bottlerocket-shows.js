@@ -227,6 +227,13 @@ const extractEvents = async () => {
     await page.goto(TOUR_URL, { waitUntil: "domcontentloaded" });
     await page.waitForSelector(".bit-event", { timeout: 20000 });
 
+    // Expand the Bandsintown widget to include dates hidden behind the Show All Dates control.
+    const showAllDatesButton = page.getByText("Show All Dates", { exact: true });
+    if (await showAllDatesButton.count()) {
+      await showAllDatesButton.first().click();
+      await page.waitForTimeout(1500);
+    }
+
     const events = await page.$$eval(".bit-event", (rows) => {
       const getText = (parent, selector) =>
         parent.querySelector(selector)?.textContent?.trim() ?? "";
