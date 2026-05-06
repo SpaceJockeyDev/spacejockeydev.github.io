@@ -8878,5 +8878,20 @@
     "description": null,
     "website": "https://link.seated.com/ba53f77b-63bc-4f3c-b578-fd4cd9b22b09",
     "is_future_event": true
+  },
+  {
+    "index": 593,
+    "title": "Sam Russo",
+    "start_date": "2026-07-24 08:00:00",
+    "formatted_date": "Jul 24, 2026",
+    "venue": {
+      "city": "Manchester",
+      "stateprovince": "NH",
+      "country": "United Kingdom",
+      "venue": "Gullivers"
+    },
+    "description": "<p> With Bar Dust and Steady Hands!</p>",
+    "website": "https://movingnorth.bigcartel.com/product/bar-dust-a-tribute-to-the-pogues",
+    "is_future_event": true
   }
 ]
