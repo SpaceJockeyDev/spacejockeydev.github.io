@@ -8815,23 +8815,38 @@
       "country": "United Kingdom",
       "venue": "Gullivers"
     },
-    "description": "<p> With Bar Dust and Steady Hands!</p>",
+    "description": "<p>With Bar Dust and Steady Hands!</p>",
     "website": "https://movingnorth.bigcartel.com/product/bar-dust-a-tribute-to-the-pogues",
     "is_future_event": true
   },
   {
     "index": 594,
     "title": "The Bollweevils",
-    "start_date": "2025-08-21 08:00:00",
-    "formatted_date": "Aug 21, 2025",
+    "start_date": "2026-08-21 08:00:00",
+    "formatted_date": "Aug 21, 2026",
     "venue": {
       "city": "Griffith",
       "stateprovince": "IN",
       "country": "United States",
       "venue": "Avenue 912"
     },
-    "description": "<p> With The Effigies and the Rumble!</p>",
+    "description": "<p>With The Effigies and the Rumble!</p>",
     "website": null,
     "is_future_event": true
-   }
+  },
+  {
+    "index": 595,
+    "title": "The Bollweevils",
+    "start_date": "2026-06-13 08:00:00",
+    "formatted_date": "Jun 13, 2026",
+    "venue": {
+      "city": "Minneapolis",
+      "stateprovince": "MN",
+      "country": "United States",
+      "venue": "Surly Brewing Co."
+    },
+    "description": "<p>20 Years Party with Off With Their Heads and more!</p>",
+    "website": null,
+    "is_future_event": true
+  }
 ]
