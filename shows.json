@@ -8848,5 +8848,20 @@
     "description": "<p>20 Years Party with Off With Their Heads and more!</p>",
     "website": null,
     "is_future_event": true
-  }
+  },
+  {
+    "index": 596,
+    "title": "Heart & Lung",
+    "start_date": "2026-07-11 08:00:00",
+    "formatted_date": "Jul 11, 2026",
+    "venue": {
+      "city": "Cleveland",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Mahall's"
+    },
+    "description": "<p>With Elway, Tired Radio, and Wednesday Demonstration!</p>",
+    "website": "https://dice.fm/partner/tickets/event/ryd5w5-elway-tired-radio-11th-jul-mahalls-lakewood-tickets?dice_id=9066403&dice_channel=web&dice_tags=organic&dice_campaign=FP+Family+LLC+dba+Mahalls+Twenty+Lanes&dice_feature=mio_marketing&_branch_match_id=1264357300592116679&utm_source=web&utm_campaign=FP+Family+LLC+dba+Mahalls+Twenty+Lanes&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S83MTIzNDE2M0xMMrSvK0pNSy0qysxLj08qyi8vTi2ydU1JTwUA7X9D5TkAAAA%3D",
+    "is_future_event": true
+   }
 ]
