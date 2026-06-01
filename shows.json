@@ -8863,5 +8863,230 @@
     "description": "<p>With Elway, Tired Radio, and Wednesday Demonstration!</p>",
     "website": "https://dice.fm/partner/tickets/event/ryd5w5-elway-tired-radio-11th-jul-mahalls-lakewood-tickets?dice_id=9066403&dice_channel=web&dice_tags=organic&dice_campaign=FP+Family+LLC+dba+Mahalls+Twenty+Lanes&dice_feature=mio_marketing&_branch_match_id=1264357300592116679&utm_source=web&utm_campaign=FP+Family+LLC+dba+Mahalls+Twenty+Lanes&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S83MTIzNDE2M0xMMrSvK0pNSy0qysxLj08qyi8vTi2ydU1JTwUA7X9D5TkAAAA%3D",
     "is_future_event": true
-   }
+  },
+  {
+    "index": 597,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-02 08:00:00",
+    "formatted_date": "Jul 02, 2026",
+    "venue": {
+      "city": "Cherbourg",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Juxtabar"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 598,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-03 08:00:00",
+    "formatted_date": "Jul 03, 2026",
+    "venue": {
+      "city": "Quimper",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Breizh Disorder Fest"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 599,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-04 08:00:00",
+    "formatted_date": "Jul 04, 2026",
+    "venue": {
+      "city": "Montigny-sur-Loing",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Bienvenue a toi Fest"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 600,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-17 08:00:00",
+    "formatted_date": "Jul 17, 2026",
+    "venue": {
+      "city": "Ste Marie/Semois",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "Fight The Crab Fest"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 601,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-18 08:00:00",
+    "formatted_date": "Jul 18, 2026",
+    "venue": {
+      "city": "Bellon",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Les jardin animes Fest"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 602,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-19 08:00:00",
+    "formatted_date": "Jul 19, 2026",
+    "venue": {
+      "city": "St Just La Pendue",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "La part des autres"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 603,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-20 08:00:00",
+    "formatted_date": "Jul 20, 2026",
+    "venue": {
+      "city": "Castres",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le Jean Jaures"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 604,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-21 08:00:00",
+    "formatted_date": "Jul 21, 2026",
+    "venue": {
+      "city": "Montpellier",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Secret Place"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 605,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-22 08:00:00",
+    "formatted_date": "Jul 22, 2026",
+    "venue": {
+      "city": "Aoste",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le Loc'ale"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 606,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-23 08:00:00",
+    "formatted_date": "Jul 23, 2026",
+    "venue": {
+      "city": "Courchaton",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Simpsons Pub"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 607,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-24 08:00:00",
+    "formatted_date": "Jul 24, 2026",
+    "venue": {
+      "city": "Nancy",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le Royal"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 608,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-07-25 08:00:00",
+    "formatted_date": "Jul 25, 2026",
+    "venue": {
+      "city": "Namur",
+      "stateprovince": "",
+      "country": "Belgium",
+      "venue": "Le Creed"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 609,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-08-14 08:00:00",
+    "formatted_date": "Aug 14, 2026",
+    "venue": {
+      "city": "Vallon de L'Erdre",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Festival des cons"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 610,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-08-16 08:00:00",
+    "formatted_date": "Aug 16, 2026",
+    "venue": {
+      "city": "Levignac de Guyenne",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Festival des Aganit's"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 611,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-08-29 08:00:00",
+    "formatted_date": "Aug 29, 2026",
+    "venue": {
+      "city": "Beauvois en Cambresis",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Pinkfest"
+    },
+    "description": "",
+    "website": null,
+    "is_future_event": true
+  }
 ]
