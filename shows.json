@@ -9088,5 +9088,95 @@
     "description": "",
     "website": null,
     "is_future_event": true
-  }
+  },
+  {
+    "index": 612,
+    "title": "The Copyrights",
+    "start_date": "2026-08-28 08:00:00",
+    "formatted_date": "Aug 28, 2026",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "Wisconsin",
+      "country": "USA",
+      "venue": "X-Ray Arcade"
+    },
+    "description": "<p>With The Brokedowns, Avenues, and M545!</p>",
+    "website": "https://xrayarcade.com/calendar/2026/08/28/thecopyrights",
+    "is_future_event": true
+  },
+  {
+    "index": 613,
+    "title": "The Brokedowns",
+    "start_date": "2026-08-28 08:00:00",
+    "formatted_date": "Aug 28, 2026",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "Wisconsin",
+      "country": "USA",
+      "venue": "X-Ray Arcade"
+    },
+    "description": "<p>With The Copyrights and Feral Tact!</p>",
+    "website": "https://xrayarcade.com/calendar/2026/08/28/thecopyrights",
+    "is_future_event": true
+  },
+  {
+    "index": 614,
+    "title": "Sam Russo",
+    "start_date": "2026-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "Florida",
+      "country": "USA",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 615,
+    "title": "Heart & Lung",
+    "start_date": "2026-10-24 08:00:00",
+    "formatted_date": "Oct 24, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "Florida",
+      "country": "USA",
+      "venue": "FEST"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 616,
+    "title": "Tired Radio",
+    "start_date": "2026-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2026",
+    "venue": {
+      "city": "Orlando",
+      "stateprovince": "Florida",
+      "country": "USA",
+      "venue": "Will's Pub"
+    },
+    "description": "PRE-PRE-FEST!",
+    "website": "https://www.ticketweb.com/event/orlando-pre-pre-fest-12-wills-pub-tickets/14964053?pl=willspub",
+    "is_future_event": true
+  },
+  {
+    "index": 617,
+    "title": "Tired Radio",
+    "start_date": "2026-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "Florida",
+      "country": "USA",
+      "venue": "The Backyard"
+    },
+    "description": "Unofficial PRE-FEST!",
+    "website": "https://www.ticketweb.com/event/gainesville-pre-pre-fest-12-the-backyard-tickets/14964054?pl=thebackyard",
+    "is_future_event": true
+   }
 ]
