@@ -8211,8 +8211,8 @@
     "formatted_date": "Jun 26, 2026",
     "venue": {
       "city": "Münster",
-      "stateprovince": "Germany",
-      "country": "",
+      "stateprovince": "",
+      "country": "Germany",
       "venue": "Vainstream Rockfest"
     },
     "description": null,
@@ -8226,8 +8226,8 @@
     "formatted_date": "Jun 27, 2026",
     "venue": {
       "city": "Leipzig",
-      "stateprovince": "Germany",
-      "country": "",
+      "stateprovince": "",
+      "country": "Germany",
       "venue": "Impericon Festival"
     },
     "description": null,
@@ -8286,8 +8286,8 @@
     "formatted_date": "Jun 25, 2026",
     "venue": {
       "city": "Ysselsteyn",
-      "stateprovince": "Netherlands",
-      "country": "",
+      "stateprovince": "",
+      "country": "Netherlands",
       "venue": "Jera On Air"
     },
     "description": null,
@@ -8301,8 +8301,8 @@
     "formatted_date": "Jun 28, 2026",
     "venue": {
       "city": "Tabor",
-      "stateprovince": "Czechia",
-      "country": "",
+      "stateprovince": "",
+      "country": "Czechia",
       "venue": "Mighty Sounds Festival"
     },
     "description": null,

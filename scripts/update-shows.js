@@ -134,15 +134,31 @@ const parseLocation = (raw) => {
   if (parts.length === 1) {
     return { city: parts[0], stateprovince: "", country: "" };
   }
-  const stateprovince = parts.at(-1) ?? "";
-  const city = parts.slice(0, -1).join(", ");
-  let country = "United States";
-  if (CA_PROVINCES.has(stateprovince)) {
-    country = "Canada";
-  } else if (!US_STATES.has(stateprovince)) {
-    country = "";
+  const lastPart = parts.at(-1) ?? "";
+  const normalizedLastPart = lastPart.toUpperCase();
+
+  if (US_STATES.has(normalizedLastPart)) {
+    return {
+      city: parts.slice(0, -1).join(", "),
+      stateprovince: normalizedLastPart,
+      country: "United States",
+    };
   }
-  return { city, stateprovince, country };
+
+  if (CA_PROVINCES.has(normalizedLastPart)) {
+    return {
+      city: parts.slice(0, -1).join(", "),
+      stateprovince: normalizedLastPart,
+      country: "Canada",
+    };
+  }
+
+  // For non-US/Canada locations, treat the trailing segment as country.
+  return {
+    city: parts.slice(0, -1).join(", "),
+    stateprovince: "",
+    country: lastPart,
+  };
 };
 
 const buildShow = (index, event) => {
