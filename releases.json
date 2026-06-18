@@ -3909,5 +3909,34 @@
             "bandcamp": "https://americansteel.bandcamp.com/album/american-steel",
             "store": "https://redscare.storenvy.com/products/37009317-american-steel-american-steel-lp-cccp-266-1"
         }
+    },
+    {
+        "bandName": "Sludgeworth",
+        "album": "Second Time Around",
+        "displayAlbum": "Second Time Around",
+        "releaseNumber": "272 ",
+        "releaseDate": "2026-06-19",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/SludgeSecondCover.jpg",
+        "description": "Sludgeworth came from the Chicago underground scene of the 1980s that was defined by legendary names like Raygun, Albini, and Ministry.  Genre lines were blurred and bands took more chances because there was nothing to lose.  They released music with Lookout Records, but other projects surfaced and Sludgeworth went dormant for decades until calls for a reunion and Riot Fest came along.  The band got their overdue day in the sun, but had so much fun with their victory lap that they decided to try something new: not break up!  They would meet up frequently in a Chicago practice space for beers and laughs and riffs.  \"Second Time Around\" is the result of that friendship and creative process, and it sounds like it could be from 1989 or 2029.  Sludgeworth has already immortalized themselves as paragons of the Midwest underground, and this new 12-song LP is another chapter for the history books.  They did go 30+ years between albums, and that's gotta be some kinda record, right?!",
+        "trackList":[
+            "01. Can't Change Yesterday",
+            "02. Hold Steady",
+            "03. Together Not Together",
+            "04. Simulation",
+            "05. Tipping Point",
+            "06. Kill Switch",
+            "07. Our Better Angels",
+            "08. Hurry Up, I Don't Have Forever",
+            "09. Old Friend",
+            "10. Smile Upon Today",
+            "11. Rockets To Heaven",
+            "12. Trouble Brewing"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://sludgeworth.bandcamp.com/album/second-time-around",
+            "store": "https://redscare.storenvy.com/products/37034089-sludgeworth-second-time-around-lp-cccp-272-1"
+        }
     }
 ]
