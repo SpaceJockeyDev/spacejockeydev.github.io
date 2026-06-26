@@ -9163,5 +9163,35 @@
     "description": "With Brendan Kelly!",
     "website": "https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV500000C4RfRMAV",
     "is_future_event": true
+  },
+  {
+    "index": 620,
+    "title": "Brendan Kelly",
+    "start_date": "2026-08-24 08:00:00",
+    "formatted_date": "Aug 24, 2026",
+    "venue": {
+      "city": "Lancaster",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "House Show"
+    },
+    "description": "Ask a punk!",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 621,
+    "title": "The Holy Mess",
+    "start_date": "2026-08-09 08:00:00",
+    "formatted_date": "Aug 09, 2026",
+    "venue": {
+      "city": "Bethlehem",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "Homebase Skateshop"
+    },
+    "description": "Free show with Incendiary Device and Pipe Snake!",
+    "website": null,
+    "is_future_event": true
   }
 ]
