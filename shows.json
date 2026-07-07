@@ -9253,5 +9253,20 @@
     "description": "With Face to Face, Unwritten Law, and Record Thieves!",
     "website": "https://theorientaltheater.holdmyticket.com/tickets/463031",
     "is_future_event": true
+  },
+  {
+    "index": 626,
+    "title": "Sludgeworth",
+    "start_date": "2026-10-03 08:00:00",
+    "formatted_date": "Oct 03, 2026",
+    "venue": {
+      "city": "Minneapolis",
+      "stateprovince": "MN",
+      "country": "United States",
+      "venue": "Surly Brewing Co."
+    },
+    "description": "Darkness Day with Lagwagon, SAMIAM, and more! FREE!",
+    "website": null,
+    "is_future_event": true
   }
 ]
