@@ -9268,5 +9268,20 @@
     "description": "Darkness Day with Lagwagon, SAMIAM, and more! FREE!",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 627,
+    "title": "The Holy Mess",
+    "start_date": "2026-07-17 08:00:00",
+    "formatted_date": "Jul 17, 2026",
+    "venue": {
+      "city": "Asbury Park",
+      "stateprovince": "NJ",
+      "country": "United States",
+      "venue": "The Stone Pony"
+    },
+    "description": "Menzingers Record Release listening party and pre show!",
+    "website": null,
+    "is_future_event": true
   }
 ]
