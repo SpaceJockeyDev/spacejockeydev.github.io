@@ -3016,7 +3016,7 @@
         "releaseNumber": "228",
         "releaseDate": "2020-05-15",
         "coverArt": "https://f4.bcbits.com/img/a1861324552_10.jpg",
-        "description": null,
+        "description": "We’ve been fans of Broadway Calls for a while now and after years of pestering they finally gave in and joined the team. Their exact words were, “It would take a catastrophic act of god that destroyed the music industry for us to consider working with Red Scare.” And what do ya know! Thank you, 2020. (Ironically, the record is about the impending civil war and apocalypse… so maybe this is all their doing?!) Then we sent ‘em down to the Bay Area to work with Scott Goodrich (Culture Abuse, Direct Hit!, etc.) and they emerged with the best 11 songs we’ve ever heard from this Oregon trio. “Sad In The City” is fast, it’s loud, and most of all it is catchy as hell. It’s their finest full length and it’ll likely go down as one of the top releases in our entire catalog.",
         "trackList":[
             "01. Never Take Us Alive",
             "02. You Gotta Know",
@@ -3034,7 +3034,7 @@
             "spotify": "https://open.spotify.com/album/1sPau7ss9eWqQ90wzs4EMD?si=jOE95pqGRuGMhIoDD-7xuA",
             "appleMusic": "https://music.apple.com/us/album/sad-in-the-city/1516082317",
             "bandcamp": "https://broadwaycalls.bandcamp.com/album/sad-in-the-city",
-            "store": null
+            "store": "https://redscare.storenvy.com/products/30390163-broadway-calls-sad-in-the-city-lp-cccp-228-1"
         }
     },
     {
@@ -3937,6 +3937,31 @@
             "appleMusic": "https://music.apple.com/us/album/second-time-around/1895012733",
             "bandcamp": "https://sludgeworth.bandcamp.com/album/second-time-around",
             "store": "https://redscare.storenvy.com/products/37034089-sludgeworth-second-time-around-lp-cccp-272-1"
+        }
+    },
+    {
+        "bandName": "Tightwire & Canadian Rifle",
+        "album": "Nietzsche EP",
+        "displayAlbum": "Nietzsche EP",
+        "releaseNumber": "271",
+        "releaseDate": "2026-07-11",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/RED-SCARE-CANADA-7inch-3000.JPG",
+        "description": "Have you heard that Americans are trying to (get a load of this) bring prayer into school and a buncha other wacky religious hooey?  Well, we have answered the call to arms and assembled a couple godless punk bands: Tightwire and Canadian Rifle.  The \"Nietzsche EP\" pairs up heretics from Minneapolis and Chicago for six songs on this split release.  It's like a mini-LP... but FROM HELL.  And of course we got some real slick packaging with a gatefold 7\", just as god intended.  These are two very different bands, but they both share themes of nihilism, tragedy, fatalism, and all that other dark shit.  By invoking Nietzsche's (presumably public domain?) brand into this project, we have forged an unholy trinity to vanquish all preachy nerds and posers.",
+        "trackList":[
+            "Side A:",
+            "01. Tightwire “I Need You Here Tonight”",
+            "02. Tightwire “Clown Coffin”",
+            "03. Tightwire “Six Feet Deep (Nietzsche Version)”",
+            "Side B:",
+            "04. Canadian Rifle “Pink Cloud”",
+            "05. Canadian Rifle “Your Heart Was Right”",
+            "06. Canadian Rifle “Fly On The Wall”"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/products/37050184-tightwire-canadian-rifle-nietzsche-ep-7-cccp-271-7"
         }
     }
 ]
