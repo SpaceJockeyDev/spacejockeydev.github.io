@@ -9298,5 +9298,35 @@
     "description": "The Lost Cross 40th Anniversary!",
     "website": "https://lostcross40th.bigcartel.com/product/lost-cross-40th-weekend-pass",
     "is_future_event": true
+  },
+  {
+    "index": 629,
+    "title": "Brendan Kelly",
+    "start_date": "2026-08-22 08:00:00",
+    "formatted_date": "Aug 22, 2026",
+    "venue": {
+      "city": "Garwood",
+      "stateprovince": "NJ",
+      "country": "United States",
+      "venue": "Crossroads"
+    },
+    "description": "With Laura Jane Grace and Tiff (Rodeo Boys)!",
+    "website": "https://www.eventbrite.com/e/laura-jane-grace-w-brendan-kelly-the-lawrence-arms-and-tiff-rodeo-boys-tickets-1993591078582",
+    "is_future_event": true
+  },
+  {
+    "index": 630,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-08-22 08:00:00",
+    "formatted_date": "Aug 22, 2026",
+    "venue": {
+      "city": "Garwood",
+      "stateprovince": "NJ",
+      "country": "United States",
+      "venue": "Crossroads"
+    },
+    "description": "With Brendan Kelly and Tiff (Rodeo Boys)!",
+    "website": "https://www.eventbrite.com/e/laura-jane-grace-w-brendan-kelly-the-lawrence-arms-and-tiff-rodeo-boys-tickets-1993591078582",
+    "is_future_event": true
   }
 ]
