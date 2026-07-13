@@ -89,8 +89,11 @@ permalink: /
       }
       bandname {
         color: #ff0404;
-        font-family: "Viva";
-        font-size: 22px;
+font-family: "Viva";
+font-size: clamp(14px, 1.6vw, 20px);
+line-height: 1.1;
+text-wrap: balance;
+overflow-wrap: anywhere;
       }
       .info {
         text-align: center;
@@ -131,13 +134,13 @@ permalink: /
       .release h2 {
         color: #ff0404;
         font-family: "Viva";
-        font-size: clamp(18px, 2vw, 22px);
+        font-size: clamp(18px, 2vw, 20px);
       }
       .release p {
         color: rgb(8, 8, 8);
         white-space: nowrap;
         font-family: "Helv";
-        font-size: clamp(12px, 2vw, 14px);
+        font-size: clamp(10px, 2vw, 14px);
       }
       #pagination {
         display: flex;
@@ -408,6 +411,8 @@ permalink: /
       } catch (error) {
         console.error("Error:", error);
       }
+
+      
     }
 
     function createElement(tag, className, attributes = {}) {
