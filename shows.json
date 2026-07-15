@@ -9280,8 +9280,8 @@
       "country": "United States",
       "venue": "The Stone Pony"
     },
-    "description": "Menzingers Record Release listening party and pre show!",
-    "website": null,
+    "description": "Menzingers \"Everything I Ever Saw\" release show!",
+    "website": "https://www.ticketmaster.com/event/000064BBC90A2CA5?irgwc=1&afsrc=1&clickid=WQ3VdRUx5xyZTz31C2yUbUnoUkuVaA0d00EL0E0&camefrom=CFC_BUYAT_1387536&impradid=1387536&REFERRAL_ID=tmfeedbuyat1387536&wt.mc_id=aff_BUYAT_1387536&utm_source=1387536-Seated&impradname=Seated&utm_medium=affiliate&ircid=4272",
     "is_future_event": true
   },
   {
@@ -9327,6 +9327,21 @@
     },
     "description": "With Brendan Kelly and Tiff (Rodeo Boys)!",
     "website": "https://www.eventbrite.com/e/laura-jane-grace-w-brendan-kelly-the-lawrence-arms-and-tiff-rodeo-boys-tickets-1993591078582",
+    "is_future_event": true
+  },
+  {
+    "index": 631,
+    "title": "The Menzingers",
+    "start_date": "2026-07-17 08:00:00",
+    "formatted_date": "Jul 17, 2026",
+    "venue": {
+      "city": "Asbury Park",
+      "stateprovince": "NJ",
+      "country": "United States",
+      "venue": "The Stone Pony"
+    },
+    "description": "\"Everything I Ever Saw\" release show with the Holy Mess!",
+    "website": "https://www.ticketmaster.com/event/000064BBC90A2CA5?irgwc=1&afsrc=1&clickid=WQ3VdRUx5xyZTz31C2yUbUnoUkuVaA0d00EL0E0&camefrom=CFC_BUYAT_1387536&impradid=1387536&REFERRAL_ID=tmfeedbuyat1387536&wt.mc_id=aff_BUYAT_1387536&utm_source=1387536-Seated&impradname=Seated&utm_medium=affiliate&ircid=4272",
     "is_future_event": true
   }
 ]
