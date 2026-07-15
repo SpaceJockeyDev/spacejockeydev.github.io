@@ -9343,5 +9343,35 @@
     "description": "\"Everything I Ever Saw\" release show with the Holy Mess!",
     "website": "https://www.ticketmaster.com/event/000064BBC90A2CA5?irgwc=1&afsrc=1&clickid=WQ3VdRUx5xyZTz31C2yUbUnoUkuVaA0d00EL0E0&camefrom=CFC_BUYAT_1387536&impradid=1387536&REFERRAL_ID=tmfeedbuyat1387536&wt.mc_id=aff_BUYAT_1387536&utm_source=1387536-Seated&impradname=Seated&utm_medium=affiliate&ircid=4272",
     "is_future_event": true
+  },
+  {
+    "index": 632,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-08-23 08:00:00",
+    "formatted_date": "Aug 23, 2026",
+    "venue": {
+      "city": "Stroudsburg",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "The Goat On Main"
+    },
+    "description": "FREE with Brendan Kelly, The Crippling Addictions, and Sketchy(acoustic)!",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 633,
+    "title": "Brendan Kelly",
+    "start_date": "2026-08-23 08:00:00",
+    "formatted_date": "Aug 23, 2026",
+    "venue": {
+      "city": "Stroudsburg",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "The Goat On Main"
+    },
+    "description": "FREE with Laura Jane Grace, The Crippling Addictions, and Sketchy(acoustic)!",
+    "website": null,
+    "is_future_event": true
   }
 ]
