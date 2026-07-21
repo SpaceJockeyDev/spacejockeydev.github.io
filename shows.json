@@ -9373,5 +9373,36 @@
     "description": "FREE with Laura Jane Grace, The Crippling Addictions, and Sketchy(acoustic)!",
     "website": null,
     "is_future_event": true
+  },
+  {
+    
+    "index": 634,
+    "title": "The Bollweevils",
+    "start_date": "2026-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Concord Music Hall"
+    },
+    "description": "With Face to Face, Sparta, and Sludgeworth!",
+    "website": "https://www.axs.com/events/1527097/face-to-face-tickets?_gl=1*lcl0y*_gcl_au*MjMwNTU4NDU1LjE3ODQ2NTI5ODg.*_ga*MTkzMzUwMDc5Ni4xNzg0NjUyOTg5*_ga_PVQGYREDQK*czE3ODQ2NTI5ODgkbzEkZzEkdDE3ODQ2NTMwMjYkajIyJGwwJGgzMjU4MjgyNzg.&_ga=2.111699460.1603161461.1784652989-1933500796.1784652989",
+    "is_future_event": true
+  },
+  {
+    "index": 635,
+    "title": "Sludgeworth",
+    "start_date": "2026-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Concord Music Hall"
+    },
+    "description": "With Face to Face, Sparta, and The Bollweevils!",
+    "website": "https://www.axs.com/events/1527097/face-to-face-tickets?_gl=1*lcl0y*_gcl_au*MjMwNTU4NDU1LjE3ODQ2NTI5ODg.*_ga*MTkzMzUwMDc5Ni4xNzg0NjUyOTg5*_ga_PVQGYREDQK*czE3ODQ2NTI5ODgkbzEkZzEkdDE3ODQ2NTMwMjYkajIyJGwwJGgzMjU4MjgyNzg.&_ga=2.111699460.1603161461.1784652989-1933500796.1784652989",
+    "is_future_event": true
   }
 ]
