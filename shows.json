@@ -9404,5 +9404,65 @@
     "description": "With Face to Face, Sparta, and The Bollweevils!",
     "website": "https://www.axs.com/events/1527097/face-to-face-tickets?_gl=1*lcl0y*_gcl_au*MjMwNTU4NDU1LjE3ODQ2NTI5ODg.*_ga*MTkzMzUwMDc5Ni4xNzg0NjUyOTg5*_ga_PVQGYREDQK*czE3ODQ2NTI5ODgkbzEkZzEkdDE3ODQ2NTMwMjYkajIyJGwwJGgzMjU4MjgyNzg.&_ga=2.111699460.1603161461.1784652989-1933500796.1784652989",
     "is_future_event": true
+  },
+  {
+    "index": 636,
+    "title": "Sam Russo",
+    "start_date": "2026-09-30 08:00:00",
+    "formatted_date": "Sep 30, 2026",
+    "venue": {
+      "city": "Lincoln",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Southside"
+    },
+    "description": "With Sunliner!",
+    "website": "https://www.gigantic.com/sunliner-sam-russo-and-the-trembling-leaves-tickets/lincoln-southside/2026-09-30-19-00",
+    "is_future_event": true
+  },
+  {
+    "index": 637,
+    "title": "Sam Russo",
+    "start_date": "2026-10-01 08:00:00",
+    "formatted_date": "Oct 01, 2026",
+    "venue": {
+      "city": "Glasgow",
+      "stateprovince": "",
+      "country": "Scotland",
+      "venue": "The Old Hairdresser's"
+    },
+    "description": "With Sunliner!",
+    "website": "https://events.humanitix.com/russoliner-glasgow",
+    "is_future_event": true
+  },
+  {
+    "index": 638,
+    "title": "Sam Russo",
+    "start_date": "2026-10-03 08:00:00",
+    "formatted_date": "Oct 03, 2026",
+    "venue": {
+      "city": "London",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "The Fighting Cocks"
+    },
+    "description": "With Sunliner!",
+    "website": "https://good-show.co.uk/events/4150",
+    "is_future_event": true
+  },
+  {
+    "index": 639,
+    "title": "Sam Russo",
+    "start_date": "2026-10-04 08:00:00",
+    "formatted_date": "Oct 04, 2026",
+    "venue": {
+      "city": "Newport",
+      "stateprovince": "",
+      "country": "Wales",
+      "venue": "Le Pub"
+    },
+    "description": "With Sunliner!",
+    "website": "https://www.gigantic.com/sunliner-sam-russo-tickets/newport-le-pub/2026-10-04-16-00",
+    "is_future_event": true
   }
 ]
