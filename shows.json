@@ -9464,5 +9464,35 @@
     "description": "With Sunliner!",
     "website": "https://www.gigantic.com/sunliner-sam-russo-tickets/newport-le-pub/2026-10-04-16-00",
     "is_future_event": true
+  },
+  {
+    "index": 640,
+    "title": "Brendan Kelly",
+    "start_date": "2026-08-25 08:00:00",
+    "formatted_date": "Aug 25, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "ME",
+      "country": "United States",
+      "venue": "Blue Portland Maine"
+    },
+    "description": "With Laura Jane Grace!",
+    "website": "https://www.blueportlandmaine.org/events/laura-jane-grace-brendan-kelly",
+    "is_future_event": true
+  },
+  {
+    "index": 641,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-08-25 08:00:00",
+    "formatted_date": "Aug 25, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "ME",
+      "country": "United States",
+      "venue": "Blue Portland Maine"
+    },
+    "description": "With Brendan Kelly!",
+    "website": "https://www.blueportlandmaine.org/events/laura-jane-grace-brendan-kelly",
+    "is_future_event": true
   }
 ]
