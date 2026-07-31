@@ -9509,5 +9509,35 @@
     "description": "With Bleakness and Underhook!",
     "website": "https://www.surfsideseven.com/",
     "is_future_event": true
+  },
+  {
+    "index": 643,
+    "title": "Brendan Kelly",
+    "start_date": "2026-08-27 08:00:00",
+    "formatted_date": "Aug 27, 2026",
+    "venue": {
+      "city": "Northampton",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "The Iron Horse"
+    },
+    "description": "With Laura Jane Grace!",
+    "website": "https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV500000MbrK1MAJ",
+    "is_future_event": true
+  },
+  {
+    "index": 644,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-08-27 08:00:00",
+    "formatted_date": "Aug 27, 2026",
+    "venue": {
+      "city": "Northampton",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "The Iron Horse"
+    },
+    "description": "With Brendan Kelly!",
+    "website": "https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV500000MbrK1MAJ",
+    "is_future_event": true
   }
 ]
