@@ -9539,5 +9539,50 @@
     "description": "With Brendan Kelly!",
     "website": "https://theparlorroom.my.salesforce-sites.com/ticket/#/instances/a0FV500000MbrK1MAJ",
     "is_future_event": true
+  },
+  {
+    "index": 645,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-10-10 08:00:00",
+    "formatted_date": "Oct 10, 2026",
+    "venue": {
+      "city": "Los Angeles",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Belasco"
+    },
+    "description": "Fight to Unite with Dillinger Four and more!",
+    "website": "https://www.tixr.com/groups/punkrockbowling/events/fight-to-unite-201259",
+    "is_future_event": true
+  },
+  {
+    "index": 646,
+    "title": "Cobra Skulls",
+    "start_date": "2026-10-10 08:00:00",
+    "formatted_date": "Oct 10, 2026",
+    "venue": {
+      "city": "Los Angeles",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Belasco"
+    },
+    "description": "Fight to Unite with Dillinger Four and more!",
+    "website": "https://www.tixr.com/groups/punkrockbowling/events/fight-to-unite-201259",
+    "is_future_event": true
+  },
+  {
+    "index": 647,
+    "title": "MakeWar",
+    "start_date": "2026-10-10 08:00:00",
+    "formatted_date": "Oct 10, 2026",
+    "venue": {
+      "city": "Los Angeles",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Belasco"
+    },
+    "description": "Fight to Unite with Dillinger Four and more!",
+    "website": "https://www.tixr.com/groups/punkrockbowling/events/fight-to-unite-201259",
+    "is_future_event": true
   }
 ]
