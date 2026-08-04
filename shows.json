@@ -9584,5 +9584,20 @@
     "description": "Fight to Unite with Dillinger Four and more!",
     "website": "https://www.tixr.com/groups/punkrockbowling/events/fight-to-unite-201259",
     "is_future_event": true
+  },
+  {
+    "index": 648,
+    "title": "The Copyrights",
+    "start_date": "2026-10-03 08:00:00",
+    "formatted_date": "Oct 03, 2026",
+    "venue": {
+      "city": "Cape Girardeau",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "Downtown Cape Girardeau"
+    },
+    "description": "Punktober Fest!",
+    "website": null,
+    "is_future_event": true
   }
 ]
