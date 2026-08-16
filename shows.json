@@ -9599,5 +9599,125 @@
     "description": "Punktober Fest!",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 649,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-08-28 08:00:00",
+    "formatted_date": "Aug 28, 2026",
+    "venue": {
+      "city": "SAVIGNY-SUR-ORGE",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "ask a punk"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 650,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-08-30 08:00:00",
+    "formatted_date": "Aug 30, 2026",
+    "venue": {
+      "city": "CHERBOURG",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le chaudron"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 651,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-09-11 08:00:00",
+    "formatted_date": "Sep 11, 2026",
+    "venue": {
+      "city": "SAINT-GUYOMARD",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Hermine Pub"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 652,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-09-12 08:00:00",
+    "formatted_date": "Sep 12, 2026",
+    "venue": {
+      "city": "CHAMBRAY",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Rasso Mob fest"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 653,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-09-18 08:00:00",
+    "formatted_date": "Sep 18, 2026",
+    "venue": {
+      "city": "FLUMET",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Les Seigneurs"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 654,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-09-19 08:00:00",
+    "formatted_date": "Sep 19, 2026",
+    "venue": {
+      "city": "HABERE-POCHE",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Pavillon Black Board"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 655,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-10-02 08:00:00",
+    "formatted_date": "Oct 02, 2026",
+    "venue": {
+      "city": "CHAUMONT",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le Schmilblick"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 656,
+    "title": "Guerilla Poubelle",
+    "start_date": "2026-10-03 08:00:00",
+    "formatted_date": "Oct 03, 2026",
+    "venue": {
+      "city": "COLMAR",
+      "stateprovince": "",
+      "country": "France",
+      "venue": "Le Grillen"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
   }
 ]
