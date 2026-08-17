@@ -301,11 +301,9 @@ const run = async () => {
     console.log("No existing shows.json found, creating new file.");
   }
 
-  const showKey = (show) => `${show.start_date}|${show.venue.venue}|${show.venue.city}`;
-
   const existingArtistShows = existingShows.filter((show) => show.title === ARTIST_NAME);
-  const existingArtistKeys = new Set(existingArtistShows.map(showKey));
-  const uniqueNewShows = newShows.filter((show) => !existingArtistKeys.has(showKey(show)));
+  const existingArtistDates = new Set(existingArtistShows.map((show) => show.start_date));
+  const uniqueNewShows = newShows.filter((show) => !existingArtistDates.has(show.start_date));
 
   const nonArtistShows = existingShows.filter((show) => show.title !== ARTIST_NAME);
 
