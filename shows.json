@@ -10018,5 +10018,20 @@
     "description": "With Teenage Bottlerocket!",
     "website": "https://www.bandsintown.com/t/108727465?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
     "is_future_event": true
+  },
+  {
+    "index": 669,
+    "title": "Good Friend",
+    "start_date": "2026-08-21 08:00:00",
+    "formatted_date": "Aug 21, 2026",
+    "venue": {
+      "city": "Coleraine",
+      "stateprovince": "",
+      "country": "Ireland",
+      "venue": "The Singin' Thistle"
+    },
+    "description": "Adam SOLO with Stephen Conley, and Deadly Sons!",
+    "website": "https://www.eventbrite.com/e/the-giants-wake-04-tickets-1993194773222?aff=erelpanelorg",
+    "is_future_event": true
   }
 ]
