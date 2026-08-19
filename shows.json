@@ -10033,5 +10033,20 @@
     "description": "Adam SOLO with Stephen Conley, and Deadly Sons!",
     "website": "https://www.eventbrite.com/e/the-giants-wake-04-tickets-1993194773222?aff=erelpanelorg",
     "is_future_event": true
+  },
+  {
+    "index": 670,
+    "title": "Sam Russo",
+    "start_date": "2026-09-29 08:00:00",
+    "formatted_date": "Sep 29, 2026",
+    "venue": {
+      "city": "Norwich",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Dead Wax"
+    },
+    "description": "FULL BAND with Sophie Porter and James Hull!",
+    "website": "https://dice.fm/event/2wqqlp-sam-russo-the-trembling-leaves-sophie-porter-james-hull-29th-sep-dead-wax-norwich-norwich-tickets",
+    "is_future_event": true
   }
 ]
