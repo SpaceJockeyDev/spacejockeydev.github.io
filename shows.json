@@ -10378,5 +10378,35 @@
     "description": "With Teenage Bottlerocket and Sam Russo!",
     "website": "https://www.bandsintown.com/t/108791453?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
     "is_future_event": true
+  },
+  {
+    "index": 693,
+    "title": "Brendan Kelly",
+    "start_date": "2027-02-11 08:00:00",
+    "formatted_date": "Feb 11, 2027",
+    "venue": {
+      "city": "Auckland",
+      "stateprovince": "",
+      "country": "New Zealand",
+      "venue": "Whammy Bar"
+    },
+    "description": "With Teenage Bottlerocket!",
+    "website": "https://www.bandsintown.com/t/108844005?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
+  },
+  {
+    "index": 694,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-02-11 08:00:00",
+    "formatted_date": "Feb 11, 2027",
+    "venue": {
+      "city": "Auckland",
+      "stateprovince": "",
+      "country": "New Zealand",
+      "venue": "Whammy Bar"
+    },
+    "description": "With Brendan Kelly!",
+    "website": "https://www.bandsintown.com/t/108844005?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
+    "is_future_event": true
   }
 ]
