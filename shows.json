@@ -10408,5 +10408,20 @@
     "description": "With Brendan Kelly!",
     "website": "https://www.bandsintown.com/t/108844005?affil_code=js_teenagebottlerocket.com&app_id=js_teenagebottlerocket.com&came_from=242&utm_campaign=ticket&utm_medium=web&utm_source=widget",
     "is_future_event": true
+  },
+  {
+    "index": 695,
+    "title": "Garrett Dale",
+    "start_date": "2027-03-26 08:00:00",
+    "formatted_date": "Mar 26, 2027",
+    "venue": {
+      "city": "Manchester",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Manchester Punk Fest"
+    },
+    "description": "<p>Manchester Punk Fest!</p>",
+    "website": "https://www.manchesterpunkfestival.co.uk/tickets/",
+    "is_future_event": true
   }
 ]
