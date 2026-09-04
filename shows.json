@@ -10423,5 +10423,20 @@
     "description": "<p>Manchester Punk Fest!</p>",
     "website": "https://www.manchesterpunkfestival.co.uk/tickets/",
     "is_future_event": true
+  },
+  {
+    "index": 696,
+    "title": "The Bollweevils",
+    "start_date": "2026-09-19 08:00:00",
+    "formatted_date": "Sep 19, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Liar's Club"
+    },
+    "description": "<p>Liarpaloozer 2026!</p>",
+    "website": null,
+    "is_future_event": true
   }
 ]
