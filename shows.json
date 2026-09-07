@@ -10438,5 +10438,35 @@
     "description": "<p>Liarpaloozer 2026!</p>",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 697,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-09-16 08:00:00",
+    "formatted_date": "Sep 16, 2026",
+    "venue": {
+      "city": "Grand Junction",
+      "stateprovince": "CO",
+      "country": "United States",
+      "venue": "Mesa Theater"
+    },
+    "description": null,
+    "website": "https://www.example.com",
+    "is_future_event": true
+  },
+  {
+    "index": 698,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-09-15 08:00:00",
+    "formatted_date": "Sep 15, 2026",
+    "venue": {
+      "city": "Kearney",
+      "stateprovince": "NE",
+      "country": "United States",
+      "venue": "The Other Side"
+    },
+    "description": null,
+    "website": "https://www.tickpick.com/organizer/event/laura-jane-grace-at-the-other-side-59312520?",
+    "is_future_event": true
   }
 ]
