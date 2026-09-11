@@ -10468,5 +10468,20 @@
     "description": null,
     "website": "https://www.tickpick.com/organizer/event/laura-jane-grace-at-the-other-side-59312520?",
     "is_future_event": true
+  },
+  {
+    "index": 699,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-09-24 08:00:00",
+    "formatted_date": "Sep 24, 2026",
+    "venue": {
+      "city": "Dayton",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Cosmo Joe's Atomic Lounge"
+    },
+    "description": null,
+    "website": "https://www.cincyticket.com/eventperformances.asp?evt=7872",
+    "is_future_event": true
   }
 ]
