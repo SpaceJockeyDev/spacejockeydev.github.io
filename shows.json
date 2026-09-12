@@ -5860,7 +5860,7 @@
       "country": "United States",
       "venue": "The Fest"
     },
-    "description": null,
+    "description": "Performing as Alkaline Trio!",
     "website": "https://wl.eventim.us/event/The-FEST-24/685111?afflky=TheFest",
     "is_future_event": true
   },
@@ -10512,6 +10512,186 @@
     },
     "description": "RIOT FEST PRESENTS Tightwire/Canadian Riffle record release show with Budget Cuts!",
     "website": "https://dice.fm/partner/tickets/event/xegnkk-tightwire-canadian-rifle-budget-cuts-15th-nov-cobra-lounge-chicago-tickets?dice_id=10424639&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_ga=2.98446553.710609790.1789153698-113103019.1789153698&_gl=1*1kuwowo*_gcl_au*NzUxMTk4NzU1LjE3ODkxNTM2OTc.*_ga*MTEzMTAzMDE5LjE3ODkxNTM2OTg.*_ga_PVQGYREDQK*czE3ODkxNTM2OTckbzEkZzEkdDE3ODkxNTM3MzIkajI1JGwwJGgxNjY3NjMzMjc4&_branch_match_id=1627035586814524956&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA1WMXWuDMBSGf816t%2BgxfmUgo0yRdottRzboboJGTTW2jrRFycV%2B%2B8IYY7047%2Fvy8HAOl8vn%2BcFxhu6kUN2JBrVHZ1sDhrjy21hEj1yWiYdI7PthEGAUgRu6JCIugigmEOCQxPdgfRe7QP7BBZdDAnfeEtR1GqfRLi7FwMurXYV5mylTvm146TO8SdVcMOptmEA%2FYmmTssxQtjQ0zYJbSf5KfPu%2By%2FevWbp7tkCYm0eqMpn6sFenfxxTs1Jlv4J1Pk3rXM5Fv8dFTw3thb%2F40k3baN2dJK%2F0OJ0bnTwd9HhsvgFgDj6IJgEAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 702,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-09-25 08:00:00",
+    "formatted_date": "Sep 25, 2026",
+    "venue": {
+      "city": "Milwaukee",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Sabbatic"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 703,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-09-26 08:00:00",
+    "formatted_date": "Sep 26, 2026",
+    "venue": {
+      "city": "Green Bay",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Titletown Brewing"
+    },
+    "description": "<p>With Riverboat Gamblers!</p>",
+    "website": "https://www.hometowntickets.com/events/revelry-grand-opening-riverboat-gamblers",
+    "is_future_event": true
+  },
+  {
+    "index": 704,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-10-03 08:00:00",
+    "formatted_date": "Oct 03, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Liar's Club"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 705,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-10-23 08:00:00",
+    "formatted_date": "Oct 23, 2026",
+    "venue": {
+      "city": "Gainesville",
+      "stateprovince": "FL",
+      "country": "United States",
+      "venue": "The Fest"
+    },
+    "description": null,
+    "website": "https://thefestfl.com/",
+    "is_future_event": true
+  },
+  {
+    "index": 706,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-10-27 08:00:00",
+    "formatted_date": "Oct 27, 2026",
+    "venue": {
+      "city": "Nashville",
+      "stateprovince": "TN",
+      "country": "United States",
+      "venue": "The Five Spot"
+    },
+    "description": null,
+    "website": "https://the5spotnashville.com/shows/27454/",
+    "is_future_event": true
+  },
+  {
+    "index": 707,
+    "title": "Tightwire",
+    "start_date": "2026-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2026",
+    "venue": {
+      "city": "Iowa City",
+      "stateprovince": "IA",
+      "country": "United States",
+      "venue": "Big Grove Brewery"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 708,
+    "title": "Tightwire",
+    "start_date": "2026-10-21 08:00:00",
+    "formatted_date": "Oct 21, 2026",
+    "venue": {
+      "city": "St. Louis",
+      "stateprovince": "MO",
+      "country": "United States",
+      "venue": "The Cove"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 709,
+    "title": "Tightwire",
+    "start_date": "2026-10-22 08:00:00",
+    "formatted_date": "Oct 22, 2026",
+    "venue": {
+      "city": "Birmingham",
+      "stateprovince": "AL",
+      "country": "United States",
+      "venue": "The Church Key"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 710,
+    "title": "Tightwire",
+    "start_date": "2026-10-26 08:00:00",
+    "formatted_date": "Oct 26, 2026",
+    "venue": {
+      "city": "Duluth",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Sweetwater Live"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 711,
+    "title": "Tightwire",
+    "start_date": "2026-11-12 08:00:00",
+    "formatted_date": "Nov 12, 2026",
+    "venue": {
+      "city": "Green Bay",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "The Razz"
+    },
+    "description": "With Canadian Rifle!",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 712,
+    "title": "Tightwire",
+    "start_date": "2026-11-13 08:00:00",
+    "formatted_date": "Nov 13, 2026",
+    "venue": {
+      "city": "Minneapolis",
+      "stateprovince": "MN",
+      "country": "United States",
+      "venue": "Cloudland Theater"
+    },
+    "description": "With Canadian Rifle!",
+    "website": null,
+    "is_future_event": true
+  },
+  {
+    "index": 713,
+    "title": "Tightwire",
+    "start_date": "2026-11-14 08:00:00",
+    "formatted_date": "Nov 14, 2026",
+    "venue": {
+      "city": "Fond du Lac",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Passengers Lounge"
+    },
+    "description": "With Canadian Rifle!",
+    "website": null,
     "is_future_event": true
   }
 ]
