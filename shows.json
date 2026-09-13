@@ -10693,5 +10693,20 @@
     "description": "With Canadian Rifle!",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 714,
+    "title": "Laura Jane Grace",
+    "start_date": "2026-09-29 08:00:00",
+    "formatted_date": "Sep 29, 2026",
+    "venue": {
+      "city": "New Hope",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "John & Peter's"
+    },
+    "description": "With Steve O and the Crippling Addictions!",
+    "website": "https://events.ticketleap.com/tickets/john-and-peters-inc/laura-jane-grace-of-against-me-w-guest-steve-o-and-the-crippling-addictions",
+    "is_future_event": true
   }
 ]
