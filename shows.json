@@ -10723,5 +10723,155 @@
     "description": null,
     "website": "https://www.eventbrite.com/e/laura-jane-grace-good-strangers-w-zach-sullentrup-tickets-2000989664953?aff=oddtdtcreator&keep_tld=true",
     "is_future_event": true
+  },
+  {
+    "index": 716,
+    "title": "MakeWar",
+    "start_date": "2026-12-03 08:00:00",
+    "formatted_date": "Dec 03, 2026",
+    "venue": {
+      "city": "Philadelphia",
+      "stateprovince": "PA",
+      "country": "United States",
+      "venue": "Nikki Lopez"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.ticketweb.com/event/war-on-women-nikki-lopez-philly-tickets/14320544",
+    "is_future_event": true
+  },
+  {
+    "index": 717,
+    "title": "MakeWar",
+    "start_date": "2026-12-04 08:00:00",
+    "formatted_date": "Dec 04, 2026",
+    "venue": {
+      "city": "Rutherford",
+      "stateprovince": "NJ",
+      "country": "United States",
+      "venue": "Williams Center"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.ticketweb.com/event/war-on-women-and-makewar-williams-center-black-tickets/14319754",
+    "is_future_event": true
+  },
+  {
+    "index": 718,
+    "title": "MakeWar",
+    "start_date": "2026-12-05 08:00:00",
+    "formatted_date": "Dec 05, 2026",
+    "venue": {
+      "city": "New Haven",
+      "stateprovince": "CT",
+      "country": "United States",
+      "venue": "Cafe Nine"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.cafenine.com/products/events/war-on-women-makewar-saturday-12-5-2026-9-00-pm-edt-53555854",
+    "is_future_event": true
+  },
+  {
+    "index": 719,
+    "title": "MakeWar",
+    "start_date": "2026-12-06 08:00:00",
+    "formatted_date": "Dec 06, 2026",
+    "venue": {
+      "city": "Lowell",
+      "stateprovince": "MA",
+      "country": "United States",
+      "venue": "Taffeta Music Hall"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.taffetamusic.com/shows/war-on-women-make-war-06-dec",
+    "is_future_event": true
+  },
+  {
+    "index": 720,
+    "title": "MakeWar",
+    "start_date": "2026-12-07 08:00:00",
+    "formatted_date": "Dec 07, 2026",
+    "venue": {
+      "city": "Portland",
+      "stateprovince": "ME",
+      "country": "United States",
+      "venue": "Portland House of Music"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.prekindle.com/event/12224-war-on-women-with-makewar-portland",
+    "is_future_event": true
+  },
+  {
+    "index": 721,
+    "title": "MakeWar",
+    "start_date": "2026-12-08 08:00:00",
+    "formatted_date": "Dec 08, 2026",
+    "venue": {
+      "city": "Troy",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "No Fun"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.eventbrite.com/e/war-on-women-makewar-1-tba-tickets-2001014423005?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 722,
+    "title": "MakeWar",
+    "start_date": "2026-12-09 08:00:00",
+    "formatted_date": "Dec 09, 2026",
+    "venue": {
+      "city": "Buffalo",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "Mohawk Place"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.tixr.com/groups/riotsquadmedia/events/war-on-women-makewar-205997",
+    "is_future_event": true
+  },
+  {
+    "index": 723,
+    "title": "MakeWar",
+    "start_date": "2026-12-10 08:00:00",
+    "formatted_date": "Dec 10, 2026",
+    "venue": {
+      "city": "Cleveland Heights",
+      "stateprovince": "OH",
+      "country": "United States",
+      "venue": "Grog Shop"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.ticketweb.com/event/war-on-women-makewar-grog-shop-tickets/14316864",
+    "is_future_event": true
+  },
+  {
+    "index": 724,
+    "title": "MakeWar",
+    "start_date": "2026-12-11 08:00:00",
+    "formatted_date": "Dec 11, 2026",
+    "venue": {
+      "city": "Hagerstown",
+      "stateprovince": "MD",
+      "country": "United States",
+      "venue": "Live at Hub City Vinyl"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.eventbrite.com/e/war-on-women-w-special-guests-makewar-tickets-2000660497404?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 725,
+    "title": "MakeWar",
+    "start_date": "2026-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2026",
+    "venue": {
+      "city": "Brooklyn",
+      "stateprovince": "NY",
+      "country": "United States",
+      "venue": "Gold Sounds"
+    },
+    "description": "<p>With War On Women!</p>",
+    "website": "https://www.ticketweb.com/event/war-on-women-gold-sounds-tickets/14320534?pl=scenic",
+    "is_future_event": true
   }
 ]
