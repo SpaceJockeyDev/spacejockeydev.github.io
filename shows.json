@@ -10873,5 +10873,50 @@
     "description": "<p>With War On Women!</p>",
     "website": "https://www.ticketweb.com/event/war-on-women-gold-sounds-tickets/14320534?pl=scenic",
     "is_future_event": true
+  },
+  {
+    "index": 726,
+    "title": "Arms Aloft",
+    "start_date": "2026-11-26 08:00:00",
+    "formatted_date": "Nov 26, 2026",
+    "venue": {
+      "city": "Minneapolis",
+      "stateprovince": "MN",
+      "country": "United States",
+      "venue": "North Minneapolis Pet Resource Center"
+    },
+    "description": "<p>Matt K Forever benefit with Comeback Kid!</p>",
+    "website": "https://www.eventbrite.com/e/matt-k-forever-w-comeback-kid-tickets-2001420335099?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 727,
+    "title": "Sincere Engineer",
+    "start_date": "2026-10-31 08:00:00",
+    "formatted_date": "Oct 31, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Cobra Lounge"
+    },
+    "description": "<p>Halloween Cover show as The HIVES with Won't Stay Dead as Alkaline Trio!</p>",
+    "website": "https://dice.fm/partner/tickets/event/v3l6rd-sincere-engineer-friends-halloween-cover-set-show-31st-oct-cobra-lounge-chicago-tickets?dice_id=10340682&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1630605068585051704&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S8zTEwxTLJMNTYxN7CvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCyfCnwOwAAAA%3D%3D",
+    "is_future_event": true
+  },
+  {
+    "index": 728,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-10-31 08:00:00",
+    "formatted_date": "Oct 31, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "Cobra Lounge"
+    },
+    "description": "<p>Halloween Cover show as Alkaline Trio with Sincere Engineer as The HIVES!</p>",
+    "website": "https://dice.fm/partner/tickets/event/v3l6rd-sincere-engineer-friends-halloween-cover-set-show-31st-oct-cobra-lounge-chicago-tickets?dice_id=10340682&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1630605068585051704&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S8zTEwxTLJMNTYxN7CvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCyfCnwOwAAAA%3D%3D",
+    "is_future_event": true
   }
 ]
