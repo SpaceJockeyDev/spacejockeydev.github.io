@@ -173,15 +173,18 @@ permalink: /release-info/
           fetch("/bands.json")
             .then((response) => response.json())
             .then((bands) => {
-              // Find the band with the correct name
-              const band = bands.find((band) =>
+              const matchingBands = bands.filter((band) =>
                 album.bandName.includes(band.bandName)
               );
-
-              // If the band is found, update the band name link
-              if (band) {
-                album.bandName = band.bandName;
-              }
+              const bandName =
+                album.bandName === "Various Artists" || matchingBands.length === 0
+                  ? album.bandName
+                  : matchingBands
+                      .map(
+                        (band) =>
+                          `<a href="/band-bio?band=${encodeURIComponent(band.bandName.replace(/\s/g, "-"))}">${band.bandName}</a>`
+                      )
+                      .join(" & ");
 
               // Set the title of the page
               document.title = `${album.bandName} - ${album.album}`;
@@ -197,11 +200,7 @@ permalink: /release-info/
                     <img class="album-cover-info" src="${album.coverArt}" alt="${album.album} Cover Art">
                   </div>
                   <div class="album-info">
-                    <h2 class="band-name">${
-                      album.bandName === "Various Artists"
-                        ? album.bandName
-                        : `<a href="/band-bio?band=${encodeURIComponent(album.bandName.replace(/\s/g, "-"))}">${album.bandName}</a>`
-                    }</h2>
+                    <h2 class="band-name">${bandName}</h2>
                     <p class="album-title">${album.displayAlbum}</p>
                     <p class="release-info">CCCP ${album.releaseNumber} - ${album.releaseDate.substring(0, 4)}</p>
                     ${
