@@ -10918,5 +10918,80 @@
     "description": "<p>Halloween Cover show as Alkaline Trio with Sincere Engineer as The HIVES!</p>",
     "website": "https://dice.fm/partner/tickets/event/v3l6rd-sincere-engineer-friends-halloween-cover-set-show-31st-oct-cobra-lounge-chicago-tickets?dice_id=10340682&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1630605068585051704&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S8zTEwxTLJMNTYxN7CvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCyfCnwOwAAAA%3D%3D",
     "is_future_event": true
+  },
+  {
+    "index": 729,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-12-09 08:00:00",
+    "formatted_date": "Dec 09, 2026",
+    "venue": {
+      "city": "Corpus Christi",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "House of Rock"
+    },
+    "description": "<p>With Fenix TX!</p>",
+    "website": "https://www.etix.com/ticket/p/54690344/teenage-bottlerocket-f%C4%93nix-txcoheadline-tour-2026-corpus-christi-house-of-rock",
+    "is_future_event": true
+  },
+  {
+    "index": 730,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-12-10 08:00:00",
+    "formatted_date": "Dec 10, 2026",
+    "venue": {
+      "city": "San Antonio",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Sam's Burger Joint"
+    },
+    "description": "<p>With Fenix TX!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket-fenix-tx/706420?afflky=SamsBurgerJointSanAntonio",
+    "is_future_event": true
+  },
+  {
+    "index": 731,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-12-11 08:00:00",
+    "formatted_date": "Dec 11, 2026",
+    "venue": {
+      "city": "Houston",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "The Secret Group"
+    },
+    "description": "<p>With Fenix TX!</p>",
+    "website": "https://www.stubwire.com/e/39665/teenagebottlerocketfenixtx/thesecretgroup/",
+    "is_future_event": true
+  },
+  {
+    "index": 732,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-12-12 08:00:00",
+    "formatted_date": "Dec 12, 2026",
+    "venue": {
+      "city": "Austin",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Drinks Backyard"
+    },
+    "description": "<p>With Fenix TX!</p>",
+    "website": "https://www.drinksbackyard.com/event-details/tbr",
+    "is_future_event": true
+  },
+  {
+    "index": 733,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2026-12-13 08:00:00",
+    "formatted_date": "Dec 13, 2026",
+    "venue": {
+      "city": "Denton",
+      "stateprovince": "TX",
+      "country": "United States",
+      "venue": "Rubber Gloves"
+    },
+    "description": "<p>With Fenix TX!</p>",
+    "website": "https://www.eventim.us/event/teenage-bottlerocket/706226",
+    "is_future_event": true
   }
 ]
