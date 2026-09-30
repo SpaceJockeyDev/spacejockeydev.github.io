@@ -10613,7 +10613,7 @@
       "city": "St. Louis",
       "stateprovince": "MO",
       "country": "United States",
-      "venue": "The Cove"
+      "venue": "Angad Hotel"
     },
     "description": null,
     "website": null,
@@ -10645,7 +10645,7 @@
       "country": "United States",
       "venue": "Sweetwater Live"
     },
-    "description": null,
+    "description": "With Won't Stay Dead!",
     "website": null,
     "is_future_event": true
   },
@@ -10992,6 +10992,21 @@
     },
     "description": "<p>With Fenix TX!</p>",
     "website": "https://www.eventim.us/event/teenage-bottlerocket/706226",
+    "is_future_event": true
+  },
+  {
+    "index": 734,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-10-26 08:00:00",
+    "formatted_date": "Oct 26, 2026",
+    "venue": {
+      "city": "Duluth",
+      "stateprovince": "GA",
+      "country": "United States",
+      "venue": "Sweetwater Live"
+    },
+    "description": "With Tightwire!",
+    "website": null,
     "is_future_event": true
   }
 ]
