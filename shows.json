@@ -11008,5 +11008,20 @@
     "description": "With Tightwire!",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 735,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-10-20 08:00:00",
+    "formatted_date": "Oct 20, 2026",
+    "venue": {
+      "city": "Birmingham",
+      "stateprovince": "AL",
+      "country": "United States",
+      "venue": "The Nick"
+    },
+    "description": null,
+    "website": null,
+    "is_future_event": true
   }
 ]
