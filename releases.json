@@ -3963,5 +3963,25 @@
             "bandcamp": null,
             "store": "https://redscare.storenvy.com/products/37050184-tightwire-canadian-rifle-nietzsche-ep-7-cccp-271-7"
         }
+    },
+    {
+        "bandName": "Heart & Lung",
+        "album": "Shut Up About The Sun",
+        "displayAlbum": "Shut Up About The Sun",
+        "releaseNumber": "273",
+        "releaseDate": "2026-10-12",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/HnL_Sun_Cover.jpg",
+        "description": "Heart & Lung are the fourth best thing to come outta Cleveland after Bernie Kosar, Bone Thugs, and that place that sells $28 grilled cheese sandwiches.  It's been five years since their last release, and they're looking to move up the Clevo ranks with this new 3-song EP about their war against sunshine.  (Forget all that SoCal baloney, REAL punks do not surf!)  Red Scare loves to bust out the \"Digital 45\" format whenever possible, and since every band coming through Ohio (Rise Against, Sincere Engineer, Dead To Me, Chuck Ragan, etc.) wants H&L on their show, we knew we had to strong-arm them into putting out some new tunes while we wait for their next album.  Consider this a tasty morsel before you dive into that decadent $28 sando...",
+        "trackList":[
+            "01. I Hate The Sun",
+            "02. Born In The Summer",
+            "03. I Can’t Skate"
+        ],
+        "links":{
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": "https://heartandlung.bandcamp.com/album/shut-up-about-the-sun",
+            "store": null
+        }
     }
 ]
