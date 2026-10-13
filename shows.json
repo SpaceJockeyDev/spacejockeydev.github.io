@@ -11021,6 +11021,21 @@
       "venue": "The Nick"
     },
     "description": null,
+    "website": "https://www.ticketweb.com/event/wont-stay-dead-with-turpie-the-nick-tickets/14353284",
+    "is_future_event": true
+  },
+  {
+    "index": 736,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-10-18 08:00:00",
+    "formatted_date": "Oct 18, 2026",
+    "venue": {
+      "city": "Louisville",
+      "stateprovince": "KY",
+      "country": "United States",
+      "venue": "The Rosetta Chapel"
+    },
+    "description": null,
     "website": null,
     "is_future_event": true
   }
