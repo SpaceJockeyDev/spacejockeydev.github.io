@@ -10665,21 +10665,6 @@
     "is_future_event": true
   },
   {
-    "index": 712,
-    "title": "Tightwire",
-    "start_date": "2026-11-13 08:00:00",
-    "formatted_date": "Nov 13, 2026",
-    "venue": {
-      "city": "Minneapolis",
-      "stateprovince": "MN",
-      "country": "United States",
-      "venue": "Cloudland Theater"
-    },
-    "description": "With Canadian Rifle!",
-    "website": "https://dice.fm/event/532wdd-tightwire-canadian-rifle-visual-learner-13th-nov-cloudland-theater-minneapolis-tickets",
-    "is_future_event": true
-  },
-  {
     "index": 713,
     "title": "Tightwire",
     "start_date": "2026-11-14 08:00:00",
