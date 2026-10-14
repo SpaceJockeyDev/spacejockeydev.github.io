@@ -11023,5 +11023,20 @@
     "description": null,
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 737,
+    "title": "The Brokedowns",
+    "start_date": "2026-12-05 08:00:00",
+    "formatted_date": "Dec 5, 2026",
+    "venue": {
+      "city": "Chicago",
+      "stateprovince": "IL",
+      "country": "United States",
+      "venue": "The Metro"
+    },
+    "description": "<p> War On Xmas 12 with The Lawrence Arms and The Honor System</p>",
+    "website": "https://www.etix.com/ticket/p/74149644/?_gl=1*n3fi1w*_gcl_au*MjExNDIzNDc5MS4xNzkxOTk2MjMw*_ga*MTkxMzQ3NzcwOS4xNzkxOTk2MjMx*_ga_PVQGYREDQK*czE3OTE5OTYyMzAkbzEkZzEkdDE3OTE5OTYyMzUkajU1JGwwJGg1NTQzMjA3ODg.",
+    "is_future_event": true
   }
 ]
