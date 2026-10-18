@@ -63,6 +63,15 @@ footer {
     align-items: center;
     text-align: center;
 }
+
+footer .inline-container[data-form="108b8448-cb15-11f1-bf9d-4dbf9dfe8c28"] {
+    width: 100%;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+
 #band-socials i {
     font-size: 30px; /* Adjust as needed */
     color: #333; /* Adjust as needed */
