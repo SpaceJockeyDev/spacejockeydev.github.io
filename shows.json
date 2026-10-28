@@ -11128,5 +11128,35 @@
     "description": "<p>With Direct Hit!</p>",
     "website": "https://dice.fm/event/q23d5a-laura-jane-grace-direct-hit-10th-dec-cobra-lounge-chicago-tickets?click_id=1xek07QYQiCqg8zC_Uxoeg&pid=530cb286&_branch_match_id=1643112763038539897&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAAwXBMQ6DIBQA0Ns4ikhKSRPSgRM4OHQiCl%2F8QUG%2FJGqHnr3vzaVsx4uxBVOsPTqop5Xdknuh2oEPXLzdgi5a9JpfEJtn9%2BnQ7EF9je2vDKHa0OuHaNzYKln9CCYgwhTsSPk8gLSZKa%2FwB1rVFQBoAAAA",
     "is_future_event": true
+  },
+  {
+    "index": 744,
+    "title": "Laura Jane Grace!",
+    "start_date": "2026-12-11 08:00:00",
+    "formatted_date": "Dec 11, 2026",
+    "venue": {
+      "city": "Green Bay",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Madworld Social Club"
+    },
+    "description": "<p>With Won't Stay Dead!</p>",
+    "website": "https://www.hometowntickets.com/events/laura-jane-grace-w-wont-stay-dead-tba",
+    "is_future_event": true
+  },
+  {
+    "index": 745,
+    "title": "Won't Stay Dead",
+    "start_date": "2026-12-11 08:00:00",
+    "formatted_date": "Dec 11, 2026",
+    "venue": {
+      "city": "Green Bay",
+      "stateprovince": "WI",
+      "country": "United States",
+      "venue": "Madworld Social Club"
+    },
+    "description": "<p>With Laura Jane Grace!</p>",
+    "website": "https://www.hometowntickets.com/events/laura-jane-grace-w-wont-stay-dead-tba",
+    "is_future_event": true
   }
 ]
