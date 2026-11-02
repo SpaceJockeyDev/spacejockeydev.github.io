@@ -11173,5 +11173,20 @@
     "description": "<p>With Pocket, Self Torque, and Hello Pedro!</p>",
     "website": null,
     "is_future_event": true
+  },
+  {
+    "index": 747,
+    "title": "Ramona",
+    "start_date": "2026-11-13 08:00:00",
+    "formatted_date": "Nov 13, 2026",
+    "venue": {
+      "city": "Seattle",
+      "stateprovince": "WA",
+      "country": "United States",
+      "venue": "Slim's"
+    },
+    "description": "<p>Seattle Pop Punk Festival 2026!</p>",
+    "website": "https://tdrecs.com/products/sppf26",
+    "is_future_event": true
   }
 ]
