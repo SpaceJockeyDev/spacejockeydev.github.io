@@ -11158,5 +11158,20 @@
     "description": "<p>With Laura Jane Grace!</p>",
     "website": "https://www.hometowntickets.com/events/laura-jane-grace-w-wont-stay-dead-tba",
     "is_future_event": true
+  },
+  {
+    "index": 746,
+    "title": "Sam Russo",
+    "start_date": "2026-11-27 08:00:00",
+    "formatted_date": "Nov 27, 2026",
+    "venue": {
+      "city": "Norwich",
+      "stateprovince": "",
+      "country": "United Kingdom",
+      "venue": "Dead Wax"
+    },
+    "description": "<p>With Pocket, Self Torque, and Hello Pedro!</p>",
+    "website": null,
+    "is_future_event": true
   }
 ]
