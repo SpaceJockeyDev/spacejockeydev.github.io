@@ -11188,5 +11188,335 @@
     "description": "<p>Seattle Pop Punk Festival 2026!</p>",
     "website": "https://tdrecs.com/products/sppf26",
     "is_future_event": true
+  },
+  {
+    "index": 748,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-14 08:00:00",
+    "formatted_date": "Jan 14, 2027",
+    "venue": {
+      "city": "Las Vegas",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "The Usual Place"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerockets-brendan-kelly-and-more-at-the-usual-place-tickets-2004886299893",
+    "is_future_event": true
+  },
+  {
+    "index": 749,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-15 08:00:00",
+    "formatted_date": "Jan 15, 2027",
+    "venue": {
+      "city": "Mesa",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Rosetta Room"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket/711350?afflky=TheRosettaRoom",
+    "is_future_event": true
+  },
+  {
+    "index": 750,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-16 08:00:00",
+    "formatted_date": "Jan 16, 2027",
+    "venue": {
+      "city": "Riverside",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Romano's"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-w-brendan-kelly-tickets-2004797475216?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 751,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-17 08:00:00",
+    "formatted_date": "Jan 17, 2027",
+    "venue": {
+      "city": "San Diego",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Casbah"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://eventim.us/teenagebottlerocketcasbah27",
+    "is_future_event": true
+  },
+  {
+    "index": 752,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-18 08:00:00",
+    "formatted_date": "Jan 18, 2027",
+    "venue": {
+      "city": "Long Beach",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Alex's Bar"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://link.dice.fm/W3470c6c4e18",
+    "is_future_event": true
+  },
+  {
+    "index": 753,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-19 08:00:00",
+    "formatted_date": "Jan 19, 2027",
+    "venue": {
+      "city": "Los Angeles",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Lodge Room"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://www.lodgeroomhlp.com/shows/teenage-bottlerocket/",
+    "is_future_event": true
+  },
+  {
+    "index": 754,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-20 08:00:00",
+    "formatted_date": "Jan 20, 2027",
+    "venue": {
+      "city": "Ventura",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Gigi's"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-brendan-kelly-gigis-tickets/14449694?theme=numbskull",
+    "is_future_event": true
+  },
+  {
+    "index": 755,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-21 08:00:00",
+    "formatted_date": "Jan 21, 2027",
+    "venue": {
+      "city": "Santa Cruz",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Moe's Alley"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-w-brendan-kelly-moes-alley-tickets/14446334?theme=moes",
+    "is_future_event": true
+  },
+  {
+    "index": 756,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-22 08:00:00",
+    "formatted_date": "Jan 22, 2027",
+    "venue": {
+      "city": "Sacramento",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Old Ironsides"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket/711878?afflky=OldIronsides",
+    "is_future_event": true
+  },
+  {
+    "index": 757,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-23 08:00:00",
+    "formatted_date": "Jan 23, 2027",
+    "venue": {
+      "city": "Petaluma",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Phoenix Theatre"
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-right-to-remain-tickets-2004903167344",
+    "is_future_event": true
+  },
+  {
+    "index": 758,
+    "title": "Teenage Bottlerocket",
+    "start_date": "2027-01-24 08:00:00",
+    "formatted_date": "Jan 24, 2027",
+    "venue": {
+      "city": "Berkeley",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Berkeley Brewing Co."
+    },
+    "description": "<p>With Brendan Kelly!</p>",
+    "website": "https://www.eventbrite.com/e/2004968977183",
+    "is_future_event": true
+  },
+  {
+    "index": 759,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-14 08:00:00",
+    "formatted_date": "Jan 14, 2027",
+    "venue": {
+      "city": "Las Vegas",
+      "stateprovince": "NV",
+      "country": "United States",
+      "venue": "The Usual Place"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerockets-brendan-kelly-and-more-at-the-usual-place-tickets-2004886299893",
+    "is_future_event": true
+  },
+  {
+    "index": 760,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-15 08:00:00",
+    "formatted_date": "Jan 15, 2027",
+    "venue": {
+      "city": "Mesa",
+      "stateprovince": "AZ",
+      "country": "United States",
+      "venue": "Rosetta Room"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket/711350?afflky=TheRosettaRoom",
+    "is_future_event": true
+  },
+  {
+    "index": 761,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-16 08:00:00",
+    "formatted_date": "Jan 16, 2027",
+    "venue": {
+      "city": "Riverside",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Romano's"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-w-brendan-kelly-tickets-2004797475216?aff=oddtdtcreator",
+    "is_future_event": true
+  },
+  {
+    "index": 762,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-17 08:00:00",
+    "formatted_date": "Jan 17, 2027",
+    "venue": {
+      "city": "San Diego",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "The Casbah"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://eventim.us/teenagebottlerocketcasbah27",
+    "is_future_event": true
+  },
+  {
+    "index": 763,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-18 08:00:00",
+    "formatted_date": "Jan 18, 2027",
+    "venue": {
+      "city": "Long Beach",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Alex's Bar"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://link.dice.fm/W3470c6c4e18",
+    "is_future_event": true
+  },
+  {
+    "index": 764,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-19 08:00:00",
+    "formatted_date": "Jan 19, 2027",
+    "venue": {
+      "city": "Los Angeles",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Lodge Room"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.lodgeroomhlp.com/shows/teenage-bottlerocket/",
+    "is_future_event": true
+  },
+  {
+    "index": 765,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-20 08:00:00",
+    "formatted_date": "Jan 20, 2027",
+    "venue": {
+      "city": "Ventura",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Gigi's"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-brendan-kelly-gigis-tickets/14449694?theme=numbskull",
+    "is_future_event": true
+  },
+  {
+    "index": 766,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-21 08:00:00",
+    "formatted_date": "Jan 21, 2027",
+    "venue": {
+      "city": "Santa Cruz",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Moe's Alley"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.ticketweb.com/event/teenage-bottlerocket-w-brendan-kelly-moes-alley-tickets/14446334?theme=moes",
+    "is_future_event": true
+  },
+  {
+    "index": 767,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-22 08:00:00",
+    "formatted_date": "Jan 22, 2027",
+    "venue": {
+      "city": "Sacramento",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Old Ironsides"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://wl.eventim.us/event/teenage-bottlerocket/711878?afflky=OldIronsides",
+    "is_future_event": true
+  },
+  {
+    "index": 768,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-23 08:00:00",
+    "formatted_date": "Jan 23, 2027",
+    "venue": {
+      "city": "Petaluma",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Phoenix Theatre"
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.com/e/teenage-bottlerocket-right-to-remain-tickets-2004903167344",
+    "is_future_event": true
+  },
+  {
+    "index": 769,
+    "title": "Brendan Kelly",
+    "start_date": "2027-01-24 08:00:00",
+    "formatted_date": "Jan 24, 2027",
+    "venue": {
+      "city": "Berkeley",
+      "stateprovince": "CA",
+      "country": "United States",
+      "venue": "Berkeley Brewing Co."
+    },
+    "description": "<p>With Teenage Bottlerocket!</p>",
+    "website": "https://www.eventbrite.com/e/2004968977183",
+    "is_future_event": true
   }
 ]
