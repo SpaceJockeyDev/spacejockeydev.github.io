@@ -3983,5 +3983,30 @@
             "bandcamp": "https://heartandlung.bandcamp.com/album/shut-up-about-the-sun",
             "store": null
         }
+    },
+    {
+        "bandName": "Fléau",
+        "album": "Immortels",
+        "displayAlbum": "Immortels",
+        "releaseNumber": "274",
+        "releaseDate": "2026-11-19",
+        "coverArt": "https://spacejockey.blob.core.windows.net/redscarecdn/ImmortelsCover.jpg",
+        "description": "All the hipster punks are into French Oi!, but Red Scare is terrible with trends, so we went out and found a band with a twist: Lyonnais streetpunks with songs about Medieval combat.  You may think you know extreme music, but these fierce Frenchmen are adding a mace and halberd into their hard rock ratatouille.  Not exaggerating, they wear actual suits of armor and helms when they perform.  If you’re into bands like Rixe or Béton Armé, or you’re into bands that like to wear chainmail while wielding a Claymore atop a warhorse, this 26-minute LP is for you.  If we’re being honest, we don’t really know what the hell is going on with this album, so we dared to ask the band.  They explained, “Kings fall, empires disappear… But some are remembered for what they did and the stories that survive them.  That's how people become immortal.”  Pretty good English considering they’re a pack of bloodthirsty marauders from Gaul.",
+        "trackList": [
+            "01. Désespoir",
+            "02. Frères d'armes",
+            "03. Immortels",
+            "04. Traitre à jamais",
+            "05. Au nom de l'empire",
+            "06. Les larmes se ressemblent",
+            "07. Résilience",
+            "08. L'onde de la mort"
+        ],
+        "links": {
+            "spotify": null,
+            "appleMusic": null,
+            "bandcamp": null,
+            "store": "https://redscare.storenvy.com/products/37081573-fleau-immortels-lp-cccp-274-1"
+        }
     }
 ]
